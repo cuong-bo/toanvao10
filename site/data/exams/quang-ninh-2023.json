@@ -1,0 +1,272 @@
+{
+  "id": "quang-ninh-2023",
+  "tinh": "Quảng Ninh",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình – khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Quảng Ninh — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-quang-ninh.html"
+  },
+  "ghiChu": "Đề chính thức thi sáng 02/6/2023, gồm 5 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Thực hiện phép tính $2\\sqrt9-\\sqrt{16}$.</p>",
+      "dapAn": [
+        "2"
+      ],
+      "goiY": [
+        "$\\sqrt9=3$, $\\sqrt{16}=4$."
+      ],
+      "loiGiai": [
+        "$2\\cdot3-4=6-4=2$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Xác định hệ số $a$ để đồ thị hàm số $y=ax^2$ đi qua điểm $A(1;2)$.</p>",
+      "dapAn": [
+        "2"
+      ],
+      "goiY": [
+        "Thay $x=1$, $y=2$ vào công thức."
+      ],
+      "loiGiai": [
+        "$a\\cdot1^2=2\\Rightarrow a=2$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "c",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x+y=7\\\\x-2y=-4\\end{cases}$.</p>",
+      "goiY": [
+        "Rút $y=7-2x$ từ phương trình thứ nhất."
+      ],
+      "loiGiai": [
+        "Từ $2x+y=7$ suy ra $y=7-2x$.",
+        "Thay vào $x-2y=-4$: $x-2(7-2x)=-4\\Rightarrow5x=10\\Rightarrow x=2$.",
+        "Khi đó $y=7-4=3$. Vậy hệ có nghiệm $(x;y)=(2;3)$."
+      ]
+    },
+    {
+      "id": "c1d",
+      "soCau": 1,
+      "y": "d",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn biểu thức $P=\\left(\\dfrac1{\\sqrt x-3}+\\dfrac2{\\sqrt x+3}\\right):\\dfrac{\\sqrt x-1}{\\sqrt x-3}$ với $x\\ge0,\\ x\\ne1,\\ x\\ne9$.</p>",
+      "goiY": [
+        "Quy đồng trong ngoặc; chú ý $(\\sqrt x-3)(\\sqrt x+3)=x-9$."
+      ],
+      "loiGiai": [
+        "$P=\\dfrac{(\\sqrt x+3)+2(\\sqrt x-3)}{(\\sqrt x-3)(\\sqrt x+3)}\\cdot\\dfrac{\\sqrt x-3}{\\sqrt x-1}$",
+        "$=\\dfrac{3(\\sqrt x-1)}{(\\sqrt x-3)(\\sqrt x+3)}\\cdot\\dfrac{\\sqrt x-3}{\\sqrt x-1}=\\dfrac3{\\sqrt x+3}$.",
+        "Vậy $P=\\dfrac3{\\sqrt x+3}$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-2(m+1)x-9=0$ với $m$ là tham số. Giải phương trình khi $m=3$.</p>",
+      "goiY": [
+        "Thay $m=3$ được $x^2-8x-9=0$."
+      ],
+      "loiGiai": [
+        "Với $m=3$: $x^2-8x-9=0$.",
+        "$\\Delta'=16+9=25$, $x_1=4+5=9$, $x_2=4-5=-1$.",
+        "Vậy phương trình có hai nghiệm $x=9$ và $x=-1$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với phương trình ở câu 2a, tìm $m$ để phương trình có nghiệm $x=2$.</p>",
+      "dapAn": [
+        "-9/4"
+      ],
+      "goiY": [
+        "Thay $x=2$ vào phương trình."
+      ],
+      "loiGiai": [
+        "$2^2-2(m+1)\\cdot2-9=0\\Rightarrow4-4m-4-9=0\\Rightarrow-4m-9=0\\Rightarrow m=-\\dfrac94$."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "c",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với phương trình ở câu 2a, tìm tất cả $m$ để phương trình có hai nghiệm phân biệt $x_1<x_2$ thỏa mãn $|x_1|-|x_2|=-6$.</p>",
+      "dapAn": [
+        "2"
+      ],
+      "goiY": [
+        "$\\Delta'=(m+1)^2+9>0$ với mọi $m$; $x_1x_2=-9<0$ nên $x_1<0<x_2$.",
+        "Khi đó $|x_1|-|x_2|=-(x_1+x_2)$."
+      ],
+      "loiGiai": [
+        "$\\Delta'=(m+1)^2+9>0$ với mọi $m$, nên phương trình luôn có hai nghiệm phân biệt.",
+        "Vì $x_1x_2=-9<0$ và $x_1<x_2$ nên $x_1<0<x_2$. Do đó $|x_1|-|x_2|=-x_1-x_2=-(x_1+x_2)$.",
+        "Theo Vi-ét, $x_1+x_2=2(m+1)$. Vậy $-2(m+1)=-6\\Rightarrow m+1=3\\Rightarrow m=2$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "y": "",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Hai địa điểm $A$ và $B$ cách nhau $280$ km. Hai ô tô cùng xuất phát từ $A$ đến $B$. Biết vận tốc của xe thứ nhất lớn hơn vận tốc của xe thứ hai $10$ km/h và xe thứ nhất đến $B$ sớm hơn xe thứ hai $30$ phút. Tính vận tốc mỗi xe.</p>",
+      "goiY": [
+        "Gọi vận tốc xe thứ nhất là $x$ (km/h, $x>10$).",
+        "Lập phương trình $\\dfrac{280}{x-10}-\\dfrac{280}{x}=\\dfrac12$."
+      ],
+      "loiGiai": [
+        "Gọi vận tốc xe thứ nhất là $x$ (km/h, $x>10$); vận tốc xe thứ hai là $x-10$ (km/h).",
+        "Thời gian xe thứ nhất đi là $\\dfrac{280}{x}$ giờ, xe thứ hai đi là $\\dfrac{280}{x-10}$ giờ. Đổi $30$ phút $=\\dfrac12$ giờ.",
+        "$\\dfrac{280}{x-10}-\\dfrac{280}{x}=\\dfrac12\\Rightarrow560x-560(x-10)=x(x-10)\\Rightarrow x^2-10x-5600=0$.",
+        "$\\Delta'=25+5600=5625$, $x=5+75=80$ (nhận) hoặc $x=5-75=-70$ (loại).",
+        "Vậy xe thứ nhất đi $80$ km/h, xe thứ hai đi $70$ km/h."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho nửa đường tròn tâm $O$, đường kính $BC$. Trên nửa đường tròn lấy điểm $A$ ($A\\ne B,C$), gọi $H$ là hình chiếu của $A$ trên $BC$. Trên cung $AC$ lấy điểm $D$ ($D\\ne A,C$), gọi $E$ là hình chiếu của $A$ trên $BD$, $I$ là giao điểm của $AH$ và $BD$. Chứng minh tứ giác $ABHE$ nội tiếp.</p>",
+      "goiY": [
+        "$\\angle AHB=90^\\circ$, $\\angle AEB=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $AH\\perp BC$ và $AE\\perp BD$ nên $\\angle AHB=\\angle AEB=90^\\circ$.",
+        "Hai điểm $H,E$ cùng nhìn đoạn $AB$ dưới góc vuông, nên $A,B,H,E$ cùng thuộc đường tròn đường kính $AB$.",
+        "Vậy tứ giác $ABHE$ nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, chứng minh $BI\\cdot BD=BH\\cdot BC$.</p>",
+      "goiY": [
+        "Chứng minh $\\triangle BHI\\sim\\triangle BCD$."
+      ],
+      "loiGiai": [
+        "Vì $AH\\perp BC$ nên $\\angle BHI=90^\\circ$. Vì $BC$ là đường kính nên $\\angle BDC=90^\\circ$.",
+        "$\\angle HBI=\\angle CBD$ (cùng là góc giữa $BD$ và $BC$).",
+        "Do đó $\\triangle BHI\\sim\\triangle BCD$ (g.g), suy ra $\\dfrac{BI}{BC}=\\dfrac{BH}{BD}$, tức $BI\\cdot BD=BH\\cdot BC$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, chứng minh hai tam giác $AHE$ và $ACD$ đồng dạng.</p>",
+      "goiY": [
+        "$\\angle AEH=\\angle ADC=90^\\circ$.",
+        "Dùng các tứ giác $ABHE$ và $ABCD$ nội tiếp để so sánh góc."
+      ],
+      "loiGiai": [
+        "Vì $AE\\perp BD$ nên $\\angle AEH=90^\\circ$; vì $BC$ là đường kính nên $\\angle ADC=90^\\circ$.",
+        "Tứ giác $ABHE$ nội tiếp nên $\\angle AHE=\\angle ABE$. Lại có $\\angle ABE=\\angle ABD=\\angle ACD$ (cùng chắn cung $AD$ của $(O)$).",
+        "Vậy $\\angle AHE=\\angle ACD$. Do đó $\\triangle AHE\\sim\\triangle ACD$ (g.g)."
+      ]
+    },
+    {
+      "id": "c4d",
+      "soCau": 4,
+      "y": "d",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, hai đường thẳng $AE$ và $DH$ cắt nhau tại $F$. Chứng minh $IF\\parallel AD$.</p>",
+      "goiY": [
+        "Chứng minh $\\triangle FED\\sim\\triangle IHC$ và $\\triangle AHC\\sim\\triangle AED$ để có $\\dfrac{FD}{IC}=\\dfrac{AD}{AC}$.",
+        "Dùng $\\triangle BAI\\sim\\triangle BDA$, $\\triangle BDH\\sim\\triangle BIC$ và $\\triangle BAH\\sim\\triangle BCA$ để đi đến $\\dfrac{FD}{AI}=\\dfrac{HD}{AH}$."
+      ],
+      "loiGiai": [
+        "$\\angle FED=\\angle IHC=90^\\circ$; $\\angle EDF=\\angle IDH=\\angle ICH$ (do $I,H,C,D$ cùng thuộc đường tròn đường kính $IC$). Suy ra $\\triangle FED\\sim\\triangle IHC$, nên $\\dfrac{FD}{IC}=\\dfrac{DE}{HC}$.",
+        "$\\angle AHC=\\angle AED=90^\\circ$; $\\angle ACH=\\angle ACB=\\angle ADB=\\angle ADE$ (góc nội tiếp cùng chắn cung $AB$, và $B,E,D$ thẳng hàng). Suy ra $\\triangle AHC\\sim\\triangle AED$, nên $\\dfrac{DE}{HC}=\\dfrac{AD}{AC}$.",
+        "Do đó $\\dfrac{FD}{IC}=\\dfrac{AD}{AC}$, tức $\\dfrac{FD}{AD}=\\dfrac{IC}{AC}$.",
+        "Trong tam giác vuông $ABC$ với đường cao $AH$, ta có $\\angle IAB=\\angle HAB=\\angle ACB=\\angle ADB$. Cùng với $\\angle ABI=\\angle ABD$, suy ra $\\triangle BAI\\sim\\triangle BDA$, nên $\\dfrac{AD}{AI}=\\dfrac{BA}{BI}$.",
+        "Từ câu 4b, $\\triangle BDH\\sim\\triangle BIC$ nên $\\dfrac{BI}{IC}=\\dfrac{BH}{HD}$. Từ $\\triangle BAH\\sim\\triangle BCA$ suy ra $\\dfrac{BH}{AH}=\\dfrac{BA}{AC}$.",
+        "Vậy $\\dfrac{FD}{AI}=\\dfrac{IC}{AC}\\cdot\\dfrac{BA}{BI}=\\dfrac{BA}{AC}\\cdot\\dfrac{HD}{BH}=\\dfrac{HD}{AH}$.",
+        "Theo định lí Thales đảo trong tam giác $ADH$ (với $I\\in AH$, $F\\in DH$), từ $\\dfrac{FD}{AI}=\\dfrac{HD}{AH}$ suy ra $IF\\parallel AD$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "y": "",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Một người thợ cơ khí cần cắt vừa đủ một cây sắt dài $100$ dm thành các đoạn để hàn lại thành khung một hình lập phương và một hình hộp chữ nhật. Biết hình hộp chữ nhật có chiều dài gấp $6$ lần chiều rộng và chiều cao bằng chiều rộng. Tìm độ dài các đoạn sắt sao cho tổng thể tích của hai hình thu được nhỏ nhất.</p>",
+      "goiY": [
+        "Gọi cạnh hình lập phương là $a$, chiều rộng hình hộp là $x$; chiều dài $6x$, chiều cao $x$.",
+        "Tổng độ dài dây: $12a+4(x+6x+x)=100$, suy ra $3a+8x=25$.",
+        "Cực trị của $V=a^3+6x^3$ với $3a+8x=25$."
+      ],
+      "loiGiai": [
+        "Gọi cạnh hình lập phương là $a$ (dm), chiều rộng hình hộp là $x$ (dm); chiều dài là $6x$, chiều cao là $x$ ($a,x>0$).",
+        "Tổng độ dài các cạnh: $12a+4(x+6x+x)=100\\Rightarrow12a+32x=100\\Rightarrow3a+8x=25$.",
+        "Thể tích $V=a^3+6x^3$. Thay $a=\\dfrac{25-8x}{3}$: $V(x)=\\left(\\dfrac{25-8x}{3}\\right)^3+6x^3$.",
+        "$V'(x)=-8\\left(\\dfrac{25-8x}{3}\\right)^2+18x^2$. Cho $V'(x)=0$ được $18x^2=8a^2\\Rightarrow a=\\dfrac32x$ (do $a,x>0$).",
+        "Khi đó $3\\cdot\\dfrac32x+8x=25\\Rightarrow\\dfrac{25}{2}x=25\\Rightarrow x=2$, $a=3$.",
+        "Thử $x\\to0$ hoặc $x\\to\\dfrac{25}{8}$ cho $V$ lớn hơn; tại $x=2$ thì $V=3^3+6\\cdot2^3=75$ dm$^3$, là giá trị nhỏ nhất.",
+        "Vậy cạnh hình lập phương là $3$ dm; hình hộp chữ nhật có kích thước $2$ dm $\\times$ $12$ dm $\\times$ $2$ dm."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "id": "tp-hcm-2024",
+  "tinh": "TP. Hồ Chí Minh",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT TP. Hồ Chí Minh — đề chính thức",
+    "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-mon-toan-nam-2024-2025-so-gddt-tp-ho-chi-minh.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho parabol $(P):y=-x^2$ và đường thẳng $(d):y=-3x+2$.</p><p>Vẽ $(P)$ và $(d)$ trên cùng hệ trục tọa độ.</p>",
+      "goiY": ["Lập bảng giá trị của $(P)$ và xác định hai điểm của $(d)$."],
+      "loiGiai": [
+        "Bảng giá trị của $(P)$: $x=-2,-1,0,1,2$ tương ứng $y=-4,-1,0,-1,-4$.",
+        "Đường thẳng $(d)$ đi qua $(0;2)$ và $(2;-4)$.",
+        "Vẽ parabol đi qua các điểm trên và đường thẳng qua hai điểm $(0;2),(2;-4)$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho parabol $(P):y=-x^2$ và đường thẳng $(d):y=-3x+2$.</p><p>Tìm tọa độ giao điểm của $(P)$ và $(d)$ bằng phép tính.</p>",
+      "goiY": ["Giải phương trình hoành độ giao điểm $-x^2=-3x+2$."],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $-x^2=-3x+2\\Leftrightarrow x^2-3x+2=0$.",
+        "$\\Leftrightarrow (x-1)(x-2)=0\\Leftrightarrow x=1$ hoặc $x=2$.",
+        "Với $x=1$ thì $y=-1$; với $x=2$ thì $y=-4$.",
+        "Vậy hai giao điểm là $(1;-1)$ và $(2;-4)$."
+      ]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $3x^2-4x-2=0$ có hai nghiệm là $x_1,x_2$. Không giải phương trình, hãy tính giá trị của biểu thức $A=x_1x_2^2+x_2\\left(x_1^2+2\\right)+2x_1$.</p>",
+      "dapAn": ["16/9"],
+      "goiY": ["Biến đổi $A=(x_1+x_2)(x_1x_2+2)$ rồi dùng Vi-ét."],
+      "loiGiai": [
+        "Theo Vi-ét: $x_1+x_2=\\dfrac43$, $x_1x_2=-\\dfrac23$.",
+        "$A=x_1x_2^2+x_1^2x_2+2x_2+2x_1=x_1x_2(x_1+x_2)+2(x_1+x_2)=(x_1+x_2)(x_1x_2+2)$.",
+        "$A=\\dfrac43\\left(-\\dfrac23+2\\right)=\\dfrac43\\cdot\\dfrac43=\\dfrac{16}{9}$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Một khu vườn hình chữ nhật có chiều dài là $30$ m và chiều rộng là $20$ m. Bác Năm làm một lối đi cho khu vườn như hình vẽ (phần tô đậm): một dải ngang rộng $y$ m chạy dọc mép trên của phần bên trái (rộng $15$ m) và một dải dọc rộng $x$ m chạy từ mép trên xuống mép dưới, bắt đầu từ vị trí cách mép trái $15$ m.</p><p>Hãy viết biểu thức (thu gọn) theo $x$ và $y$ biểu thị diện tích phần còn lại của khu vườn.</p>",
+      "goiY": ["Phần còn lại gồm hai hình chữ nhật: $15\\times(20-y)$ và $(15-x)\\times20$."],
+      "loiGiai": [
+        "Phần còn lại gồm hình chữ nhật bên trái kích thước $15$ và $20-y$, và hình chữ nhật bên phải kích thước $15-x$ và $20$.",
+        "Diện tích phần còn lại là $15(20-y)+20(15-x)=600-20x-15y$ (m²)."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Một khu vườn hình chữ nhật có chiều dài là $30$ m và chiều rộng là $20$ m. Bác Năm làm một lối đi cho khu vườn như hình vẽ (phần tô đậm): một dải ngang rộng $y$ m chạy dọc mép trên của phần bên trái (rộng $15$ m) và một dải dọc rộng $x$ m chạy từ mép trên xuống mép dưới, bắt đầu từ vị trí cách mép trái $15$ m.</p><p>Tính diện tích phần còn lại của khu vườn khi $x=2,4$ m và $y=1,8$ m (m²).</p>",
+      "dapAn": ["525"],
+      "goiY": ["Thay $x=2,4$, $y=1,8$ vào biểu thức $600-20x-15y$."],
+      "loiGiai": [
+        "$S=600-20\\cdot2,4-15\\cdot1,8=600-48-27=525$ m²."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Một cửa hàng xe máy điện cung cấp gói thuê pin theo tháng cho khách hàng dưới hai hình thức như sau:</p><ul><li>Gói linh hoạt: mức giá là $189\\,000$ đồng/tháng, cho phép xe di chuyển tối đa $400$ km. Nếu vượt số ki-lô-mét này, người dùng sẽ trả thêm $374$ đồng cho mỗi ki-lô-mét vượt.</li><li>Gói cố định: mức giá là $350\\,000$ đồng/tháng, không giới hạn số ki-lô-mét di chuyển.</li></ul><p>Trung bình mỗi tháng anh Tâm di chuyển $800$ km bằng xe máy điện. Hỏi anh Tâm nên thuê pin theo hình thức nào thì tiết kiệm hơn?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "Gói linh hoạt" },
+        { "ma": "B", "noiDung": "Gói cố định" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Tính chi phí gói linh hoạt khi đi $800$ km rồi so sánh với $350\\,000$ đồng."],
+      "loiGiai": [
+        "Chi phí gói linh hoạt: $189\\,000+(800-400)\\cdot374=338\\,600$ đồng.",
+        "Gói cố định là $350\\,000$ đồng. Vì $338\\,600<350\\,000$ nên chọn gói linh hoạt. Chọn A."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Một cửa hàng xe máy điện cung cấp gói thuê pin theo tháng cho khách hàng dưới hai hình thức như sau:</p><ul><li>Gói linh hoạt: mức giá là $189\\,000$ đồng/tháng, cho phép xe di chuyển tối đa $400$ km. Nếu vượt số ki-lô-mét này, người dùng sẽ trả thêm $374$ đồng cho mỗi ki-lô-mét vượt.</li><li>Gói cố định: mức giá là $350\\,000$ đồng/tháng, không giới hạn số ki-lô-mét di chuyển.</li></ul><p>Trung bình mỗi tháng anh Tâm di chuyển $800$ km bằng xe máy điện. Nếu chọn hình thức tiết kiệm hơn thì mỗi tháng anh Tâm tiết kiệm được bao nhiêu tiền (đồng)?</p>",
+      "dapAn": ["11400"],
+      "goiY": ["So sánh chi phí hai gói rồi lấy hiệu."],
+      "loiGiai": [
+        "Gói linh hoạt tốn $189\\,000+400\\cdot374=338\\,600$ đồng.",
+        "Gói cố định tốn $350\\,000$ đồng.",
+        "Số tiền tiết kiệm: $350\\,000-338\\,600=11\\,400$ đồng."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Anh Huy là một nghệ nhân và đang thiết kế một mô hình Trái đất dạng hình cầu có thể tích $4,2$ dm³. Cho biết công thức thể tích khối cầu là $V=\\dfrac43\\pi R^3$ với $R$ là bán kính khối cầu.</p><p>Tìm bán kính của mô hình Trái đất mà anh Huy thiết kế (dm, kết quả làm tròn đến hàng đơn vị).</p>",
+      "dapAn": ["1"],
+      "goiY": ["Từ $V=\\dfrac43\\pi R^3$ suy ra $R=\\sqrt[3]{\\dfrac{3V}{4\\pi}}$."],
+      "loiGiai": [
+        "$R=\\sqrt[3]{\\dfrac{3\\cdot4,2}{4\\pi}}=\\sqrt[3]{\\dfrac{12,6}{4\\pi}}\\approx\\sqrt[3]{1,0027}\\approx1,0009$ dm.",
+        "Làm tròn đến hàng đơn vị: $R\\approx1$ dm."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tracnghiem",
+      "deBai": "<p>Anh Huy dự định làm một cái hộp bằng giấy (bao gồm cả nắp hộp) để đựng mô hình Trái đất dạng hình cầu bán kính $R$. Anh đang phân vân nên làm hộp hình lập phương hay hộp hình trụ thì tốn ít giấy hơn. Biết các mặt hộp đều tiếp xúc với mô hình Trái đất và lượng giấy phát sinh là không đáng kể. Diện tích toàn phần hình trụ là $S=2\\pi Rh+2\\pi R^2$ với $R$ là bán kính đáy hình trụ, $h$ là chiều cao hình trụ.</p><p>Anh Huy nên chọn phương án nào?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "Hộp hình lập phương" },
+        { "ma": "B", "noiDung": "Hộp hình trụ" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Hộp lập phương cạnh $2R$; hộp trụ có bán kính đáy $R$, chiều cao $2R$."],
+      "loiGiai": [
+        "Hộp lập phương ngoại tiếp cầu có cạnh $2R$, diện tích toàn phần $S_1=6(2R)^2=24R^2$.",
+        "Hộp trụ ngoại tiếp cầu có bán kính đáy $R$, chiều cao $h=2R$, diện tích toàn phần $S_2=2\\pi R\\cdot2R+2\\pi R^2=6\\pi R^2\\approx18,85R^2$.",
+        "Vì $6\\pi<24$ nên hộp hình trụ tốn ít giấy hơn. Chọn B."
+      ]
+    },
+    {
+      "id": "c6a",
+      "soCau": 6,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Lúc 7 giờ sáng, một xe máy xuất phát từ Thành phố Hồ Chí Minh đi về hướng Biên Hòa với tốc độ trung bình $40$ km/giờ. Sau đó $15$ phút, một ô tô xuất phát từ Biên Hòa đi về hướng Thành phố Hồ Chí Minh với tốc độ trung bình $60$ km/giờ. Biết rằng Thành phố Hồ Chí Minh cách Biên Hòa $40$ km.</p><p>Gọi $f(t)=at+b$ $(t\\ge0)$ là hàm số biểu diễn khoảng cách của xe máy so với Thành phố Hồ Chí Minh sau khi đi được $t$ giờ kể từ lúc 7 giờ 15 phút. Gọi $g(t)=ct+d$ $\\left(0\\le t\\le\\dfrac23\\right)$ là hàm số biểu diễn khoảng cách của ô tô so với Thành phố Hồ Chí Minh sau khi đi được $t$ giờ kể từ lúc 7 giờ 15 phút. Tìm các hệ số $a,b,c,d$.</p>",
+      "goiY": ["Lúc 7 giờ 15 phút, xe máy đã đi được $10$ km; ô tô đang cách TP.HCM $40$ km."],
+      "loiGiai": [
+        "Lúc 7 giờ 15 phút, xe máy đã đi được $40\\cdot\\dfrac14=10$ km, nên $f(0)=10$, suy ra $b=10$; vận tốc $40$ km/h nên $a=40$. Vậy $f(t)=40t+10$.",
+        "Lúc 7 giờ 15 phút, ô tô ở Biên Hòa cách TP.HCM $40$ km và đi về phía TP.HCM với vận tốc $60$ km/h, nên $g(0)=40$, $c=-60$. Vậy $g(t)=40-60t$.",
+        "Do đó $a=40$, $b=10$, $c=-60$, $d=40$."
+      ]
+    },
+    {
+      "id": "c6b1",
+      "soCau": 6,
+      "y": "b1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Lúc 7 giờ sáng, một xe máy xuất phát từ Thành phố Hồ Chí Minh đi về hướng Biên Hòa với tốc độ trung bình $40$ km/giờ. Sau đó $15$ phút, một ô tô xuất phát từ Biên Hòa đi về hướng Thành phố Hồ Chí Minh với tốc độ trung bình $60$ km/giờ. Biết rằng Thành phố Hồ Chí Minh cách Biên Hòa $40$ km. Hai xe gặp nhau lúc mấy giờ?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "7 giờ 30 phút" },
+        { "ma": "B", "noiDung": "7 giờ 33 phút" },
+        { "ma": "C", "noiDung": "7 giờ 36 phút" },
+        { "ma": "D", "noiDung": "7 giờ 40 phút" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Giải $40t+10=40-60t$ với $t$ tính từ 7 giờ 15 phút."],
+      "loiGiai": [
+        "Giải $40t+10=40-60t\\Rightarrow100t=30\\Rightarrow t=0,3$ giờ $=18$ phút.",
+        "Vậy hai xe gặp nhau lúc 7 giờ 15 phút $+18$ phút $=7$ giờ 33 phút. Chọn B."
+      ]
+    },
+    {
+      "id": "c6b2",
+      "soCau": 6,
+      "y": "b2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Lúc 7 giờ sáng, một xe máy xuất phát từ Thành phố Hồ Chí Minh đi về hướng Biên Hòa với tốc độ trung bình $40$ km/giờ. Sau đó $15$ phút, một ô tô xuất phát từ Biên Hòa đi về hướng Thành phố Hồ Chí Minh với tốc độ trung bình $60$ km/giờ. Biết rằng Thành phố Hồ Chí Minh cách Biên Hòa $40$ km. Nơi hai xe gặp nhau cách Thành phố Hồ Chí Minh bao nhiêu ki-lô-mét?</p>",
+      "dapAn": ["22"],
+      "goiY": ["Thay $t=0,3$ vào $f(t)=40t+10$."],
+      "loiGiai": [
+        "Hai xe gặp nhau sau $0,3$ giờ kể từ 7 giờ 15 phút.",
+        "Khoảng cách tới TP.HCM: $f(0,3)=40\\cdot0,3+10=22$ km."
+      ]
+    },
+    {
+      "id": "c7a",
+      "soCau": 7,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Hai thùng nước hình trụ đều được gắn một vòi chảy ở đáy thùng. Ban đầu chiều cao mực nước ở thùng thứ nhất hơn thùng thứ hai $0,2$ m. Bạn Hân mở vòi cho thùng thứ nhất chảy từ 8 giờ sáng và sau đó $3$ phút bắt đầu mở vòi cho thùng thứ hai chảy. Tại thời điểm 8 giờ 04 phút thì chiều cao mực nước hai thùng bằng nhau. Tại thời điểm 8 giờ 08 phút thì thùng thứ hai vừa chảy hết nước và chiều cao mực nước còn lại ở thùng thứ nhất là $0,4$ m. Biết rằng tốc độ chảy ở mỗi vòi là không đổi. Tìm chiều cao mực nước ban đầu ở thùng thứ nhất (m).</p>",
+      "dapAn": ["1,2"],
+      "goiY": ["Gọi $h_1,h_2$ là chiều cao ban đầu, $v_1,v_2$ là tốc độ chảy (m/phút)."],
+      "loiGiai": [
+        "Gọi $h_1,h_2$ là chiều cao ban đầu, $v_1,v_2$ là tốc độ chảy (m/phút). Ta có $h_1-h_2=0,2$.",
+        "Lúc 8 giờ 04: $h_1-4v_1=h_2-v_2$, suy ra $0,2=4v_1-v_2$.",
+        "Lúc 8 giờ 08: thùng hai chảy 5 phút nên $h_2=5v_2$; thùng một còn $0,4$ m nên $h_1-8v_1=0,4$.",
+        "Từ $h_1=h_2+0,2$ suy ra $h_2=8v_1+0,2$. Kết hợp $h_2=5v_2$ và $v_2=4v_1-0,2$: $20v_1-1=8v_1+0,2\\Rightarrow v_1=0,1$.",
+        "Do đó $h_2=8\\cdot0,1+0,2=1,0$ m và $h_1=1,2$ m."
+      ]
+    },
+    {
+      "id": "c7b",
+      "soCau": 7,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Hai thùng nước hình trụ đều được gắn một vòi chảy ở đáy thùng. Ban đầu chiều cao mực nước ở thùng thứ nhất hơn thùng thứ hai $0,2$ m. Bạn Hân mở vòi cho thùng thứ nhất chảy từ 8 giờ sáng và sau đó $3$ phút bắt đầu mở vòi cho thùng thứ hai chảy. Tại thời điểm 8 giờ 04 phút thì chiều cao mực nước hai thùng bằng nhau. Tại thời điểm 8 giờ 08 phút thì thùng thứ hai vừa chảy hết nước và chiều cao mực nước còn lại ở thùng thứ nhất là $0,4$ m. Biết rằng tốc độ chảy ở mỗi vòi là không đổi. Tìm chiều cao mực nước ban đầu ở thùng thứ hai (m).</p>",
+      "dapAn": ["1"],
+      "goiY": ["Dùng $h_1=h_2+0,2$ và các phương trình ở câu 7a."],
+      "loiGiai": [
+        "Từ câu 7a, $v_1=0,1$ m/phút và $h_2=8v_1+0,2$.",
+        "Suy ra $h_2=8\\cdot0,1+0,2=1,0$ m."
+      ]
+    },
+    {
+      "id": "c8a",
+      "soCau": 8,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Từ điểm $A$ nằm bên ngoài đường tròn $(O;R)$, kẻ hai tiếp tuyến $AB,AC$ với đường tròn ($B,C$ là các tiếp điểm), $AO$ cắt $BC$ tại $K$.</p><p>Chứng minh $ABOC$ là tứ giác nội tiếp và $AO$ là đường trung trực của đoạn thẳng $BC$.</p>",
+      "goiY": ["$OB\\perp AB$, $OC\\perp AC$; $AB=AC$, $OB=OC$."],
+      "loiGiai": [
+        "Vì $AB,AC$ là tiếp tuyến nên $OB\\perp AB$ và $OC\\perp AC$, do đó $\\angle OBA=\\angle OCA=90^\\circ$.",
+        "Tứ giác $ABOC$ có $\\angle OBA+\\angle OCA=180^\\circ$ nên nội tiếp.",
+        "Ta có $AB=AC$ (hai tiếp tuyến cắt nhau) và $OB=OC=R$, nên cả $A$ và $O$ đều thuộc đường trung trực của $BC$.",
+        "Vậy $AO$ là đường trung trực của $BC$."
+      ]
+    },
+    {
+      "id": "c8b",
+      "soCau": 8,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Từ điểm $A$ nằm bên ngoài đường tròn $(O;R)$, kẻ hai tiếp tuyến $AB,AC$ với đường tròn ($B,C$ là các tiếp điểm), $AO$ cắt $BC$ tại $K$. Gọi $P$ là điểm bất kì thuộc $(O)$ sao cho tia $BO$ nằm giữa hai tia $BP$ và $BC$, $H$ là chân đường vuông góc kẻ từ $B$ xuống $PC$, $M$ là trung điểm $BH$ và $PM$ cắt $(O)$ tại $Q$ (khác $P$).</p><p>Chứng minh $\\angle QMK=\\angle QCA$.</p>",
+      "goiY": ["Chứng minh $MK\\parallel PC$ rồi dùng góc giữa tiếp tuyến và dây cung."],
+      "loiGiai": [
+        "Theo câu a, $K$ là trung điểm $BC$. Trong tam giác $BHC$, $M$ là trung điểm $BH$, $K$ là trung điểm $BC$, nên $MK$ là đường trung bình, suy ra $MK\\parallel HC$.",
+        "Vì $H\\in PC$ nên $MK\\parallel PC$.",
+        "Do $P,M,Q$ thẳng hàng nên $\\angle QMK=\\angle QPC$.",
+        "Theo tính chất góc giữa tiếp tuyến và dây cung, $\\angle QCA=\\angle QPC$ (cùng chắn cung $QC$).",
+        "Vậy $\\angle QMK=\\angle QCA$."
+      ]
+    },
+    {
+      "id": "c8c",
+      "soCau": 8,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Từ điểm $A$ nằm bên ngoài đường tròn $(O;R)$, kẻ hai tiếp tuyến $AB,AC$ với đường tròn ($B,C$ là các tiếp điểm), $AO$ cắt $BC$ tại $K$. Gọi $P$ là điểm bất kì thuộc $(O)$ sao cho tia $BO$ nằm giữa hai tia $BP$ và $BC$, $H$ là chân đường vuông góc kẻ từ $B$ xuống $PC$, $M$ là trung điểm $BH$ và $PM$ cắt $(O)$ tại $Q$ (khác $P$).</p><p>Chứng minh $\\angle AQC=90^\\circ$ và $AC=2R\\tan\\angle CPQ$.</p>",
+      "goiY": ["Đặt $\\theta=\\angle ACB$, $\\beta=\\angle CPQ$; chứng minh $\\tan\\beta=\\dfrac12\\tan\\theta$."],
+      "loiGiai": [
+        "Đặt $\\theta=\\angle ACB=\\angle ABC$ và $\\beta=\\angle CPQ$. Vì $P$ thuộc cung lớn $BC$ nên $\\angle BPC=\\theta$.",
+        "Trong tam giác $PBH$ vuông tại $H$, $\\angle BPH=\\angle BPC=\\theta$, nên $\\dfrac{BH}{PH}=\\tan\\theta$. Vì $M$ là trung điểm $BH$ nên $\\tan\\beta=\\tan\\angle HPM=\\dfrac{BH/2}{PH}=\\dfrac12\\tan\\theta$.",
+        "Trong tam giác $OAC$ vuông tại $C$, $\\angle AOC=\\theta$ nên $AC=R\\tan\\theta=2R\\tan\\beta$. Vậy $AC=2R\\tan\\angle CPQ$.",
+        "Mặt khác $\\angle QCA=\\beta$ (tiếp tuyến – dây cung) và $CQ=2R\\sin\\beta$ (dây cung chắn góc nội tiếp $\\beta$). Do đó $\\dfrac{CQ}{AC}=\\dfrac{2R\\sin\\beta}{2R\\tan\\beta}=\\cos\\beta$.",
+        "Trong tam giác $ACQ$ có $\\angle ACQ=\\beta$ và $\\dfrac{CQ}{AC}=\\cos\\beta$, suy ra $\\angle AQC=90^\\circ$."
+      ]
+    }
+  ]
+}

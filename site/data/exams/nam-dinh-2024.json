@@ -1,0 +1,315 @@
+{
+  "id": "nam-dinh-2024",
+  "tinh": "Nam Định",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 trường THPT chuyên — môn Toán (chung) — Đề 1 — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Khá – nâng cao",
+  "nguon": {
+    "ten": "Sở GD&ĐT Nam Định — đề chính thức Toán (chung), Đề 1",
+    "url": "https://thcs.toanmath.com/2024/05/de-tuyen-sinh-lop-10-chuyen-mon-toan-chung-nam-2024-2025-so-gddt-nam-dinh.html"
+  },
+  "ghiChu": "Đề Toán (chung) – Đề 1 dành cho học sinh thi vào các lớp chuyên tự nhiên; chưa tìm thấy bản đề không chuyên riêng trên THCS.TOANMATH. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Tìm điều kiện xác định của biểu thức $P=\\sqrt{x+2024}+\\dfrac{2025}{x^2-2x+1}$.</p>",
+      "goiY": [
+        "Căn có nghĩa khi $x+2024\\ge0$; mẫu khác $0$."
+      ],
+      "loiGiai": [
+        "$x+2024\\ge0\\Leftrightarrow x\\ge-2024$.",
+        "$x^2-2x+1=(x-1)^2\\ne0\\Leftrightarrow x\\ne1$.",
+        "Vậy $x\\ge-2024,\\ x\\ne1$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho đường thẳng $y=2x+3$ cắt parabol $y=x^2$ tại hai điểm phân biệt. Tính tổng tung độ của hai điểm đó.</p>",
+      "dapAn": [
+        "10"
+      ],
+      "goiY": [
+        "Giải phương trình hoành độ giao điểm $x^2=2x+3$."
+      ],
+      "loiGiai": [
+        "$x^2=2x+3\\Leftrightarrow x^2-2x-3=0\\Rightarrow x=-1$ hoặc $x=3$.",
+        "Tung độ tương ứng là $1$ và $9$; tổng bằng $10$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính diện tích của hình tròn ngoại tiếp tam giác đều cạnh bằng $\\sqrt3$.</p>",
+      "dapAn": [
+        "π"
+      ],
+      "goiY": [
+        "Tam giác đều cạnh $a$ có bán kính đường tròn ngoại tiếp $R=\\dfrac{a}{\\sqrt3}$."
+      ],
+      "loiGiai": [
+        "$R=\\dfrac{\\sqrt3}{\\sqrt3}=1$.",
+        "Diện tích hình tròn: $S=\\pi R^2=\\pi$."
+      ]
+    },
+    {
+      "id": "c1d",
+      "soCau": 1,
+      "y": "4",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$ có $AB=6,\\ AC=8$. Quay tam giác $ABC$ một vòng quanh cạnh $AC$. Tính thể tích của hình được tạo thành.</p>",
+      "dapAn": [
+        "96π"
+      ],
+      "goiY": [
+        "Hình tạo thành là hình nón có bán kính đáy $r=AB=6$, chiều cao $h=AC=8$."
+      ],
+      "loiGiai": [
+        "$V=\\dfrac13\\pi r^2h=\\dfrac13\\pi\\cdot6^2\\cdot8=96\\pi$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Xét biểu thức $A=\\dfrac{\\sqrt x+4}{x+5\\sqrt x+4}-\\dfrac{\\sqrt x}{x-\\sqrt x+1}+\\dfrac{3\\sqrt x}{x\\sqrt x+1}$ với $x\\ge0$. Rút gọn biểu thức $A$.</p>",
+      "goiY": [
+        "$\\dfrac{\\sqrt x+4}{x+5\\sqrt x+4}=\\dfrac1{\\sqrt x+1}$; quy đồng mẫu $x\\sqrt x+1=(\\sqrt x+1)(x-\\sqrt x+1)$."
+      ],
+      "loiGiai": [
+        "$x+5\\sqrt x+4=(\\sqrt x+1)(\\sqrt x+4)$, nên hạng tử đầu bằng $\\dfrac1{\\sqrt x+1}$.",
+        "Quy đồng với mẫu $x\\sqrt x+1=(\\sqrt x+1)(x-\\sqrt x+1)$: $A=\\dfrac{x-\\sqrt x+1-\\sqrt x(\\sqrt x+1)+3\\sqrt x}{x\\sqrt x+1}$.",
+        "Tử $=x-\\sqrt x+1-x-\\sqrt x+3\\sqrt x=\\sqrt x+1$.",
+        "Vậy $A=\\dfrac{\\sqrt x+1}{(\\sqrt x+1)(x-\\sqrt x+1)}=\\dfrac1{x-\\sqrt x+1}$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm giá trị lớn nhất của $A$.</p>",
+      "dapAn": [
+        "4/3"
+      ],
+      "goiY": [
+        "$x-\\sqrt x+1=\\left(\\sqrt x-\\dfrac12\\right)^2+\\dfrac34$."
+      ],
+      "loiGiai": [
+        "$x-\\sqrt x+1=\\left(\\sqrt x-\\dfrac12\\right)^2+\\dfrac34\\ge\\dfrac34$.",
+        "Do đó $0<A\\le\\dfrac43$, đẳng thức tại $x=\\dfrac14$. Vậy $\\max A=\\dfrac43$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1a",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-2(m-1)x+2m-5=0$ ($m$ là tham số). Tìm tất cả các giá trị của $m$ để phương trình có hai nghiệm trái dấu.</p>",
+      "goiY": [
+        "Hai nghiệm trái dấu khi $x_1x_2<0$."
+      ],
+      "loiGiai": [
+        "$x_1x_2=2m-5$. Phương trình có hai nghiệm trái dấu khi $2m-5<0\\Leftrightarrow m<\\dfrac52$.",
+        "Khi đó $\\Delta'=(m-2)^2+2>0$ nên điều kiện được thỏa mãn. Vậy $m<\\dfrac52$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "1b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-2(m-1)x+2m-5=0$ ($m$ là tham số). Tìm tất cả các giá trị của $m$ để phương trình có hai nghiệm phân biệt $x_1,x_2$ sao cho $(x_2^2-2mx_2+2m)(2x_1-5)=2024$.</p>",
+      "dapAn": [
+        "683/4",
+        "170,75",
+        "170.75"
+      ],
+      "goiY": [
+        "Vì $x_2$ là nghiệm nên $x_2^2-2mx_2+2m=5-2x_2$.",
+        "Dùng Viète: $x_1+x_2=2(m-1),\\ x_1x_2=2m-5$."
+      ],
+      "loiGiai": [
+        "$\\Delta'=(m-2)^2+2>0$ nên phương trình luôn có hai nghiệm phân biệt.",
+        "Từ $x_2^2-2(m-1)x_2+2m-5=0$ suy ra $x_2^2-2mx_2+2m=5-2x_2$.",
+        "Điều kiện trở thành $(5-2x_2)(2x_1-5)=2024$, tức $10(x_1+x_2)-4x_1x_2-25=2024$.",
+        "Thay Viète: $20(m-1)-4(2m-5)-25=2024\\Leftrightarrow 12m-25=2024$.",
+        "Vậy $m=\\dfrac{2049}{12}=\\dfrac{683}{4}$."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+5x-4-2(x+1)\\sqrt{3x-1}=0$.</p>",
+      "dapAn": [
+        "(5+√17)/2"
+      ],
+      "goiY": [
+        "Đặt $t=x-\\sqrt{3x-1}$, đưa phương trình về $t^2+2t-3=0$."
+      ],
+      "loiGiai": [
+        "Điều kiện $x\\ge\\dfrac13$.",
+        "Phương trình $\\Leftrightarrow \\left(x-\\sqrt{3x-1}\\right)^2+2\\left(x-\\sqrt{3x-1}\\right)-3=0$.",
+        "Đặt $t=x-\\sqrt{3x-1}$: $t^2+2t-3=0\\Rightarrow t=1$ hoặc $t=-3$.",
+        "Với $t=1$: $\\sqrt{3x-1}=x-1$, $x\\ge1$; bình phương được $x^2-5x+2=0\\Rightarrow x=\\dfrac{5\\pm\\sqrt{17}}2$. Chỉ $\\dfrac{5+\\sqrt{17}}2\\ge1$ thỏa mãn.",
+        "Với $t=-3$: $\\sqrt{3x-1}=x+3$, bình phương được $x^2+3x+10=0$ (vô nghiệm).",
+        "Vậy phương trình có nghiệm duy nhất $x=\\dfrac{5+\\sqrt{17}}2$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$ với đường kính $BC$. Trên tia đối của tia $CB$ lấy điểm $D$, gọi $DA$ là tiếp tuyến của đường tròn $(O)$ với $A$ là tiếp điểm. Kẻ đường thẳng qua $A$ vuông góc với $BC$ tại $M$ và cắt đường tròn $(O)$ tại $E$ $(E\\ne A)$. Gọi $AH$ là đường cao của tam giác $ABE$, $AH$ cắt $BC$ tại $F$. Gọi $I$ là trung điểm của đoạn $AH$, đường thẳng $BI$ cắt đường tròn $(O)$ tại $K$ $(K\\ne B)$, $AK$ cắt $BD$ tại $N$.</p><p><b>1)</b> Chứng minh các điểm $E,M,F,H$ cùng thuộc một đường tròn và $DB\\cdot DC=DM\\cdot DO$.</p>",
+      "goiY": [
+        "$\\angle EMF=\\angle EHF=90^\\circ$.",
+        "Dùng $\\triangle DAC\\sim\\triangle DBA$ và hệ thức lượng trong tam giác vuông $ADO$."
+      ],
+      "loiGiai": [
+        "$AE\\perp BC$ tại $M$ nên $\\angle EMF=90^\\circ$; $AH\\perp BE$ và $H,E,B$ thẳng hàng nên $\\angle EHF=90^\\circ$.",
+        "Suy ra $E,M,F,H$ cùng thuộc đường tròn đường kính $EF$.",
+        "Trong tam giác vuông $ADO$ (vuông tại $A$), $AM$ là đường cao nên $AD^2=DM\\cdot DO$.",
+        "Xét $\\triangle DAC$ và $\\triangle DBA$: $\\angle DAC=\\angle DBA$ (góc tạo bởi tiếp tuyến và dây cung), $\\angle D$ chung, nên đồng dạng; suy ra $DA^2=DB\\cdot DC$.",
+        "Vậy $DB\\cdot DC=DM\\cdot DO$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4.1, chứng minh $AFEC$ là hình thoi và $\\angle BAH=\\angle ADB$.</p>",
+      "goiY": [
+        "$M$ là trung điểm $AE$; chứng minh $EF\\parallel AC$ và $\\triangle AMC=\\triangle EMF$.",
+        "Dùng góc nội tiếp và góc tạo bởi tiếp tuyến."
+      ],
+      "loiGiai": [
+        "$OC\\perp AE$ tại $M$ nên $M$ là trung điểm của $AE$.",
+        "Trong tam giác $ABE$, $AH\\perp BE$ và $BC\\perp AE$ nên $F=AH\\cap BC$ là trực tâm; do đó $EF\\perp AB$. Mà $AC\\perp AB$, suy ra $EF\\parallel AC$ và $\\angle MAC=\\angle MEF$.",
+        "Kết hợp $AM=ME$ và $\\angle AMC=\\angle EMF=90^\\circ$, được $\\triangle AMC=\\triangle EMF$, nên $MC=MF$.",
+        "Tứ giác $AFEC$ có hai đường chéo $AE,FC$ cắt nhau tại trung điểm $M$ của mỗi đường và vuông góc, nên là hình thoi.",
+        "$\\angle ABH=\\angle DAM$ (cùng bằng $\\dfrac12$ số đo cung $AE$).",
+        "Mà $\\angle ABH+\\angle BAH=90^\\circ$ (do $AH\\perp BE$) và $\\angle DAM+\\angle ADB=90^\\circ$ (do $AM\\perp DO$), nên $\\angle BAH=\\angle ADB$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4.1, chứng minh $MK\\perp AN$ và $MD=2MN$.</p>",
+      "goiY": [
+        "Chứng minh tứ giác $AKMI$ nội tiếp.",
+        "Dùng các cặp tam giác đồng dạng $BHI\\sim AMN$ và $BHA\\sim AMD$."
+      ],
+      "loiGiai": [
+        "$\\angle KAM=\\angle KBE$ (cùng chắn cung $KE$); $\\angle KBE=\\angle KIM$ (vì $IM\\parallel BE$). Do đó $\\angle KAM=\\angle KIM$, suy ra $AKMI$ nội tiếp.",
+        "$IM$ là đường trung bình của tam giác $AHE$ nên $IM\\parallel HE$, do đó $IM\\parallel BE$. Mà $AH\\perp BE$ nên $IM\\perp AH$, tức $\\angle MIA=90^\\circ$.",
+        "Vì $AKMI$ nội tiếp, $\\angle MKA=\\angle MIA=90^\\circ$, nên $MK\\perp AK$, tức $MK\\perp AN$.",
+        "$\\triangle BHI\\sim\\triangle AMN$ (góc vuông và $\\angle IBH=\\angle NAM$), suy ra $\\dfrac{HB}{MA}=\\dfrac{HI}{MN}$.",
+        "$\\triangle BHA\\sim\\triangle AMD$ (góc vuông và $\\angle ABH=\\angle DAM$), suy ra $\\dfrac{HB}{MA}=\\dfrac{HA}{MD}$.",
+        "Do đó $\\dfrac{HI}{MN}=\\dfrac{HA}{MD}$; mà $HA=2HI$, nên $MD=2MN$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình</p><p>$$\\begin{cases}\\sqrt{4x^2+(y+2)(x-y)}+2\\sqrt{xy}=4y\\\\\\sqrt{x-1}+\\sqrt{5y-1}=3x^2-7x+6\\end{cases}$$</p>",
+      "goiY": [
+        "Trục căn thức phương trình đầu để được nhân tử $x-y$.",
+        "Khi $x=y$, đặt $u=\\sqrt{x-1}$."
+      ],
+      "loiGiai": [
+        "Điều kiện: $x\\ge1,\\ y\\ge\\dfrac15,\\ 4x^2+(y+2)(x-y)\\ge0$.",
+        "Phương trình đầu tương đương $\\left[\\sqrt{4x^2+(y+2)(x-y)}-2y\\right]+2(\\sqrt{xy}-y)=0$.",
+        "Trục căn thức: $(x-y)\\left[\\dfrac{4(x+y)+(y+2)}{\\sqrt{4x^2+(y+2)(x-y)}+2y}+\\dfrac{2y}{\\sqrt{xy}+y}\\right]=0$.",
+        "Biểu thức trong ngoặc dương nên $x=y$.",
+        "Thay $x=y$ vào phương trình thứ hai: $\\sqrt{x-1}+\\sqrt{5x-1}=3x^2-7x+6$. Đặt $u=\\sqrt{x-1}\\ge0$, được $u+\\sqrt{5u^2+4}=3u^4-u^2+2$.",
+        "Với $0<u<1$: $\\sqrt{5u^2+4}\\ge2+u^2$ và $u+2u^2-3u^4=u(1-u)(3u^2+3u+1)>0$, nên vế trái lớn hơn vế phải.",
+        "Với $u>1$: $\\sqrt{5u^2+4}<3u$ và $3u^4-u^2+2-4u=(u-1)(3u^3+3u^2+2u-2)>0$, nên vế phải lớn hơn vế trái.",
+        "Do đó $u=0$ hoặc $u=1$, tức $x=1$ hoặc $x=2$. Vậy hệ có nghiệm $(1;1)$ và $(2;2)$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "2",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Xét ba số dương $a,b,c$ thay đổi và thỏa mãn điều kiện $abc=1$. Tìm giá trị lớn nhất của biểu thức $S=\\dfrac a{a^3+3}+\\dfrac b{b^3+3}+\\dfrac c{c^3+3}$.</p>",
+      "dapAn": [
+        "3/4",
+        "0,75",
+        "0.75"
+      ],
+      "goiY": [
+        "Chứng minh $a^3+3\\ge3a+1$, tức $(a-1)^2(a+2)\\ge0$.",
+        "Đặt $a=\\dfrac xy$, $b=\\dfrac yz$, $c=\\dfrac zx$ rồi dùng bất đẳng thức Cauchy để chứng minh $\\sum\\dfrac1{3a+1}\\ge\\dfrac34$."
+      ],
+      "loiGiai": [
+        "Với $a>0$: $a^3+3-(3a+1)=a^3-3a+2=(a-1)^2(a+2)\\ge0$, nên $\\dfrac a{a^3+3}\\le\\dfrac a{3a+1}$.",
+        "Vì $abc=1$, đặt $a=\\dfrac xy$, $b=\\dfrac yz$, $c=\\dfrac zx$ với $x,y,z>0$. Khi đó $\\dfrac1{3a+1}=\\dfrac y{3x+y}$.",
+        "Theo Cauchy–Schwarz: $\\sum\\dfrac y{3x+y}=\\sum\\dfrac{y^2}{3xy+y^2}\\ge\\dfrac{(x+y+z)^2}{x^2+y^2+z^2+3(xy+yz+zx)}$.",
+        "Mà $4(x+y+z)^2-3\\left[x^2+y^2+z^2+3(xy+yz+zx)\\right]=x^2+y^2+z^2-(xy+yz+zx)\\ge0$, nên $\\sum\\dfrac1{3a+1}\\ge\\dfrac34$.",
+        "Suy ra $\\sum\\dfrac a{3a+1}=1-\\dfrac13\\sum\\dfrac1{3a+1}\\le1-\\dfrac14=\\dfrac34$.",
+        "Do đó $S\\le\\dfrac34$. Đẳng thức xảy ra khi $a=b=c=1$. Vậy $\\max S=\\dfrac34$."
+      ]
+    }
+  ]
+}

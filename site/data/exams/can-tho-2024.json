@@ -1,0 +1,916 @@
+{
+  "id": "can-tho-2024",
+  "tinh": "Cần Thơ",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Trung bình – khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Cần Thơ — đề chính thức (mã đề 112)",
+    "url": "https://baoxaydung.vn/dap-an-de-thi-tuyen-sinh-lop-10-mon-toan-can-tho-nam-2024-192240604144618585.htm"
+  },
+  "ghiChu": "Đề chính thức thi ngày 05/6/2024, mã đề 112, gồm 20 câu trắc nghiệm và 4 câu tự luận. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giá trị của biểu thức $\\dfrac{2\\sqrt{16}+3\\sqrt{25}+2}{\\sqrt4+\\sqrt9}$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$6$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$5$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "$\\sqrt{16}=4$, $\\sqrt{25}=5$, $\\sqrt4=2$, $\\sqrt9=3$."
+      ],
+      "loiGiai": [
+        "$\\dfrac{2\\cdot4+3\\cdot5+2}{2+3}=\\dfrac{8+15+2}{5}=\\dfrac{25}{5}=5$. Chọn D."
+      ]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Tập nghiệm của phương trình $x^2-4x+3=0$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\{1;3\\}$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\{-3;-1\\}$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\{-1;3\\}$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\{-3;1\\}$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Phân tích $x^2-4x+3=(x-1)(x-3)$ hoặc dùng $a+b+c=0$."
+      ],
+      "loiGiai": [
+        "$1-4+3=0$ nên phương trình có hai nghiệm $x=1$, $x=3$. Chọn A."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Biết rằng đồ thị của hàm số $y=x^2$ đi qua điểm $P(-1;m)$, với $m$ là số thực. Giá trị của biểu thức $m^2+2m+5$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$9$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$8$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Thay $x=-1$, $y=m$ vào $y=x^2$."
+      ],
+      "loiGiai": [
+        "$m=(-1)^2=1$. Khi đó $m^2+2m+5=1+2+5=8$. Chọn D."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường thẳng nào dưới đây là đồ thị của hàm số $y=-x-2$?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "Đường thẳng đi qua $(-2;0)$ và $(0;2)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "Đường thẳng đi qua $(0;-2)$ và $(2;0)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "Đường thẳng đi qua $(-2;0)$ và $(0;-2)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "Đường thẳng đi qua $(0;2)$ và $(2;0)$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Cho $x=0$ tìm tung độ gốc; cho $y=0$ tìm hoành độ giao với trục hoành."
+      ],
+      "loiGiai": [
+        "Với $x=0$ thì $y=-2$; với $y=0$ thì $x=-2$. Đồ thị đi qua $(-2;0)$ và $(0;-2)$. Chọn C."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Thể tích của hình cầu có bán kính $15$ cm bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$300\\pi$ cm$^3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$900\\pi$ cm$^3$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$9000\\pi$ cm$^3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4500\\pi$ cm$^3$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "$V=\\dfrac43\\pi R^3$."
+      ],
+      "loiGiai": [
+        "$V=\\dfrac43\\pi\\cdot15^3=\\dfrac43\\pi\\cdot3375=4500\\pi$ cm$^3$. Chọn D."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hàm số nào sau đây có đồ thị là parabol có đỉnh tại gốc tọa độ và đi qua điểm $(1;2)$?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$y=-x^2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=2x^2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=-2x^2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=x^2$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Parabol có đỉnh $O$ nên có dạng $y=ax^2$."
+      ],
+      "loiGiai": [
+        "Thay $x=1$, $y=2$: $2=a\\cdot1^2\\Rightarrow a=2$. Vậy $y=2x^2$. Chọn B."
+      ]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Tọa độ giao điểm của đường thẳng $(d):y=2x$ và parabol $(P):y=2x^2$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$(1;-2)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$(1;2)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$(-1;2)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$(2;1)$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Giải phương trình hoành độ giao điểm $2x=2x^2$."
+      ],
+      "loiGiai": [
+        "$2x=2x^2\\Rightarrow2x(x-1)=0\\Rightarrow x=0$ hoặc $x=1$. Các giao điểm là $(0;0)$ và $(1;2)$; trong các phương án chỉ có $(1;2)$. Chọn B."
+      ]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho hàm số $y=ax+b$ có đồ thị đi qua hai điểm $E(0;1)$ và $F(1;0)$. Hàm số đã cho là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$y=x+1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=x-1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=-x+1$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=-x-1$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Thay tọa độ $E$ để tìm $b$, thay tọa độ $F$ để tìm $a$."
+      ],
+      "loiGiai": [
+        "$E(0;1)$ cho $b=1$. $F(1;0)$ cho $a+b=0\\Rightarrow a=-1$. Vậy $y=-x+1$. Chọn C."
+      ]
+    },
+    {
+      "id": "c9",
+      "soCau": 9,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điều kiện của $x$ để $\\sqrt{x-3}$ có nghĩa là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x\\ge3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x\\le3$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x\\ge-3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x\\le-3$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "$\\sqrt{u}$ có nghĩa khi $u\\ge0$."
+      ],
+      "loiGiai": [
+        "$x-3\\ge0\\Leftrightarrow x\\ge3$. Chọn A."
+      ]
+    },
+    {
+      "id": "c10",
+      "soCau": 10,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Nghiệm của hệ phương trình $\\begin{cases}2x+5y=-7\\\\-2x+y=1\\end{cases}$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$(1;1)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$(1;-1)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$(-1;1)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$(-1;-1)$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Cộng hai phương trình để khử $x$."
+      ],
+      "loiGiai": [
+        "Cộng vế theo vế: $6y=-6\\Rightarrow y=-1$. Thay vào $-2x+y=1$: $-2x-1=1\\Rightarrow x=-1$. Chọn D."
+      ]
+    },
+    {
+      "id": "c11",
+      "soCau": 11,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giá trị của tham số $m$ để phương trình $x^2-4x+m+1=0$ có nghiệm kép là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$-5$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$3$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$-3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$5$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Phương trình bậc hai có nghiệm kép khi $\\Delta'=0$."
+      ],
+      "loiGiai": [
+        "$\\Delta'=(-2)^2-(m+1)=4-m-1=3-m$. Nghiệm kép khi $3-m=0\\Rightarrow m=3$. Chọn B."
+      ]
+    },
+    {
+      "id": "c12",
+      "soCau": 12,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Biết rằng cặp số $(x_0;y_0)$ là nghiệm của hệ phương trình $\\begin{cases}x+2y=4\\\\2x+3y=7\\end{cases}$. Giá trị của biểu thức $2x_0+y_0$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$5$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$-5$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$-4$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Giải hệ bằng phép thế."
+      ],
+      "loiGiai": [
+        "Từ $x+2y=4$ suy ra $x=4-2y$. Thay vào $2x+3y=7$: $8-4y+3y=7\\Rightarrow y=1$, $x=2$. Vậy $2x_0+y_0=4+1=5$. Chọn B."
+      ]
+    },
+    {
+      "id": "c13",
+      "soCau": 13,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Bác Ba có một khối gỗ dạng hình trụ với bán kính đường tròn đáy $r=3$ cm và chiều cao $h=8$ cm. Bác Ba khoan một phần của khối gỗ đó có dạng hình nón với bán kính đáy và chiều cao đều bằng bán kính đáy và chiều cao của khối gỗ. Thể tích phần còn lại của khối gỗ (làm tròn đến chữ số thập phân thứ nhất) bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$226,2$ cm$^3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$301,6$ cm$^3$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$150,8$ cm$^3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$75,4$ cm$^3$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Thể tích còn lại bằng thể tích trụ trừ thể tích nón.",
+        "$V_{\\text{trụ}}=\\pi r^2h$, $V_{\\text{nón}}=\\dfrac13\\pi r^2h$."
+      ],
+      "loiGiai": [
+        "$V_{\\text{trụ}}=\\pi\\cdot3^2\\cdot8=72\\pi$; $V_{\\text{nón}}=\\dfrac13\\pi\\cdot3^2\\cdot8=24\\pi$.",
+        "Phần còn lại: $72\\pi-24\\pi=48\\pi\\approx150,8$ cm$^3$. Chọn C."
+      ]
+    },
+    {
+      "id": "c14",
+      "soCau": 14,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tứ giác $ABCD$ nội tiếp đường tròn và $\\widehat{BAC}=48^\\circ$. Số đo $\\widehat{BDC}$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$48^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$96^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$132^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$24^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Hai góc nội tiếp cùng chắn một cung thì bằng nhau."
+      ],
+      "loiGiai": [
+        "$\\widehat{BAC}$ và $\\widehat{BDC}$ cùng chắn cung $BC$ nên $\\widehat{BDC}=\\widehat{BAC}=48^\\circ$. Chọn A."
+      ]
+    },
+    {
+      "id": "c15",
+      "soCau": 15,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$ có $BC=6$ cm và $\\widehat{ABC}=40^\\circ$. Độ dài của cạnh $AC$ (làm tròn đến chữ số thập phân thứ nhất) bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$3,9$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$4,6$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$5,2$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$3,0$ cm"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "$\\sin B=\\dfrac{AC}{BC}$."
+      ],
+      "loiGiai": [
+        "$AC=BC\\sin40^\\circ=6\\cdot0,6428\\approx3,9$ cm. Chọn A."
+      ]
+    },
+    {
+      "id": "c16",
+      "soCau": 16,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tứ giác $ABCD$ nội tiếp đường tròn. Khẳng định nào dưới đây đúng?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\widehat{ADC}+\\widehat{ABC}=180^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\widehat{ABC}+\\widehat{BAD}=180^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\widehat{BAD}+\\widehat{ADC}=180^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\widehat{ADC}+\\widehat{BCD}=180^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Trong tứ giác nội tiếp, hai góc đối nhau có tổng bằng $180^\\circ$."
+      ],
+      "loiGiai": [
+        "$\\widehat{ADC}$ và $\\widehat{ABC}$ là hai góc đối của tứ giác nội tiếp nên có tổng $180^\\circ$. Chọn A."
+      ]
+    },
+    {
+      "id": "c17",
+      "soCau": 17,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Một chiếc thang $AC$ dài $6$ m dựng vào một bức tường thẳng đứng. Ban đầu, khoảng cách từ chân thang $C$ đến chân tường $B$ là $2$ m. Sau đó, người ta kéo chân thang $C$ đến vị trí $E$ cách $C$ một khoảng $1,4$ m (ra xa tường). Khi đó, số đo $\\widehat{DEB}$ tạo bởi chiếc thang và phương nằm ngang (làm tròn đến độ) bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$60^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$55^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$35^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$30^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "$BE=BC+CE=2+1,4=3,4$ m.",
+        "Trong tam giác vuông $DEB$: $\\cos\\widehat{DEB}=\\dfrac{BE}{DE}=\\dfrac{3,4}{6}$."
+      ],
+      "loiGiai": [
+        "$\\cos\\widehat{DEB}=\\dfrac{3,4}{6}\\approx0,5667\\Rightarrow\\widehat{DEB}\\approx55,5^\\circ\\approx55^\\circ$. Chọn B."
+      ]
+    },
+    {
+      "id": "c18",
+      "soCau": 18,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Từ điểm $M$ nằm ngoài đường tròn tâm $O$ đường kính $AC$, vẽ hai tiếp tuyến $MA,MB$ với đường tròn ($A,B$ là các tiếp điểm) và $\\widehat{ACB}=55^\\circ$. Số đo $\\widehat{AMB}$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$35^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$55^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$125^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$70^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "$\\widehat{AOB}=2\\widehat{ACB}$; tứ giác $MAOB$ có hai góc vuông."
+      ],
+      "loiGiai": [
+        "$\\widehat{AOB}=2\\cdot55^\\circ=110^\\circ$. Tứ giác $MAOB$ có $\\widehat{MAO}=\\widehat{MBO}=90^\\circ$ nên $\\widehat{AMB}=180^\\circ-110^\\circ=70^\\circ$. Chọn D."
+      ]
+    },
+    {
+      "id": "c19",
+      "soCau": 19,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Một cửa hàng bán trái cây có chương trình giảm giá cho mỗi kilôgam bưởi và mỗi kilôgam nho lần lượt là $10\\%$ và $20\\%$ so với giá niêm yết. Số tiền bạn Châu phải trả khi mua $5$ kg bưởi và $2$ kg nho là $425\\,000$ đồng. Số tiền bạn Lực phải trả khi mua $4$ kg bưởi và $3$ kg nho là $480\\,000$ đồng. Giá niêm yết của mỗi kilôgam bưởi và mỗi kilôgam nho lần lượt là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$125\\,000$ đồng và $50\\,000$ đồng"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$100\\,000$ đồng và $45\\,000$ đồng"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$50\\,000$ đồng và $125\\,000$ đồng"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$45\\,000$ đồng và $100\\,000$ đồng"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Gọi giá bưởi là $x$, giá nho là $y$.",
+        "Lập hệ $4,5x+1,6y=425000$ và $3,6x+2,4y=480000$."
+      ],
+      "loiGiai": [
+        "Gọi giá niêm yết của bưởi và nho lần lượt là $x,y$ (đồng).",
+        "$5\\cdot0,9x+2\\cdot0,8y=425000\\Rightarrow4,5x+1,6y=425000$.",
+        "$4\\cdot0,9x+3\\cdot0,8y=480000\\Rightarrow3,6x+2,4y=480000$.",
+        "Giải hệ được $x=50000$, $y=125000$. Chọn C."
+      ]
+    },
+    {
+      "id": "c20",
+      "soCau": 20,
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Gọi $x_1,x_2$ là hai nghiệm của phương trình $x^2+4x-8=0$. Giá trị của biểu thức $\\dfrac{x_1}{x_2}+\\dfrac{x_2}{x_1}$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$-2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$-4$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Quy đồng: $\\dfrac{x_1}{x_2}+\\dfrac{x_2}{x_1}=\\dfrac{x_1^2+x_2^2}{x_1x_2}$.",
+        "Dùng Vi-ét: $x_1+x_2=-4$, $x_1x_2=-8$."
+      ],
+      "loiGiai": [
+        "$\\dfrac{x_1^2+x_2^2}{x_1x_2}=\\dfrac{(x_1+x_2)^2-2x_1x_2}{x_1x_2}=\\dfrac{16+16}{-8}=-4$. Chọn C."
+      ]
+    },
+    {
+      "id": "c21a",
+      "soCau": 21,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^2+3x-10=0$.</p>",
+      "goiY": [
+        "Phân tích $x^2+3x-10=(x-2)(x+5)$ hoặc dùng công thức nghiệm."
+      ],
+      "loiGiai": [
+        "$\\Delta=9+40=49$, $x_1=\\dfrac{-3+7}{2}=2$, $x_2=\\dfrac{-3-7}{2}=-5$.",
+        "Vậy tập nghiệm là $\\{2;-5\\}$."
+      ]
+    },
+    {
+      "id": "c21b",
+      "soCau": 21,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x+3y=5\\\\x+2y=4\\end{cases}$.</p>",
+      "goiY": [
+        "Rút $x=4-2y$ từ phương trình thứ hai."
+      ],
+      "loiGiai": [
+        "$x=4-2y$. Thay vào $2x+3y=5$: $8-4y+3y=5\\Rightarrow y=3$.",
+        "Khi đó $x=4-6=-2$. Vậy hệ có nghiệm $(x;y)=(-2;3)$."
+      ]
+    },
+    {
+      "id": "c22a",
+      "soCau": 22,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn biểu thức $P=\\sqrt{8-2\\sqrt7}+\\dfrac2{3+\\sqrt7}$.</p>",
+      "dapAn": [
+        "2"
+      ],
+      "goiY": [
+        "$8-2\\sqrt7=(\\sqrt7-1)^2$; trục căn thức ở phân thức thứ hai."
+      ],
+      "loiGiai": [
+        "$\\sqrt{8-2\\sqrt7}=\\sqrt{(\\sqrt7-1)^2}=\\sqrt7-1$.",
+        "$\\dfrac2{3+\\sqrt7}=\\dfrac{2(3-\\sqrt7)}{9-7}=3-\\sqrt7$.",
+        "Vậy $P=(\\sqrt7-1)+(3-\\sqrt7)=2$."
+      ]
+    },
+    {
+      "id": "c22b",
+      "soCau": 22,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị của hàm số $y=-\\dfrac14x^2$.</p>",
+      "goiY": [
+        "Lập bảng giá trị với $x=0,\\pm2,\\pm4$."
+      ],
+      "loiGiai": [
+        "Parabol có đỉnh $O(0;0)$, bề lõm hướng xuống. Một số điểm: $(0;0)$, $(2;-1)$, $(-2;-1)$, $(4;-4)$, $(-4;-4)$.",
+        "Vẽ parabol đi qua các điểm trên."
+      ]
+    },
+    {
+      "id": "c23a",
+      "soCau": 23,
+      "y": "a",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm tất cả giá trị của tham số thực $m$ sao cho phương trình $x^2-2(m+2)x+m^2+2m=0$ có hai nghiệm phân biệt $x_1,x_2$ thỏa mãn $x_1(x_1+4)+x_2(x_2+4)=14$.</p>",
+      "dapAn": [
+        "-1"
+      ],
+      "goiY": [
+        "$\\Delta'=2(m+2)$; điều kiện có hai nghiệm phân biệt là $m>-2$.",
+        "$x_1(x_1+4)+x_2(x_2+4)=x_1^2+x_2^2+4(x_1+x_2)$; dùng Vi-ét."
+      ],
+      "loiGiai": [
+        "$\\Delta'=(m+2)^2-(m^2+2m)=2m+4=2(m+2)$. Phương trình có hai nghiệm phân biệt khi $m>-2$.",
+        "Theo Vi-ét: $x_1+x_2=2(m+2)$, $x_1x_2=m^2+2m$.",
+        "$x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2=4(m+2)^2-2(m^2+2m)=2m^2+12m+16$.",
+        "Điều kiện: $2m^2+12m+16+8(m+2)=14\\Rightarrow2m^2+20m+18=0\\Rightarrow m^2+10m+9=0$.",
+        "$m=-1$ hoặc $m=-9$. Đối chiếu $m>-2$ được $m=-1$."
+      ]
+    },
+    {
+      "id": "c23b",
+      "soCau": 23,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Trường THCS X dự kiến tổ chức chuyến đi hoạt động trải nghiệm cho $360$ học sinh lớp 9 và $23$ giáo viên bằng xe khách. Theo kế hoạch, nhà trường cần thuê $10$ chiếc xe, trong đó có loại xe chở $29$ người và loại xe chở $45$ người. Biết rằng chỉ có một xe còn trống $3$ chỗ ngồi, các xe còn lại chở đủ số người. Hỏi trường X phải thuê bao nhiêu chiếc xe mỗi loại?</p>",
+      "goiY": [
+        "Tổng số người là $360+23=383$.",
+        "Nếu $x$ xe chở $29$ người và $y$ xe chở $45$ người thì $x+y=10$ và $29x+45y-3=383$."
+      ],
+      "loiGiai": [
+        "Tổng số người: $360+23=383$. Gọi số xe loại $29$ chỗ là $x$, loại $45$ chỗ là $y$ ($x,y$ nguyên dương).",
+        "$x+y=10$ và $29x+45y=383+3=386$.",
+        "Từ $x=10-y$: $29(10-y)+45y=386\\Rightarrow290+16y=386\\Rightarrow y=6$, $x=4$.",
+        "Vậy trường cần thuê $4$ xe loại $29$ chỗ và $6$ xe loại $45$ chỗ."
+      ]
+    },
+    {
+      "id": "c24a",
+      "soCau": 24,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ ($AB<AC$) có ba góc nhọn nội tiếp đường tròn $(O)$. Các đường cao $BD$, $CE$ và $AK$ cắt nhau tại $H$. Chứng minh tứ giác $ADHE$ nội tiếp đường tròn.</p>",
+      "goiY": [
+        "$\\angle ADH=90^\\circ$ và $\\angle AEH=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $BD\\perp AC$ và $CE\\perp AB$ nên $\\angle ADH=\\angle AEH=90^\\circ$.",
+        "Tứ giác $ADHE$ có $\\angle ADH+\\angle AEH=180^\\circ$, hai góc ở vị trí đối nhau, nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c24b",
+      "soCau": 24,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 24a, chứng minh $AB\\cdot AE=AD\\cdot AC=AK\\cdot AH$.</p>",
+      "goiY": [
+        "Chứng minh $\\triangle AEH\\sim\\triangle AKB$ và $\\triangle AHD\\sim\\triangle ACK$."
+      ],
+      "loiGiai": [
+        "$\\triangle AEH$ và $\\triangle AKB$ có $\\angle AEH=\\angle AKB=90^\\circ$ và $\\angle BAK$ chung, nên $\\triangle AEH\\sim\\triangle AKB$. Suy ra $\\dfrac{AE}{AK}=\\dfrac{AH}{AB}$, tức $AB\\cdot AE=AK\\cdot AH$.",
+        "$\\triangle AHD$ và $\\triangle ACK$ có $\\angle ADH=\\angle AKC=90^\\circ$ và $\\angle CAK$ chung, nên $\\triangle AHD\\sim\\triangle ACK$. Suy ra $\\dfrac{AD}{AK}=\\dfrac{AH}{AC}$, tức $AD\\cdot AC=AK\\cdot AH$.",
+        "Vậy $AB\\cdot AE=AD\\cdot AC=AK\\cdot AH$."
+      ]
+    },
+    {
+      "id": "c24c",
+      "soCau": 24,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 24a, gọi $G,I$ lần lượt là giao điểm của các tia $BD$ và $CE$ với $(O)$; các tiếp tuyến tại $B$ và $C$ của $(O)$ cắt đường thẳng $ED$ lần lượt tại $M$ và $L$; tia $LG$ cắt $(O)$ tại $N$. Chứng minh ba điểm $M,I,N$ thẳng hàng.</p>",
+      "goiY": [
+        "Có thể dùng tọa độ: chọn $(O)$ là đường tròn đơn vị và $A(1;0)$.",
+        "Đường thẳng $ED$ song song với tiếp tuyến tại $A$; viết tọa độ $M,L,G,I$ rồi tìm $N$."
+      ],
+      "loiGiai": [
+        "Chọn hệ tọa độ với $(O)$ là đường tròn đơn vị và $A(1;0)$. Đặt $B(\\cos u;\\sin u)$, $C(\\cos v;\\sin v)$.",
+        "Khi đó $G(-\\cos(v-u);-\\sin(v-u))$, $I(-\\cos(v-u);\\sin(v-u))$. Đường thẳng $ED$ song song với tiếp tuyến tại $A$ nên có phương trình $x=k$ với $k=\\dfrac{1+\\cos u+\\cos v-\\cos(v-u)}2$.",
+        "Suy ra $M\\left(k;\\dfrac{1-k\\cos u}{\\sin u}\\right)$, $L\\left(k;\\dfrac{1-k\\cos v}{\\sin v}\\right)$.",
+        "Với $g=-e^{i(v-u)}$ và $l$ là tọa độ phức của $L$, giao điểm thứ hai của $LG$ với đường tròn đơn vị là $n=\\dfrac{l-g}{1-g\\bar l}$; đây chính là $N$.",
+        "Thay tọa độ $M,I,N$ vào định thức $\\begin{vmatrix}x_M&y_M&1\\\\x_I&y_I&1\\\\x_N&y_N&1\\end{vmatrix}$ và rút gọn, được kết quả $0$. Do đó $M,I,N$ thẳng hàng."
+      ]
+    }
+  ]
+}

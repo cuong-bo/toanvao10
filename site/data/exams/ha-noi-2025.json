@@ -1,0 +1,340 @@
+{
+  "id": "ha-noi-2025",
+  "tinh": "Hà Nội",
+  "nam": 2025,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2025–2026",
+  "thoiGian": 120,
+  "mucDo": "Khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hà Nội — đề chính thức",
+    "url": "https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-ha-noi.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Kết quả khảo sát 300 học sinh lớp 9 về thời gian tự học của mỗi bạn trong một tuần (đơn vị: giờ) được cho trong bảng tần số ghép nhóm sau:</p><table><tr><td>Thời gian tự học (giờ)</td><td>[0;4)</td><td>[4;8)</td><td>[8;12)</td><td>[12;16)</td><td>[16;20)</td></tr><tr><td>Số học sinh</td><td>17</td><td>72</td><td>94</td><td>75</td><td>42</td></tr></table><p>Xác định tần số của nhóm $[12;16)$.</p>",
+      "dapAn": [
+        "75"
+      ],
+      "goiY": [
+        "Đọc trực tiếp số học sinh ở cột $[12;16)$ trong bảng."
+      ],
+      "loiGiai": [
+        "Nhóm $[12;16)$ có tần số là $75$ học sinh."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "1b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với bảng tần số ghép nhóm ở câu 1a (300 học sinh), xác định tần số tương đối của nhóm $[12;16)$ (theo %).</p>",
+      "dapAn": [
+        "25"
+      ],
+      "goiY": [
+        "Tần số tương đối bằng tần số chia tổng số học sinh."
+      ],
+      "loiGiai": [
+        "Tần số tương đối là $\\dfrac{75}{300}=0,25=25\\%$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Một hộp có 8 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số $1,2,3,4,5,6,7,8$; hai thẻ khác nhau được ghi hai số khác nhau. Rút ngẫu nhiên một thẻ trong hộp. Tính xác suất của biến cố $A$: “Số ghi trên thẻ rút được là một số chia hết cho 3”.</p>",
+      "dapAn": [
+        "1/4",
+        "0,25"
+      ],
+      "goiY": [
+        "Các số chia hết cho 3 trong khoảng từ 1 đến 8 là $3$ và $6$."
+      ],
+      "loiGiai": [
+        "Có $8$ kết quả đồng khả năng; các kết quả thuận lợi cho $A$ là $3$ và $6$, có $2$ kết quả.",
+        "Vậy $P(A)=\\dfrac{2}{8}=\\dfrac14$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Cho hai biểu thức $A=\\dfrac{\\sqrt x+2}{\\sqrt x-2}$ và $B=\\dfrac{x+\\sqrt x-4}{x-2\\sqrt x}-\\dfrac{1}{\\sqrt x-2}$ với $x>0,\\ x\\ne4$.</p><p>Tính giá trị của biểu thức $A$ khi $x=9$.</p>",
+      "dapAn": [
+        "5"
+      ],
+      "goiY": [
+        "Thay $x=9$ thì $\\sqrt x=3$."
+      ],
+      "loiGiai": [
+        "Với $x=9$, $\\sqrt x=3$, nên $A=\\dfrac{3+2}{3-2}=5$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hai biểu thức $A=\\dfrac{\\sqrt x+2}{\\sqrt x-2}$ và $B=\\dfrac{x+\\sqrt x-4}{x-2\\sqrt x}-\\dfrac{1}{\\sqrt x-2}$ với $x>0,\\ x\\ne4$.</p><p>Chứng minh $B=\\dfrac{\\sqrt x+2}{\\sqrt x}$.</p>",
+      "goiY": [
+        "Phân tích $x-2\\sqrt x=\\sqrt x(\\sqrt x-2)$ rồi quy đồng."
+      ],
+      "loiGiai": [
+        "Ta có $x-2\\sqrt x=\\sqrt x(\\sqrt x-2)$.",
+        "$B=\\dfrac{x+\\sqrt x-4}{\\sqrt x(\\sqrt x-2)}-\\dfrac{1}{\\sqrt x-2}=\\dfrac{x+\\sqrt x-4-\\sqrt x}{\\sqrt x(\\sqrt x-2)}$.",
+        "$=\\dfrac{x-4}{\\sqrt x(\\sqrt x-2)}=\\dfrac{(\\sqrt x-2)(\\sqrt x+2)}{\\sqrt x(\\sqrt x-2)}=\\dfrac{\\sqrt x+2}{\\sqrt x}$."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "3",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho hai biểu thức $A=\\dfrac{\\sqrt x+2}{\\sqrt x-2}$ và $B=\\dfrac{x+\\sqrt x-4}{x-2\\sqrt x}-\\dfrac{1}{\\sqrt x-2}$ với $x>0,\\ x\\ne4$.</p><p>Tìm số nguyên dương $x$ lớn nhất để $\\dfrac AB<\\dfrac12$.</p>",
+      "dapAn": [
+        "3"
+      ],
+      "goiY": [
+        "Rút gọn $\\dfrac AB=\\dfrac{\\sqrt x}{\\sqrt x-2}$ rồi xét dấu."
+      ],
+      "loiGiai": [
+        "$\\dfrac AB=\\dfrac{\\sqrt x+2}{\\sqrt x-2}\\cdot\\dfrac{\\sqrt x}{\\sqrt x+2}=\\dfrac{\\sqrt x}{\\sqrt x-2}$.",
+        "Với $0<x<4$ thì $\\sqrt x-2<0$, nên $\\dfrac AB<0<\\dfrac12$.",
+        "Với $x>4$, $\\dfrac{\\sqrt x}{\\sqrt x-2}<\\dfrac12\\Leftrightarrow 2\\sqrt x<\\sqrt x-2\\Leftrightarrow \\sqrt x<-2$, vô lí.",
+        "Vậy $0<x<4$. Số nguyên dương lớn nhất là $x=3$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một ô tô đi từ Hà Nội đến Hải Phòng với vận tốc trung bình $60$ km/h. Khi từ Hải Phòng về Hà Nội trên cùng quãng đường đó, do điều kiện thời tiết xấu nên ô tô đi với vận tốc trung bình $40$ km/h. Biết thời gian ô tô đi từ Hà Nội đến Hải Phòng ít hơn thời gian ô tô đi từ Hải Phòng về Hà Nội là $1$ giờ, tính độ dài quãng đường ô tô đã đi từ Hà Nội đến Hải Phòng (km).</p>",
+      "dapAn": [
+        "120"
+      ],
+      "goiY": [
+        "Gọi quãng đường là $d$; lập phương trình $\\dfrac d{40}-\\dfrac d{60}=1$."
+      ],
+      "loiGiai": [
+        "Gọi độ dài quãng đường là $d$ (km, $d>0$).",
+        "Thời gian đi là $\\dfrac d{60}$ giờ, thời gian về là $\\dfrac d{40}$ giờ.",
+        "$\\dfrac d{40}-\\dfrac d{60}=1\\Rightarrow \\dfrac{3d-2d}{120}=1\\Rightarrow d=120$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Để chuẩn bị cho năm học mới, bạn Quốc đến cửa hàng mua một chiếc ba lô và một chiếc máy tính cầm tay với tổng giá tiền niêm yết là $885$ nghìn đồng. Hiện tại, cửa hàng đang triển khai chương trình giảm giá cho học sinh, sinh viên nên giá tiền của một chiếc ba lô giảm $20\\%$ và giá tiền của một chiếc máy tính cầm tay giảm $25\\%$ so với giá tiền niêm yết. Vì vậy, bạn Quốc chỉ phải trả $682$ nghìn đồng khi mua hai sản phẩm này. Hỏi giá tiền niêm yết của một chiếc ba lô là bao nhiêu nghìn đồng?</p>",
+      "dapAn": [
+        "365"
+      ],
+      "goiY": [
+        "Gọi giá ba lô là $b$, giá máy tính là $c$; lập hệ $b+c=885$ và $0,8b+0,75c=682$."
+      ],
+      "loiGiai": [
+        "Gọi giá niêm yết của ba lô và máy tính lần lượt là $b,c$ (nghìn đồng).",
+        "$b+c=885$ và $0,8b+0,75c=682$.",
+        "Từ $c=885-b$: $0,8b+0,75(885-b)=682\\Rightarrow 0,05b=18,25\\Rightarrow b=365$."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "2b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Để chuẩn bị cho năm học mới, bạn Quốc đến cửa hàng mua một chiếc ba lô và một chiếc máy tính cầm tay với tổng giá tiền niêm yết là $885$ nghìn đồng. Hiện tại, cửa hàng đang triển khai chương trình giảm giá cho học sinh, sinh viên nên giá tiền của một chiếc ba lô giảm $20\\%$ và giá tiền của một chiếc máy tính cầm tay giảm $25\\%$ so với giá tiền niêm yết. Vì vậy, bạn Quốc chỉ phải trả $682$ nghìn đồng khi mua hai sản phẩm này. Hỏi giá tiền niêm yết của một chiếc máy tính cầm tay là bao nhiêu nghìn đồng?</p>",
+      "dapAn": [
+        "520"
+      ],
+      "goiY": [
+        "Dùng tổng giá $885$ nghìn đồng sau khi đã tìm giá ba lô."
+      ],
+      "loiGiai": [
+        "Gọi giá ba lô là $b$, giá máy tính là $c$ (nghìn đồng).",
+        "Giải hệ $b+c=885$, $0,8b+0,75c=682$ được $b=365$.",
+        "Suy ra $c=885-365=520$."
+      ]
+    },
+    {
+      "id": "c3d",
+      "soCau": 3,
+      "y": "3",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Biết phương trình bậc hai $x^2+8x-6=0$ có hai nghiệm $x_1$ và $x_2$, tìm tất cả các giá trị của $m$ thỏa mãn $\\dfrac{70-mx_1^2}{x_2}=x_1+mx_2$.</p>",
+      "dapAn": [
+        "1"
+      ],
+      "goiY": [
+        "Dùng Vi-ét: $x_1+x_2=-8$, $x_1x_2=-6$."
+      ],
+      "loiGiai": [
+        "Theo Vi-ét: $x_1+x_2=-8$, $x_1x_2=-6$ (do đó $x_2\\ne0$).",
+        "$\\dfrac{70-mx_1^2}{x_2}=x_1+mx_2\\Rightarrow 70-mx_1^2=x_1x_2+mx_2^2$.",
+        "$\\Rightarrow 70-x_1x_2=m(x_1^2+x_2^2)=m[(x_1+x_2)^2-2x_1x_2]$.",
+        "$\\Rightarrow 70+6=m(64+12)\\Rightarrow 76=76m\\Rightarrow m=1$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Gia đình bạn Khánh đang sử dụng một thùng đựng nước dạng hình trụ với bán kính đáy bằng $50$ cm và chiều cao bằng $150$ cm. Thùng đựng nước được đặt thẳng đứng trên mặt sàn. Lấy $\\pi\\approx3,14$ và coi chiều dày của thùng không đáng kể.</p><p>Tính diện tích xung quanh của thùng đựng nước (cm²).</p>",
+      "dapAn": [
+        "47100"
+      ],
+      "goiY": [
+        "$S_{xq}=2\\pi rh$."
+      ],
+      "loiGiai": [
+        "$S_{xq}=2\\pi rh=2\\cdot3,14\\cdot50\\cdot150=47100$ cm²."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "1b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Gia đình bạn Khánh đang sử dụng một thùng đựng nước dạng hình trụ với bán kính đáy bằng $50$ cm và chiều cao bằng $150$ cm. Thùng đựng nước được đặt thẳng đứng trên mặt sàn. Lấy $\\pi\\approx3,14$ và coi chiều dày của thùng không đáng kể.</p><p>Sau một thời gian sử dụng, mực nước còn lại đã thấp hơn $40$ cm so với mực nước ban đầu. Tính thể tích nước trong thùng mà gia đình bạn Khánh đã sử dụng trong khoảng thời gian đó (cm³).</p>",
+      "dapAn": [
+        "314000"
+      ],
+      "goiY": [
+        "Thể tích đã dùng bằng thể tích hình trụ có chiều cao $40$ cm."
+      ],
+      "loiGiai": [
+        "Thể tích nước đã dùng là thể tích hình trụ có bán kính $50$ cm và chiều cao $40$ cm.",
+        "$V=\\pi r^2h=3,14\\cdot50^2\\cdot40=314000$ cm³ $=314$ lít."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "2a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có ba góc nhọn ($AB<AC$), nội tiếp đường tròn $(O)$. Đường cao $AD$ của tam giác $ABC$ cắt đường tròn $(O)$ tại điểm $E$ ($E$ khác $A$). Gọi $K$ là chân đường vuông góc kẻ từ điểm $E$ đến đường thẳng $AB$.</p><p>Chứng minh bốn điểm $E,D,B,K$ cùng thuộc một đường tròn.</p>",
+      "goiY": [
+        "Chỉ ra $\\angle EDB=\\angle EKB=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $AD\\perp BC$ nên $\\angle EDB=90^\\circ$.",
+        "Vì $EK\\perp AB$ nên $\\angle EKB=90^\\circ$.",
+        "Hai điểm $D,K$ cùng nhìn đoạn $EB$ dưới góc $90^\\circ$, nên $E,D,B,K$ cùng thuộc đường tròn đường kính $EB$."
+      ]
+    },
+    {
+      "id": "c4d",
+      "soCau": 4,
+      "y": "2b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có ba góc nhọn ($AB<AC$), nội tiếp đường tròn $(O)$. Đường cao $AD$ của tam giác $ABC$ cắt đường tròn $(O)$ tại điểm $E$ ($E$ khác $A$). Gọi $K$ là chân đường vuông góc kẻ từ điểm $E$ đến đường thẳng $AB$.</p><p>Đường thẳng $AO$ cắt đường thẳng $BC$ tại điểm $S$. Chứng minh $EA$ là tia phân giác của góc $CEK$ và $AB\\cdot AC=AE\\cdot AS$.</p>",
+      "goiY": [
+        "So sánh $\\angle CEA$ và $\\angle AEK$; chứng minh $\\triangle ABE\\sim\\triangle ASC$."
+      ],
+      "loiGiai": [
+        "Vì $AD\\perp BC$ nên $\\angle CEA=\\angle CED=90^\\circ-\\angle ECD=90^\\circ-\\angle ECB$.",
+        "Vì $EK\\perp AB$ nên $\\angle AEK=90^\\circ-\\angle EAK=90^\\circ-\\angle EAB$.",
+        "Mà $\\angle EAB=\\angle ECB$ (hai góc nội tiếp cùng chắn cung $EB$), suy ra $\\angle CEA=\\angle AEK$. Vậy $EA$ là tia phân giác của $\\angle CEK$.",
+        "Ta có $\\angle BAE=\\angle BAD=90^\\circ-\\angle ABC$ và $\\angle SAC=\\angle OAC=90^\\circ-\\angle ABC$ (do $OA=OC$ và $\\angle AOC=2\\angle ABC$), nên $\\angle BAE=\\angle SAC$.",
+        "Lại có $\\angle AEB=\\angle ACB=\\angle ACS$ (cùng chắn cung $AB$). Do đó $\\triangle ABE\\sim\\triangle ASC$.",
+        "Suy ra $\\dfrac{AB}{AS}=\\dfrac{AE}{AC}$, tức $AB\\cdot AC=AE\\cdot AS$."
+      ]
+    },
+    {
+      "id": "c4e",
+      "soCau": 4,
+      "y": "2c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có ba góc nhọn ($AB<AC$), nội tiếp đường tròn $(O)$. Đường cao $AD$ của tam giác $ABC$ cắt đường tròn $(O)$ tại điểm $E$ ($E$ khác $A$). Gọi $K$ là chân đường vuông góc kẻ từ điểm $E$ đến đường thẳng $AB$.</p><p>Gọi $H$ là trực tâm của tam giác $ABC$ và $I$ là trung điểm của đoạn thẳng $AB$. Chứng minh đường thẳng $SI$ vuông góc với đường thẳng $HK$.</p>",
+      "goiY": [
+        "Dùng phương pháp tọa độ với $D$ là gốc, $BC$ là trục hoành, $AD$ là trục tung."
+      ],
+      "loiGiai": [
+        "Chọn hệ trục tọa độ có $D$ là gốc, $BC$ là trục hoành, $AD$ là trục tung. Đặt $A(0;a)$, $B(-p;0)$, $C(q;0)$ với $a,p,q>0$.",
+        "Trực tâm $H\\left(0;\\dfrac{pq}{a}\\right)$; đường tròn ngoại tiếp cắt $AD$ tại $E\\left(0;-\\dfrac{pq}{a}\\right)$.",
+        "Đường thẳng $AB$ có phương trình $ax-py+ap=0$. Hình chiếu của $E$ lên $AB$ là $K\\left(-\\dfrac{p(a^2+pq)}{p^2+a^2};\\dfrac{ap(p-q)}{p^2+a^2}\\right)$.",
+        "Trung điểm $I\\left(-\\dfrac p2;\\dfrac a2\\right)$ và $S=AO\\cap BC$ có $S\\left(\\dfrac{a^2(q-p)}{a^2+pq};0\\right)$.",
+        "Tính được $\\vec{SI}=\\left(-\\dfrac p2-\\dfrac{a^2(q-p)}{a^2+pq};\\dfrac a2\\right)$ và $\\vec{HK}=\\left(-\\dfrac{p(a^2+pq)}{p^2+a^2};\\dfrac{ap(p-q)}{p^2+a^2}-\\dfrac{pq}{a}\\right)$.",
+        "Thay tọa độ và rút gọn được $\\vec{SI}\\cdot\\vec{HK}=0$, suy ra $SI\\perp HK$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "giai-toan",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Một công ty kinh doanh trong lĩnh vực vận tải đang vận hành một đội gồm $35$ xe chở hàng cùng loại, với lợi nhuận trung bình của mỗi xe là $1$ triệu đồng một ngày. Để mở rộng mô hình kinh doanh, công ty dự định bổ sung một số xe chở hàng cùng loại với xe đang vận hành. Công ty đã tiến hành khảo sát và phân tích thị trường, kết quả cho thấy: cứ bổ sung một xe chở hàng cùng loại vào hoạt động thì lợi nhuận trung bình của mỗi xe trong cả đội lại giảm đi $20$ nghìn đồng một ngày. Hỏi công ty nên bổ sung bao nhiêu xe chở hàng cùng loại để lợi nhuận trung bình mỗi ngày của đội xe là lớn nhất?</p>",
+      "dapAn": [
+        "7",
+        "8"
+      ],
+      "goiY": [
+        "Lập hàm lợi nhuận $F(x)=(35+x)(1-0,02x)$ với $x$ là số xe bổ sung."
+      ],
+      "loiGiai": [
+        "Gọi $x$ là số xe bổ sung ($x\\in\\mathbb N$). Lợi nhuận mỗi xe là $1-0,02x$ (triệu đồng/ngày).",
+        "Tổng lợi nhuận mỗi ngày là $F(x)=(35+x)(1-0,02x)=-0,02x^2+0,3x+35$.",
+        "Parabol có đỉnh tại $x=7,5$; vì $x$ nguyên nên $x=7$ hoặc $x=8$ cho cùng giá trị lớn nhất $36,12$ triệu đồng/ngày.",
+        "Vậy công ty nên bổ sung $7$ hoặc $8$ xe."
+      ]
+    }
+  ]
+}

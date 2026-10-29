@@ -1,0 +1,288 @@
+{
+  "id": "hai-phong-2023",
+  "tinh": "Hải Phòng",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hải Phòng — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-hai-phong.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 03/6/2023, gồm 6 bài (02 trang). Điểm bài 5a gồm 0,25 điểm vẽ hình. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho các biểu thức $A=3\\sqrt8-\\sqrt{50}-\\sqrt{\\left(\\sqrt2-1\\right)^2}$ và $B=\\left(\\dfrac{3\\sqrt x+6}{x-4}+\\dfrac{\\sqrt x}{\\sqrt x-2}\\right):\\dfrac{x-9}{\\sqrt x-3}$ với $x\\ge0$, $x\\ne4$, $x\\ne9$. Rút gọn các biểu thức $A$ và $B$.</p>",
+      "goiY": [
+        "$\\sqrt8=2\\sqrt2$, $\\sqrt{50}=5\\sqrt2$, $\\sqrt{\\left(\\sqrt2-1\\right)^2}=\\left|\\sqrt2-1\\right|$.",
+        "$3\\sqrt x+6=3\\left(\\sqrt x+2\\right)$; $x-4=\\left(\\sqrt x-2\\right)\\left(\\sqrt x+2\\right)$; $x-9=\\left(\\sqrt x-3\\right)\\left(\\sqrt x+3\\right)$."
+      ],
+      "loiGiai": [
+        "$A=6\\sqrt2-5\\sqrt2-\\left|\\sqrt2-1\\right|=\\sqrt2-\\left(\\sqrt2-1\\right)=1$ (vì $\\sqrt2>1$).",
+        "Với $x\\ge0$, $x\\ne4$, $x\\ne9$: $\\dfrac{3\\sqrt x+6}{x-4}+\\dfrac{\\sqrt x}{\\sqrt x-2}=\\dfrac{3\\left(\\sqrt x+2\\right)}{\\left(\\sqrt x-2\\right)\\left(\\sqrt x+2\\right)}+\\dfrac{\\sqrt x}{\\sqrt x-2}=\\dfrac{3+\\sqrt x}{\\sqrt x-2}$.",
+        "$\\dfrac{x-9}{\\sqrt x-3}=\\dfrac{\\left(\\sqrt x-3\\right)\\left(\\sqrt x+3\\right)}{\\sqrt x-3}=\\sqrt x+3$.",
+        "Suy ra $B=\\dfrac{3+\\sqrt x}{\\left(\\sqrt x-2\\right)\\left(\\sqrt x+3\\right)}=\\dfrac{1}{\\sqrt x-2}$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm $x$ sao cho $A-2B=3$ (với $A$, $B$ như câu 1a).</p>",
+      "dapAn": [
+        "1"
+      ],
+      "goiY": [
+        "Thay $A=1$, $B=\\dfrac{1}{\\sqrt x-2}$ vào đẳng thức."
+      ],
+      "loiGiai": [
+        "$1-\\dfrac{2}{\\sqrt x-2}=3\\Leftrightarrow\\dfrac{2}{\\sqrt x-2}=-2\\Leftrightarrow\\sqrt x-2=-1\\Leftrightarrow\\sqrt x=1\\Leftrightarrow x=1$.",
+        "Đối chiếu điều kiện $x\\ge0$, $x\\ne4$, $x\\ne9$: $x=1$ thỏa mãn. Vậy $x=1$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2(x-3)+3(3x+y)=-11\\\\\\left(x-3\\right)-2\\left(3x+y\\right)=5\\end{cases}$.</p>",
+      "goiY": [
+        "Đặt $u=x-3$, $v=3x+y$ để được hệ bậc nhất hai ẩn $u$, $v$."
+      ],
+      "loiGiai": [
+        "Đặt $u=x-3$, $v=3x+y$, hệ trở thành $\\begin{cases}2u+3v=-11\\\\u-2v=5\\end{cases}$.",
+        "Từ $u=5+2v$ thay vào phương trình đầu: $2(5+2v)+3v=-11\\Leftrightarrow7v=-21\\Leftrightarrow v=-3$, suy ra $u=5+2\\cdot(-3)=-1$.",
+        "$x-3=-1\\Leftrightarrow x=2$; $3x+y=-3\\Leftrightarrow6+y=-3\\Leftrightarrow y=-9$.",
+        "Vậy hệ có nghiệm duy nhất $(x;y)=(2;-9)$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tuluan",
+      "deBai": "<p>Một quyển vở giá $14\\,000$ đồng, một hộp bút giá $30\\,000$ đồng. Minh muốn mua 01 hộp bút và một số quyển vở. Gọi $x$ ($x\\in\\mathbb{N}^*$) là số quyển vở Minh mua, $y$ là số tiền cần trả khi mua $x$ quyển vở và 01 hộp bút. Hãy biểu diễn $y$ theo $x$.</p>",
+      "goiY": [
+        "Tiền mua $x$ quyển vở là $14\\,000x$ đồng, cộng thêm giá 01 hộp bút."
+      ],
+      "loiGiai": [
+        "Số tiền mua $x$ quyển vở là $14\\,000x$ (đồng).",
+        "Tổng số tiền phải trả: $y=14\\,000x+30\\,000$ (đồng)."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "2b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Nếu Minh có $300\\,000$ đồng để mua vở và 01 hộp bút thì Minh mua được tối đa bao nhiêu quyển vở?</p>",
+      "dapAn": [
+        "19"
+      ],
+      "goiY": [
+        "Giải bất phương trình $14\\,000x+30\\,000\\le300\\,000$ với $x$ nguyên dương."
+      ],
+      "loiGiai": [
+        "$14\\,000x+30\\,000\\le300\\,000\\Leftrightarrow14\\,000x\\le270\\,000\\Leftrightarrow x\\le\\dfrac{135}{7}\\approx19{,}29$.",
+        "Vì $x$ nguyên dương nên $x\\le19$. Vậy Minh mua được tối đa 19 quyển vở."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-2(m-1)x+m^2-9=0$ (1) ($x$ là ẩn, $m$ là tham số). Giải phương trình (1) khi $m=-3$.</p>",
+      "goiY": [
+        "Thay $m=-3$ được $x^2+8x=0$."
+      ],
+      "loiGiai": [
+        "Với $m=-3$, phương trình (1) trở thành $x^2+8x+9-9=0\\Leftrightarrow x^2+8x=0$.",
+        "$x(x+8)=0\\Leftrightarrow x=0$ hoặc $x=-8$. Vậy $S=\\{0;-8\\}$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "1b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm các giá trị của $m$ để phương trình (1) có hai nghiệm phân biệt $x_1$, $x_2$ thỏa mãn $x_1-x_2=2m-10$.</p>",
+      "dapAn": [
+        "3"
+      ],
+      "goiY": [
+        "$\\Delta'=(m-1)^2-(m^2-9)=10-2m$; điều kiện có hai nghiệm phân biệt là $m<5$.",
+        "Kết hợp $x_1+x_2=2(m-1)$ với $x_1-x_2=2m-10$ để tính $x_1$, $x_2$ theo $m$."
+      ],
+      "loiGiai": [
+        "$\\Delta'=(m-1)^2-(m^2-9)=-2m+10$. Phương trình có hai nghiệm phân biệt $\\Leftrightarrow\\Delta'>0\\Leftrightarrow m<5$.",
+        "Theo Vi-ét: $x_1+x_2=2(m-1)$, $x_1x_2=m^2-9$.",
+        "Cùng với $x_1-x_2=2m-10$ suy ra $x_1=2m-6$, $x_2=4$.",
+        "Thay vào $x_1x_2$: $(2m-6)\\cdot4=m^2-9\\Leftrightarrow m^2-8m+15=0\\Leftrightarrow m=3$ hoặc $m=5$.",
+        "Đối chiếu điều kiện $m<5$ được $m=3$. Vậy $m=3$."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một trường học có mảnh vườn hình chữ nhật chu vi là $100$ m. Nhà trường tiến hành mở rộng mảnh vườn đó bằng cách tăng chiều dài thêm $5$ m và chiều rộng thêm $4$ m, khi đó diện tích tăng thêm $240$ m². Tính chiều dài và chiều rộng của mảnh vườn trước khi mở rộng (nhập số đo chiều dài, đơn vị mét).</p>",
+      "dapAn": [
+        "30"
+      ],
+      "goiY": [
+        "Gọi chiều dài, chiều rộng ban đầu là $x$, $y$ (m) với $0<y<x<50$; từ chu vi được $x+y=50$.",
+        "Diện tích tăng thêm: $(x+5)(y+4)-xy=240$."
+      ],
+      "loiGiai": [
+        "Gọi chiều dài, chiều rộng ban đầu là $x$, $y$ (m) với $0<y<x<50$. Chu vi $100$ m nên $x+y=50$ (1).",
+        "Diện tích tăng thêm $240$ m² nên $(x+5)(y+4)-xy=240\\Leftrightarrow4x+5y=220$ (2).",
+        "Từ (1) có $4x+4y=200$; trừ vế với (2) được $y=20$, suy ra $x=30$.",
+        "Vậy chiều dài $30$ m, chiều rộng $20$ m."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Một chi tiết máy gồm một phần có dạng hình trụ, phần còn lại có dạng hình nón (hình 1): phần hình trụ có bán kính đáy $R$ và chiều cao $2R$; phần hình nón có bán kính đáy $R$ và chiều cao $R$. Biết rằng phần hình trụ có chu vi đáy là $37{,}68$ cm. Tính thể tích của chi tiết máy đó (lấy $\\pi\\approx3{,}14$; kết quả làm tròn đến chữ số thập phân thứ hai).</p>",
+      "dapAn": [
+        "1582,56"
+      ],
+      "goiY": [
+        "Từ chu vi đáy $2\\pi R=37{,}68$ tính $R$.",
+        "Thể tích hình trụ $V_1=\\pi R^2\\cdot2R$; thể tích hình nón $V_2=\\dfrac13\\pi R^2\\cdot R$."
+      ],
+      "loiGiai": [
+        "Bán kính đáy: $2\\pi R=37{,}68\\Rightarrow R=\\dfrac{37{,}68}{2\\cdot3{,}14}=6$ (cm).",
+        "Thể tích phần hình trụ: $V_1=\\pi R^2\\cdot2R\\approx3{,}14\\cdot36\\cdot12=1356{,}48$ (cm³).",
+        "Thể tích phần hình nón: $V_2=\\dfrac13\\pi R^2\\cdot R\\approx\\dfrac13\\cdot3{,}14\\cdot36\\cdot6=226{,}08$ (cm³).",
+        "Thể tích chi tiết máy: $V=V_1+V_2\\approx1356{,}48+226{,}08=1582{,}56$ (cm³)."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O;R)$ và điểm $A$ sao cho $OA>2R$. Vẽ hai tiếp tuyến $AB$, $AC$ của đường tròn ($B$, $C$ là các tiếp điểm), kẻ dây cung $BD$ song song với $AC$. Đường thẳng $AD$ cắt $(O;R)$ tại điểm $E$ ($E\\ne D$). Gọi $I$ là trung điểm của $DE$. Chứng minh năm điểm $A$, $B$, $I$, $O$, $C$ cùng thuộc một đường tròn.</p>",
+      "goiY": [
+        "Vẽ hình đúng được 0,25 điểm.",
+        "$AB$, $AC$ là tiếp tuyến nên $\\widehat{ABO}=\\widehat{ACO}=90^\\circ$.",
+        "$I$ là trung điểm dây $DE$ nên $OI\\perp DE$, tức $\\widehat{AIO}=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $AB$, $AC$ là tiếp tuyến tại $B$, $C$ nên $OB\\perp AB$ và $OC\\perp AC$, suy ra $\\widehat{ABO}=\\widehat{ACO}=90^\\circ$.",
+        "$I$ là trung điểm của dây $DE$ nên $OI\\perp DE$; do $A$, $E$, $I$, $D$ thẳng hàng nên $\\widehat{AIO}=90^\\circ$.",
+        "Vậy $B$, $C$, $I$ cùng nhìn đoạn $AO$ dưới một góc vuông, nên năm điểm $A$, $B$, $I$, $O$, $C$ cùng thuộc đường tròn đường kính $AO$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Đường thẳng $BC$ cắt $OA$, $AD$ lần lượt tại $H$ và $K$. Gọi $F$ là giao điểm của $BE$ và $AC$. Chứng minh $AK\\cdot AI=AH\\cdot AO$ và tam giác $AFE$ đồng dạng với tam giác $BFA$.</p>",
+      "goiY": [
+        "$AB=AC$, $OB=OC$ nên $AO$ là đường trung trực của $BC$, suy ra $\\widehat{AHK}=90^\\circ$; chứng minh $\\triangle AHK\\sim\\triangle AIO$.",
+        "$BD\\parallel AC$ cho $\\widehat{BDE}=\\widehat{FAE}$; góc giữa tiếp tuyến $BA$ và dây $BE$ bằng góc nội tiếp $\\widehat{BDE}$."
+      ],
+      "loiGiai": [
+        "Vì $AB=AC$ và $OB=OC$ nên $AO$ là đường trung trực của $BC$, do đó $OA\\perp BC$ tại $H$, tức $\\widehat{AHK}=90^\\circ$.",
+        "Xét $\\triangle AHK$ và $\\triangle AIO$: $\\widehat{AHK}=\\widehat{AIO}=90^\\circ$, $\\widehat{HAK}$ chung, nên $\\triangle AHK\\sim\\triangle AIO$ (g.g).",
+        "Suy ra $\\dfrac{AH}{AI}=\\dfrac{AK}{AO}$, tức $AK\\cdot AI=AH\\cdot AO$.",
+        "Vì $BD\\parallel AC$ nên $\\widehat{BDE}=\\widehat{FAE}$ (so le trong, $AF\\subset AC$, $AE\\subset AD$).",
+        "Lại có $\\widehat{BDE}=\\widehat{FBA}$ (góc nội tiếp và góc giữa tiếp tuyến $BA$ với dây $BE$ cùng chắn cung $BE$), nên $\\widehat{FAE}=\\widehat{FBA}$.",
+        "Xét $\\triangle AFE$ và $\\triangle BFA$: $\\widehat{AFE}=\\widehat{BFA}$ (vì $B$, $E$, $F$ thẳng hàng nên tia $FE$ trùng tia $FB$), $\\widehat{FAE}=\\widehat{FBA}$ (chứng minh trên). Vậy $\\triangle AFE\\sim\\triangle BFA$ (g.g)."
+      ]
+    },
+    {
+      "id": "c5c",
+      "soCau": 5,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Chứng minh ba đường thẳng $AB$, $CD$, $FK$ đồng quy.</p>",
+      "goiY": [
+        "Từ $\\triangle AFE\\sim\\triangle BFA$ suy ra $FA^2=FB\\cdot FE$; chứng minh thêm $FC^2=FB\\cdot FE$ để được $F$ là trung điểm của $AC$.",
+        "Gọi $G=FK\\cap BD$, dùng định lí Thales chứng minh $G$ là trung điểm của $BD$; gọi $J=AB\\cap CD$ rồi chứng minh $J$, $F$, $K$ thẳng hàng."
+      ],
+      "loiGiai": [
+        "Từ $\\triangle AFE\\sim\\triangle BFA$ suy ra $\\dfrac{FA}{FB}=\\dfrac{FE}{FA}$, tức $FA^2=FB\\cdot FE$.",
+        "Xét $\\triangle FEC$ và $\\triangle FCB$: $\\widehat{EFC}=\\widehat{BFC}$ (chung); $\\widehat{FCE}=\\widehat{FBC}$ (góc giữa tiếp tuyến $CF$ và dây $CE$ bằng góc nội tiếp chắn cung $CE$). Do đó $\\triangle FEC\\sim\\triangle FCB$, suy ra $\\dfrac{FE}{FC}=\\dfrac{FC}{FB}$, tức $FC^2=FB\\cdot FE$.",
+        "Từ đó $FA^2=FC^2$, mà $FA,FC>0$ nên $FA=FC$, hay $F$ là trung điểm của $AC$.",
+        "Gọi $G=FK\\cap BD$. Trong $\\triangle KFC$ có $G\\in KF$, $B\\in KC$ và $BG\\parallel FC$ nên $\\dfrac{BG}{FC}=\\dfrac{KG}{KF}$; trong $\\triangle KFA$ có $G\\in KF$, $D\\in KA$ và $DG\\parallel AF$ nên $\\dfrac{DG}{FA}=\\dfrac{KG}{KF}$.",
+        "Suy ra $\\dfrac{BG}{FC}=\\dfrac{DG}{FA}$, mà $FA=FC$ nên $BG=DG$, tức $G$ là trung điểm của $BD$.",
+        "Gọi $J=AB\\cap CD$ và $G'=JF\\cap BD$. Trong $\\triangle JAF$ có $BG'\\parallel AF$ nên $\\dfrac{BG'}{AF}=\\dfrac{JG'}{JF}$; trong $\\triangle JFC$ có $DG'\\parallel CF$ nên $\\dfrac{DG'}{CF}=\\dfrac{JG'}{JF}$.",
+        "Suy ra $\\dfrac{BG'}{AF}=\\dfrac{DG'}{CF}$, mà $AF=CF$ nên $BG'=DG'$, tức $G'$ là trung điểm của $BD$. Do đó $G'\\equiv G$, hay $F$, $K$, $J$ thẳng hàng.",
+        "Vậy $AB$, $CD$, $FK$ đồng quy tại $J$."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho các số thực $a$, $b$ thỏa mãn $a>0$, $b>0$ và $(a+b)^3=2\\left(1-a^2-b^2\\right)$. Tìm giá trị nhỏ nhất của biểu thức $M=\\dfrac{1}{ab}+\\dfrac{1}{a^2+b^2}$.</p>",
+      "dapAn": [
+        "6"
+      ],
+      "goiY": [
+        "Từ giả thiết suy ra $(a+b)^3+2(a^2+b^2)=2$; dùng $2(a^2+b^2)\\ge(a+b)^2$ để được $a+b\\le1$.",
+        "Chứng minh $\\dfrac1x+\\dfrac1y\\ge\\dfrac{4}{x+y}$ với $x,y>0$ rồi ghép $\\dfrac{1}{ab}=\\dfrac{1}{2ab}+\\dfrac{1}{2ab}$."
+      ],
+      "loiGiai": [
+        "Giả thiết cho $(a+b)^3+2(a^2+b^2)=2$. Vì $2(a^2+b^2)\\ge(a+b)^2$ nên $(a+b)^3+(a+b)^2\\le2$.",
+        "Đặt $s=a+b>0$: $s^3+s^2-2\\le0\\Leftrightarrow(s-1)(s^2+2s+2)\\le0$. Do $s^2+2s+2>0$ nên $s\\le1$, tức $a+b\\le1$.",
+        "Với $x,y>0$ ta có $\\dfrac1x+\\dfrac1y\\ge\\dfrac{4}{x+y}$ (tương đương $(x-y)^2\\ge0$).",
+        "$M=\\dfrac{1}{2ab}+\\left(\\dfrac{1}{2ab}+\\dfrac{1}{a^2+b^2}\\right)\\ge\\dfrac{1}{2ab}+\\dfrac{4}{a^2+b^2+2ab}=\\dfrac{1}{2ab}+\\dfrac{4}{(a+b)^2}$.",
+        "Vì $a+b\\le1$ nên $\\dfrac{4}{(a+b)^2}\\ge4$; lại có $2ab\\le\\dfrac{(a+b)^2}{2}\\le\\dfrac12$ nên $\\dfrac{1}{2ab}\\ge2$.",
+        "Do đó $M\\ge2+4=6$. Dấu \"=\" xảy ra khi $a=b=\\dfrac12$ (thỏa mãn giả thiết). Vậy $\\min M=6$."
+      ]
+    }
+  ]
+}

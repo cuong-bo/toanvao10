@@ -1,0 +1,251 @@
+{
+  "id": "da-nang-2024",
+  "tinh": "Đà Nẵng",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Đà Nẵng — đề chính thức",
+    "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2024-2025-so-gddt-da-nang.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $A=\\sqrt9+\\sqrt{12}+\\sqrt{27}-5\\sqrt3$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["Đưa $\\sqrt{12},\\sqrt{27}$ về dạng $a\\sqrt3$."],
+      "loiGiai": [
+        "$A=3+2\\sqrt3+3\\sqrt3-5\\sqrt3$.",
+        "$A=3+(2+3-5)\\sqrt3=3$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Cho biểu thức</p><p>$$B=\\left(\\dfrac{1}{\\sqrt x+2}+\\dfrac{1}{\\sqrt x-2}\\right)\\left(\\dfrac{\\sqrt x}{\\sqrt x-2}-\\dfrac{4}{x-2\\sqrt x}\\right)$$</p><p>với $x>0$ và $x\\ne4$.</p><p>Rút gọn biểu thức $B$ và tìm $x$ để $B<0$.</p>",
+      "goiY": ["Quy đồng từng ngoặc; chú ý $x-2\\sqrt x=\\sqrt x(\\sqrt x-2)$."],
+      "loiGiai": [
+        "$\\dfrac{1}{\\sqrt x+2}+\\dfrac{1}{\\sqrt x-2}=\\dfrac{2\\sqrt x}{x-4}$.",
+        "$\\dfrac{\\sqrt x}{\\sqrt x-2}-\\dfrac{4}{x-2\\sqrt x}=\\dfrac{x-4}{\\sqrt x(\\sqrt x-2)}=\\dfrac{\\sqrt x+2}{\\sqrt x}$.",
+        "$B=\\dfrac{2\\sqrt x}{x-4}\\cdot\\dfrac{\\sqrt x+2}{\\sqrt x}=\\dfrac{2}{\\sqrt x-2}$.",
+        "$B<0\\Leftrightarrow\\sqrt x-2<0\\Leftrightarrow x<4$. Kết hợp $x>0,\\ x\\ne4$ được $0<x<4$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hai hàm số $y=-2x^2$ và $y=-2x-4$.</p><p>Vẽ đồ thị các hàm số này trên cùng một mặt phẳng tọa độ.</p>",
+      "goiY": ["Lập bảng giá trị của parabol và xác định hai điểm của đường thẳng."],
+      "loiGiai": [
+        "Parabol $y=-2x^2$ đi qua $(-2;-8),(-1;-2),(0;0),(1;-2),(2;-8)$.",
+        "Đường thẳng $y=-2x-4$ đi qua $(0;-4)$ và $(-2;0)$.",
+        "Vẽ parabol và đường thẳng trên cùng hệ trục tọa độ."
+      ]
+    },
+    {
+      "id": "c2b1",
+      "soCau": 2,
+      "y": "b1",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hai hàm số $y=-2x^2$ và $y=-2x-4$.</p><p>Tìm tọa độ hai giao điểm $C,D$ của hai đồ thị đó.</p>",
+      "goiY": ["Giải phương trình hoành độ giao điểm $-2x^2=-2x-4$."],
+      "loiGiai": [
+        "$-2x^2=-2x-4\\Leftrightarrow x^2-x-2=0\\Leftrightarrow (x-2)(x+1)=0$.",
+        "$x=2\\Rightarrow y=-8$; $x=-1\\Rightarrow y=-2$.",
+        "Vậy $C(2;-8)$, $D(-1;-2)$."
+      ]
+    },
+    {
+      "id": "c2b2",
+      "soCau": 2,
+      "y": "b2",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Cho hai hàm số $y=-2x^2$ và $y=-2x-4$. Gọi $C,D$ là hai giao điểm của hai đồ thị. Tính khoảng cách từ gốc tọa độ $O$ đến đường thẳng $CD$.</p>",
+      "dapAn": ["4/√5", "4√5/5"],
+      "goiY": ["Đường thẳng $CD$ chính là $y=-2x-4$, tức $2x+y+4=0$."],
+      "loiGiai": [
+        "Hai giao điểm $C,D$ cùng thuộc đường thẳng $y=-2x-4$, hay $2x+y+4=0$.",
+        "Khoảng cách từ $O(0;0)$ đến đường thẳng là $\\dfrac{|4|}{\\sqrt{2^2+1^2}}=\\dfrac{4}{\\sqrt5}=\\dfrac{4\\sqrt5}{5}$."
+      ]
+    },
+    {
+      "id": "c3a1",
+      "soCau": 3,
+      "y": "a1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.4,
+      "loai": "dapanso",
+      "deBai": "<p>Tổng số tuổi của anh và em bằng $24$. Biết rằng anh lớn hơn em $6$ tuổi, hãy tính số tuổi của người anh.</p>",
+      "dapAn": ["15"],
+      "goiY": ["Gọi tuổi anh là $x$, tuổi em là $x-6$."],
+      "loiGiai": [
+        "Gọi tuổi anh là $x$, tuổi em là $x-6$.",
+        "$x+(x-6)=24\\Rightarrow 2x=30\\Rightarrow x=15$."
+      ]
+    },
+    {
+      "id": "c3a2",
+      "soCau": 3,
+      "y": "a2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.35,
+      "loai": "dapanso",
+      "deBai": "<p>Tổng số tuổi của anh và em bằng $24$. Biết rằng anh lớn hơn em $6$ tuổi, hãy tính số tuổi của người em.</p>",
+      "dapAn": ["9"],
+      "goiY": ["Tuổi em bằng tuổi anh trừ $6$."],
+      "loiGiai": ["Tuổi anh là $15$, nên tuổi em là $15-6=9$."]
+    },
+    {
+      "id": "c3b1",
+      "soCau": 3,
+      "y": "b1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.4,
+      "loai": "dapanso",
+      "deBai": "<p>Một xe máy đi từ thành phố Quảng Ngãi đến thành phố Đà Nẵng, quãng đường dài $120$ km. Sau khi xe máy xuất phát được $30$ phút, một ô tô bắt đầu đi từ thành phố Đà Nẵng đến thành phố Quảng Ngãi và gặp xe máy sau khi đã đi được $1$ giờ. Tính vận tốc của xe máy, biết rằng vận tốc ô tô lớn hơn vận tốc xe máy $20$ km/h.</p>",
+      "dapAn": ["40"],
+      "goiY": ["Gọi vận tốc xe máy là $v$; đến lúc gặp, xe máy đi $1,5$ giờ, ô tô đi $1$ giờ."],
+      "loiGiai": [
+        "Gọi vận tốc xe máy là $v$ (km/h), vận tốc ô tô là $v+20$.",
+        "Đến lúc gặp, xe máy đi $1,5$ giờ, ô tô đi $1$ giờ.",
+        "$1,5v+(v+20)=120\\Rightarrow 2,5v=100\\Rightarrow v=40$."
+      ]
+    },
+    {
+      "id": "c3b2",
+      "soCau": 3,
+      "y": "b2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.35,
+      "loai": "dapanso",
+      "deBai": "<p>Một xe máy đi từ thành phố Quảng Ngãi đến thành phố Đà Nẵng, quãng đường dài $120$ km. Sau khi xe máy xuất phát được $30$ phút, một ô tô bắt đầu đi từ thành phố Đà Nẵng đến thành phố Quảng Ngãi và gặp xe máy sau khi đã đi được $1$ giờ. Tính vận tốc của ô tô, biết rằng vận tốc ô tô lớn hơn vận tốc xe máy $20$ km/h.</p>",
+      "dapAn": ["60"],
+      "goiY": ["Vận tốc ô tô bằng vận tốc xe máy cộng $20$."],
+      "loiGiai": ["Vận tốc xe máy là $40$ km/h, nên vận tốc ô tô là $40+20=60$ km/h."]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2+2(m+1)x+6m-4=0$ $(*)$, với $m$ là tham số.</p><p>Giải phương trình $(*)$ khi $m=2$.</p>",
+      "goiY": ["Thay $m=2$ được $x^2+6x+8=0$."],
+      "loiGiai": [
+        "Với $m=2$: $x^2+6x+8=0$.",
+        "$\\Delta=36-32=4$, nên $x=\\dfrac{-6\\pm2}{2}$.",
+        "Vậy $x=-2$ hoặc $x=-4$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2+2(m+1)x+6m-4=0$ $(*)$, với $m$ là tham số. Tìm tất cả các giá trị của tham số $m$ để phương trình $(*)$ có hai nghiệm phân biệt $x_1,x_2$ thỏa mãn $\\left(4x_1-2mx_1-6m+13\\right)x_2^2-24x_1-100=0$. Nhập tổng các giá trị $m$ tìm được.</p>",
+      "dapAn": ["8/3"],
+      "goiY": ["Từ phương trình suy ra $(x_1+3)(x_2+3)=-1$; đặt $a=x_1+3$."],
+      "loiGiai": [
+        "$\\Delta'=(m+1)^2-(6m-4)=m^2-4m+5=(m-2)^2+1>0$ nên phương trình luôn có hai nghiệm phân biệt.",
+        "Theo Vi-ét: $x_1+x_2=-2(m+1)$, $x_1x_2=6m-4$. Suy ra $(x_1+3)(x_2+3)=x_1x_2+3(x_1+x_2)+9=-1$.",
+        "Vì $x_1$ là nghiệm nên $2mx_1+6m=-x_1^2-2x_1+4$. Do đó $4x_1-2mx_1-6m+13=x_1^2+6x_1+9=(x_1+3)^2$.",
+        "Đặt $a=x_1+3$, $b=x_2+3$ thì $ab=-1$ và điều kiện trở thành $a^2(b-3)^2-24(a-3)-100=0$.",
+        "Khai triển, dùng $ab=-1$: $9a^2-18a-27=0\\Leftrightarrow a=3$ hoặc $a=-1$.",
+        "Với $a=3$: $x_1=0,x_2=-\\dfrac{10}{3}$, suy ra $m=\\dfrac23$. Với $a=-1$: $x_1=-4,x_2=-2$, suy ra $m=2$.",
+        "Tổng các giá trị $m$ là $\\dfrac23+2=\\dfrac83$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có $CA>CB$ và nội tiếp đường tròn tâm $O$ đường kính $AB$. Các tiếp tuyến với đường tròn $(O)$ tại $A$ và $C$ cắt nhau tại $M$. Gọi $H$ là giao điểm của $MO$ và $AC$.</p><p>Chứng minh rằng tứ giác $OCMA$ nội tiếp và $HA=HC$.</p>",
+      "goiY": ["$OA\\perp MA$, $OC\\perp MC$; $MA=MC$."],
+      "loiGiai": [
+        "Vì $MA,MC$ là tiếp tuyến nên $OA\\perp MA$ và $OC\\perp MC$, do đó $\\angle OAM=\\angle OCM=90^\\circ$.",
+        "Tứ giác $OCMA$ có $\\angle OAM+\\angle OCM=180^\\circ$ nên nội tiếp.",
+        "$MA=MC$ (hai tiếp tuyến cắt nhau) và $OA=OC$, nên $MO$ là đường trung trực của $AC$.",
+        "Vậy $H=MO\\cap AC$ là trung điểm $AC$, tức $HA=HC$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có $CA>CB$ và nội tiếp đường tròn tâm $O$ đường kính $AB$. Các tiếp tuyến với đường tròn $(O)$ tại $A$ và $C$ cắt nhau tại $M$. Gọi $H$ là giao điểm của $MO$ và $AC$. Vẽ $CK$ vuông góc với $AB$ ($K\\in AB$) và $HE$ vuông góc với $CK$ ($E\\in CK$).</p><p>Chứng minh rằng $HE\\cdot CM=HM\\cdot CH$ và tâm đường tròn ngoại tiếp tam giác $OKH$ nằm trên đường thẳng $OC$.</p>",
+      "goiY": ["Chứng minh $E$ là trung điểm $CK$; gọi $N$ là trung điểm $OC$."],
+      "loiGiai": [
+        "Vì $CK\\perp AB$ và $HE\\perp CK$ nên $HE\\parallel AB$. Trong tam giác $ACK$, $H$ là trung điểm $AC$ và $HE\\parallel AK$, suy ra $E$ là trung điểm $CK$ và $HE=\\dfrac{AK}{2}$.",
+        "Do đó $\\dfrac{HE}{CH}=\\dfrac{AK}{AC}$.",
+        "Trong tam giác vuông $ACK$, $\\dfrac{AK}{AC}=\\cos\\angle CAK=\\cos\\alpha$, với $\\alpha=\\angle CAB$. Trong tam giác vuông $ABC$ (AB là đường kính), $\\alpha+\\beta=90^\\circ$ với $\\beta=\\angle ABC$, nên $\\cos\\alpha=\\sin\\beta$.",
+        "Vì $MH\\perp CH$ và $CM$ là tiếp tuyến tại $C$, $\\angle MCH=\\beta$ (góc giữa tiếp tuyến và dây bằng góc nội tiếp cùng chắn cung). Trong tam giác vuông $MCH$, $\\dfrac{HM}{CM}=\\sin\\beta$.",
+        "Vậy $\\dfrac{HE}{CH}=\\dfrac{HM}{CM}$, suy ra $HE\\cdot CM=HM\\cdot CH$.",
+        "Gọi $N$ là trung điểm $OC$. Tam giác $OKC$ vuông tại $K$ có $N$ là trung điểm cạnh huyền $OC$, nên $NO=NK=NC$.",
+        "Trong tam giác $OCA$, $N$ là trung điểm $OC$, $H$ là trung điểm $AC$, nên $NH$ là đường trung bình và $NH=\\dfrac{OA}{2}=\\dfrac{OC}{2}=NO$.",
+        "Vậy $NO=NK=NH$, nên $N$ là tâm đường tròn ngoại tiếp tam giác $OKH$. Mà $N\\in OC$, suy ra điều phải chứng minh."
+      ]
+    },
+    {
+      "id": "c5c",
+      "soCau": 5,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có $CA>CB$ và nội tiếp đường tròn tâm $O$ đường kính $AB$. Các tiếp tuyến với đường tròn $(O)$ tại $A$ và $C$ cắt nhau tại $M$. Gọi $H$ là giao điểm của $MO$ và $AC$. Vẽ $CK$ vuông góc với $AB$ ($K\\in AB$) và $HE$ vuông góc với $CK$ ($E\\in CK$).</p><p>Chứng minh rằng ba điểm $M,E,B$ thẳng hàng.</p>",
+      "goiY": ["Dùng hệ trục tọa độ với $K$ là gốc, $AB$ là trục hoành."],
+      "loiGiai": [
+        "Chọn hệ trục tọa độ có $K$ là gốc, $AB$ là trục hoành, $CK$ là trục tung. Đặt $A(-u;0)$, $B(v;0)$, $C(0;h)$ với $u,v,h>0$.",
+        "Vì tam giác $ABC$ vuông tại $C$ và $CK$ là đường cao nên $h^2=uv$.",
+        "$E$ là trung điểm $CK$ nên $E\\left(0;\\dfrac h2\\right)$.",
+        "Đường tròn đường kính $AB$ có tâm $O\\left(\\dfrac{v-u}{2};0\\right)$. Tiếp tuyến tại $A$ là $x=-u$; tiếp tuyến tại $C$ cắt tiếp tuyến tại $A$ tại $M\\left(-u;\\dfrac{u(u+v)}{2h}\\right)$.",
+        "Hệ số góc của $BM$ là $\\dfrac{u(u+v)/(2h)}{-(u+v)}=-\\dfrac{u}{2h}$; hệ số góc của $BE$ là $\\dfrac{h/2}{-v}=-\\dfrac{h}{2v}$.",
+        "Vì $h^2=uv$ nên $\\dfrac{u}{2h}=\\dfrac{h}{2v}$, do đó hai đường thẳng $BM$ và $BE$ có cùng hệ số góc.",
+        "Vậy $M,E,B$ thẳng hàng."
+      ]
+    }
+  ]
+}

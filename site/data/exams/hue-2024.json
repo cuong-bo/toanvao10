@@ -1,0 +1,274 @@
+{
+  "id": "hue-2024",
+  "tinh": "Thừa Thiên Huế",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Trung bình – khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Thừa Thiên Huế — đề chính thức",
+    "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-mon-toan-nam-2024-2025-so-gddt-thua-thien-hue.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 02/6/2024, gồm 6 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Tìm điều kiện của $x$ để biểu thức $A=\\sqrt{x-5}$ có nghĩa.</p>",
+      "goiY": [
+        "Biểu thức $\\sqrt{u}$ có nghĩa khi $u\\ge0$."
+      ],
+      "loiGiai": [
+        "$A$ có nghĩa khi $x-5\\ge0\\Leftrightarrow x\\ge5$.",
+        "Vậy $x\\ge5$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Không sử dụng máy tính cầm tay, tính giá trị của biểu thức $B=\\sqrt3\\cdot\\sqrt{12}-5$.</p>",
+      "dapAn": [
+        "1"
+      ],
+      "goiY": [
+        "$\\sqrt3\\cdot\\sqrt{12}=\\sqrt{36}$."
+      ],
+      "loiGiai": [
+        "$B=\\sqrt{3\\cdot12}-5=\\sqrt{36}-5=6-5=1$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "c",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn biểu thức $C=\\left(1+\\dfrac{x+\\sqrt x}{\\sqrt x+1}\\right)\\left(1-\\dfrac{x-\\sqrt x}{\\sqrt x-1}\\right)$ với $x\\ge0$ và $x\\ne1$.</p>",
+      "goiY": [
+        "Phân tích $x+\\sqrt x=\\sqrt x(\\sqrt x+1)$ và $x-\\sqrt x=\\sqrt x(\\sqrt x-1)$."
+      ],
+      "loiGiai": [
+        "$C=\\left(1+\\dfrac{\\sqrt x(\\sqrt x+1)}{\\sqrt x+1}\\right)\\left(1-\\dfrac{\\sqrt x(\\sqrt x-1)}{\\sqrt x-1}\\right)$",
+        "$=(1+\\sqrt x)(1-\\sqrt x)=1-x$.",
+        "Vậy $C=1-x$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Không sử dụng máy tính cầm tay, giải hệ phương trình $\\begin{cases}3x-y=5\\\\x+y=3\\end{cases}$.</p>",
+      "goiY": [
+        "Cộng hai phương trình để khử $y$."
+      ],
+      "loiGiai": [
+        "Cộng hai phương trình: $4x=8\\Rightarrow x=2$.",
+        "Thay $x=2$ vào $x+y=3$ được $y=1$.",
+        "Vậy hệ có nghiệm $(x;y)=(2;1)$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Trong mặt phẳng tọa độ $Oxy$, cho đường thẳng $(d):y=mx+n-1$ ($m\\ne0$). Tìm các giá trị của $m,n$ để $(d)$ đi qua điểm $M(1;5)$ và song song với đường thẳng $y=2x+1$.</p>",
+      "goiY": [
+        "Hai đường thẳng song song khi có cùng hệ số góc và khác tung độ gốc.",
+        "Thay tọa độ $M$ để tìm $n$."
+      ],
+      "loiGiai": [
+        "$(d)$ song song với $y=2x+1$ nên $m=2$ và $n-1\\ne1\\Rightarrow n\\ne2$.",
+        "$(d)$ đi qua $M(1;5)$: $5=2\\cdot1+n-1\\Rightarrow n=4$ (thỏa $n\\ne2$).",
+        "Vậy $m=2$, $n=4$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "y": "",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Hai học sinh cùng tham gia một giải chạy với hai cự li khác nhau, cự li của học sinh thứ nhất gấp đôi cự li của học sinh thứ hai. Biết rằng học sinh thứ nhất mất trung bình $5$ phút để chạy hết $1$ km, học sinh thứ hai mất trung bình $7$ phút để chạy hết $1$ km và thời gian hoàn thành cự li của học sinh thứ nhất nhiều hơn thời gian hoàn thành cự li của học sinh thứ hai là $15$ phút. Tính cự li của mỗi học sinh tham gia.</p>",
+      "goiY": [
+        "Gọi cự li của học sinh thứ hai là $x$ (km, $x>0$); học sinh thứ nhất là $2x$.",
+        "Thời gian tương ứng là $7x$ và $5\\cdot2x=10x$ phút."
+      ],
+      "loiGiai": [
+        "Gọi cự li của học sinh thứ hai là $x$ (km, $x>0$); cự li của học sinh thứ nhất là $2x$ (km).",
+        "Thời gian học sinh thứ nhất: $5\\cdot2x=10x$ phút; học sinh thứ hai: $7x$ phút.",
+        "$10x-7x=15\\Rightarrow3x=15\\Rightarrow x=5$.",
+        "Vậy học sinh thứ nhất chạy $10$ km, học sinh thứ hai chạy $5$ km."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-2(m-5)x+1-2m=0$ (1), với $x$ là ẩn số. Giải phương trình (1) khi $m=3$.</p>",
+      "goiY": [
+        "Thay $m=3$ được $x^2+4x-5=0$."
+      ],
+      "loiGiai": [
+        "Với $m=3$: $x^2+4x-5=0$.",
+        "Phương trình có dạng $a+b+c=1+4-5=0$ nên có hai nghiệm $x=1$ và $x=-5$.",
+        "Vậy tập nghiệm là $\\{1;-5\\}$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với phương trình (1) ở câu 4a, chứng minh phương trình luôn có hai nghiệm phân biệt với mọi giá trị của $m$.</p>",
+      "goiY": [
+        "Tính $\\Delta'$ và đưa về dạng bình phương cộng số dương."
+      ],
+      "loiGiai": [
+        "$\\Delta'=(m-5)^2-(1-2m)=m^2-10m+25-1+2m=m^2-8m+24$.",
+        "$\\Delta'=(m-4)^2+8>0$ với mọi $m$.",
+        "Vậy phương trình luôn có hai nghiệm phân biệt với mọi $m$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "c",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Với phương trình (1) ở câu 4a, tìm tất cả giá trị của $m$ để phương trình có hai nghiệm phân biệt $x_1,x_2$ thỏa mãn $(x_1^2-2mx_1+1)(x_2^2-2mx_2+1)=64$.</p>",
+      "dapAn": [
+        "-1",
+        "1"
+      ],
+      "goiY": [
+        "Từ phương trình suy ra $x^2-2mx+1=2m-10x$.",
+        "Dùng Vi-ét cho $x_1+x_2$ và $x_1x_2$."
+      ],
+      "loiGiai": [
+        "Từ (1): $x^2=2(m-5)x-1+2m$, nên $x^2-2mx+1=2m-10x$.",
+        "Do đó $(x_1^2-2mx_1+1)(x_2^2-2mx_2+1)=(2m-10x_1)(2m-10x_2)$",
+        "$=4[m^2-5m(x_1+x_2)+25x_1x_2]$.",
+        "Theo Vi-ét: $x_1+x_2=2(m-5)$, $x_1x_2=1-2m$. Thay vào:",
+        "$4[m^2-10m(m-5)+25(1-2m)]=4(25-9m^2)=100-36m^2$.",
+        "$100-36m^2=64\\Rightarrow m^2=1\\Rightarrow m=\\pm1$ (cả hai đều thỏa $\\Delta'>0$).",
+        "Vậy $m\\in\\{-1;1\\}$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$ đường kính $AB$ và điểm $M$ thuộc đoạn $OB$ ($M\\ne O,B$). Đường thẳng qua $M$ vuông góc với $AB$ cắt $(O)$ tại $C,D$. Đường thẳng qua $D$ vuông góc với $AC$ cắt $AC$ tại $N$ và cắt $(O)$ tại $K$ ($K\\ne D$). Chứng minh tứ giác $ADMN$ nội tiếp.</p>",
+      "goiY": [
+        "$\\angle AMD=90^\\circ$ (vì $DM\\perp AB$) và $\\angle AND=90^\\circ$ (vì $DN\\perp AC$)."
+      ],
+      "loiGiai": [
+        "Vì $DM\\perp AB$ nên $\\angle AMD=90^\\circ$.",
+        "Vì $DN\\perp AC$ nên $\\angle AND=90^\\circ$.",
+        "Hai điểm $M,N$ cùng nhìn $AD$ dưới góc vuông, nên $A,D,M,N$ cùng thuộc đường tròn đường kính $AD$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 5a, chứng minh $MN\\parallel BK$.</p>",
+      "goiY": [
+        "$A,D,M,N$ nội tiếp nên $\\angle MND=\\angle MAD$.",
+        "So sánh với $\\angle BKD$ và dùng $B,C,D,K$ nội tiếp."
+      ],
+      "loiGiai": [
+        "Tứ giác $ADMN$ nội tiếp nên $\\angle MND=\\angle MAD$ (cùng chắn cung $MD$).",
+        "Vì $AM$ nằm trên $AB$ nên $\\angle MAD=\\angle BAD$. Trong $(O)$, $\\angle BAD=\\angle BCD$ (cùng chắn cung $BD$).",
+        "Do đó $\\angle MND=\\angle BCD$. Mặt khác $B,C,D,K$ cùng thuộc $(O)$ nên $\\angle BCD=\\angle BKD$ (cùng chắn cung $BD$).",
+        "Suy ra $\\angle MND=\\angle BKD$. Vì $N,D,K$ thẳng hàng, hai góc này ở vị trí đồng vị nên $MN\\parallel BK$."
+      ]
+    },
+    {
+      "id": "c5c",
+      "soCau": 5,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 5a, đường thẳng qua $M$ vuông góc với $MN$ cắt $DK$ tại $E$. Chứng minh $BE\\perp DK$ và $MB=ME$.</p>",
+      "goiY": [
+        "Từ câu 5b, $MN\\parallel BK$ nên $ME\\perp BK$.",
+        "Chứng minh $B,M,D,E$ nội tiếp bằng cách so sánh $\\angle BME$ và $\\angle BDE$.",
+        "Dùng các góc nội tiếp để suy ra $\\angle BED=90^\\circ$ và $MB=ME$."
+      ],
+      "loiGiai": [
+        "Từ câu 5b, $MN\\parallel BK$. Vì $ME\\perp MN$ nên $ME\\perp BK$.",
+        "Ta có $\\angle BME=90^\\circ-\\angle ABK$ (vì $BM$ nằm trên $BA$ và $ME\\perp BK$).",
+        "Mặt khác $\\angle BDE=\\angle BDK$ (vì $E,D,K$ thẳng hàng). Tứ giác $B,C,D,K$ nội tiếp nên $\\angle BDK=\\angle BCK$; tứ giác $A,B,C,K$ nội tiếp nên $\\angle BCK=\\angle BAK$. Tam giác $ABK$ vuông tại $K$ (do $AB$ là đường kính) nên $\\angle BAK=90^\\circ-\\angle ABK$.",
+        "Vậy $\\angle BME=\\angle BDE$, suy ra $B,M,D,E$ cùng thuộc một đường tròn.",
+        "Trong đường tròn này, $\\angle BED=\\angle BMD=90^\\circ$ (cùng chắn cung $BD$; $\\angle BMD=90^\\circ$ vì $DM\\perp AB$). Do $E,D,K$ thẳng hàng nên $BE\\perp DK$.",
+        "Cũng trong đường tròn $BMDE$, chứng minh $\\angle MDB=\\angle MDE$: vì $M,C,D$ thẳng hàng nên $\\angle MDB=\\angle CDB$; do $AB$ là đường kính nên $\\angle ADB=90^\\circ$, suy ra $\\angle CDB=90^\\circ-\\angle CDA$. Mà $\\angle CDA=\\angle CBA$ (cùng chắn cung $CA$) và $\\angle CBA=90^\\circ-\\angle BAC$ (tam giác $ABC$ vuông tại $C$), nên $\\angle MDB=\\angle BAC$. Mặt khác $\\angle MDE=\\angle BAC$ (vì $DM\\perp AB$, $DE\\perp AC$). Vậy $\\angle MDB=\\angle MDE$; hai góc này cùng chắn hai dây $MB$ và $ME$, suy ra $MB=ME$."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "y": "",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$ có $\\widehat{ABC}=60^\\circ$. Quay tam giác $ABC$ một vòng quanh cạnh $AC$ cố định thì được một hình nón có thể tích bằng $9\\pi\\sqrt3$ cm$^3$. Tính bán kính đáy của hình nón đó.</p>",
+      "dapAn": [
+        "3"
+      ],
+      "goiY": [
+        "Khi quay quanh $AC$, bán kính đáy là $AB$, chiều cao là $AC$.",
+        "$AC=AB\\tan60^\\circ$."
+      ],
+      "loiGiai": [
+        "Khi quay tam giác $ABC$ quanh $AC$, hình nón có bán kính đáy $r=AB$ và chiều cao $h=AC$.",
+        "Trong tam giác vuông $ABC$: $AC=AB\\tan60^\\circ=r\\sqrt3$.",
+        "$V=\\dfrac13\\pi r^2h=\\dfrac13\\pi r^2\\cdot r\\sqrt3=\\dfrac{\\pi\\sqrt3}{3}r^3$.",
+        "Theo đề: $\\dfrac{\\pi\\sqrt3}{3}r^3=9\\pi\\sqrt3\\Rightarrow r^3=27\\Rightarrow r=3$ cm."
+      ]
+    }
+  ]
+}

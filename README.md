@@ -1,6 +1,6 @@
 # Trạm tiếp sức Toán vào 10
 
-Web ôn thi vào lớp 10 môn Toán cho học sinh các tỉnh Tây Bắc. Web tĩnh, không framework, không bước build, chạy được offline sau lần truy cập đầu.
+Web ôn thi vào lớp 10 môn Toán cho học sinh cả nước, ưu tiên học sinh vùng khó khăn. Web tĩnh, không framework, không bước build, chạy được offline sau lần truy cập đầu.
 
 ## Chạy thử
 
@@ -50,9 +50,9 @@ docs/                 kế hoạch, nguồn đề, hướng dẫn đăng
 
 ## Hiện trạng dữ liệu
 
-- 25 đề thật của 15 tỉnh/thành: Điện Biên, Hòa Bình, Lai Châu, Lào Cai, Sơn La, Yên Bái, Hà Nội, Nam Định, Bắc Ninh, Hải Dương, Hải Phòng, Nghệ An, Thanh Hóa, Vĩnh Phúc, Thái Bình.
+- 35 đề thật của 20 tỉnh/thành: Điện Biên, Hòa Bình, Lai Châu, Lào Cai, Sơn La, Yên Bái, Hà Nội, Nam Định, Bắc Ninh, Hải Dương, Hải Phòng, Nghệ An, Thanh Hóa, Vĩnh Phúc, Thái Bình, TP. Hồ Chí Minh, Đà Nẵng, Cần Thơ, Quảng Ninh, Thừa Thiên Huế.
 - 1 đề mẫu để thử web (ghi rõ không phải đề thật).
-- 430 câu/ý, có lời giải từng bước; một số câu hình học nâng cao dùng bổ đề hoặc toạ độ.
+- 580 câu/ý, có lời giải từng bước; một số câu hình học nâng cao dùng bổ đề hoặc toạ độ.
 - Đề Yên Bái 2022 có 50 câu; câu 39 bản in sai đáp án nên chuyển thành câu trả lời ngắn (đáp án đúng 6/5).
 
 ## Kiểm thử

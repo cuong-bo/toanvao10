@@ -1,0 +1,208 @@
+{
+  "id": "thanh-hoa-2023",
+  "tinh": "Thanh Hóa",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Thanh Hóa — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-thanh-hoa.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 10/6/2023, gồm 5 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho biểu thức $P=\\dfrac{\\sqrt x}{\\sqrt x+2}+\\dfrac{\\sqrt x+1}{\\sqrt x-2}-\\dfrac{2+5\\sqrt x}{x-4}$ với $x\\ge0,\\ x\\ne4$. Rút gọn biểu thức $P$.</p>",
+      "goiY": [
+        "Quy đồng mẫu $(\\sqrt x-2)(\\sqrt x+2)$; tử rút gọn thành $2\\sqrt x(\\sqrt x-2)$."
+      ],
+      "loiGiai": [
+        "$P=\\dfrac{\\sqrt x(\\sqrt x-2)+(\\sqrt x+1)(\\sqrt x+2)-(2+5\\sqrt x)}{(\\sqrt x-2)(\\sqrt x+2)}$.",
+        "Tử $=(\\sqrt x)^2-2\\sqrt x+(\\sqrt x)^2+3\\sqrt x+2-2-5\\sqrt x=2x-4\\sqrt x=2\\sqrt x(\\sqrt x-2)$.",
+        "Vậy $P=\\dfrac{2\\sqrt x}{\\sqrt x+2}$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Tìm tất cả các giá trị của $x$ để $P>1$.</p>",
+      "goiY": [
+        "$P>1\\Leftrightarrow \\dfrac{2\\sqrt x}{\\sqrt x+2}-1>0$."
+      ],
+      "loiGiai": [
+        "$\\dfrac{2\\sqrt x}{\\sqrt x+2}-1=\\dfrac{2\\sqrt x-\\sqrt x-2}{\\sqrt x+2}=\\dfrac{\\sqrt x-2}{\\sqrt x+2}$.",
+        "Vì $\\sqrt x+2>0$, bất phương trình tương đương $\\sqrt x>2\\Leftrightarrow x>4$.",
+        "Kết hợp $x\\ge0,\\ x\\ne4$: $x>4$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Trong mặt phẳng tọa độ $Oxy$, cho đường thẳng $(d)$ có phương trình $y=ax+b$. Tìm $a,b$ để đường thẳng $(d)$ có hệ số góc bằng $3$ và đi qua điểm $M(-1;2)$.</p>",
+      "goiY": [
+        "Hệ số góc $a=3$; thay tọa độ $M$ để tìm $b$."
+      ],
+      "loiGiai": [
+        "Hệ số góc bằng $3$ nên $a=3$.",
+        "$(d)$ đi qua $M(-1;2)$: $2=3\\cdot(-1)+b\\Rightarrow b=5$.",
+        "Vậy $a=3,\\ b=5$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}3x+y=6\\\\x-y=-2\\end{cases}$.</p>",
+      "goiY": [
+        "Cộng hai phương trình để khử $y$."
+      ],
+      "loiGiai": [
+        "Cộng hai phương trình: $4x=4\\Rightarrow x=1$.",
+        "Thay vào $x-y=-2$: $1-y=-2\\Rightarrow y=3$.",
+        "Vậy hệ có nghiệm $(x;y)=(1;3)$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^2-3x+2=0$.</p>",
+      "goiY": [
+        "Nhận xét $a+b+c=1-3+2=0$."
+      ],
+      "loiGiai": [
+        "Vì $a+b+c=0$ nên phương trình có hai nghiệm $x=1$ và $x=\\dfrac ca=2$.",
+        "Vậy $S=\\{1;2\\}$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-2mx-m^2-2=0$ ($m$ là tham số). Tìm các giá trị của $m$ để phương trình có hai nghiệm $x_1,x_2$ (với $x_1<x_2$) thỏa mãn hệ thức $x_2-2|x_1|-3x_1x_2=3m^2+3m+4$.</p>",
+      "goiY": [
+        "$\\Delta'=2m^2+2>0$; $x_1x_2=-m^2-2<0$ nên $x_1<0<x_2$.",
+        "Thay $|x_1|=-x_1$ rồi dùng Viète."
+      ],
+      "loiGiai": [
+        "$\\Delta'=m^2+m^2+2=2m^2+2>0$ với mọi $m$; $x_1x_2=-m^2-2<0$ nên $x_1<0<x_2$.",
+        "Do đó $|x_1|=-x_1$, điều kiện trở thành $x_2+2x_1-3x_1x_2=3m^2+3m+4$.",
+        "Viète: $x_1+x_2=2m,\\ x_1x_2=-m^2-2$. Thay vào: $2m+x_1+3m^2+6=3m^2+3m+4\\Rightarrow x_1=m-2$.",
+        "Mà $x_1=m-\\sqrt{2m^2+2}$, nên $\\sqrt{2m^2+2}=2\\Rightarrow 2m^2+2=4\\Rightarrow m^2=1\\Rightarrow m=\\pm1$.",
+        "Thử lại cả hai giá trị đều thỏa mãn. Vậy $m\\in\\{-1;1\\}$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$ và một điểm $M$ nằm ngoài đường tròn. Từ điểm $M$ kẻ hai tiếp tuyến $MA,MB$ đến $(O)$ (với $A,B$ là các tiếp điểm). Gọi $C$ là điểm đối xứng với $B$ qua $O$, đường thẳng $MC$ cắt đường tròn $(O)$ tại $D$ $(D\\ne C)$. Chứng minh $MAOB$ là tứ giác nội tiếp.</p>",
+      "goiY": [
+        "$\\angle MAO=\\angle MBO=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $MA,MB$ là tiếp tuyến nên $OA\\perp MA,\\ OB\\perp MB$, tức $\\angle MAO=\\angle MBO=90^\\circ$.",
+        "Tứ giác $MAOB$ có $\\angle MAO+\\angle MBO=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4.1, gọi $N$ là giao điểm của hai đường thẳng $AD$ và $MO$. Chứng minh $MN^2=ND\\cdot NA$.</p>",
+      "goiY": [
+        "Chứng minh $\\triangle MND\\sim\\triangle ANM$.",
+        "Dùng các góc nội tiếp và góc tạo bởi tiếp tuyến."
+      ],
+      "loiGiai": [
+        "$\\angle MDN=\\angle ADC$ (đối đỉnh); $\\angle ADC=\\angle ABC$ (cùng chắn cung $AC$).",
+        "Trong tứ giác nội tiếp $MAOB$, $\\angle ABC=\\angle ABO=\\angle AMO=\\angle AMN$ (cùng chắn cung $AO$).",
+        "Do đó $\\angle MDN=\\angle AMN$; cùng có $\\angle MND=\\angle ANM$, nên $\\triangle MND\\sim\\triangle ANM$.",
+        "Suy ra $\\dfrac{MN}{NA}=\\dfrac{ND}{MN}$, tức $MN^2=ND\\cdot NA$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4.1, gọi $H$ là giao điểm của $MO$ và $AB$. Chứng minh $\\left(\\dfrac{HA}{HD}\\right)^2-\\dfrac{AC}{HN}=1$.</p>",
+      "goiY": [
+        "Chọn hệ trục tọa độ với $O$ là gốc và $MO$ là trục hoành; tính $HA,HD,AC,HN$."
+      ],
+      "loiGiai": [
+        "Chọn $O=(0;0)$, bán kính đường tròn bằng $1$, $M=(m;0)$ với $m>1$. Đặt $s=\\sqrt{m^2-1}$. Khi đó $A=\\left(\\dfrac1m;\\dfrac sm\\right)$, $B=\\left(\\dfrac1m;-\\dfrac sm\\right)$, $C=\\left(-\\dfrac1m;\\dfrac sm\\right)$, $H=\\left(\\dfrac1m;0\\right)$.",
+        "Trong hệ trục này, tính được $D=\\left(\\dfrac{3m^2+1}{m(m^2+3)};\\dfrac{s(m^2-1)}{m(m^2+3)}\\right)$ và $N=\\left(\\dfrac{m^2+1}{2m};0\\right)$.",
+        "$HA=\\dfrac sm$, $HD^2=\\dfrac{(m^2-1)^2}{m^2(m^2+3)}$, suy ra $\\left(\\dfrac{HA}{HD}\\right)^2=\\dfrac{m^2+3}{m^2-1}$.",
+        "$AC=\\dfrac2m$, $HN=\\dfrac{m^2-1}{2m}$, suy ra $\\dfrac{AC}{HN}=\\dfrac4{m^2-1}$.",
+        "Do đó $\\left(\\dfrac{HA}{HD}\\right)^2-\\dfrac{AC}{HN}=\\dfrac{m^2+3-4}{m^2-1}=1$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho các số thực không âm $x,y,z$ thỏa mãn $4x^2+y^2+4z^2\\le6y$. Tìm giá trị nhỏ nhất của biểu thức $M=\\dfrac8{(x+3)^2}+\\dfrac{16}{(y+4)^2}+\\dfrac1{(z+1)^2}+2023$.</p>",
+      "dapAn": [
+        "2024"
+      ],
+      "goiY": [
+        "Chứng minh các bất đẳng thức tiếp tuyến $\\dfrac8{(x+3)^2}\\ge\\dfrac{5-x^2}{8}$, $\\dfrac{16}{(y+4)^2}\\ge\\dfrac{9-(y-3)^2}{32}$, $\\dfrac1{(z+1)^2}\\ge\\dfrac{3-z^2}{8}$.",
+        "Cộng lại và dùng $4x^2+(y-3)^2+4z^2\\le9$."
+      ],
+      "loiGiai": [
+        "Với $t\\ge0$: $\\dfrac8{(t+3)^2}\\ge\\dfrac{5-t^2}{8}$ vì hiệu bằng $\\dfrac{(t-1)^2(t^2+8t+19)}{8(t+3)^2}\\ge0$.",
+        "Tương tự, $\\dfrac1{(t+1)^2}\\ge\\dfrac{3-t^2}{8}$ vì hiệu bằng $\\dfrac{(t-1)^2(t^2+4t+5)}{8(t+1)^2}\\ge0$.",
+        "Và $\\dfrac{16}{(t+4)^2}\\ge\\dfrac{9-(t-3)^2}{32}$ vì hiệu bằng $\\dfrac{(t-4)^2(t^2+10t+32)}{32(t+4)^2}\\ge0$.",
+        "Cộng ba bất đẳng thức (với $t=x,y,z$): $M-2023\\ge\\dfrac{4(5-x^2)+9-(y-3)^2+4(3-z^2)}{32}=\\dfrac{41-[4x^2+(y-3)^2+4z^2]}{32}$.",
+        "Từ $4x^2+y^2+4z^2\\le6y$ suy ra $4x^2+(y-3)^2+4z^2\\le9$.",
+        "Vậy $M-2023\\ge\\dfrac{41-9}{32}=1$, tức $M\\ge2024$. Đẳng thức tại $x=z=1,\\ y=4$.",
+        "Vậy $\\min M=2024$."
+      ]
+    }
+  ]
+}

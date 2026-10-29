@@ -1,13 +1,13 @@
-# Kế hoạch dự án: Trạm tiếp sức Toán vào 10 (khu vực Tây Bắc)
+# Kế hoạch dự án: Trạm tiếp sức Toán vào 10 (mở rộng cả nước)
 
 > Cập nhật lần cuối: 2026-10-29
-> Trạng thái: **đã triển khai lõi (bước 1–6, bước 8), đã có 25 đề thật + 1 đề mẫu. Hiện chưa có giáo viên kiểm duyệt; lời giải có thể sai, cần kiểm tra và hỏi giáo viên nếu thắc mắc.**
+> Trạng thái: **đã triển khai lõi (bước 1–6, bước 8), đã có 35 đề thật + 1 đề mẫu. Hiện chưa có giáo viên kiểm duyệt; lời giải có thể sai, cần kiểm tra và hỏi giáo viên nếu thắc mắc.**
 >
 > Xem tiến độ thực tế: `README.md`, nguồn đề: `docs/NGUON_DE.md`, hướng dẫn đăng: `docs/HUONG_DAN_DANG.md`.
 
 ## 1. Mục tiêu
 
-Web tĩnh, miễn phí (0đ), cho học sinh lớp 9 vùng Tây Bắc (Điện Biên, Lai Châu, Sơn La và các tỉnh lân cận) ôn thi tuyển sinh vào lớp 10 môn Toán.
+Web tĩnh, miễn phí (0đ), cho học sinh lớp 9 cả nước — ưu tiên học sinh vùng Tây Bắc và các tỉnh còn khó khăn — ôn thi tuyển sinh vào lớp 10 môn Toán.
 
 - Học sinh truy cập và làm bài **không cần tài khoản**.
 - Dùng chủ yếu trên **điện thoại**, mạng yếu, nên phải nhẹ và chạy được **offline**.
@@ -176,7 +176,7 @@ Tick `[x]` khi xong; mỗi bước có tiêu chí hoàn thành để kiểm tra.
 - [ ] **Bước 7. Kiểm duyệt và đăng:** chế độ xem duyệt, `publish.js`, hướng dẫn đăng lên hosting.
   *Đã có:* `publish.js`, API `/api/drafts`, hướng dẫn đăng. *Còn:* giao diện xem duyệt có thanh vàng — làm sau theo yêu cầu.
 - [x] **Bước 8. Nội dung:** thêm 1–2 đề thật đại diện, rồi mở rộng từng đợt (3–5 đề mỗi đợt).
-  *Đã có:* 25 đề thật thuộc 15 tỉnh/thành, 430 câu/ý (gồm đề mẫu), có lời giải; xem `docs/NGUON_DE.md`.
+  *Đã có:* 35 đề thật thuộc 20 tỉnh/thành, 580 câu/ý (gồm đề mẫu), có lời giải; xem `docs/NGUON_DE.md`.
 
 **Về đề trong lúc dựng khung (bước 1–7):** dùng *đề minh họa tự soạn*, ghi rõ "Đề mẫu để thử web, không phải đề thi thật", gồm đủ các loại câu (tự luận, đáp án số, có ảnh). Đến bước 8 mới thay bằng đề thật, ghi nguồn.
 
@@ -197,15 +197,20 @@ Tick `[x]` khi xong; mỗi bước có tiêu chí hoàn thành để kiểm tra.
 | Lào Cai | 2021, 2022, 2023, 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Yên Bái | 2022 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Hòa Bình | 2020, 2021, 2022, 2024, 2025 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
-| Hà Nội | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
-| Nam Định | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Hà Nội | 2024, 2025 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Nam Định | 2023, 2024 (Toán chung – Đề 1 của trường chuyên) | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Bắc Ninh | 2022 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Hải Dương | 2022 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
-| Hải Phòng | 2022 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
-| Nghệ An | 2022 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
-| Thanh Hóa | 2022 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Hải Phòng | 2022, 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Nghệ An | 2022, 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Thanh Hóa | 2022, 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Vĩnh Phúc | 2021 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Thái Bình | 2020 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| TP. Hồ Chí Minh | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Đà Nẵng | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Cần Thơ | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Quảng Ninh | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Thừa Thiên Huế | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 
 ## 11. Rủi ro
 
@@ -230,7 +235,7 @@ Tick `[x]` khi xong; mỗi bước có tiêu chí hoàn thành để kiểm tra.
 Đến 2026-10-29:
 
 - `site/` đã có đầy đủ giao diện, dữ liệu, KaTeX, icon, manifest, service worker.
-- 26 đề trong `catalog.json` (25 đề thật + 1 đề mẫu), 430 câu/ý.
+- 36 đề trong `catalog.json` (35 đề thật + 1 đề mẫu), 580 câu/ý.
 - `drafts/` trống, sẵn sàng cho đợt đề tiếp theo.
 - `tools/` có `serve.js`, `validate.js`, `publish.js`, `build-catalog.js`.
 - Đã kiểm thử Playwright, Lighthouse; xem `README.md`.
