@@ -3,7 +3,7 @@
   "tinh": "Bắc Ninh",
   "nam": 2022,
   "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023 (trắc nghiệm và tự luận)",
-  "thoiGian": 120,
+  "thoiGian": 90,
   "mucDo": "Trung bình",
   "nguon": {
     "ten": "Sở GD&ĐT Bắc Ninh — đề chính thức",
@@ -21,14 +21,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, có $AB=2$ cm, $\\widehat C=30^\\circ$. Diện tích tam giác $ABC$ bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$\\sqrt3$ cm$^2$" },
-        { "ma": "B", "noiDung": "$\\sqrt2$ cm$^2$" },
-        { "ma": "C", "noiDung": "$2\\sqrt3$ cm$^2$" },
-        { "ma": "D", "noiDung": "$12$ cm$^2$" }
+        {
+          "ma": "A",
+          "noiDung": "$\\sqrt3$ cm$^2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\sqrt2$ cm$^2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2\\sqrt3$ cm$^2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$12$ cm$^2$"
+        }
       ],
-      "dapAn": ["A"],
-      "goiY": ["$\\tan C=\\dfrac{AB}{AC}$."],
-      "loiGiai": ["$AC=\\dfrac{AB}{\\tan30^\\circ}=2\\sqrt3$; $S=\\dfrac12\\cdot AB\\cdot AC=\\dfrac12\\cdot2\\cdot2\\sqrt3=2\\sqrt3$ cm$^2$. Chọn A."]
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "$\\tan C=\\dfrac{AB}{AC}$."
+      ],
+      "loiGiai": [
+        "$AC=\\dfrac{AB}{\\tan30^\\circ}=2\\sqrt3$; $S=\\dfrac12\\cdot AB\\cdot AC=\\dfrac12\\cdot2\\cdot2\\sqrt3=2\\sqrt3$ cm$^2$. Chọn C."
+      ]
     },
     {
       "id": "c2",
@@ -39,14 +57,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Biểu thức $\\sqrt[3]{\\left(2-\\sqrt3\\right)^3}+\\sqrt{\\left(\\sqrt3-2\\right)^2}$ có giá trị bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$2\\sqrt3$" },
-        { "ma": "B", "noiDung": "$4$" },
-        { "ma": "C", "noiDung": "$0$" },
-        { "ma": "D", "noiDung": "$4-2\\sqrt3$" }
+        {
+          "ma": "A",
+          "noiDung": "$2\\sqrt3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$0$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4-2\\sqrt3$"
+        }
       ],
-      "dapAn": ["D"],
-      "goiY": ["$\\sqrt[3]{u^3}=u$ với mọi $u$; $\\sqrt{u^2}=|u|$."],
-      "loiGiai": ["$\\sqrt[3]{(2-\\sqrt3)^3}=2-\\sqrt3$; $\\sqrt{(\\sqrt3-2)^2}=|\\sqrt3-2|=2-\\sqrt3$. Tổng bằng $4-2\\sqrt3$. Chọn D."]
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "$\\sqrt[3]{u^3}=u$ với mọi $u$; $\\sqrt{u^2}=|u|$."
+      ],
+      "loiGiai": [
+        "$\\sqrt[3]{(2-\\sqrt3)^3}=2-\\sqrt3$; $\\sqrt{(\\sqrt3-2)^2}=|\\sqrt3-2|=2-\\sqrt3$. Tổng bằng $4-2\\sqrt3$. Chọn D."
+      ]
     },
     {
       "id": "c3",
@@ -57,14 +93,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Hệ phương trình $\\begin{cases}2x-y=3\\\\x+y=0\\end{cases}$ có nghiệm là</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$(x;y)=(2;1)$" },
-        { "ma": "B", "noiDung": "$(x;y)=(2;-2)$" },
-        { "ma": "C", "noiDung": "$(x;y)=(0;-3)$" },
-        { "ma": "D", "noiDung": "$(x;y)=(1;-1)$" }
+        {
+          "ma": "A",
+          "noiDung": "$(x;y)=(2;1)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$(x;y)=(2;-2)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$(x;y)=(0;-3)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$(x;y)=(1;-1)$"
+        }
       ],
-      "dapAn": ["D"],
-      "goiY": ["Từ $x+y=0$ suy ra $y=-x$."],
-      "loiGiai": ["$y=-x$, thay vào $2x-y=3$ được $3x=3\\Rightarrow x=1$, $y=-1$. Chọn D."]
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Từ $x+y=0$ suy ra $y=-x$."
+      ],
+      "loiGiai": [
+        "$y=-x$, thay vào $2x-y=3$ được $3x=3\\Rightarrow x=1$, $y=-1$. Chọn D."
+      ]
     },
     {
       "id": "c4",
@@ -75,14 +129,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Khi $x=-1$, biểu thức $\\sqrt{x^2+8}$ có giá trị bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$9$" },
-        { "ma": "B", "noiDung": "$\\sqrt7$" },
-        { "ma": "C", "noiDung": "$\\pm3$" },
-        { "ma": "D", "noiDung": "$3$" }
+        {
+          "ma": "A",
+          "noiDung": "$9$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\sqrt7$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\pm3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$3$"
+        }
       ],
-      "dapAn": ["D"],
-      "goiY": ["Thay $x=-1$ vào biểu thức."],
-      "loiGiai": ["$\\sqrt{(-1)^2+8}=\\sqrt9=3$. Chọn D."]
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Thay $x=-1$ vào biểu thức."
+      ],
+      "loiGiai": [
+        "$\\sqrt{(-1)^2+8}=\\sqrt9=3$. Chọn D."
+      ]
     },
     {
       "id": "c5",
@@ -93,14 +165,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Phương trình $x^2+x-a=0$ ($a$ là tham số) có hai nghiệm phân biệt khi và chỉ khi</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$a>-\\dfrac14$" },
-        { "ma": "B", "noiDung": "$a<\\dfrac14$" },
-        { "ma": "C", "noiDung": "$a<-\\dfrac14$" },
-        { "ma": "D", "noiDung": "$a>\\dfrac14$" }
+        {
+          "ma": "A",
+          "noiDung": "$a>-\\dfrac14$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$a<\\dfrac14$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$a<-\\dfrac14$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$a>\\dfrac14$"
+        }
       ],
-      "dapAn": ["A"],
-      "goiY": ["Điều kiện $\\Delta>0$."],
-      "loiGiai": ["$\\Delta=1+4a>0\\Leftrightarrow a>-\\dfrac14$. Chọn A."]
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Điều kiện $\\Delta>0$."
+      ],
+      "loiGiai": [
+        "$\\Delta=1+4a>0\\Leftrightarrow a>-\\dfrac14$. Chọn A."
+      ]
     },
     {
       "id": "c6",
@@ -111,14 +201,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Đường thẳng nào sau đây đi qua điểm $E(0;1)$ và song song với đường thẳng $y=2x$?</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$y=x+1$" },
-        { "ma": "B", "noiDung": "$y=2x+1$" },
-        { "ma": "C", "noiDung": "$y=2x+2$" },
-        { "ma": "D", "noiDung": "$y=-2x+1$" }
+        {
+          "ma": "A",
+          "noiDung": "$y=x+1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=2x+1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=2x+2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=-2x+1$"
+        }
       ],
-      "dapAn": ["B"],
-      "goiY": ["Hai đường thẳng song song có cùng hệ số góc."],
-      "loiGiai": ["Đường thẳng cần tìm có dạng $y=2x+b$. Qua $E(0;1)$ nên $b=1$, được $y=2x+1$. Chọn B."]
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Hai đường thẳng song song có cùng hệ số góc."
+      ],
+      "loiGiai": [
+        "Đường thẳng cần tìm có dạng $y=2x+b$. Qua $E(0;1)$ nên $b=1$, được $y=2x+1$. Chọn B."
+      ]
     },
     {
       "id": "c7",
@@ -129,14 +237,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Tìm giá trị của $m$ để đồ thị hàm số $y=mx^2$ đi qua điểm $A(-2;1)$.</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$m=\\dfrac14$" },
-        { "ma": "B", "noiDung": "$m=-2$" },
-        { "ma": "C", "noiDung": "$m=-\\dfrac14$" },
-        { "ma": "D", "noiDung": "$m=\\dfrac12$" }
+        {
+          "ma": "A",
+          "noiDung": "$m=\\dfrac14$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$m=-2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$m=-\\dfrac14$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$m=\\dfrac12$"
+        }
       ],
-      "dapAn": ["A"],
-      "goiY": ["Thay tọa độ $A$ vào hàm số."],
-      "loiGiai": ["$1=m\\cdot(-2)^2\\Rightarrow m=\\dfrac14$. Chọn A."]
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Thay tọa độ $A$ vào hàm số."
+      ],
+      "loiGiai": [
+        "$1=m\\cdot(-2)^2\\Rightarrow m=\\dfrac14$. Chọn A."
+      ]
     },
     {
       "id": "c8",
@@ -147,14 +273,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Hai tiếp tuyến tại $A$ và $B$ của đường tròn $(O)$ cắt nhau tại $M$. Biết $\\widehat{AMB}=70^\\circ$. Số đo góc ở tâm đường tròn $(O)$ tạo bởi $OA$, $OB$ bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$220^\\circ$" },
-        { "ma": "B", "noiDung": "$110^\\circ$" },
-        { "ma": "C", "noiDung": "$30^\\circ$" },
-        { "ma": "D", "noiDung": "$55^\\circ$" }
+        {
+          "ma": "A",
+          "noiDung": "$220^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$110^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$30^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$55^\\circ$"
+        }
       ],
-      "dapAn": ["B"],
-      "goiY": ["Tứ giác $MAOB$ có hai góc vuông tại $A$, $B$."],
-      "loiGiai": ["$\\widehat{MAO}=\\widehat{MBO}=90^\\circ$ nên $\\widehat{AOB}=360^\\circ-90^\\circ-90^\\circ-70^\\circ=110^\\circ$. Chọn B."]
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Tứ giác $MAOB$ có hai góc vuông tại $A$, $B$."
+      ],
+      "loiGiai": [
+        "$\\widehat{MAO}=\\widehat{MBO}=90^\\circ$ nên $\\widehat{AOB}=360^\\circ-90^\\circ-90^\\circ-70^\\circ=110^\\circ$. Chọn B."
+      ]
     },
     {
       "id": "c9",
@@ -165,14 +309,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Trong các hàm số sau, hàm số nào nghịch biến trên $\\mathbb R$?</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$y=\\sqrt2x^2$" },
-        { "ma": "B", "noiDung": "$y=(1-\\sqrt2)x$" },
-        { "ma": "C", "noiDung": "$y=-\\sqrt2x^2$" },
-        { "ma": "D", "noiDung": "$y=(\\sqrt2-1)x$" }
+        {
+          "ma": "A",
+          "noiDung": "$y=\\sqrt2x^2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=(1-\\sqrt2)x$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=-\\sqrt2x^2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=(\\sqrt2-1)x$"
+        }
       ],
-      "dapAn": ["B"],
-      "goiY": ["Hàm bậc nhất $y=ax+b$ nghịch biến khi $a<0$."],
-      "loiGiai": ["$1-\\sqrt2<0$ nên $y=(1-\\sqrt2)x$ nghịch biến trên $\\mathbb R$. Chọn B."]
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Hàm bậc nhất $y=ax+b$ nghịch biến khi $a<0$."
+      ],
+      "loiGiai": [
+        "$1-\\sqrt2<0$ nên $y=(1-\\sqrt2)x$ nghịch biến trên $\\mathbb R$. Chọn B."
+      ]
     },
     {
       "id": "c10",
@@ -183,14 +345,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Tất cả các giá trị của $x$ để biểu thức $\\sqrt{3-x}$ có nghĩa là</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$x<3$" },
-        { "ma": "B", "noiDung": "$x>3$" },
-        { "ma": "C", "noiDung": "$x\\ge3$" },
-        { "ma": "D", "noiDung": "$x\\le3$" }
+        {
+          "ma": "A",
+          "noiDung": "$x<3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x>3$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x\\ge3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x\\le3$"
+        }
       ],
-      "dapAn": ["D"],
-      "goiY": ["$\\sqrt{A}$ có nghĩa khi $A\\ge0$."],
-      "loiGiai": ["$3-x\\ge0\\Leftrightarrow x\\le3$. Chọn D."]
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "$\\sqrt{A}$ có nghĩa khi $A\\ge0$."
+      ],
+      "loiGiai": [
+        "$3-x\\ge0\\Leftrightarrow x\\le3$. Chọn D."
+      ]
     },
     {
       "id": "c11",
@@ -201,14 +381,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Tam giác $ABC$ nội tiếp đường tròn $(O;R)$ đường kính $BC$. Biết $AC=R\\sqrt3$. Độ lớn của góc $ACB$ bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$45^\\circ$" },
-        { "ma": "B", "noiDung": "$30^\\circ$" },
-        { "ma": "C", "noiDung": "$50^\\circ$" },
-        { "ma": "D", "noiDung": "$60^\\circ$" }
+        {
+          "ma": "A",
+          "noiDung": "$45^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$30^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$50^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$60^\\circ$"
+        }
       ],
-      "dapAn": ["B"],
-      "goiY": ["$BC$ là đường kính nên $\\widehat{BAC}=90^\\circ$ và $BC=2R$."],
-      "loiGiai": ["$\\cos\\widehat{ACB}=\\dfrac{AC}{BC}=\\dfrac{R\\sqrt3}{2R}=\\dfrac{\\sqrt3}{2}\\Rightarrow\\widehat{ACB}=30^\\circ$. Chọn B."]
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "$BC$ là đường kính nên $\\widehat{BAC}=90^\\circ$ và $BC=2R$."
+      ],
+      "loiGiai": [
+        "$\\cos\\widehat{ACB}=\\dfrac{AC}{BC}=\\dfrac{R\\sqrt3}{2R}=\\dfrac{\\sqrt3}{2}\\Rightarrow\\widehat{ACB}=30^\\circ$. Chọn B."
+      ]
     },
     {
       "id": "c12",
@@ -219,14 +417,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Tích hai nghiệm của phương trình $x^2-3x-2=0$ bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$-2$" },
-        { "ma": "B", "noiDung": "$2$" },
-        { "ma": "C", "noiDung": "$-3$" },
-        { "ma": "D", "noiDung": "$3$" }
+        {
+          "ma": "A",
+          "noiDung": "$-2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$-3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$3$"
+        }
       ],
-      "dapAn": ["A"],
-      "goiY": ["$x_1x_2=\\dfrac{c}{a}$."],
-      "loiGiai": ["$x_1x_2=\\dfrac{-2}{1}=-2$. Chọn A."]
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "$x_1x_2=\\dfrac{c}{a}$."
+      ],
+      "loiGiai": [
+        "$x_1x_2=\\dfrac{-2}{1}=-2$. Chọn A."
+      ]
     },
     {
       "id": "c13",
@@ -237,14 +453,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Đường thẳng $(d):y=4x-3$ và parabol $(P):y=x^2$ cắt nhau tại hai điểm là</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$M(-1;1)$ và $N(3;9)$" },
-        { "ma": "B", "noiDung": "$E(1;1)$ và $Q(-3;9)$" },
-        { "ma": "C", "noiDung": "$M(-1;1)$ và $Q(-3;9)$" },
-        { "ma": "D", "noiDung": "$E(1;1)$ và $N(3;9)$" }
+        {
+          "ma": "A",
+          "noiDung": "$M(-1;1)$ và $N(3;9)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$E(1;1)$ và $Q(-3;9)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$M(-1;1)$ và $Q(-3;9)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$E(1;1)$ và $N(3;9)$"
+        }
       ],
-      "dapAn": ["D"],
-      "goiY": ["Giải phương trình hoành độ giao điểm $x^2=4x-3$."],
-      "loiGiai": ["$x^2=4x-3\\Leftrightarrow x^2-4x+3=0\\Leftrightarrow x=1$ hoặc $x=3$. Tọa độ là $E(1;1)$ và $N(3;9)$. Chọn D."]
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Giải phương trình hoành độ giao điểm $x^2=4x-3$."
+      ],
+      "loiGiai": [
+        "$x^2=4x-3\\Leftrightarrow x^2-4x+3=0\\Leftrightarrow x=1$ hoặc $x=3$. Tọa độ là $E(1;1)$ và $N(3;9)$. Chọn D."
+      ]
     },
     {
       "id": "c14",
@@ -255,14 +489,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Cho hình vuông có diện tích $36$ cm$^2$. Bán kính của đường tròn ngoại tiếp hình vuông đó bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$6$ cm" },
-        { "ma": "B", "noiDung": "$\\sqrt2$ cm" },
-        { "ma": "C", "noiDung": "$3$ cm" },
-        { "ma": "D", "noiDung": "$3\\sqrt2$ cm" }
+        {
+          "ma": "A",
+          "noiDung": "$6$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\sqrt2$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$3$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$3\\sqrt2$ cm"
+        }
       ],
-      "dapAn": ["D"],
-      "goiY": ["Cạnh hình vuông $a=6$; bán kính ngoại tiếp $R=\\dfrac{a\\sqrt2}{2}$."],
-      "loiGiai": ["$a^2=36\\Rightarrow a=6$; $R=\\dfrac{6\\sqrt2}{2}=3\\sqrt2$ cm. Chọn D."]
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Cạnh hình vuông $a=6$; bán kính ngoại tiếp $R=\\dfrac{a\\sqrt2}{2}$."
+      ],
+      "loiGiai": [
+        "$a^2=36\\Rightarrow a=6$; $R=\\dfrac{6\\sqrt2}{2}=3\\sqrt2$ cm. Chọn D."
+      ]
     },
     {
       "id": "c15",
@@ -273,14 +525,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Cho $\\alpha$ là một góc nhọn, có $\\tan\\alpha=\\sqrt3$. Giá trị $\\cot\\alpha$ bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$\\dfrac1{\\sqrt3}$" },
-        { "ma": "B", "noiDung": "$\\sqrt3$" },
-        { "ma": "C", "noiDung": "$1$" },
-        { "ma": "D", "noiDung": "$2$" }
+        {
+          "ma": "A",
+          "noiDung": "$\\dfrac1{\\sqrt3}$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\sqrt3$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$2$"
+        }
       ],
-      "dapAn": ["A"],
-      "goiY": ["$\\tan\\alpha\\cdot\\cot\\alpha=1$."],
-      "loiGiai": ["$\\cot\\alpha=\\dfrac1{\\tan\\alpha}=\\dfrac1{\\sqrt3}$. Chọn A."]
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "$\\tan\\alpha\\cdot\\cot\\alpha=1$."
+      ],
+      "loiGiai": [
+        "$\\cot\\alpha=\\dfrac1{\\tan\\alpha}=\\dfrac1{\\sqrt3}$. Chọn A."
+      ]
     },
     {
       "id": "c16",
@@ -291,14 +561,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH=\\sqrt6$ cm, $BH=2$ cm. Độ dài cạnh $BC$ bằng</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$5$ cm" },
-        { "ma": "B", "noiDung": "$6$ cm" },
-        { "ma": "C", "noiDung": "$10$ cm" },
-        { "ma": "D", "noiDung": "$4$ cm" }
+        {
+          "ma": "A",
+          "noiDung": "$5$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$6$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$10$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4$ cm"
+        }
       ],
-      "dapAn": ["A"],
-      "goiY": ["$AH^2=BH\\cdot CH$."],
-      "loiGiai": ["$6=2\\cdot CH\\Rightarrow CH=3$; $BC=BH+CH=5$ cm. Chọn A."]
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "$AH^2=BH\\cdot CH$."
+      ],
+      "loiGiai": [
+        "$6=2\\cdot CH\\Rightarrow CH=3$; $BC=BH+CH=5$ cm. Chọn A."
+      ]
     },
     {
       "id": "c17",
@@ -309,13 +597,29 @@
       "loai": "tracnghiem",
       "deBai": "<p>Cho $a,b,c$ là các số thực thỏa mãn $a+b+c-21=2\\left(\\sqrt{a-7}+\\sqrt{b-8}+\\sqrt{c-9}\\right)$. Giá trị của biểu thức $S=a+2b-c$ là</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$S=36$" },
-        { "ma": "B", "noiDung": "$S=16$" },
-        { "ma": "C", "noiDung": "$S=7$" },
-        { "ma": "D", "noiDung": "$S=14$" }
+        {
+          "ma": "A",
+          "noiDung": "$S=36$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$S=16$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$S=7$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$S=14$"
+        }
       ],
-      "dapAn": ["B"],
-      "goiY": ["Viết $a-7=\\left(\\sqrt{a-7}\\right)^2$ rồi đưa về tổng ba bình phương bằng $0$."],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Viết $a-7=\\left(\\sqrt{a-7}\\right)^2$ rồi đưa về tổng ba bình phương bằng $0$."
+      ],
       "loiGiai": [
         "Chuyển vế và nhóm: $\\left(\\sqrt{a-7}-1\\right)^2+\\left(\\sqrt{b-8}-1\\right)^2+\\left(\\sqrt{c-9}-1\\right)^2=0$.",
         "Suy ra $a=8$, $b=9$, $c=10$; $S=8+18-10=16$. Chọn B."
@@ -330,13 +634,29 @@
       "loai": "tracnghiem",
       "deBai": "<p>Cho hàm số $y=f(x)=\\left(1+m^4\\right)x^2+1$ ($m$ là tham số). Khẳng định nào sau đây đúng?</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$f(2)<f(3)$" },
-        { "ma": "B", "noiDung": "$f(-1)>f(-5)$" },
-        { "ma": "C", "noiDung": "$f(-4)<f(-2)$" },
-        { "ma": "D", "noiDung": "$f(1)>f(2)$" }
+        {
+          "ma": "A",
+          "noiDung": "$f(2)<f(3)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$f(-1)>f(-5)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$f(-4)<f(-2)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$f(1)>f(2)$"
+        }
       ],
-      "dapAn": ["A"],
-      "goiY": ["Hệ số $1+m^4>0$ nên hàm số đồng biến trên $(0;+\\infty)$ và $f(-x)=f(x)$."],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Hệ số $1+m^4>0$ nên hàm số đồng biến trên $(0;+\\infty)$ và $f(-x)=f(x)$."
+      ],
       "loiGiai": [
         "Vì $1+m^4>0$, hàm số đồng biến trên $(0;+\\infty)$ và là hàm chẵn.",
         "$2<3$ nên $f(2)<f(3)$ đúng. Các khẳng định còn lại sai vì $f(-1)=f(1)<f(5)=f(-5)$, $f(-4)=f(4)>f(2)=f(-2)$, $f(1)<f(2)$. Chọn A."
@@ -351,13 +671,29 @@
       "loai": "tracnghiem",
       "deBai": "<p>Có bao nhiêu giá trị nguyên không nhỏ hơn $-10$ của tham số $m$ để hệ phương trình $\\begin{cases}2x-y=1\\\\mx+y=5\\end{cases}$ có nghiệm duy nhất $(x_0;y_0)$ thỏa mãn $x_0y_0>0$?</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$20$" },
-        { "ma": "B", "noiDung": "$19$" },
-        { "ma": "C", "noiDung": "$18$" },
-        { "ma": "D", "noiDung": "$21$" }
+        {
+          "ma": "A",
+          "noiDung": "$20$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$19$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$18$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$21$"
+        }
       ],
-      "dapAn": ["B"],
-      "goiY": ["Cộng hai phương trình để tìm $x$, suy ra $y$; hệ có nghiệm duy nhất khi $m\\ne-2$."],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Cộng hai phương trình để tìm $x$, suy ra $y$; hệ có nghiệm duy nhất khi $m\\ne-2$."
+      ],
       "loiGiai": [
         "Cộng hai phương trình: $(m+2)x=6$. Hệ có nghiệm duy nhất khi $m\\ne-2$, khi đó $x=\\dfrac6{m+2}$, $y=\\dfrac{10-m}{m+2}$.",
         "$x_0y_0>0\\Leftrightarrow\\dfrac{6(10-m)}{(m+2)^2}>0\\Leftrightarrow m<10$.",
@@ -373,14 +709,32 @@
       "loai": "tracnghiem",
       "deBai": "<p>Số nghiệm của phương trình $x^4-\\left(\\sqrt3+1\\right)x^2+\\sqrt3=0$ là</p>",
       "phuongAn": [
-        { "ma": "A", "noiDung": "$2$" },
-        { "ma": "B", "noiDung": "$1$" },
-        { "ma": "C", "noiDung": "$4$" },
-        { "ma": "D", "noiDung": "$3$" }
+        {
+          "ma": "A",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$3$"
+        }
       ],
-      "dapAn": ["C"],
-      "goiY": ["Đặt $t=x^2\\ge0$."],
-      "loiGiai": ["$t^2-(\\sqrt3+1)t+\\sqrt3=0\\Leftrightarrow t=1$ hoặc $t=\\sqrt3$. Cả hai dương nên $x=\\pm1$, $x=\\pm\\sqrt[4]{3}$: $4$ nghiệm. Chọn C."]
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Đặt $t=x^2\\ge0$."
+      ],
+      "loiGiai": [
+        "$t^2-(\\sqrt3+1)t+\\sqrt3=0\\Leftrightarrow t=1$ hoặc $t=\\sqrt3$. Cả hai dương nên $x=\\pm1$, $x=\\pm\\sqrt[4]{3}$: $4$ nghiệm. Chọn C."
+      ]
     },
     {
       "id": "c21a",
@@ -391,8 +745,12 @@
       "diem": 1,
       "loai": "tuluan",
       "deBai": "<p>Giải phương trình $x^2-x-6=0$.</p>",
-      "goiY": ["Phân tích $x^2-x-6=(x-3)(x+2)$."],
-      "loiGiai": ["$x^2-x-6=0\\Leftrightarrow(x-3)(x+2)=0\\Leftrightarrow x=3$ hoặc $x=-2$. Vậy $S=\\{3;-2\\}$."]
+      "goiY": [
+        "Phân tích $x^2-x-6=(x-3)(x+2)$."
+      ],
+      "loiGiai": [
+        "$x^2-x-6=0\\Leftrightarrow(x-3)(x+2)=0\\Leftrightarrow x=3$ hoặc $x=-2$. Vậy $S=\\{3;-2\\}$."
+      ]
     },
     {
       "id": "c21b",
@@ -403,7 +761,9 @@
       "diem": 1,
       "loai": "tuluan",
       "deBai": "<p>Rút gọn biểu thức $M=\\left(\\dfrac1{\\sqrt x-1}+\\dfrac{\\sqrt x}{x-1}\\right):\\left(\\dfrac{\\sqrt x}{\\sqrt x-1}-1\\right)$ với $x\\ge0$, $x\\ne1$.</p>",
-      "goiY": ["Quy đồng từng ngoặc, chú ý $x-1=(\\sqrt x-1)(\\sqrt x+1)$."],
+      "goiY": [
+        "Quy đồng từng ngoặc, chú ý $x-1=(\\sqrt x-1)(\\sqrt x+1)$."
+      ],
       "loiGiai": [
         "$\\dfrac1{\\sqrt x-1}+\\dfrac{\\sqrt x}{x-1}=\\dfrac{\\sqrt x+1+\\sqrt x}{(\\sqrt x-1)(\\sqrt x+1)}=\\dfrac{2\\sqrt x+1}{(\\sqrt x-1)(\\sqrt x+1)}$.",
         "$\\dfrac{\\sqrt x}{\\sqrt x-1}-1=\\dfrac{\\sqrt x-(\\sqrt x-1)}{\\sqrt x-1}=\\dfrac1{\\sqrt x-1}$.",
@@ -418,8 +778,12 @@
       "diem": 1,
       "loai": "dapanso",
       "deBai": "<p>Một người đi xe đạp từ $A$ đến $B$ cách nhau $15$ km. Khi từ $B$ trở về $A$ người đó tăng vận tốc thêm $3$ km/h. Vì vậy thời gian về ít hơn thời gian đi là $15$ phút. Tính vận tốc của người đi xe đạp khi đi từ $A$ đến $B$.</p>",
-      "dapAn": ["12"],
-      "goiY": ["Gọi vận tốc lúc đi là $x$ (km/h, $x>0$); lập phương trình $\\dfrac{15}{x}-\\dfrac{15}{x+3}=\\dfrac14$."],
+      "dapAn": [
+        "12"
+      ],
+      "goiY": [
+        "Gọi vận tốc lúc đi là $x$ (km/h, $x>0$); lập phương trình $\\dfrac{15}{x}-\\dfrac{15}{x+3}=\\dfrac14$."
+      ],
       "loiGiai": [
         "Gọi vận tốc lúc đi là $x$ (km/h, $x>0$); vận tốc lúc về là $x+3$. Ta có $\\dfrac{15}{x}-\\dfrac{15}{x+3}=\\dfrac14$.",
         "Quy đồng: $60(x+3)-60x=x(x+3)\\Leftrightarrow x^2+3x-180=0\\Leftrightarrow x=12$ hoặc $x=-15$.",
@@ -435,7 +799,9 @@
       "diem": 0.75,
       "loai": "tuluan",
       "deBai": "<p>Cho đường tròn $(O;R)$ và dây $MN$ cố định ($MN<2R$). Kẻ đường kính $AB$ vuông góc với dây $MN$ tại $E$. Lấy điểm $C$ thuộc dây $MN$ ($C$ khác $M$, $N$, $E$). Đường thẳng $BC$ cắt đường tròn $(O;R)$ tại điểm $K$ ($K$ khác $B$).</p><p>Chứng minh $AKCE$ là tứ giác nội tiếp.</p>",
-      "goiY": ["$AE\\perp EC$ và $\\widehat{AKB}=90^\\circ$."],
+      "goiY": [
+        "$AE\\perp EC$ và $\\widehat{AKB}=90^\\circ$."
+      ],
       "loiGiai": [
         "Vì $AB\\perp MN$ tại $E$ và $C\\in MN$ nên $\\widehat{AEC}=90^\\circ$.",
         "Vì $AB$ là đường kính và $K\\in(O)$ nên $\\widehat{AKB}=90^\\circ$, suy ra $\\widehat{AKC}=90^\\circ$.",
@@ -451,7 +817,9 @@
       "diem": 0.75,
       "loai": "tuluan",
       "deBai": "<p>Với hình vẽ câu 23a, chứng minh $BM^2=BK\\cdot BC$.</p>",
-      "goiY": ["Chứng minh $\\triangle BEC\\sim\\triangle BKA$, sau đó dùng hệ thức lượng trong tam giác $ABM$ vuông tại $M$."],
+      "goiY": [
+        "Chứng minh $\\triangle BEC\\sim\\triangle BKA$, sau đó dùng hệ thức lượng trong tam giác $ABM$ vuông tại $M$."
+      ],
       "loiGiai": [
         "$\\triangle BEC$ và $\\triangle BKA$ có $\\widehat{BEC}=\\widehat{BKA}=90^\\circ$ và $\\widehat{EBC}=\\widehat{KBA}$, nên đồng dạng.",
         "Suy ra $\\dfrac{BE}{BK}=\\dfrac{BC}{BA}\\Rightarrow BE\\cdot BA=BK\\cdot BC$.",
@@ -468,7 +836,9 @@
       "diem": 0.5,
       "loai": "tuluan",
       "deBai": "<p>Với hình vẽ câu 23a, gọi $I$ là giao điểm của hai đường thẳng $AK$ và $MN$; $D$ là giao điểm của hai đường thẳng $AC$ và $BI$. Chứng minh điểm $C$ cách đều ba cạnh của tam giác $DEK$.</p>",
-      "goiY": ["Chứng minh $C$ là trực tâm tam giác $IAB$, rồi chỉ ra $EC$, $DC$ là các đường phân giác của tam giác $DEK$."],
+      "goiY": [
+        "Chứng minh $C$ là trực tâm tam giác $IAB$, rồi chỉ ra $EC$, $DC$ là các đường phân giác của tam giác $DEK$."
+      ],
       "loiGiai": [
         "Trong tam giác $IAB$: $IE\\perp AB$ và $BK\\perp AI$ (do $\\widehat{AKB}=90^\\circ$), nên $C=IE\\cap BK$ là trực tâm. Suy ra $AC\\perp IB$, tức $\\widehat{CDB}=90^\\circ$.",
         "Lại có $\\widehat{CEB}=90^\\circ$ nên $B,D,C,E$ nội tiếp; và $A,B,D,K$ nội tiếp vì $\\widehat{ADB}=\\widehat{AKB}=90^\\circ$.",
@@ -486,7 +856,9 @@
       "diem": 0.5,
       "loai": "tuluan",
       "deBai": "<p>Chứng minh rằng nếu tất cả các cạnh của một tam giác luôn nhỏ hơn $2$ thì diện tích của tam giác đó nhỏ hơn $\\sqrt3$.</p>",
-      "goiY": ["Gọi góc nhỏ nhất của tam giác là $C$; khi đó $C\\le60^\\circ$ và $S=\\dfrac12ab\\sin C$."],
+      "goiY": [
+        "Gọi góc nhỏ nhất của tam giác là $C$; khi đó $C\\le60^\\circ$ và $S=\\dfrac12ab\\sin C$."
+      ],
       "loiGiai": [
         "Giả sử $AB\\le BC\\le CA<2$. Khi đó $\\widehat C\\le\\widehat A\\le\\widehat B$ và $\\widehat A+\\widehat B+\\widehat C=180^\\circ$ nên $\\widehat C\\le60^\\circ$.",
         "$S_{ABC}=\\dfrac12\\cdot CA\\cdot CB\\cdot\\sin\\widehat C<\\dfrac12\\cdot2\\cdot2\\cdot\\sin60^\\circ=\\sqrt3$."
@@ -501,8 +873,12 @@
       "diem": 0.5,
       "loai": "dapanso",
       "deBai": "<p>Cho các số thực $a,b,c$ sao cho phương trình $ax^2+bx+c+2022=0$ nhận $x=1$ là nghiệm. Tìm giá trị nhỏ nhất của biểu thức</p><p>$P=\\sqrt{3a^2-2ab+3b^2}+\\sqrt{5b^2-6bc+5c^2}+\\sqrt{6c^2-8ca+6a^2}$.</p>",
-      "dapAn": ["4044"],
-      "goiY": ["Từ giả thiết $a+b+c=-2022$. Đưa mỗi căn về dạng $\\sqrt{(a+b)^2+2(a-b)^2}\\ge|a+b|$."],
+      "dapAn": [
+        "4044"
+      ],
+      "goiY": [
+        "Từ giả thiết $a+b+c=-2022$. Đưa mỗi căn về dạng $\\sqrt{(a+b)^2+2(a-b)^2}\\ge|a+b|$."
+      ],
       "loiGiai": [
         "$x=1$ là nghiệm nên $a+b+c+2022=0$, tức $a+b+c=-2022$.",
         "$\\sqrt{3a^2-2ab+3b^2}=\\sqrt{(a+b)^2+2(a-b)^2}\\ge|a+b|$; tương tự $\\sqrt{5b^2-6bc+5c^2}\\ge|b+c|$ và $\\sqrt{6c^2-8ca+6a^2}\\ge|c+a|$.",
