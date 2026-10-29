@@ -74,6 +74,24 @@
       "capNhat": "2026-10-29"
     },
     {
+      "id": "quang-nam-2025",
+      "tinh": "Quảng Nam",
+      "nam": 2025,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT công lập môn Toán — năm học 2025–2026",
+      "thoiGian": 90,
+      "soCau": 17,
+      "soY": 23,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Quảng Nam — đề chính thức",
+        "url": "https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-quang-nam.html"
+      },
+      "file": "data/exams/quang-nam-2025.json",
+      "capNhat": "2026-10-29"
+    },
+    {
       "id": "son-la-2025",
       "tinh": "Sơn La",
       "nam": 2025,
@@ -182,6 +200,24 @@
       "capNhat": "2026-10-29"
     },
     {
+      "id": "lam-dong-2024",
+      "tinh": "Lâm Đồng",
+      "nam": 2024,
+      "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT chuyên — môn Toán (không chuyên) — năm học 2024–2025",
+      "thoiGian": 90,
+      "soCau": 12,
+      "soY": 12,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức kỳ thi tuyển sinh vào lớp 10 THPT chuyên Lâm Đồng, môn Toán (không chuyên), thi ngày 05/6/2024, gồm 12 câu, thời gian 90 phút. Đây là đề môn Toán (không chuyên) của kỳ thi vào trường THPT chuyên, không phải đề tuyển sinh lớp 10 THPT thường. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Lâm Đồng — đề chính thức, môn Toán (không chuyên)",
+        "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-chuyen-mon-toan-khong-chuyen-nam-2024-2025-so-gddt-lam-dong.html"
+      },
+      "file": "data/exams/lam-dong-2024.json",
+      "capNhat": "2026-10-29"
+    },
+    {
       "id": "nam-dinh-2024",
       "tinh": "Nam Định",
       "nam": 2024,
@@ -197,6 +233,24 @@
         "url": "https://thcs.toanmath.com/2024/05/de-tuyen-sinh-lop-10-chuyen-mon-toan-chung-nam-2024-2025-so-gddt-nam-dinh.html"
       },
       "file": "data/exams/nam-dinh-2024.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "quang-tri-2024",
+      "tinh": "Quảng Trị",
+      "nam": 2024,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025 (mã đề 01)",
+      "thoiGian": 90,
+      "soCau": 16,
+      "soY": 22,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Quảng Trị — đề chính thức, mã đề 01",
+        "url": "https://danviet.vn/de-thi-mon-toan-vao-lop-10-nam-2024-cua-quang-tri-co-dap-an-20240531121239589-d1164293.html"
+      },
+      "file": "data/exams/quang-tri-2024.json",
       "capNhat": "2026-10-29"
     },
     {
@@ -236,6 +290,24 @@
       "capNhat": "2026-10-29"
     },
     {
+      "id": "binh-dinh-2023",
+      "tinh": "Bình Định",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 12,
+      "mucDo": "Trung bình – khá",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Bình Định — đề chính thức (không chuyên)",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-binh-dinh.html"
+      },
+      "file": "data/exams/binh-dinh-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
       "id": "dien-bien-2023",
       "tinh": "Điện Biên",
       "nam": 2023,
@@ -254,6 +326,42 @@
       "capNhat": "2026-10-29"
     },
     {
+      "id": "dong-nai-2023",
+      "tinh": "Đồng Nai",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 12,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 02/6/2023, gồm 5 câu, thời gian 120 phút. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Đồng Nai — đề chính thức",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-dong-nai.html"
+      },
+      "file": "data/exams/dong-nai-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "ha-tinh-2023",
+      "tinh": "Hà Tĩnh",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024 (mã đề 01)",
+      "thoiGian": 90,
+      "soCau": 7,
+      "soY": 10,
+      "mucDo": "Trung bình – khá",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hà Tĩnh — đề chính thức, mã đề 01",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-ha-tinh.html"
+      },
+      "file": "data/exams/ha-tinh-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
       "id": "hai-phong-2023",
       "tinh": "Hải Phòng",
       "nam": 2023,
@@ -269,6 +377,24 @@
         "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-hai-phong.html"
       },
       "file": "data/exams/hai-phong-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "khanh-hoa-2023",
+      "tinh": "Khánh Hòa",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 11,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Khánh Hòa — đề chính thức",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-khanh-hoa.html"
+      },
+      "file": "data/exams/khanh-hoa-2023.json",
       "capNhat": "2026-10-29"
     },
     {
@@ -323,6 +449,60 @@
         "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-nghe-an.html"
       },
       "file": "data/exams/nghe-an-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "phu-yen-2023",
+      "tinh": "Phú Yên",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024",
+      "thoiGian": 120,
+      "soCau": 16,
+      "soY": 21,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Phú Yên — đề chính thức",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2023-2024-so-gddt-phu-yen.html"
+      },
+      "file": "data/exams/phu-yen-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "quang-binh-2023",
+      "tinh": "Quảng Bình",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán (chung) — năm học 2023–2024 (mã đề 003)",
+      "thoiGian": 90,
+      "soCau": 4,
+      "soY": 9,
+      "mucDo": "Trung bình – khá",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Quảng Bình — đề chính thức, mã đề 003",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2023-2024-so-gddt-quang-binh.html"
+      },
+      "file": "data/exams/quang-binh-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "quang-ngai-2023",
+      "tinh": "Quảng Ngãi",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 13,
+      "mucDo": "Trung bình – khá",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Quảng Ngãi — đề chính thức (không chuyên)",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-quang-ngai.html"
+      },
+      "file": "data/exams/quang-ngai-2023.json",
       "capNhat": "2026-10-29"
     },
     {

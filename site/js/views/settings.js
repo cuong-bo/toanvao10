@@ -86,7 +86,7 @@ export function caiDat() {
         </div>
         <div class="card card-pad" style="margin-top:14px">
           <h2 style="font-size:1.05rem">Về web này</h2>
-          <p class="small muted">Trạm tiếp sức Toán vào 10 — web ôn thi miễn phí cho học sinh lớp 9 khu vực Tây Bắc. Đề thi ghi rõ nguồn; lời giải do nhóm biên soạn.</p>
+          <p class="small muted">Trạm tiếp sức Toán vào 10 — web ôn thi miễn phí cho học sinh lớp 9 cả nước. Đề thi ghi rõ nguồn; lời giải do nhóm biên soạn.</p>
           <div class="btn-row">
             <a class="btn small" href="#/gioi-thieu">Giới thiệu &amp; bản quyền</a>
           </div>

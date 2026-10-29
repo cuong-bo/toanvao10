@@ -1,0 +1,415 @@
+{
+  "id": "quang-nam-2025",
+  "tinh": "Quảng Nam",
+  "nam": 2025,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT công lập môn Toán — năm học 2025–2026",
+  "thoiGian": 90,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Quảng Nam — đề chính thức",
+    "url": "https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-quang-nam.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1",
+      "soCau": 1,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cặp số nào sau đây là một nghiệm của phương trình $x+y=2$?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$(1;-1)$" },
+        { "ma": "B", "noiDung": "$(-1;-1)$" },
+        { "ma": "C", "noiDung": "$(1;1)$" },
+        { "ma": "D", "noiDung": "$(-1;1)$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Thay lần lượt các cặp số vào phương trình."],
+      "loiGiai": ["Với $x=1,\\ y=1$ ta có $1+1=2$ nên $(1;1)$ là nghiệm. Chọn C."]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điều kiện xác định của phương trình $\\dfrac1x=1$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x\\ge0$." },
+        { "ma": "B", "noiDung": "$x\\ne0$." },
+        { "ma": "C", "noiDung": "$x\\lt0$." },
+        { "ma": "D", "noiDung": "$x=1$." }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Mẫu thức phải khác $0$."],
+      "loiGiai": ["Phương trình xác định khi $x\\ne0$. Chọn B."]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $a\\le b$. Khẳng định nào sau đây đúng?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$a+3>b+3$." },
+        { "ma": "B", "noiDung": "$a+3\\lt b+3$." },
+        { "ma": "C", "noiDung": "$a+3\\ge b+3$." },
+        { "ma": "D", "noiDung": "$a+3\\le b+3$." }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Cộng cùng một số vào hai vế của bất đẳng thức."],
+      "loiGiai": ["Từ $a\\le b$, cộng $3$ vào hai vế được $a+3\\le b+3$. Chọn D."]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Bất phương trình nào sau đây là bất phương trình bậc nhất một ẩn $x$?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x^2-1\\lt0$." },
+        { "ma": "B", "noiDung": "$x^3-1>0$." },
+        { "ma": "C", "noiDung": "$2x-1\\ge0$." },
+        { "ma": "D", "noiDung": "$0x-1\\le0$." }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Bất phương trình bậc nhất một ẩn có dạng $ax+b\\lt0$ (hoặc $\\le0,>0,\\ge0$) với $a\\ne0$."],
+      "loiGiai": ["$2x-1\\ge0$ có dạng $ax+b\\ge0$ với $a=2\\ne0$ nên là bất phương trình bậc nhất một ẩn. Chọn C."]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điều kiện có nghĩa của $\\sqrt A$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$A\\le0$." },
+        { "ma": "B", "noiDung": "$A=0$." },
+        { "ma": "C", "noiDung": "$A\\ne0$." },
+        { "ma": "D", "noiDung": "$A\\ge0$." }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Căn bậc hai số học của số âm không xác định."],
+      "loiGiai": ["$\\sqrt A$ xác định khi $A\\ge0$. Chọn D."]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hệ phương trình nào sau đây <b>không phải</b> là hệ hai phương trình bậc nhất hai ẩn?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\begin{cases}0x+0y=1\\\\x-2y=4\\end{cases}$" },
+        { "ma": "B", "noiDung": "$\\begin{cases}2x=1\\\\x-2y=4\\end{cases}$" },
+        { "ma": "C", "noiDung": "$\\begin{cases}3y=1\\\\x-2y=4\\end{cases}$" },
+        { "ma": "D", "noiDung": "$\\begin{cases}2x+3y=1\\\\x-2y=4\\end{cases}$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Phương trình bậc nhất hai ẩn có dạng $ax+by=c$ với $a,b$ không đồng thời bằng $0$."],
+      "loiGiai": ["Phương trình $0x+0y=1$ có $a=b=0$ nên không là phương trình bậc nhất hai ẩn. Chọn A."]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Bảng thống kê kết quả học tập cuối kì II của 500 học sinh khối 9 ở một trường trung học cơ sở X như sau:</p><table><tr><td>Kết quả học tập</td><td>Tốt</td><td>Khá</td><td>Đạt</td><td>Chưa đạt</td></tr><tr><td>Số học sinh</td><td>160</td><td>180</td><td>150</td><td>10</td></tr></table><p>Kết quả học tập nào có số học sinh lớn nhất?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "Tốt." },
+        { "ma": "B", "noiDung": "Khá." },
+        { "ma": "C", "noiDung": "Đạt." },
+        { "ma": "D", "noiDung": "Chưa đạt." }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["So sánh các số $160,180,150,10$."],
+      "loiGiai": ["Số học sinh đạt loại Khá là $180$, lớn nhất trong bảng. Chọn B."]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho bảng tần số tương đối ghép nhóm như sau:</p><table><tr><td>Nhóm</td><td>$[4;8)$</td><td>$[8;12)$</td><td>$[12;16)$</td><td>$[16;20)$</td></tr><tr><td>Tần số tương đối</td><td>$30\\%$</td><td>$14\\%$</td><td>$21\\%$</td><td>$35\\%$</td></tr></table><p>Để vẽ biểu đồ tần số tương đối ghép nhóm dạng đoạn thẳng, ta dùng giá trị nào đại diện cho nhóm số liệu $[8;12)$?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$8$." },
+        { "ma": "B", "noiDung": "$10$." },
+        { "ma": "C", "noiDung": "$12$." },
+        { "ma": "D", "noiDung": "$14$." }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Giá trị đại diện của nhóm $[a;b)$ là $\\dfrac{a+b}{2}$."],
+      "loiGiai": ["Giá trị đại diện của nhóm $[8;12)$ là $\\dfrac{8+12}{2}=10$. Chọn B."]
+    },
+    {
+      "id": "c9",
+      "soCau": 9,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$ (Hình 1). Khẳng định nào sau đây đúng?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\sin B=\\dfrac{AC}{BC}$." },
+        { "ma": "B", "noiDung": "$\\sin B=\\dfrac{BC}{AC}$." },
+        { "ma": "C", "noiDung": "$\\sin B=\\dfrac{AB}{BC}$." },
+        { "ma": "D", "noiDung": "$\\sin B=\\dfrac{AC}{AB}$." }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Trong tam giác vuông, $\\sin$ của một góc nhọn bằng cạnh đối chia cạnh huyền."],
+      "loiGiai": ["Góc $B$ có cạnh đối là $AC$, cạnh huyền là $BC$ nên $\\sin B=\\dfrac{AC}{BC}$. Chọn A."]
+    },
+    {
+      "id": "c10",
+      "soCau": 10,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho đường tròn $(O)$. Hai điểm $A,B$ thuộc $(O)$ và $\\widehat{AOB}=60^\\circ$ (Hình 2). Số đo của cung $AmB$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$30^\\circ$." },
+        { "ma": "B", "noiDung": "$120^\\circ$." },
+        { "ma": "C", "noiDung": "$60^\\circ$." },
+        { "ma": "D", "noiDung": "$300^\\circ$." }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Số đo cung nhỏ bằng số đo góc ở tâm chắn cung đó."],
+      "loiGiai": ["Cung nhỏ $AmB$ bị chắn bởi góc ở tâm $\\widehat{AOB}=60^\\circ$ nên có số đo $60^\\circ$. Chọn C."]
+    },
+    {
+      "id": "c11",
+      "soCau": 11,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Trong các hình phẳng sau đây, hình phẳng nào có dạng là một đa giác đều?</p><p>Hình a: ngôi sao năm cánh; Hình b: hình chữ thập; Hình c: ngôi sao sáu cánh; Hình d: lục giác đều.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "Hình a." },
+        { "ma": "B", "noiDung": "Hình b." },
+        { "ma": "C", "noiDung": "Hình c." },
+        { "ma": "D", "noiDung": "Hình d." }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Đa giác đều có tất cả các cạnh bằng nhau và tất cả các góc bằng nhau."],
+      "loiGiai": ["Lục giác đều có sáu cạnh bằng nhau và sáu góc bằng nhau nên là đa giác đều. Chọn D."]
+    },
+    {
+      "id": "c12",
+      "soCau": 12,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường cao của hình nón trong Hình 3 là</p><p>Hình nón có đỉnh $S$, đáy là đường tròn tâm $O$, $AB$ là đường kính đáy.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$SA$." },
+        { "ma": "B", "noiDung": "$SO$." },
+        { "ma": "C", "noiDung": "$AB$." },
+        { "ma": "D", "noiDung": "$OB$." }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Đường cao của hình nón nối đỉnh với tâm đáy."],
+      "loiGiai": ["Đường cao của hình nón là đoạn $SO$ nối đỉnh $S$ với tâm $O$ của đáy. Chọn B."]
+    },
+    {
+      "id": "c13a",
+      "soCau": 13,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn biểu thức $A=\\sqrt{3^2\\cdot5}-\\dfrac{\\sqrt{10}}{\\sqrt2}$.</p>",
+      "dapAn": ["2√5"],
+      "goiY": ["Dùng $\\sqrt{a^2b}=|a|\\sqrt b$ và $\\dfrac{\\sqrt a}{\\sqrt b}=\\sqrt{\\dfrac ab}$."],
+      "loiGiai": [
+        "$A=3\\sqrt5-\\sqrt{\\dfrac{10}{2}}=3\\sqrt5-\\sqrt5$.",
+        "$A=2\\sqrt5$."
+      ]
+    },
+    {
+      "id": "c13b",
+      "soCau": 13,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị của hàm số $y=x^2$.</p>",
+      "goiY": ["Lập bảng giá trị với $x=-2,-1,0,1,2$ rồi vẽ parabol."],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2,-1,0,1,2$ tương ứng $y=4,1,0,1,4$.",
+        "Đồ thị là parabol đỉnh $O(0;0)$, nhận trục tung làm trục đối xứng, đi qua các điểm $(-2;4),(-1;1),(0;0),(1;1),(2;4)$."
+      ]
+    },
+    {
+      "id": "c14a",
+      "soCau": 14,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Dùng công thức nghiệm của phương trình bậc hai, giải phương trình $x^2+5x+6=0$.</p>",
+      "goiY": ["Tính $\\Delta=b^2-4ac$ rồi áp dụng công thức nghiệm."],
+      "loiGiai": [
+        "$\\Delta=5^2-4\\cdot1\\cdot6=25-24=1>0$.",
+        "$x_1=\\dfrac{-5+1}{2}=-2$, $x_2=\\dfrac{-5-1}{2}=-3$.",
+        "Vậy phương trình có hai nghiệm $x=-2$ và $x=-3$."
+      ]
+    },
+    {
+      "id": "c14b",
+      "soCau": 14,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Giải bất phương trình $3x+12\\lt0$.</p>",
+      "goiY": ["Chuyển $12$ sang vế phải rồi chia hai vế cho $3$."],
+      "loiGiai": [
+        "$3x\\lt-12$.",
+        "$x\\lt-4$.",
+        "Vậy nghiệm của bất phương trình là $x\\lt-4$."
+      ]
+    },
+    {
+      "id": "c14c",
+      "soCau": 14,
+      "y": "c",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho biết phương trình $x^2-5x+2=0$ có hai nghiệm $x_1,x_2$ đều khác $0$. Không giải phương trình, hãy tính giá trị của biểu thức $B=\\dfrac1{x_1}+\\dfrac1{x_2}$.</p>",
+      "dapAn": ["5/2"],
+      "goiY": ["Dùng Vi-ét: $x_1+x_2=5$, $x_1x_2=2$."],
+      "loiGiai": [
+        "Theo Vi-ét: $x_1+x_2=5$, $x_1x_2=2$.",
+        "$B=\\dfrac{x_1+x_2}{x_1x_2}=\\dfrac52$."
+      ]
+    },
+    {
+      "id": "c15a",
+      "soCau": 15,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Một cửa hàng có bán hai loại bút là bút bi và bút máy. Mỗi cây bút bi có giá bán $5000$ đồng và mỗi cây bút máy có giá bán $15000$ đồng. Trong một ngày chủ nhật, cửa hàng đã bán được tổng cộng $50$ cây bút hai loại trên và thu về được $520000$ đồng. Hỏi cửa hàng đã bán được bao nhiêu cây bút bi và bao nhiêu cây bút máy trong ngày hôm đó?</p>",
+      "goiY": ["Gọi $x,y$ lần lượt là số bút bi và bút máy, lập hệ phương trình từ tổng số cây và tổng số tiền."],
+      "loiGiai": [
+        "Gọi $x,y$ lần lượt là số cây bút bi và bút máy đã bán ($x,y\\in\\mathbb N$, $x,y\\le50$).",
+        "Tổng số cây: $x+y=50$ (1). Tổng số tiền: $5000x+15000y=520000$ (2).",
+        "Chia (2) cho $5000$: $x+3y=104$. Trừ (1) được $2y=54\\Rightarrow y=27$, suy ra $x=23$.",
+        "Vậy cửa hàng bán được $23$ cây bút bi và $27$ cây bút máy."
+      ]
+    },
+    {
+      "id": "c15b",
+      "soCau": 15,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Một tàu điện đứng lại ở một sân ga, có ba toa tàu mang số $1,2,3$ mở cửa đón khách. Hai bạn Hương và Giang mỗi người chọn ngẫu nhiên một toa để đi lên (không tính thứ tự lên trước, lên sau). Mô tả không gian mẫu của phép thử và tính xác suất của biến cố $E$: “Hương và Giang cùng đi lên một toa tàu”.</p>",
+      "dapAn": ["1/3"],
+      "goiY": ["Kết quả là cặp số $(a;b)$ với $a,b\\in\\{1;2;3\\}$."],
+      "loiGiai": [
+        "Không gian mẫu gồm $9$ kết quả: $(1;1),(1;2),(1;3),(2;1),(2;2),(2;3),(3;1),(3;2),(3;3)$.",
+        "Có $3$ kết quả thuận lợi cho $E$: $(1;1),(2;2),(3;3)$.",
+        "Vậy $P(E)=\\dfrac39=\\dfrac13$."
+      ]
+    },
+    {
+      "id": "c16a",
+      "soCau": 16,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác nhọn $ABC$ $(AB\\lt AC)$ nội tiếp đường tròn $(O)$. Ba đường cao $AD,BE,CF$ của tam giác $ABC$ đồng quy tại $H$. Chứng minh rằng tứ giác $CDHE$ nội tiếp đường tròn.</p>",
+      "goiY": ["Vẽ tam giác nhọn $ABC$ và ba đường cao $AD,BE,CF$ đúng vị trí; chứng minh $\\widehat{CDH}=\\widehat{CEH}=90^\\circ$."],
+      "loiGiai": [
+        "Vì $AD\\perp BC$ nên $\\widehat{CDH}=90^\\circ$; vì $BE\\perp AC$ nên $\\widehat{CEH}=90^\\circ$.",
+        "Hai điểm $D,E$ cùng nhìn đoạn $CH$ dưới một góc vuông nên $C,D,H,E$ cùng thuộc đường tròn đường kính $CH$.",
+        "Vậy tứ giác $CDHE$ nội tiếp đường tròn."
+      ]
+    },
+    {
+      "id": "c16b",
+      "soCau": 16,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác nhọn $ABC$ $(AB\\lt AC)$ nội tiếp đường tròn $(O)$, các đường cao $AD,BE,CF$ đồng quy tại $H$ (như câu 16a). Chứng minh rằng $\\widehat{EFC}=\\widehat{EBC}$ và $HE\\cdot DB=HF\\cdot DE$.</p>",
+      "goiY": ["Chứng minh $BCEF$ nội tiếp, sau đó chứng minh $\\triangle HEF\\sim\\triangle DEB$."],
+      "loiGiai": [
+        "Vì $\\widehat{BEC}=\\widehat{BFC}=90^\\circ$ nên $B,C,E,F$ cùng thuộc đường tròn đường kính $BC$, tức $BCEF$ nội tiếp.",
+        "Trong đường tròn này, $\\widehat{EFC}=\\widehat{EBC}$ (cùng chắn cung $EC$).",
+        "Ta có $\\widehat{EFH}=\\widehat{EFC}=\\widehat{EBC}=\\widehat{EBD}$ (vì $F,H,C$ thẳng hàng và $E,H,B$ thẳng hàng).",
+        "Mặt khác $\\widehat{FEH}=\\widehat{FEB}=\\widehat{FCB}$ (cùng chắn cung $FB$ của $BCEF$) $=\\widehat{HCD}$ (vì $F,H,C$ thẳng hàng) $=\\widehat{HED}$ (cùng chắn cung $HD$ của $CDHE$) $=\\widehat{BED}$.",
+        "Do đó $\\triangle HEF\\sim\\triangle DEB$ (g.g), suy ra $\\dfrac{HE}{DE}=\\dfrac{HF}{DB}$, tức $HE\\cdot DB=HF\\cdot DE$."
+      ]
+    },
+    {
+      "id": "c16c",
+      "soCau": 16,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác nhọn $ABC$ $(AB\\lt AC)$ nội tiếp đường tròn $(O)$, các đường cao $AD,BE,CF$ đồng quy tại $H$ (như câu 16a). Hai tiếp tuyến của đường tròn $(O)$ tại $B$ và $C$ cắt nhau tại $K$. Qua $K$ vẽ đường thẳng $d$ song song với $EF$, $d$ cắt hai đường thẳng $AB,AC$ lần lượt tại $M,N$. Chứng minh rằng $AM$ vuông góc với $BN$.</p>",
+      "goiY": ["Chứng minh $\\triangle KBM$ và $\\triangle KCN$ cân, từ đó $K$ là trung điểm $MN$."],
+      "loiGiai": [
+        "Vì $d\\parallel EF$ nên $\\widehat{BMK}=\\widehat{AFE}$ (đồng vị). Mà $\\widehat{AFE}=\\widehat{ACB}$ (do $BCEF$ nội tiếp), suy ra $\\widehat{BMK}=\\widehat{ACB}$.",
+        "Ta có $\\widehat{MBK}=90^\\circ-\\widehat{ABO}$ (vì $BK$ là tiếp tuyến tại $B$) $=\\dfrac12(180^\\circ-2\\widehat{ABO})=\\dfrac12\\widehat{AOB}=\\widehat{ACB}$.",
+        "Do đó $\\widehat{BMK}=\\widehat{MBK}$, nên tam giác $KBM$ cân tại $K$, suy ra $KB=KM$.",
+        "Tương tự, $\\widehat{CNK}=\\widehat{ABC}$ và $\\widehat{NCK}=\\widehat{ABC}$, nên tam giác $KCN$ cân tại $K$, suy ra $KC=KN$.",
+        "Lại có $KB=KC$ (hai tiếp tuyến kẻ từ $K$), nên $KM=KN$. Vì $M,K,N$ thẳng hàng nên $K$ là trung điểm của $MN$.",
+        "Do $KB=KM=KN$, điểm $B$ thuộc đường tròn đường kính $MN$, suy ra $\\widehat{MBN}=90^\\circ$, tức $AM\\perp BN$."
+      ]
+    },
+    {
+      "id": "c17",
+      "soCau": 17,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Đặt trên mặt bàn nằm ngang một cái ly thủy tinh đang chứa nước có dạng hình trụ với bán kính đáy $R=3$ cm, mực nước ban đầu trong ly cao $5$ cm. Sau đó, thả vào trong ly $6$ viên bi sắt cùng loại (không thấm nước) có dạng hình cầu với bán kính $r=1$ cm thì thấy mực nước trong ly dâng lên và không tràn ra ngoài. Hỏi chiều cao của mực nước trong ly sau khi thả $6$ viên bi đó vào là bao nhiêu centimét (bỏ qua độ dày của ly, làm tròn kết quả đến hàng phần trăm của cm)?</p>",
+      "dapAn": ["53/9", "5,89"],
+      "goiY": ["Tổng thể tích nước và $6$ viên bi bằng thể tích hình trụ có chiều cao mới."],
+      "loiGiai": [
+        "Thể tích nước ban đầu: $V_1=\\pi\\cdot3^2\\cdot5=45\\pi$ (cm$^3$).",
+        "Thể tích $6$ viên bi: $V_2=6\\cdot\\dfrac43\\pi\\cdot1^3=8\\pi$ (cm$^3$).",
+        "Tổng thể tích: $V=45\\pi+8\\pi=53\\pi$ (cm$^3$).",
+        "Gọi $h$ là chiều cao mực nước mới: $\\pi\\cdot3^2\\cdot h=53\\pi\\Rightarrow h=\\dfrac{53}{9}\\approx5,89$ cm."
+      ]
+    }
+  ]
+}

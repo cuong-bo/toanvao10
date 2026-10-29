@@ -1,0 +1,647 @@
+{
+  "id": "quang-tri-2024",
+  "tinh": "Quảng Trị",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025 (mã đề 01)",
+  "thoiGian": 90,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Quảng Trị — đề chính thức, mã đề 01",
+    "url": "https://danviet.vn/de-thi-mon-toan-vao-lop-10-nam-2024-cua-quang-tri-co-dap-an-20240531121239589-d1164293.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "tn1",
+      "soCau": 1,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hàm số nào sau đây nghịch biến trên $\\mathbb R$?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$y=\\dfrac13x+2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=7x-5$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=2x+5$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=-3x+1$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Hàm số $y=ax+b$ nghịch biến trên $\\mathbb R$ khi $a\\lt 0$."
+      ],
+      "loiGiai": [
+        "Chỉ có hàm số $y=-3x+1$ có hệ số $a=-3\\lt 0$ nên nghịch biến trên $\\mathbb R$. Chọn D."
+      ]
+    },
+    {
+      "id": "tn2",
+      "soCau": 2,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hệ số góc của đường thẳng $y=2024x+2025$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$-2024$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$2025$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2024$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$-2025$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Hệ số góc là hệ số của $x$ trong $y=ax+b$."
+      ],
+      "loiGiai": [
+        "Hệ số góc là $2024$. Chọn C."
+      ]
+    },
+    {
+      "id": "tn3",
+      "soCau": 3,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cặp số nào sau đây là một nghiệm của phương trình $x+y=3$?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$(1;2)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$(3;1)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$(3;2)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$(4;1)$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Thay lần lượt các cặp số vào phương trình."
+      ],
+      "loiGiai": [
+        "Với $x=1,y=2$: $1+2=3$ (đúng). Chọn A."
+      ]
+    },
+    {
+      "id": "tn4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Nghiệm của hệ phương trình $\\begin{cases}2x+y=5\\\\x-y=1\\end{cases}$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$(1;3)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$(0;5)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$(2;1)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$(1;0)$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Cộng hai phương trình để khử $y$."
+      ],
+      "loiGiai": [
+        "Cộng hai phương trình: $3x=6\\Rightarrow x=2$; từ $x-y=1$ suy ra $y=1$. Chọn C."
+      ]
+    },
+    {
+      "id": "tn5",
+      "soCau": 5,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hàm số $y=5x^2$ đồng biến khi</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x\\lt 0$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x>0$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x\\in\\mathbb R$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x\\lt -5$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Với $a>0$, hàm số $y=ax^2$ đồng biến khi $x>0$."
+      ],
+      "loiGiai": [
+        "Vì $a=5>0$ nên hàm số đồng biến khi $x>0$. Chọn B."
+      ]
+    },
+    {
+      "id": "tn6",
+      "soCau": 6,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giả sử phương trình $ax^2+bx+c=0$ ($a\\ne0$) có hai nghiệm $x_1,x_2$. Khi đó $x_1x_2$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$-\\dfrac ca$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$-\\dfrac ba$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\dfrac ba$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\dfrac ca$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Định lí Vi-ét."
+      ],
+      "loiGiai": [
+        "Theo Vi-ét, $x_1x_2=\\dfrac ca$. Chọn D."
+      ]
+    },
+    {
+      "id": "tn7",
+      "soCau": 7,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$ ($H\\in BC$). Hệ thức nào sau đây đúng?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$AH^2=AB\\cdot AC$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$AH^2=BH\\cdot CH$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$AH^2=AB\\cdot BH$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$AH^2=CH\\cdot BC$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Hệ thức lượng trong tam giác vuông."
+      ],
+      "loiGiai": [
+        "Trong tam giác vuông, $AH^2=BH\\cdot CH$. Chọn B."
+      ]
+    },
+    {
+      "id": "tn8",
+      "soCau": 8,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $\\triangle ABC$ vuông tại $A$. Trong các khẳng định sau, khẳng định nào sai?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\cot B=\\dfrac{BC}{AB}$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\cos B=\\dfrac{AB}{BC}$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\tan B=\\dfrac{AC}{AB}$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\sin B=\\dfrac{AC}{BC}$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Dùng định nghĩa tỉ số lượng giác trong tam giác vuông."
+      ],
+      "loiGiai": [
+        "$\\cot B=\\dfrac{AB}{AC}$, không phải $\\dfrac{BC}{AB}$. Chọn A."
+      ]
+    },
+    {
+      "id": "tn9",
+      "soCau": 9,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Một đường tròn có bao nhiêu trục đối xứng?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$0$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "Vô số"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Mọi đường thẳng đi qua tâm đều là trục đối xứng của đường tròn."
+      ],
+      "loiGiai": [
+        "Đường tròn có vô số trục đối xứng (mọi đường kính). Chọn D."
+      ]
+    },
+    {
+      "id": "tn10",
+      "soCau": 10,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho đường tròn $(O)$ và cung nhỏ $AmB$ có số đo $80^\\circ$. Số đo $\\widehat{AOB}$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$40^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$80^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$160^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$100^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Góc ở tâm có số đo bằng số đo cung bị chắn."
+      ],
+      "loiGiai": [
+        "$\\widehat{AOB}$ là góc ở tâm chắn cung $AmB$ nên $\\widehat{AOB}=80^\\circ$. Chọn B."
+      ]
+    },
+    {
+      "id": "tn11",
+      "soCau": 11,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho đường tròn $(O)$ có cung nhỏ $PQ$ lớn hơn cung nhỏ $MN$, khi đó</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$MN\\lt PQ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$MN>PQ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$MN=PQ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$MN=5PQ$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Trong một đường tròn, cung lớn hơn căng dây lớn hơn."
+      ],
+      "loiGiai": [
+        "Cung $PQ$ lớn hơn cung $MN$ nên dây $PQ>MN$, tức $MN\\lt PQ$. Chọn A."
+      ]
+    },
+    {
+      "id": "tn12",
+      "soCau": 12,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho đường tròn $(O)$ và ba điểm $A,B,C$ thuộc đường tròn. Góc $BAC$ được gọi là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "góc ở tâm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "góc tạo bởi tia tiếp tuyến và dây cung"
+        },
+        {
+          "ma": "C",
+          "noiDung": "góc nội tiếp"
+        },
+        {
+          "ma": "D",
+          "noiDung": "góc có đỉnh nằm ở bên ngoài đường tròn"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Đỉnh $A$ nằm trên đường tròn, hai cạnh là hai dây cung."
+      ],
+      "loiGiai": [
+        "Góc $BAC$ có đỉnh $A$ nằm trên đường tròn và hai cạnh là các dây cung nên là góc nội tiếp. Chọn C."
+      ]
+    },
+    {
+      "id": "c1a",
+      "soCau": 13,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần II – Câu 1.</b> Rút gọn biểu thức $A=\\sqrt{18}-\\sqrt2$.</p>",
+      "dapAn": [
+        "2√2",
+        "2sqrt2"
+      ],
+      "goiY": [
+        "$\\sqrt{18}=3\\sqrt2$."
+      ],
+      "loiGiai": [
+        "$A=3\\sqrt2-\\sqrt2=2\\sqrt2$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 13,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn biểu thức $B=\\dfrac{a+\\sqrt a}{\\sqrt a+1}$ với $a\\ge0$.</p>",
+      "goiY": [
+        "Phân tích tử: $a+\\sqrt a=\\sqrt a(\\sqrt a+1)$."
+      ],
+      "loiGiai": [
+        "$B=\\dfrac{\\sqrt a(\\sqrt a+1)}{\\sqrt a+1}=\\sqrt a$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 13,
+      "y": "2",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Không dùng máy tính cầm tay, giải phương trình $x^2-7x+12=0$.</p>",
+      "goiY": [
+        "Tính $\\Delta=(-7)^2-4\\cdot1\\cdot12=1$."
+      ],
+      "loiGiai": [
+        "$\\Delta=49-48=1$, $\\sqrt\\Delta=1$.",
+        "$x_1=\\dfrac{7+1}{2}=4$, $x_2=\\dfrac{7-1}{2}=3$.",
+        "Vậy phương trình có hai nghiệm $x=4$ và $x=3$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 14,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p><b>Phần II – Câu 2.</b> Cho parabol $(P):y=x^2$ và đường thẳng $(d):y=mx-m+2$ ($m$ là tham số). Vẽ parabol $(P)$.</p>",
+      "goiY": [
+        "Lập bảng giá trị với các điểm đối xứng qua trục $Oy$."
+      ],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2,-1,0,1,2$ tương ứng $y=4,1,0,1,4$.",
+        "Vẽ parabol đi qua các điểm $(-2;4),(-1;1),(0;0),(1;1),(2;4)$, nhận trục $Oy$ làm trục đối xứng."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 14,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và đường thẳng $(d):y=mx-m+2$ ($m$ là tham số). Chứng minh rằng $(d)$ và $(P)$ luôn cắt nhau tại hai điểm phân biệt với mọi giá trị của $m$.</p>",
+      "goiY": [
+        "Xét phương trình hoành độ giao điểm và chứng minh $\\Delta>0$ với mọi $m$."
+      ],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $x^2=mx-m+2\\Leftrightarrow x^2-mx+m-2=0$.",
+        "$\\Delta=m^2-4(m-2)=m^2-4m+8=(m-2)^2+4>0$ với mọi $m$.",
+        "Vậy $(d)$ và $(P)$ luôn cắt nhau tại hai điểm phân biệt."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 14,
+      "y": "c",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và đường thẳng $(d):y=mx-m+2$ ($m$ là tham số). Gọi $x_1,x_2$ là hoành độ các giao điểm của $(d)$ và $(P)$. Tìm $m$ để $x_1,x_2$ là độ dài hai cạnh góc vuông của một tam giác vuông có độ dài đường cao ứng với cạnh huyền bằng $\\dfrac{\\sqrt7}{7}$.</p>",
+      "dapAn": [
+        "3"
+      ],
+      "goiY": [
+        "Vì $x_1,x_2$ là độ dài hai cạnh góc vuông nên $x_1>0,x_2>0$, suy ra $m>2$.",
+        "Dùng Vi-ét và hệ thức $\\dfrac1{h^2}=\\dfrac1{x_1^2}+\\dfrac1{x_2^2}$."
+      ],
+      "loiGiai": [
+        "Theo câu 2b, $x_1,x_2$ là hai nghiệm của $x^2-mx+m-2=0$. Theo Vi-ét: $x_1+x_2=m$, $x_1x_2=m-2$.",
+        "Vì $x_1,x_2>0$ nên $x_1+x_2=m>0$ và $x_1x_2=m-2>0$, suy ra $m>2$.",
+        "Với $h=\\dfrac{\\sqrt7}{7}$, ta có $\\dfrac1{h^2}=7$. Do đó $7=\\dfrac1{x_1^2}+\\dfrac1{x_2^2}=\\dfrac{x_1^2+x_2^2}{(x_1x_2)^2}$.",
+        "Ta có $x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2=m^2-2(m-2)=m^2-2m+4$.",
+        "Suy ra $7=\\dfrac{m^2-2m+4}{(m-2)^2}\\Leftrightarrow m^2-2m+4=7(m^2-4m+4)$.",
+        "$\\Leftrightarrow6m^2-26m+24=0\\Leftrightarrow3m^2-13m+12=0\\Leftrightarrow m=3$ hoặc $m=\\dfrac43$.",
+        "Kết hợp $m>2$ được $m=3$. Vậy $m=3$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 15,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần II – Câu 3.</b> Một nhóm học sinh được giao nhiệm vụ chuyển $180$ cuốn sách từ thư viện về lớp học, số cuốn sách mỗi học sinh chuyển là như nhau. Đến lúc thực hiện, có $3$ bạn được phân công làm việc khác nên mỗi học sinh còn lại trong nhóm phải chuyển thêm $2$ cuốn sách nữa mới hết số sách trên. Hỏi ban đầu nhóm có bao nhiêu học sinh?</p>",
+      "dapAn": [
+        "18"
+      ],
+      "goiY": [
+        "Gọi $x$ là số học sinh ban đầu; lập phương trình $\\dfrac{180}{x-3}-\\dfrac{180}{x}=2$."
+      ],
+      "loiGiai": [
+        "Gọi $x$ là số học sinh ban đầu ($x\\in\\mathbb N$, $x>3$).",
+        "Số sách mỗi học sinh dự kiến chuyển là $\\dfrac{180}{x}$; thực tế là $\\dfrac{180}{x-3}$.",
+        "Theo đề bài: $\\dfrac{180}{x-3}-\\dfrac{180}{x}=2$.",
+        "$\\Leftrightarrow180x-180(x-3)=2x(x-3)\\Leftrightarrow x^2-3x-270=0$.",
+        "$\\Leftrightarrow x=18$ hoặc $x=-15$. Loại $x=-15$.",
+        "Vậy ban đầu nhóm có $18$ học sinh."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 16,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p><b>Phần II – Câu 4.</b> Cho tứ giác $ABCD$ nội tiếp đường tròn tâm $O$ có $AD$ là đường kính, $BC$ không song song với $AD$. Gọi $E$ là giao điểm của $AC$ và $BD$. Từ $E$ kẻ $EF$ vuông góc với $AD$ ($F\\in AD$). Chứng minh tứ giác $ABEF$ nội tiếp.</p>",
+      "goiY": [
+        "$\\widehat{ABD}=90^\\circ$ và $\\widehat{AFE}=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $AD$ là đường kính nên $\\widehat{ABD}=90^\\circ$, do đó $\\widehat{ABE}=90^\\circ$.",
+        "Vì $EF\\perp AD$ nên $\\widehat{AFE}=90^\\circ$.",
+        "Tứ giác $ABEF$ có $\\widehat{ABE}+\\widehat{AFE}=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 16,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tứ giác $ABCD$ nội tiếp đường tròn tâm $O$ có $AD$ là đường kính, $BC$ không song song với $AD$. Gọi $E$ là giao điểm của $AC$ và $BD$. Từ $E$ kẻ $EF$ vuông góc với $AD$ ($F\\in AD$). Chứng minh $CA$ là tia phân giác của góc $BCF$.</p>",
+      "goiY": [
+        "Chứng minh $CDEF$ nội tiếp, rồi dùng các góc nội tiếp."
+      ],
+      "loiGiai": [
+        "Vì $AD$ là đường kính nên $\\widehat{DCA}=90^\\circ$; do $E\\in AC$ nên $\\widehat{DCE}=90^\\circ$.",
+        "Lại có $\\widehat{DFE}=90^\\circ$ (vì $EF\\perp AD$), nên $CDEF$ là tứ giác nội tiếp.",
+        "Suy ra $\\widehat{ECF}=\\widehat{EDF}$ (cùng chắn cung $EF$).",
+        "Mà $\\widehat{EDF}=\\widehat{BDA}$ (vì $E\\in BD$, $F\\in DA$) và $\\widehat{BDA}=\\widehat{BCA}$ (cùng chắn cung $AB$).",
+        "Do đó $\\widehat{ECF}=\\widehat{BCA}$; vì $E\\in CA$ nên $\\widehat{ACF}=\\widehat{BCA}$. Vậy $CA$ là tia phân giác của $\\widehat{BCF}$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 16,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tứ giác $ABCD$ nội tiếp đường tròn tâm $O$ có $AD$ là đường kính, $BC$ không song song với $AD$. Gọi $E$ là giao điểm của $AC$ và $BD$. Từ $E$ kẻ $EF$ vuông góc với $AD$ ($F\\in AD$). Gọi $M$ là giao điểm của $AB$ và $DC$, $N$ là giao điểm của $CB$ và $DA$. Chứng minh $MB\\cdot MA+NB\\cdot NC=MN^2$.</p>",
+      "goiY": [
+        "Chứng minh $E$ là trực tâm tam giác $AMD$, từ đó $M,E,F$ thẳng hàng.",
+        "Kẻ $EH\\perp MN$ và dùng các cặp tam giác đồng dạng."
+      ],
+      "loiGiai": [
+        "Trong tam giác $AMD$, $BD\\perp AM$ và $AC\\perp DM$ nên $E$ là trực tâm, suy ra $ME\\perp AD$. Mà $EF\\perp AD$ nên $M,E,F$ thẳng hàng.",
+        "Kẻ $EH\\perp MN$ tại $H$. Vì $\\widehat{MHE}=\\widehat{MCE}=\\widehat{MBE}=90^\\circ$, các điểm $M,H,B,E,C$ cùng thuộc đường tròn đường kính $ME$.",
+        "Tứ giác $MHBC$ nội tiếp nên $\\widehat{NHB}=\\widehat{NCM}$ (góc ngoài tại một đỉnh bằng góc trong của đỉnh đối diện).",
+        "Kết hợp $\\widehat{HNB}=\\widehat{CNM}$, suy ra $\\triangle NBH\\sim\\triangle NMC$, do đó $\\dfrac{NB}{NM}=\\dfrac{NH}{NC}$, tức $NB\\cdot NC=NH\\cdot NM$.",
+        "Tương tự, $N,H,E,F$ cùng thuộc đường tròn đường kính $EN$; $\\triangle MHE\\sim\\triangle MFN$ nên $MH\\cdot MN=ME\\cdot MF$.",
+        "Lại có $\\triangle MBE\\sim\\triangle MFA$ nên $MB\\cdot MA=ME\\cdot MF$.",
+        "Trong trường hợp $H$ nằm giữa $M$ và $N$ (như hình của đề), ta có $MB\\cdot MA+NB\\cdot NC=MH\\cdot MN+NH\\cdot MN=MN(MH+NH)=MN^2$."
+      ]
+    }
+  ]
+}

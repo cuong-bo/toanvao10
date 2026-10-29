@@ -6,7 +6,7 @@ import { escapeHtml, chuanHoa, $ } from '../utils.js';
 export async function danhSachDe({ query }) {
   const catalog = await taiCatalog();
   const state = getState();
-  const tinhList = [...new Set(catalog.map((d) => d.tinh).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'vi'));
+  const tinhList = [...new Set(catalog.filter((d) => !d.deMau).map((d) => d.tinh).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'vi'));
   const namList = [...new Set(catalog.map((d) => d.nam).filter(Boolean))].sort((a, b) => b - a);
 
   const giaTri = {
@@ -20,7 +20,7 @@ export async function danhSachDe({ query }) {
       <div>
         <div class="eyebrow">Thư viện đề</div>
         <h1>Đề thi vào lớp 10</h1>
-        <p class="lead">Đề chính thức của các tỉnh Tây Bắc và lân cận, kèm lời giải tự soạn. Lọc theo tỉnh, năm hoặc tìm nhanh.</p>
+        <p class="lead">Đề chính thức của các tỉnh/thành cả nước, kèm lời giải tự soạn. Lọc theo tỉnh, năm hoặc tìm nhanh.</p>
       </div>
     </div>
 

@@ -1,0 +1,226 @@
+{
+  "id": "binh-dinh-2023",
+  "tinh": "Bình Định",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình – khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Bình Định — đề chính thức (không chuyên)",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-binh-dinh.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}5x+3y=1\\\\x-3y=5\\end{cases}$.</p>",
+      "goiY": ["Cộng hai phương trình để khử $y$."],
+      "loiGiai": [
+        "Cộng hai phương trình: $6x=6\\Rightarrow x=1$.",
+        "Thay $x=1$ vào $x-3y=5$: $1-3y=5\\Rightarrow y=-\\dfrac43$.",
+        "Vậy hệ có nghiệm $(x;y)=\\left(1;-\\dfrac43\\right)$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho biểu thức $P=\\dfrac{\\sqrt x}{\\sqrt x+4}+\\dfrac{3\\sqrt x}{\\sqrt x-4}-\\dfrac{4x+32}{x-16}$ với $x\\ge0,\\ x\\ne16$. Rút gọn biểu thức $P$.</p>",
+      "goiY": ["Quy đồng mẫu $(\\sqrt x+4)(\\sqrt x-4)=x-16$."],
+      "loiGiai": [
+        "$P=\\dfrac{\\sqrt x(\\sqrt x-4)+3\\sqrt x(\\sqrt x+4)-(4x+32)}{(\\sqrt x+4)(\\sqrt x-4)}$.",
+        "$=\\dfrac{x-4\\sqrt x+3x+12\\sqrt x-4x-32}{(\\sqrt x+4)(\\sqrt x-4)}=\\dfrac{8\\sqrt x-32}{(\\sqrt x+4)(\\sqrt x-4)}$.",
+        "$=\\dfrac{8(\\sqrt x-4)}{(\\sqrt x+4)(\\sqrt x-4)}=\\dfrac8{\\sqrt x+4}$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "2b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho biểu thức $P=\\dfrac{\\sqrt x}{\\sqrt x+4}+\\dfrac{3\\sqrt x}{\\sqrt x-4}-\\dfrac{4x+32}{x-16}$ với $x\\ge0,\\ x\\ne16$. Tìm giá trị lớn nhất của $P$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Từ câu 2a, $P=\\dfrac8{\\sqrt x+4}$ và $\\sqrt x\\ge0$."],
+      "loiGiai": [
+        "Theo câu 2a, $P=\\dfrac8{\\sqrt x+4}$.",
+        "Vì $\\sqrt x\\ge0$ nên $\\sqrt x+4\\ge4$, suy ra $P\\le\\dfrac84=2$.",
+        "Dấu bằng xảy ra khi $x=0$. Vậy giá trị lớn nhất của $P$ là $2$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-(m+3)x+\\dfrac14m^2+1=0$ ($m$ là tham số). Tìm tất cả các giá trị của $m$ để phương trình có hai nghiệm phân biệt $x_1,x_2$ thỏa mãn điều kiện $2(x_1+x_2)^2-8x_1x_2=34$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Tính $\\Delta$, tìm điều kiện có hai nghiệm phân biệt rồi dùng Vi-ét."],
+      "loiGiai": [
+        "$\\Delta=(m+3)^2-4\\left(\\dfrac14m^2+1\\right)=m^2+6m+9-m^2-4=6m+5$.",
+        "Phương trình có hai nghiệm phân biệt khi $6m+5>0\\Leftrightarrow m>-\\dfrac56$ (*).",
+        "Theo Vi-ét: $x_1+x_2=m+3$, $x_1x_2=\\dfrac14m^2+1$.",
+        "Điều kiện: $2(m+3)^2-8\\left(\\dfrac14m^2+1\\right)=34$.",
+        "$\\Leftrightarrow2(m^2+6m+9)-2m^2-8=34\\Leftrightarrow12m+10=34\\Leftrightarrow m=2$ (thỏa mãn (*)).",
+        "Vậy $m=2$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Trong hệ tọa độ $Oxy$, cho các đường thẳng $(d):y=ax-4$ và $(d_1):y=-3x+2$. Biết đường thẳng $(d)$ đi qua điểm $A(-1;5)$. Tìm $a$.</p>",
+      "dapAn": ["-9"],
+      "goiY": ["Thay tọa độ $A(-1;5)$ vào phương trình của $(d)$."],
+      "loiGiai": [
+        "$A(-1;5)\\in(d)$ nên $5=a\\cdot(-1)-4$.",
+        "Suy ra $-a=9\\Rightarrow a=-9$."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "2b",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Trong hệ tọa độ $Oxy$, cho đường thẳng $(d_1):y=-3x+2$. Tìm tọa độ giao điểm của $(d_1)$ với trục hoành, trục tung. Tính khoảng cách từ gốc tọa độ $O$ đến đường thẳng $(d_1)$.</p>",
+      "goiY": ["Tìm giao điểm với hai trục rồi dùng hệ thức $\\dfrac1{OH^2}=\\dfrac1{OM^2}+\\dfrac1{ON^2}$."],
+      "loiGiai": [
+        "Với $y=0$: $0=-3x+2\\Rightarrow x=\\dfrac23$. Giao điểm với trục hoành là $M\\left(\\dfrac23;0\\right)$.",
+        "Với $x=0$: $y=2$. Giao điểm với trục tung là $N(0;2)$.",
+        "Gọi $H$ là hình chiếu của $O$ lên $(d_1)$. Trong tam giác vuông $OMN$: $\\dfrac1{OH^2}=\\dfrac1{OM^2}+\\dfrac1{ON^2}=\\dfrac94+\\dfrac14=\\dfrac52$.",
+        "Suy ra $OH^2=\\dfrac25$ và $OH=\\dfrac{\\sqrt{10}}5$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Trong kì thi tuyển sinh vào lớp 10 THPT, cả hai trường A và B có tổng số $380$ thí sinh dự thi. Sau khi có kết quả, số thí sinh trúng tuyển của cả hai trường là $191$ thí sinh. Theo thống kê thì trường A có tỉ lệ trúng tuyển là $55\\%$ tổng số thí sinh dự thi của trường A, trường B có tỉ lệ trúng tuyển là $45\\%$ tổng số thí sinh dự thi của trường B. Hỏi mỗi trường có bao nhiêu thí sinh dự thi?</p>",
+      "goiY": ["Gọi $x,y$ là số thí sinh dự thi của trường A, B; lập hệ từ tổng số và số trúng tuyển."],
+      "loiGiai": [
+        "Gọi $x,y$ lần lượt là số thí sinh dự thi của trường A và trường B ($x,y$ nguyên dương).",
+        "Ta có $x+y=380$ (1).",
+        "Số thí sinh trúng tuyển của hai trường là $0,55x+0,45y=191$, tức $55x+45y=19100$ hay $11x+9y=3820$ (2).",
+        "Từ (1) suy ra $y=380-x$. Thay vào (2): $11x+9(380-x)=3820\\Rightarrow2x=400\\Rightarrow x=200$.",
+        "Suy ra $y=180$.",
+        "Vậy trường A có $200$ thí sinh dự thi, trường B có $180$ thí sinh dự thi."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác nhọn $ABC$ nội tiếp đường tròn $(O)$ có $AB\\lt AC$, các đường cao $BE,CF$ của tam giác $ABC$ cắt nhau tại $H$, đường thẳng $EF$ cắt đường thẳng $BC$ tại $K$. Chứng minh tứ giác $BCEF$ nội tiếp.</p>",
+      "goiY": ["Chứng minh $\\widehat{BEC}=\\widehat{BFC}=90^\\circ$."],
+      "loiGiai": [
+        "Vì $BE$ là đường cao nên $\\widehat{BEC}=90^\\circ$; vì $CF$ là đường cao nên $\\widehat{BFC}=90^\\circ$.",
+        "Hai điểm $E,F$ cùng nhìn đoạn $BC$ dưới một góc vuông nên $B,C,E,F$ cùng thuộc đường tròn đường kính $BC$.",
+        "Vậy tứ giác $BCEF$ nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác nhọn $ABC$ nội tiếp đường tròn $(O)$ có $AB\\lt AC$, các đường cao $BE,CF$ của tam giác $ABC$ cắt nhau tại $H$, đường thẳng $EF$ cắt đường thẳng $BC$ tại $K$. Chứng minh hai tam giác $KBF$ và $KEC$ đồng dạng, từ đó suy ra $KB\\cdot KC=KF\\cdot KE$.</p>",
+      "goiY": ["Dùng góc nội tiếp của tứ giác $BCEF$ và tính chất góc ngoài của tam giác $BCF$."],
+      "loiGiai": [
+        "Vì $B,C,E,F$ cùng thuộc một đường tròn nên $\\widehat{BCF}=\\widehat{BEF}$ (cùng chắn cung $BF$).",
+        "Trong tam giác $BCF$, góc ngoài tại $B$ là $\\widehat{KBF}=\\widehat{BCF}+\\widehat{BFC}=\\widehat{BEF}+90^\\circ$ (vì $CF\\perp AB$).",
+        "Mà $\\widehat{BEC}=90^\\circ$ và theo hình vẽ $\\widehat{KEC}=\\widehat{BEF}+\\widehat{BEC}$, nên $\\widehat{KBF}=\\widehat{KEC}$.",
+        "Lại có $\\widehat{BKF}=\\widehat{EKC}$ (góc tạo bởi hai đường thẳng $BC$ và $EF$).",
+        "Do đó $\\triangle KBF\\sim\\triangle KEC$ (g.g).",
+        "Suy ra $\\dfrac{KB}{KE}=\\dfrac{KF}{KC}$, tức $KB\\cdot KC=KF\\cdot KE$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác nhọn $ABC$ nội tiếp đường tròn $(O)$ có $AB\\lt AC$, các đường cao $BE,CF$ của tam giác $ABC$ cắt nhau tại $H$, đường thẳng $EF$ cắt đường thẳng $BC$ tại $K$. Đường thẳng $AK$ cắt lại đường tròn $(O)$ tại $G$ khác $A$. Chứng minh các điểm $A,G,F,E,H$ cùng thuộc một đường tròn.</p>",
+      "goiY": ["Chứng minh $A,E,H,F$ cùng thuộc đường tròn đường kính $AH$, sau đó dùng $KA\\cdot KG=KB\\cdot KC=KF\\cdot KE$."],
+      "loiGiai": [
+        "Vì $\\widehat{AEH}=\\widehat{AFH}=90^\\circ$ nên $A,E,H,F$ cùng thuộc đường tròn đường kính $AH$.",
+        "Từ câu 2, $KB\\cdot KC=KF\\cdot KE$. Mặt khác, $K$ nằm trên hai cát tuyến $KBC$ và $KGA$ của đường tròn $(O)$ nên $KB\\cdot KC=KG\\cdot KA$.",
+        "Suy ra $KF\\cdot KE=KG\\cdot KA$, do đó bốn điểm $A,G,F,E$ cùng thuộc một đường tròn.",
+        "Đường tròn này và đường tròn đường kính $AH$ cùng đi qua $A,E,F$, nên $H$ cũng thuộc đường tròn đó.",
+        "Vậy $A,G,F,E,H$ cùng thuộc một đường tròn."
+      ]
+    },
+    {
+      "id": "c4d",
+      "soCau": 4,
+      "y": "4",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác nhọn $ABC$ nội tiếp đường tròn $(O)$ có $AB\\lt AC$, các đường cao $BE,CF$ của tam giác $ABC$ cắt nhau tại $H$, đường thẳng $EF$ cắt đường thẳng $BC$ tại $K$. Gọi $I$ là trung điểm cạnh $BC$. Chứng minh $HI$ vuông góc với $AK$.</p>",
+      "goiY": ["Chứng minh $H,G,D$ thẳng hàng với $D$ là điểm đối xứng của $A$ qua $O$, rồi dùng $I$ là trung điểm $HD$."],
+      "loiGiai": [
+        "Theo câu 3, $A,G,F,E,H$ cùng thuộc đường tròn đường kính $AH$, nên $\\widehat{AGH}=90^\\circ$, tức $HG\\perp AK$.",
+        "Kẻ đường kính $AD$ của $(O)$. Vì $\\widehat{AGD}=90^\\circ$ nên $DG\\perp AK$. Do đó $H,G,D$ thẳng hàng.",
+        "Ta có $DC\\perp AC$ (vì $\\widehat{ACD}=90^\\circ$) và $BH\\perp AC$, suy ra $DC\\parallel BH$. Tương tự $BD\\parallel CH$. Vậy $BHCD$ là hình bình hành.",
+        "Hai đường chéo $BC$ và $HD$ của hình bình hành $BHCD$ cắt nhau tại trung điểm mỗi đường. Vì $I$ là trung điểm $BC$ nên $I$ cũng là trung điểm $HD$.",
+        "Do đó $H,I,D$ thẳng hàng. Kết hợp $H,G,D$ thẳng hàng và $HG\\perp AK$, suy ra $HI\\perp AK$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho các số thực dương $a,b,c$ thỏa mãn $a+b+c=2024$. Tìm giá trị lớn nhất của biểu thức $P=\\dfrac a{a+\\sqrt{2024a+bc}}+\\dfrac b{b+\\sqrt{2024b+ca}}+\\dfrac c{c+\\sqrt{2024c+ab}}$.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Thay $2024=a+b+c$ để được $2024a+bc=(a+b)(a+c)$, rồi dùng $\\sqrt{(a+b)(a+c)}\\le\\dfrac{2a+b+c}{2}$."],
+      "loiGiai": [
+        "Vì $a+b+c=2024$ nên $2024a+bc=(a+b+c)a+bc=(a+b)(a+c)$.",
+        "Áp dụng bất đẳng thức $\\sqrt{xy}\\le\\dfrac{x+y}{2}$: $\\sqrt{(a+b)(a+c)}\\le\\dfrac{(a+b)+(a+c)}2=\\dfrac{2a+b+c}{2}$.",
+        "Ta có $\\dfrac a{a+\\sqrt{(a+b)(a+c)}}=\\dfrac{a\\left(\\sqrt{(a+b)(a+c)}-a\\right)}{ab+bc+ca}\\le\\dfrac{a\\cdot\\dfrac{2a+b+c}{2}-a^2}{ab+bc+ca}=\\dfrac{ab+ac}{2(ab+bc+ca)}$.",
+        "Tương tự, hai số hạng còn lại lần lượt không vượt quá $\\dfrac{bc+ba}{2(ab+bc+ca)}$ và $\\dfrac{ca+cb}{2(ab+bc+ca)}$.",
+        "Cộng theo vế: $P\\le\\dfrac{2(ab+bc+ca)}{2(ab+bc+ca)}=1$.",
+        "Dấu bằng xảy ra khi $a=b=c=\\dfrac{2024}{3}$. Vậy giá trị lớn nhất của $P$ là $1$."
+      ]
+    }
+  ]
+}

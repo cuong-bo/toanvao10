@@ -39,6 +39,16 @@ Nguyên tắc: chỉ dùng đề chính thức do Sở GD&ĐT công bố; lời 
 | `thanh-hoa-2023` | Thanh Hóa | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-thanh-hoa.html) | Đã đăng; đã đối chiếu HDC chính thức |
 | `nam-dinh-2024` | Nam Định | 2024 | [PDF đề chính thức](https://thcs.toanmath.com/2024/05/de-tuyen-sinh-lop-10-chuyen-mon-toan-chung-nam-2024-2025-so-gddt-nam-dinh.html) | Đã đăng; là Toán (chung) – Đề 1 của trường THPT chuyên, không phải đề không chuyên |
 | `hai-phong-2023` | Hải Phòng | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-hai-phong.html) | Đã đăng; đã đối chiếu HDC chính thức |
+| `ha-tinh-2023` | Hà Tĩnh | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-ha-tinh.html) | Đã đăng; đã đối chiếu HDC chính thức |
+| `quang-binh-2023` | Quảng Bình | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2023-2024-so-gddt-quang-binh.html) | Đã đăng; chưa có HDC chính thức, lời giải tự soạn |
+| `quang-tri-2024` | Quảng Trị | 2024 | [Đề chính thức, báo Dân Việt đăng lại](https://danviet.vn/de-thi-mon-toan-vao-lop-10-nam-2024-cua-quang-tri-co-dap-an-20240531121239589-d1164293.html) | Đã đăng; có đáp án trắc nghiệm và gợi ý giải tham khảo |
+| `quang-nam-2025` | Quảng Nam | 2025 | [PDF đề chính thức](https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-quang-nam.html) | Đã đăng; đã đối chiếu HDC chính thức |
+| `quang-ngai-2023` | Quảng Ngãi | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-quang-ngai.html) | Đã đăng; chưa có HDC chính thức, lời giải tự soạn |
+| `binh-dinh-2023` | Bình Định | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-binh-dinh.html) | Đã đăng; đã đối chiếu HDC chính thức |
+| `phu-yen-2023` | Phú Yên | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2023-2024-so-gddt-phu-yen.html) | Đã đăng; đã đối chiếu HDC chính thức |
+| `khanh-hoa-2023` | Khánh Hòa | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-khanh-hoa.html) | Đã đăng; có lời giải tham khảo, không phải HDC |
+| `lam-dong-2024` | Lâm Đồng | 2024 | [PDF đề chính thức](https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-chuyen-mon-toan-khong-chuyen-nam-2024-2025-so-gddt-lam-dong.html) | Đã đăng; là Toán (không chuyên) của kỳ thi vào trường chuyên; chưa có HDC, lời giải tự soạn |
+| `dong-nai-2023` | Đồng Nai | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-dong-nai.html) | Đã đăng; chưa có HDC chính thức, lời giải tự soạn |
 | `mau-2025` | Đề mẫu | 2025 | Tự soạn | Chỉ để thử web |
 
 ## Độ phủ hiện tại
@@ -65,6 +75,16 @@ Nguyên tắc: chỉ dùng đề chính thức do Sở GD&ĐT công bố; lời 
 | Cần Thơ | 2024 | 2020–2023, 2025, 2026 |
 | Quảng Ninh | 2023 | 2020–2022, 2024–2026 |
 | Thừa Thiên Huế | 2024 | 2020–2023, 2025, 2026 |
+| Hà Tĩnh | 2023 | 2020–2022, 2024–2026 |
+| Quảng Bình | 2023 | 2020–2022, 2024–2026 |
+| Quảng Trị | 2024 | 2020–2023, 2025, 2026 |
+| Quảng Nam | 2025 | 2020–2024, 2026 |
+| Quảng Ngãi | 2023 | 2020–2022, 2024–2026 |
+| Bình Định | 2023 | 2020–2022, 2024–2026 |
+| Phú Yên | 2023 | 2020–2022, 2024–2026 |
+| Khánh Hòa | 2023 | 2020–2022, 2024–2026 |
+| Lâm Đồng | 2024 (Toán không chuyên – kỳ thi vào trường chuyên) | 2020–2023, 2025, 2026 |
+| Đồng Nai | 2023 | 2020–2022, 2024–2026 |
 
 Các năm còn thiếu sẽ được bổ sung khi tìm được đề chính thức và biên soạn xong lời giải; không đưa đề không rõ nguồn vào `site/`.
 
@@ -74,6 +94,8 @@ Các năm còn thiếu sẽ được bổ sung khi tìm được đề chính th
 - Hòa Bình từ 2025 thuộc địa giới Phú Thọ sau sáp nhập, nhưng đề năm 2024–2025 vẫn giữ tên tỉnh tại thời điểm ra đề.
 - Đề Yên Bái 2022 gồm 50 câu; câu 39 in điều kiện và phương án không khớp (tính được \(m=6/5\) nhưng không có trong A–D), nên đã chuyển thành câu trả lời ngắn; 49 câu còn lại giữ nguyên.
 - Đề Nam Định 2024 là **Toán (chung) – Đề 1 của trường THPT chuyên**, dành cho thí sinh thi vào các lớp chuyên tự nhiên; không phải đề không chuyên. Tiêu đề đã ghi rõ.
-- Một số đề chưa có hướng dẫn chấm chính thức: Đà Nẵng 2024, Nghệ An 2023, Quảng Ninh 2023 (chỉ có lời giải tham khảo), Huế 2024 (bản giải tham khảo), Cần Thơ 2024 (chỉ có đáp án trắc nghiệm). Các đề này đã được kiểm tra độc lập nhưng vẫn cần giáo viên rà lại.
+- Đề Lâm Đồng 2024 là **môn Toán (không chuyên) trong kỳ thi vào trường THPT chuyên Lâm Đồng**, không phải đề tuyển sinh lớp 10 THPT thường. Tiêu đề và ghi chú của đề đã ghi rõ.
+- Một số đề chưa có hướng dẫn chấm chính thức: Đà Nẵng 2024, Nghệ An 2023, Quảng Ninh 2023, Huế 2024, Cần Thơ 2024, Quảng Bình 2023, Quảng Ngãi 2023, Lâm Đồng 2024, Đồng Nai 2023; Quảng Trị 2024 chỉ có đáp án trắc nghiệm và gợi ý giải tham khảo; Khánh Hòa 2023 chỉ có lời giải tham khảo. Các đề này đã được kiểm tra độc lập nhưng vẫn cần giáo viên rà lại.
+- Khánh Hòa 2023 câu 5: đề hỏi “chu vi” nhưng lời giải tham khảo trừ cổng 5 m và ghi 95 m; bài giải trên web ghi 95 m theo đáp án tham khảo, đồng thời chú thích chu vi hình chữ nhật là 100 m.
 - Một số câu hình học nâng cao dùng bổ đề quen thuộc hoặc phương pháp toạ độ; lời giải có thể sai, cần kiểm tra và hỏi giáo viên nếu thắc mắc.
 - Khi tìm được link công bố trực tiếp trên cổng Sở GD&ĐT, thay link PDF lưu trữ bằng link gốc.

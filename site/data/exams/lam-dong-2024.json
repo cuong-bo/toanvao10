@@ -1,0 +1,202 @@
+{
+  "id": "lam-dong-2024",
+  "tinh": "Lâm Đồng",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT chuyên — môn Toán (không chuyên) — năm học 2024–2025",
+  "thoiGian": 90,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Lâm Đồng — đề chính thức, môn Toán (không chuyên)",
+    "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-chuyen-mon-toan-khong-chuyen-nam-2024-2025-so-gddt-lam-dong.html"
+  },
+  "ghiChu": "Đề chính thức kỳ thi tuyển sinh vào lớp 10 THPT chuyên Lâm Đồng, môn Toán (không chuyên), thi ngày 05/6/2024, gồm 12 câu, thời gian 90 phút. Đây là đề môn Toán (không chuyên) của kỳ thi vào trường THPT chuyên, không phải đề tuyển sinh lớp 10 THPT thường. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1",
+      "soCau": 1,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hình nón có đỉnh $S$, tâm đường tròn đáy $O$ và điểm $A$ thuộc đường tròn đáy. Chỉ ra chiều cao, đường sinh và bán kính đường tròn đáy của hình nón.</p>",
+      "goiY": ["Chiều cao nối đỉnh với tâm đáy; đường sinh nối đỉnh với một điểm trên đường tròn đáy."],
+      "loiGiai": [
+        "Chiều cao là $SO$.",
+        "Đường sinh là $SA$.",
+        "Bán kính đường tròn đáy là $OA$."
+      ]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $2\\sqrt9+3\\sqrt4$.</p>",
+      "dapAn": ["12"],
+      "goiY": ["$\\sqrt9=3$, $\\sqrt4=2$."],
+      "loiGiai": ["$2\\sqrt9+3\\sqrt4=2\\cdot3+3\\cdot2=6+6=12$."]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị hàm số $y=x^2$.</p>",
+      "goiY": ["Lập bảng giá trị với $x=-2;-1;0;1;2$."],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2,-1,0,1,2$ tương ứng $y=4,1,0,1,4$.",
+        "Vẽ parabol đi qua các điểm $(-2;4),(-1;1),(0;0),(1;1),(2;4)$."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2+2x-m+3=0$ (ẩn $x$, tham số $m$). Tìm điều kiện của $m$ để phương trình vô nghiệm.</p>",
+      "goiY": ["Tính $\\Delta'$ theo $m$."],
+      "loiGiai": [
+        "$\\Delta'=1^2-(-m+3)=m-2$.",
+        "Phương trình vô nghiệm $\\Leftrightarrow \\Delta'<0\\Leftrightarrow m<2$.",
+        "Vậy $m<2$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Hệ phương trình $\\begin{cases}ax+3by=11\\\\ ax-by=-5\\end{cases}$ có nghiệm $(x;y)=(1;2)$. Tìm $a$ và $b$.</p>",
+      "goiY": ["Thay $x=1,y=2$ vào hệ rồi giải hệ theo $a,b$."],
+      "loiGiai": [
+        "Thay $x=1,y=2$: $\\begin{cases}a+6b=11\\\\ a-2b=-5\\end{cases}$.",
+        "Trừ hai phương trình: $8b=16\\Rightarrow b=2$.",
+        "Suy ra $a=-5+2b=-1$. Vậy $a=-1$, $b=2$."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O;6\\text{ cm})$. Từ điểm $A$ cách $O$ một khoảng $10\\text{ cm}$, vẽ tiếp tuyến $AB$ với đường tròn ($B$ là tiếp điểm). Kẻ $BH\\perp AO$ tại $H$. Tính $AB$ và $BH$.</p>",
+      "goiY": ["$OB\\perp AB$; dùng Pythagore trong $\\triangle ABO$ và hệ thức $AB\\cdot BO=BH\\cdot AO$."],
+      "loiGiai": [
+        "Vì $AB$ là tiếp tuyến nên $OB\\perp AB$. Do đó $AB=\\sqrt{AO^2-OB^2}=\\sqrt{10^2-6^2}=8$ cm.",
+        "Trong tam giác vuông $ABO$, $BH$ là đường cao ứng với cạnh huyền: $BH=\\dfrac{AB\\cdot BO}{AO}=\\dfrac{8\\cdot6}{10}=4{,}8$ cm.",
+        "Vậy $AB=8$ cm, $BH=4{,}8$ cm."
+      ]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Khi đặt một cái thang dài $5\\text{ m}$ dựa vào tường (tường vuông góc với mặt đất phẳng) và khoảng cách từ chân thang đến tường là $2{,}2\\text{ m}$ thì người sử dụng thang có an toàn không? Biết rằng thang an toàn khi sử dụng nếu góc tạo bởi thang với mặt đất từ $63^\\circ$ đến $65^\\circ$.</p>",
+      "goiY": ["Gọi $\\alpha$ là góc tạo bởi thang với mặt đất; tính $\\cos\\alpha$."],
+      "loiGiai": [
+        "Gọi $\\alpha$ là góc tạo bởi thang với mặt đất. Ta có $\\cos\\alpha=\\dfrac{2{,}2}{5}=0{,}44$.",
+        "Suy ra $\\alpha\\approx63{,}9^\\circ$, nằm trong khoảng từ $63^\\circ$ đến $65^\\circ$.",
+        "Vậy sử dụng thang như vậy là an toàn."
+      ]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Chứng minh rằng $$\\left(\\dfrac{\\sqrt a-2}{\\sqrt a+2}-\\dfrac{\\sqrt a+2}{\\sqrt a-2}\\right)\\left(\\sqrt a-\\dfrac{4}{\\sqrt a}\\right)=-8$$ với $a>0$, $a\\ne4$.</p>",
+      "goiY": ["Quy đồng từng ngoặc; chú ý $\\sqrt a-\\dfrac4{\\sqrt a}=\\dfrac{a-4}{\\sqrt a}$."],
+      "loiGiai": [
+        "Ngoặc thứ nhất: $\\dfrac{(\\sqrt a-2)^2-(\\sqrt a+2)^2}{(\\sqrt a-2)(\\sqrt a+2)}=\\dfrac{-8\\sqrt a}{a-4}$.",
+        "Ngoặc thứ hai: $\\sqrt a-\\dfrac4{\\sqrt a}=\\dfrac{a-4}{\\sqrt a}$.",
+        "Nhân hai kết quả: $\\dfrac{-8\\sqrt a}{a-4}\\cdot\\dfrac{a-4}{\\sqrt a}=-8$."
+      ]
+    },
+    {
+      "id": "c9",
+      "soCau": 9,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Hưởng ứng “Ngày chủ nhật xanh”, một nhóm học sinh lớp 9 dự định trồng $60$ cây xanh. Khi thực hiện, có $2$ bạn trong nhóm được phân công làm việc khác nên mỗi bạn còn lại của nhóm phải trồng thêm $1$ cây so với dự định. Tính số học sinh ban đầu của nhóm (biết rằng mỗi học sinh trồng số cây như nhau).</p>",
+      "dapAn": ["12"],
+      "goiY": ["Gọi số học sinh ban đầu là $x$; lập phương trình $\\dfrac{60}{x-2}=\\dfrac{60}{x}+1$."],
+      "loiGiai": [
+        "Gọi số học sinh ban đầu là $x$ ($x>2$, $x\\in\\mathbb N$). Theo dự định mỗi bạn trồng $\\dfrac{60}{x}$ cây.",
+        "Thực tế còn $x-2$ bạn, mỗi bạn trồng $\\dfrac{60}{x-2}$ cây, nhiều hơn dự định $1$ cây: $\\dfrac{60}{x-2}-\\dfrac{60}{x}=1$.",
+        "Suy ra $60x-60(x-2)=x(x-2)$, tức $x^2-2x-120=0$.",
+        "Giải được $x=12$ hoặc $x=-10$; loại $x=-10$. Vậy ban đầu có $12$ học sinh."
+      ]
+    },
+    {
+      "id": "c10",
+      "soCau": 10,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Tam giác $ABC$ vuông tại $A$, đường phân giác $BE$ ($E\\in AC$). Đường tròn đường kính $AB$ cắt $BE,BC$ lần lượt tại $M,N$ ($M,N$ khác $B$), đường thẳng $AM$ cắt $BC$ tại $K$. Chứng minh $AE\\cdot AN=AM\\cdot AK$.</p>",
+      "goiY": ["Chứng minh $\\triangle AEM\\sim\\triangle AKN$."],
+      "loiGiai": [
+        "$AB$ là đường kính nên $\\angle AMB=90^\\circ$, suy ra $AM\\perp BE$.",
+        "Vì $AM\\perp BE$ và $BE$ là phân giác của $\\angle ABC$ nên góc giữa $AM$ và $BC$ bằng $90^\\circ-\\dfrac12\\angle ABC$; mà góc giữa $AC$ và $BC$ bằng $90^\\circ-\\angle ABC$, suy ra $\\angle MAC=\\dfrac12\\angle ABC$.",
+        "Lại có $AN\\perp BC$ (do $\\angle ANB=90^\\circ$) nên $\\angle KAN=90^\\circ-\\left(90^\\circ-\\dfrac12\\angle ABC\\right)=\\dfrac12\\angle ABC$.",
+        "Do đó $\\angle EAM=\\angle KAN$ và $\\angle AME=\\angle ANK=90^\\circ$, suy ra $\\triangle AEM\\sim\\triangle AKN$.",
+        "Từ đó $\\dfrac{AE}{AK}=\\dfrac{AM}{AN}$, tức $AE\\cdot AN=AM\\cdot AK$."
+      ]
+    },
+    {
+      "id": "c11",
+      "soCau": 11,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^4+(m-2)x^2-2m=0$ (ẩn $x$, tham số $m$). Tìm điều kiện của $m$ để phương trình có $4$ nghiệm phân biệt.</p>",
+      "goiY": ["Đặt $t=x^2\\ge0$; phương trình có bốn nghiệm phân biệt khi phương trình ẩn $t$ có hai nghiệm dương phân biệt."],
+      "loiGiai": [
+        "Đặt $t=x^2\\ge0$, phương trình trở thành $t^2+(m-2)t-2m=0$.",
+        "Nhận thấy $t=2$ là một nghiệm vì $4+2(m-2)-2m=0$; nghiệm còn lại là $t=-m$ (theo Vi-ét).",
+        "Phương trình ẩn $x$ có $4$ nghiệm phân biệt khi và chỉ khi $t=2$ và $t=-m$ là hai số dương phân biệt: $-m>0$ và $-m\\ne2$.",
+        "Vậy $m<0$ và $m\\ne-2$."
+      ]
+    },
+    {
+      "id": "c12",
+      "soCau": 12,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O;OA)$, $C$ thuộc tia đối của tia $AO$, $CD$ là tiếp tuyến ($D$ là tiếp điểm). Kẻ dây $DE$ song song với $CO$, dây $DF\\perp OA$ tại $H$. Gọi $M$ là giao điểm thứ hai của $CE$ với $(O)$, $DM$ cắt $OC$ tại $N$. Chứng minh $N$ là trung điểm của $HC$.</p>",
+      "goiY": ["Chọn hệ trục tọa độ với $O$ là gốc, $OA$ là trục hoành; tính tọa độ $D,E,H,M$ rồi tìm giao điểm $N$."],
+      "loiGiai": [
+        "Chọn hệ trục $Oxy$ với $O=(0;0)$, $A=(R;0)$ ($R=OA$), $C=(c;0)$ ($c>R$). Gọi $D=(x_0;y_0)$.",
+        "Vì $CD$ là tiếp tuyến tại $D$ nên $\\overrightarrow{OD}\\cdot\\overrightarrow{CD}=0$, tức $x_0(x_0-c)+y_0^2=0$. Kết hợp $x_0^2+y_0^2=R^2$ được $x_0=\\dfrac{R^2}{c}$.",
+        "Đặt $u=\\dfrac{R^2}{c}$. Khi đó $D=(u;y_0)$. Vì $DE\\parallel CO$ nên $E=(-u;y_0)$; vì $DF\\perp OA$ tại $H$ nên $H=(u;0)$.",
+        "Điểm $M$ thuộc $CE$ nên $M=(c-t(c+u);ty_0)$. Thay vào $x^2+y^2=R^2$ được $t=1$ (điểm $E$) hoặc $t=\\dfrac{c-u}{c+3u}$.",
+        "Do đó $M=\\left(\\dfrac{u(3c+u)}{c+3u};\\dfrac{(c-u)y_0}{c+3u}\\right)$.",
+        "Đường thẳng $DM$ cắt trục $Ox$ tại $N$. Tham số hóa $D+s(M-D)$ và cho tung độ bằng $0$ được $s=\\dfrac{c+3u}{4u}$.",
+        "Suy ra $x_N=u+\\dfrac{c+3u}{4u}\\left(\\dfrac{u(3c+u)}{c+3u}-u\\right)=\\dfrac{c+u}{2}$.",
+        "Vậy $N$ có hoành độ $\\dfrac{c+u}{2}$, đúng bằng trung điểm của $H(u;0)$ và $C(c;0)$. Do đó $N$ là trung điểm của $HC$."
+      ]
+    }
+  ]
+}

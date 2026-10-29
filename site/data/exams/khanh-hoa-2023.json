@@ -1,0 +1,198 @@
+{
+  "id": "khanh-hoa-2023",
+  "tinh": "Khánh Hòa",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Khánh Hòa — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-khanh-hoa.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Không sử dụng máy tính cầm tay, rút gọn biểu thức $A=\\sqrt{25}+\\sqrt{16}-\\sqrt4$.</p>",
+      "dapAn": ["7"],
+      "goiY": ["Tính từng căn bậc hai."],
+      "loiGiai": ["$A=5+4-2=7$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Không sử dụng máy tính cầm tay, giải hệ phương trình $\\begin{cases}x+y=8\\\\2x-y=1\\end{cases}$ (nhập giá trị $x$).</p>",
+      "dapAn": ["3"],
+      "goiY": ["Cộng hai phương trình để khử $y$."],
+      "loiGiai": [
+        "Cộng hai phương trình: $3x=9\\Rightarrow x=3$.",
+        "Thay vào $x+y=8$ được $y=5$. Vậy $(x;y)=(3;5)$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Trong mặt phẳng tọa độ $Oxy$, cho parabol $(P): y=x^2$. Vẽ parabol $(P)$.</p>",
+      "goiY": ["Lập bảng giá trị với $x=-2,-1,0,1,2$."],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2,-1,0,1,2$ thì $y=4,1,0,1,4$.",
+        "Vẽ parabol đi qua các điểm $(-2;4),(-1;1),(0;0),(1;1),(2;4)$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường thẳng $(d): y=6x+2023$ và parabol $(P): y=x^2$. Chứng minh $(d)$ cắt $(P)$ tại hai điểm phân biệt.</p>",
+      "goiY": ["Xét phương trình hoành độ giao điểm $x^2=6x+2023$."],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $x^2-6x-2023=0$.",
+        "$\\Delta=(-6)^2-4\\cdot1\\cdot(-2023)=8128>0$.",
+        "Vậy phương trình có hai nghiệm phân biệt, tức $(d)$ cắt $(P)$ tại hai điểm phân biệt."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "c",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Gọi $x_1,x_2$ là hoành độ giao điểm của $(P)$ và $(d)$. Tính $x_1+x_2$ và $x_1x_2$. Từ đó lập phương trình bậc hai ẩn $t$ có hai nghiệm $t_1=x_1+2x_2$ và $t_2=x_2+2x_1$.</p>",
+      "goiY": ["Dùng Vi-ét cho phương trình $x^2-6x-2023=0$.", "Tính $t_1+t_2$ và $t_1t_2$."],
+      "loiGiai": [
+        "Theo Vi-ét: $x_1+x_2=6$, $x_1x_2=-2023$.",
+        "$t_1+t_2=3(x_1+x_2)=18$.",
+        "$t_1t_2=(x_1+2x_2)(x_2+2x_1)=5x_1x_2+2(x_1^2+x_2^2)$.",
+        "$x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2=36+4046=4082$, nên $t_1t_2=5(-2023)+2\\cdot4082=-1951$.",
+        "Vậy $t_1,t_2$ là nghiệm của phương trình $t^2-18t-1951=0$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Hưởng ứng phong trào “Ngày Chủ nhật xanh” do Tỉnh đoàn phát động, Trường THCS X chọn $15$ học sinh chia thành hai tổ tham gia trồng cây. Tổ I trồng được $30$ cây, tổ II trồng được $36$ cây. Biết rằng mỗi học sinh ở tổ I trồng được nhiều hơn mỗi học sinh ở tổ II là $1$ cây. Hỏi mỗi tổ có bao nhiêu học sinh?</p>",
+      "goiY": ["Gọi số học sinh tổ I là $x$, tổ II là $15-x$.", "Lập phương trình $\\dfrac{30}{x}-\\dfrac{36}{15-x}=1$."],
+      "loiGiai": [
+        "Gọi số học sinh tổ I là $x$ (nguyên dương, $x<15$); tổ II có $15-x$ học sinh.",
+        "Số cây mỗi học sinh tổ I, tổ II trồng lần lượt là $\\dfrac{30}{x}$ và $\\dfrac{36}{15-x}$.",
+        "Ta có $\\dfrac{30}{x}-\\dfrac{36}{15-x}=1\\Rightarrow 30(15-x)-36x=x(15-x)$.",
+        "$\\Rightarrow 450-66x=15x-x^2\\Rightarrow x^2-81x+450=0\\Rightarrow x=6$ hoặc $x=75$.",
+        "Loại $x=75$; vậy tổ I có $6$ học sinh, tổ II có $9$ học sinh."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Gạch xây $3$ lỗ được làm bằng đất nung, có dạng hình hộp chữ nhật với chiều dài $220$ mm, chiều rộng $105$ mm, chiều cao $60$ mm. Mỗi lỗ là hình trụ có trục song song với chiều cao viên gạch, đường kính đáy là $14$ mm. Tính thể tích phần đất nung của một viên gạch. Biết $V=abc$ và $V=\\pi r^2h$ lần lượt là công thức thể tích hình hộp chữ nhật và hình trụ; lấy $\\pi\\approx3,14$.</p>",
+      "dapAn": ["1358305,2", "1358305.2"],
+      "goiY": ["Thể tích viên gạch đặc trừ đi thể tích $3$ lỗ hình trụ.", "$r=7$ mm."],
+      "loiGiai": [
+        "Thể tích viên gạch khi chưa khoét lỗ: $V_1=220\\cdot105\\cdot60=1\\,386\\,000$ mm³.",
+        "Mỗi lỗ có $r=7$ mm, thể tích $V_2=\\pi\\cdot7^2\\cdot60\\approx9\\,231,6$ mm³.",
+        "Thể tích phần đất nung: $V=1\\,386\\,000-3\\cdot9\\,231,6=1\\,358\\,305,2$ mm³."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$ đường kính $AB$ và điểm $C$ thuộc đường tròn sao cho $AC<BC$ ($C$ khác $A$). Vẽ $CH$ vuông góc với $AB$ ($H\\in AB$). Chứng minh $\\triangle ABC$ là tam giác vuông. Tính $AC$, biết $AB=4$ cm, $AH=1$ cm.</p>",
+      "goiY": ["Góc nội tiếp chắn nửa đường tròn bằng $90^\\circ$.", "Dùng $AC^2=AH\\cdot AB$."],
+      "loiGiai": [
+        "$\\widehat{ACB}$ là góc nội tiếp chắn nửa đường tròn nên $\\widehat{ACB}=90^\\circ$. Vậy $\\triangle ABC$ vuông tại $C$.",
+        "Trong tam giác vuông $ABC$ có đường cao $CH$: $AC^2=AH\\cdot AB=1\\cdot4=4\\Rightarrow AC=2$ cm."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Trên tia đối của tia $CA$ lấy điểm $D$ sao cho $CD=CA$. Vẽ $DE$ vuông góc với $AB$ ($E\\in AB$). Chứng minh $BECD$ là tứ giác nội tiếp.</p>",
+      "goiY": ["Chỉ ra $\\widehat{DCB}=\\widehat{DEB}=90^\\circ$."],
+      "loiGiai": [
+        "Vì $A,C,D$ thẳng hàng và $\\widehat{ACB}=90^\\circ$ nên $\\widehat{DCB}=90^\\circ$.",
+        "Vì $DE\\perp AB$ nên $\\widehat{DEB}=90^\\circ$.",
+        "Hai điểm $C,E$ cùng nhìn đoạn $DB$ dưới một góc vuông, nên $BECD$ là tứ giác nội tiếp."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Gọi $I$ là giao điểm của $DE$ và $BC$, $K$ là điểm đối xứng của $I$ qua $C$, tiếp tuyến của $(O)$ tại $C$ cắt $KA$ tại $M$. Chứng minh $KA$ là tiếp tuyến của $(O)$ và $BM$ đi qua trung điểm của $CH$.</p>",
+      "goiY": ["Chứng minh $AKDI$ là hình bình hành để suy ra $AK\\parallel DI$.", "Chứng minh $M$ là trung điểm $AK$, rồi dùng phép vị tự tâm $B$."],
+      "loiGiai": [
+        "Tứ giác $AKDI$ có $C$ là trung điểm của $AD$ (vì $CD=CA$) và $C$ là trung điểm của $IK$ (vì $K$ đối xứng với $I$ qua $C$). Do đó $AKDI$ là hình bình hành, suy ra $AK\\parallel DI$.",
+        "Vì $DI$ nằm trên $DE$ và $DE\\perp AB$, mà $AO$ nằm trên $AB$, nên $AK\\perp AO$ tại $A$. Vậy $AK$ là tiếp tuyến của $(O)$ tại $A$.",
+        "Gọi $N$ là trung điểm của $CH$. Ta chứng minh $B,M,N$ thẳng hàng.",
+        "Vì $AK\\perp AB$ và $CH\\perp AB$ nên $CH\\parallel AK$. Trong tam giác $BAK$, $C\\in BK$, $H\\in BA$ và $CH\\parallel AK$, nên $\\dfrac{BC}{BK}=\\dfrac{BH}{BA}$.",
+        "$M$ là giao điểm của hai tiếp tuyến tại $A$ và $C$ nên $MA=MC$. Tam giác $ACK$ vuông tại $C$ (vì $AC\\perp CK$); trung điểm cạnh huyền $AK$ cách đều $A,C$, mà $M\\in AK$ và $MA=MC$, nên $M$ là trung điểm của $AK$.",
+        "Phép vị tự tâm $B$, tỉ số $\\dfrac{BC}{BK}=\\dfrac{BH}{BA}$, biến $K$ thành $C$, $A$ thành $H$, do đó biến trung điểm $M$ của $AK$ thành trung điểm $N$ của $CH$. Suy ra $B,M,N$ thẳng hàng.",
+        "Vậy $BM$ đi qua trung điểm $N$ của $CH$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Trong quá trình thiết kế công viên thiếu nhi, kĩ sư sử dụng mảnh đất hình chữ nhật có diện tích $600$ m² để làm bãi đỗ xe. Một cạnh của mảnh đất được xây bằng tường gạch với mỗi mét chiều dài chi phí hết $280\\,000$ đồng, ba cạnh còn lại được rào bằng một loại thép với mỗi mét chiều dài chi phí hết $140\\,000$ đồng, trong đó có mở cổng rộng $5$ m. Tìm chu vi của mảnh đất sao cho chi phí làm hàng rào là ít nhất.</p>",
+      "dapAn": ["95"],
+      "goiY": ["Gọi $x,y$ là hai kích thước, $xy=600$.", "Chi phí $C=420000x+280000y-700000$; dùng bất đẳng thức $ax+by\\ge2\\sqrt{abxy}$.", "Đề gọi “chu vi” là chiều dài hàng rào cần làm; trừ cổng $5$ m."],
+      "loiGiai": [
+        "Gọi $x$ (m) là cạnh xây tường gạch, $y$ (m) là cạnh kề với nó; $x,y>0$ và $xy=600$.",
+        "Chi phí: $C=280000x+140000(x+2y-5)=420000x+280000y-700000$ (đồng).",
+        "Áp dụng $420000x+280000y\\ge2\\sqrt{420000\\cdot280000\\cdot xy}=2\\sqrt{420000\\cdot280000\\cdot600}=16\\,800\\,000$.",
+        "Dấu bằng khi $420000x=280000y\\Leftrightarrow3x=2y$. Kết hợp $xy=600$ được $x=20,\\ y=30$.",
+        "Chiều dài hàng rào cần làm là $2(x+y)-5=2(20+30)-5=95$ m. (Chu vi hình chữ nhật là $100$ m; đáp án tham khảo của đề ghi $95$ m theo nghĩa chiều dài hàng rào đã trừ cổng.)"
+      ]
+    }
+  ]
+}

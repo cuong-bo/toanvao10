@@ -105,7 +105,7 @@ export async function trangChu() {
       <div>
         <div class="eyebrow">${loiChao()} · Toán vào lớp 10</div>
         <h1>Ôn chắc <span class="hl">7 điểm</span>, rồi tiến tới 10.</h1>
-        <p class="lead">Đề thi thật của các tỉnh Tây Bắc, lời giải từng bước, luyện theo chuyên đề. Nhẹ, chạy được offline, không cần tài khoản.</p>
+        <p class="lead">Đề thi thật của các tỉnh/thành cả nước, lời giải từng bước, luyện theo chuyên đề. Nhẹ, chạy được offline, không cần tài khoản.</p>
         <div class="hero-actions">
           <a class="btn primary" href="#/de">Xem đề thi ${catalog.length ? `<span class="chip" style="background:rgba(255,255,255,.18);color:inherit">${catalog.length}</span>` : ''}</a>
           <a class="btn" href="#/kiem-tra">Kiểm tra trình độ</a>

@@ -1,0 +1,381 @@
+{
+  "id": "phu-yen-2023",
+  "tinh": "Phú Yên",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Phú Yên — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2023-2024-so-gddt-phu-yen.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Biểu thức $\\sqrt{(2-\\sqrt3)^2}$ có giá trị là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\sqrt3-2$" },
+        { "ma": "B", "noiDung": "$2-\\sqrt3$" },
+        { "ma": "C", "noiDung": "$7-4\\sqrt3$" },
+        { "ma": "D", "noiDung": "$1$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Dùng $\\sqrt{A^2}=|A|$ và so sánh $2$ với $\\sqrt3$."],
+      "loiGiai": ["$\\sqrt{(2-\\sqrt3)^2}=|2-\\sqrt3|=2-\\sqrt3$ vì $2>\\sqrt3$. Chọn B."]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Tìm $x$ thỏa mãn $\\sqrt{2+\\sqrt x}=2$.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x=0$" },
+        { "ma": "B", "noiDung": "$x=\\sqrt2$" },
+        { "ma": "C", "noiDung": "$x=2$" },
+        { "ma": "D", "noiDung": "$x=4$" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Bình phương hai vế, rồi bình phương thêm một lần."],
+      "loiGiai": ["$\\sqrt{2+\\sqrt x}=2\\Rightarrow 2+\\sqrt x=4\\Rightarrow \\sqrt x=2\\Rightarrow x=4$. Chọn D."]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hàm số nào sau đây không phải là hàm số bậc nhất?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$y=1-x$" },
+        { "ma": "B", "noiDung": "$y=\\dfrac{x}{2}$" },
+        { "ma": "C", "noiDung": "$y=\\dfrac{2}{x}$" },
+        { "ma": "D", "noiDung": "$y=\\sqrt2(x-\\sqrt2)$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Hàm số bậc nhất có dạng $y=ax+b$ với $a\\ne0$."],
+      "loiGiai": ["$y=\\dfrac2x$ không có dạng $y=ax+b$. Chọn C."]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường thẳng $y=-x+3$ đi qua điểm $M(m;1)$. Khi đó</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$m=1$" },
+        { "ma": "B", "noiDung": "$m=2$" },
+        { "ma": "C", "noiDung": "$m=3$" },
+        { "ma": "D", "noiDung": "$m=4$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Thay tọa độ $M$ vào phương trình đường thẳng."],
+      "loiGiai": ["$1=-m+3\\Rightarrow m=2$. Chọn B."]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Tìm các giá trị của $a$ và $b$ để hệ phương trình $\\begin{cases}ax-by=2\\\\2ax+by=1\\end{cases}$ có nghiệm $(1;-1)$.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$a=1,\\ b=-1$" },
+        { "ma": "B", "noiDung": "$a=-1,\\ b=1$" },
+        { "ma": "C", "noiDung": "$a=1,\\ b=1$" },
+        { "ma": "D", "noiDung": "$a=2,\\ b=-1$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Thay $x=1,y=-1$ vào cả hai phương trình."],
+      "loiGiai": ["Thay $(1;-1)$: $a+b=2$ và $2a-b=1$. Cộng hai phương trình được $3a=3\\Rightarrow a=1$, suy ra $b=1$. Chọn C."]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $m,n$ là nghiệm của phương trình $x^2+mx+n=0$, với $m\\ne0,\\ n\\ne0$. Thế thì tổng các nghiệm của phương trình bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$-1$" },
+        { "ma": "B", "noiDung": "$1$" },
+        { "ma": "C", "noiDung": "$-\\dfrac12$" },
+        { "ma": "D", "noiDung": "$\\dfrac12$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Áp dụng Vi-ét cho hai nghiệm $m,n$."],
+      "loiGiai": ["Theo Vi-ét: $m+n=-m\\Rightarrow n=-2m$ và $mn=n$. Vì $n\\ne0$ nên $m=1$, do đó $n=-2$. Tổng hai nghiệm là $m+n=-1$. Chọn A."]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Một cái thang $AB$ dài $6$ m tựa vào tường, chân thang cách tường $3$ m (Hình 1). Tính góc tạo bởi thang $AB$ và tường $AH$.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$30^\\circ$" },
+        { "ma": "B", "noiDung": "$45^\\circ$" },
+        { "ma": "C", "noiDung": "$60^\\circ$" },
+        { "ma": "D", "noiDung": "$90^\\circ$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Trong tam giác vuông $AHB$, $\\sin\\widehat{BAH}=\\dfrac{BH}{AB}$."],
+      "loiGiai": ["$\\sin\\widehat{BAH}=\\dfrac{3}{6}=\\dfrac12\\Rightarrow\\widehat{BAH}=30^\\circ$. Chọn A."]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Tam giác nhọn $MNP$ có đường tròn $(I)$ nội tiếp, với $E,F,G$ là các tiếp điểm (Hình 2). Khẳng định nào sau đây <b>không đúng</b>?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\widehat{IGP}=90^\\circ$" },
+        { "ma": "B", "noiDung": "$ME=MG$" },
+        { "ma": "C", "noiDung": "$\\widehat{MNI}=\\widehat{INP}$" },
+        { "ma": "D", "noiDung": "$N,I,G$ thẳng hàng" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["$G$ là tiếp điểm trên cạnh $MP$; $I$ là tâm đường tròn nội tiếp."],
+      "loiGiai": ["$IG\\perp MP$ nên A đúng; $ME=MG$ (hai tiếp tuyến kẻ từ $M$) nên B đúng; $NI$ là phân giác của góc $N$ nên C đúng. $N,I,G$ không thẳng hàng nên D sai. Chọn D."]
+    },
+    {
+      "id": "c9",
+      "soCau": 9,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $STR$ vuông tại $T$, đường cao $TK$ (Hình 3). Khẳng định nào sau đây <b>sai</b>?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac1{TK}=\\dfrac1{TS}+\\dfrac1{TR}$" },
+        { "ma": "B", "noiDung": "$SR^2=ST^2+TR^2$" },
+        { "ma": "C", "noiDung": "$ST^2=SK\\cdot SR$" },
+        { "ma": "D", "noiDung": "$TS\\cdot TR=TK\\cdot SR$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Hệ thức lượng trong tam giác vuông: nghịch đảo bình phương đường cao."],
+      "loiGiai": ["Hệ thức đúng là $\\dfrac1{TK^2}=\\dfrac1{TS^2}+\\dfrac1{TR^2}$, nên A sai. Các hệ thức còn lại đúng. Chọn A."]
+    },
+    {
+      "id": "c10",
+      "soCau": 10,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Từ một điểm $A$ ở ngoài đường tròn $(J)$, kẻ hai cát tuyến $AHB$ và $AKC$ (Hình 4). Biết $\\widehat{BAC}=40^\\circ$, các cung $HB,BC,CK$ có cùng độ dài. Tính số đo $\\widehat{HCK}$.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$30^\\circ$" },
+        { "ma": "B", "noiDung": "$20^\\circ$" },
+        { "ma": "C", "noiDung": "$15^\\circ$" },
+        { "ma": "D", "noiDung": "$10^\\circ$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Góc tạo bởi hai cát tuyến $AB$ và $AC$ bằng nửa hiệu số đo hai cung $BC$ và $HK$.", "Ba cung bằng nhau, mỗi cung có số đo $x$."],
+      "loiGiai": [
+        "Gọi số đo mỗi cung $HB,BC,CK$ là $x$. Cung nhỏ $HK$ có số đo $360^\\circ-3x$.",
+        "Theo tính chất góc tạo bởi hai cát tuyến: $\\widehat{BAC}=\\dfrac12[x-(360^\\circ-3x)]=40^\\circ\\Rightarrow x=110^\\circ$.",
+        "Do đó cung nhỏ $HK$ có số đo $30^\\circ$. Suy ra $\\widehat{HCK}=\\dfrac12\\cdot30^\\circ=15^\\circ$. Chọn C."
+      ]
+    },
+    {
+      "id": "c11",
+      "soCau": 11,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hình vuông $DEFG$ có cạnh bằng $2$ cm; $M,N,I,K$ là trung điểm các cạnh (Hình 5). Tính diện tích phần màu trắng giới hạn bởi bốn cung tròn $KM,MN,NI,IK$ (tâm là các đỉnh hình vuông).</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$4-\\pi\\ (\\text{cm}^2)$" },
+        { "ma": "B", "noiDung": "$\\pi-4\\ (\\text{cm}^2)$" },
+        { "ma": "C", "noiDung": "$\\pi\\ (\\text{cm}^2)$" },
+        { "ma": "D", "noiDung": "$4\\ (\\text{cm}^2)$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Bốn cung là bốn phần tư đường tròn bán kính $1$ cm."],
+      "loiGiai": ["Diện tích hình vuông là $4$ cm². Bốn phần tư đường tròn bán kính $1$ cm có tổng diện tích $\\pi$ cm². Phần trắng có diện tích $4-\\pi$ cm². Chọn A."]
+    },
+    {
+      "id": "c12",
+      "soCau": 12,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường tròn $(O)$ có bán kính bằng $1$ cm. Hai đường kính $PQ$ và $RS$ vuông góc với nhau (Hình 6). Tính độ dài cung lớn $PR$.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac{\\pi}{4}$ cm" },
+        { "ma": "B", "noiDung": "$\\dfrac{\\pi}{2}$ cm" },
+        { "ma": "C", "noiDung": "$\\dfrac{3\\pi}{4}$ cm" },
+        { "ma": "D", "noiDung": "$\\dfrac{3\\pi}{2}$ cm" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Cung lớn $PR$ chiếm $\\dfrac34$ đường tròn."],
+      "loiGiai": ["Chu vi đường tròn là $2\\pi$ cm. Cung lớn $PR$ có độ dài $\\dfrac34\\cdot2\\pi=\\dfrac{3\\pi}{2}$ cm. Chọn D."]
+    },
+    {
+      "id": "c13a",
+      "soCau": 13,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $2x^2+5x+2=0$.</p>",
+      "goiY": ["Tính $\\Delta=b^2-4ac$."],
+      "loiGiai": [
+        "$\\Delta=5^2-4\\cdot2\\cdot2=9=3^2$.",
+        "$x_1=\\dfrac{-5+3}{4}=-\\dfrac12$, $x_2=\\dfrac{-5-3}{4}=-2$.",
+        "Vậy $S=\\left\\{-2;-\\dfrac12\\right\\}$."
+      ]
+    },
+    {
+      "id": "c13b",
+      "soCau": 13,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}xy=-3\\\\3x+3y+2xy=0.\\end{cases}$</p>",
+      "goiY": ["Thay $xy=-3$ vào phương trình thứ hai để tìm $x+y$.", "Dùng Vi-ét đảo."],
+      "loiGiai": [
+        "Từ $xy=-3$, phương trình thứ hai trở thành $3(x+y)-6=0\\Rightarrow x+y=2$.",
+        "$x,y$ là nghiệm của $t^2-2t-3=0\\Rightarrow t=3$ hoặc $t=-1$.",
+        "Vậy hệ có nghiệm $(3;-1)$ và $(-1;3)$."
+      ]
+    },
+    {
+      "id": "c14a",
+      "soCau": 14,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hai hàm số $y=-\\dfrac12x^2$ và $y=ax+b$. Tìm các hệ số $a,b$ biết đường thẳng $y=ax+b$ đi qua $M(-2;-2)$ và $N(4;1)$.</p>",
+      "goiY": ["Thay tọa độ $M,N$ vào $y=ax+b$."],
+      "loiGiai": [
+        "Ta có $\\begin{cases}-2=-2a+b\\\\1=4a+b\\end{cases}$. Trừ vế: $3=6a\\Rightarrow a=\\dfrac12$, suy ra $b=-1$.",
+        "Vậy $a=\\dfrac12,\\ b=-1$."
+      ]
+    },
+    {
+      "id": "c14b1",
+      "soCau": 14,
+      "y": "b1",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với $a=\\dfrac12,\\ b=-1$, tìm giao điểm của đường thẳng $y=ax+b$ và đồ thị hàm số $y=-\\dfrac12x^2$ bằng phương pháp đại số.</p>",
+      "goiY": ["Giải phương trình hoành độ giao điểm $-\\dfrac12x^2=\\dfrac12x-1$."],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $-\\dfrac12x^2=\\dfrac12x-1\\Rightarrow x^2+x-2=0\\Rightarrow x=1$ hoặc $x=-2$.",
+        "$x=1\\Rightarrow y=-\\dfrac12$; $x=-2\\Rightarrow y=-2$.",
+        "Vậy giao điểm là $\\left(1;-\\dfrac12\\right)$ và $(-2;-2)$."
+      ]
+    },
+    {
+      "id": "c14b2",
+      "soCau": 14,
+      "y": "b2",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với $a=\\dfrac12,\\ b=-1$, vẽ đồ thị hai hàm số $y=-\\dfrac12x^2$ và $y=\\dfrac12x-1$ trên cùng một mặt phẳng tọa độ.</p>",
+      "goiY": ["Lập bảng giá trị của parabol và xác định hai điểm của đường thẳng."],
+      "loiGiai": [
+        "Parabol $y=-\\dfrac12x^2$ đi qua $(-2;-2),(-1;-\\dfrac12),(0;0),(1;-\\dfrac12),(2;-2)$.",
+        "Đường thẳng $y=\\dfrac12x-1$ đi qua $(0;-1)$ và $(2;0)$.",
+        "Vẽ parabol và đường thẳng trên cùng hệ trục tọa độ; hai đồ thị cắt nhau tại $(-2;-2)$ và $\\left(1;-\\dfrac12\\right)$."
+      ]
+    },
+    {
+      "id": "c15",
+      "soCau": 15,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Một khu đất hình chữ nhật có tỉ số hai kích thước là $\\dfrac23$. Người ta làm một sân bóng đá mini $5$ người ở giữa, chừa lối đi xung quanh (lối đi thuộc khu đất). Lối đi rộng $2$ m và có diện tích $224$ m². Tính các kích thước của khu đất.</p>",
+      "goiY": ["Gọi chiều rộng, chiều dài là $2k,3k$ ($k>0$).", "Sân bóng có kích thước $2k-4$ và $3k-4$."],
+      "loiGiai": [
+        "Gọi chiều rộng và chiều dài khu đất là $2k$ và $3k$ (m, $k>0$).",
+        "Sân bóng có kích thước $2k-4$ và $3k-4$ (m).",
+        "Diện tích lối đi: $6k^2-(2k-4)(3k-4)=224\\Rightarrow 20k-16=224\\Rightarrow k=12$.",
+        "Vậy khu đất có chiều rộng $24$ m, chiều dài $36$ m."
+      ]
+    },
+    {
+      "id": "c16a",
+      "soCau": 16,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, có $AB=3$ cm, $AC=4$ cm. Đường tròn tâm $B$ bán kính $BA$ và đường tròn tâm $C$ bán kính $CA$ cắt nhau tại điểm thứ hai $D$. Chứng minh tứ giác $ABDC$ nội tiếp.</p>",
+      "goiY": ["Chứng minh $\\triangle ABC=\\triangle DBC$."],
+      "loiGiai": [
+        "$AB=BD=3$ cm, $AC=CD=4$ cm, $BC$ chung nên $\\triangle ABC=\\triangle DBC$ (c.c.c).",
+        "Suy ra $\\widehat{BDC}=\\widehat{BAC}=90^\\circ$. Do đó $\\widehat{BAC}+\\widehat{BDC}=180^\\circ$.",
+        "Vậy $ABDC$ là tứ giác nội tiếp."
+      ]
+    },
+    {
+      "id": "c16b",
+      "soCau": 16,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với hình ở câu 16a, tính độ dài đoạn $AD$.</p>",
+      "dapAn": ["24/5", "4,8", "4.8"],
+      "goiY": ["$BC$ là đường trung trực của $AD$; dùng hệ thức lượng trong tam giác vuông $ABC$."],
+      "loiGiai": [
+        "Vì $B,C$ cùng cách đều $A,D$ nên $BC$ là đường trung trực của $AD$. Gọi $H=AD\\cap BC$ thì $AH\\perp BC$ và $AD=2AH$.",
+        "Trong tam giác vuông $ABC$: $\\dfrac1{AH^2}=\\dfrac1{AB^2}+\\dfrac1{AC^2}=\\dfrac19+\\dfrac1{16}=\\dfrac{25}{144}\\Rightarrow AH=\\dfrac{12}{5}$ cm.",
+        "Vậy $AD=2AH=\\dfrac{24}{5}=4,8$ cm."
+      ]
+    },
+    {
+      "id": "c16c",
+      "soCau": 16,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 16a, một đường thẳng $d$ quay quanh $A$ cắt $(B)$ tại $E$ ($E\\ne A$) và cắt $(C)$ tại $F$ ($F\\ne A$). Gọi $M$ là giao điểm của $EB$ và $FC$. Khi $d$ thay đổi thì điểm $M$ chạy trên đường nào?</p>",
+      "goiY": ["Chứng minh $\\widehat{BMC}=90^\\circ$.", "Điểm nhìn đoạn $BC$ dưới một góc vuông chạy trên đường tròn đường kính $BC$."],
+      "loiGiai": [
+        "Vì $BA=BE$ nên tam giác $BAE$ cân tại $B$, suy ra $\\widehat{BEA}=\\widehat{BAE}$.",
+        "Vì $CA=CF$ nên tam giác $CAF$ cân tại $C$, suy ra $\\widehat{CFA}=\\widehat{CAF}$.",
+        "Đặt $\\alpha=\\widehat{BAE}$, $\\beta=\\widehat{CAF}$ (góc có hướng). Vì $E,A,F$ thẳng hàng và $\\widehat{BAC}=90^\\circ$ nên $\\alpha+\\beta=90^\\circ$ (sai khác bội $180^\\circ$). Tam giác $BAE$ cân tại $B$ cho $\\widehat{ABE}=180^\\circ-2\\alpha$; tam giác $CAF$ cân tại $C$ cho $\\widehat{ACF}=180^\\circ-2\\beta=2\\alpha$. Do đó tổng các góc định hướng từ $BE$ đến $BA$, từ $BA$ đến $CA$, từ $CA$ đến $CF$ bằng $(180^\\circ-2\\alpha)+90^\\circ+2\\alpha=270^\\circ$, nên góc giữa $BE$ và $CF$ bằng $360^\\circ-270^\\circ=90^\\circ$. Vậy $\\widehat{BMC}=90^\\circ$.",
+        "Vậy $M$ luôn nhìn đoạn $BC$ cố định dưới một góc vuông, nên $M$ chạy trên đường tròn đường kính $BC$."
+      ]
+    }
+  ]
+}

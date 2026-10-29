@@ -1,0 +1,234 @@
+{
+  "id": "quang-ngai-2023",
+  "tinh": "Quảng Ngãi",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình – khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Quảng Ngãi — đề chính thức (không chuyên)",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-quang-ngai.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Thực hiện phép tính $3\\sqrt{49}-\\sqrt{121}$.</p>",
+      "dapAn": ["10"],
+      "goiY": ["$\\sqrt{49}=7$, $\\sqrt{121}=11$."],
+      "loiGiai": ["$3\\cdot7-11=21-11=10$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị $(P)$ của hàm số $y=\\dfrac12x^2$.</p>",
+      "goiY": ["Lập bảng giá trị với $x=-2,-1,0,1,2$ rồi vẽ parabol."],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2,-1,0,1,2$ tương ứng $y=2;\\dfrac12;0;\\dfrac12;2$.",
+        "Đồ thị là parabol đỉnh $O(0;0)$, nhận trục tung làm trục đối xứng, đi qua các điểm $(-2;2),\\left(-1;\\dfrac12\\right),(0;0),\\left(1;\\dfrac12\\right),(2;2)$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hai đường thẳng $(d):y=2x+1$ và $(d'):y=ax+b$ $(a\\ne0)$. Tìm $a,b$ biết $(d')$ song song với $(d)$ và đi qua điểm $A(2;3)$.</p>",
+      "goiY": ["Hai đường thẳng song song có cùng hệ số góc; thay tọa độ $A$ để tìm $b$."],
+      "loiGiai": [
+        "$(d')\\parallel(d)$ nên $a=2$.",
+        "$A(2;3)\\in(d')$ nên $3=2\\cdot2+b\\Rightarrow b=-1$.",
+        "Vậy $a=2$, $b=-1$ và $(d'):y=2x-1$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^4-3x^2-4=0$.</p>",
+      "goiY": ["Đặt $t=x^2\\ge0$, đưa về phương trình bậc hai theo $t$."],
+      "loiGiai": [
+        "Đặt $t=x^2\\ge0$. Phương trình trở thành $t^2-3t-4=0$.",
+        "$\\Delta=9+16=25$, $t_1=4$ (nhận), $t_2=-1$ (loại).",
+        "Với $t=4$ thì $x^2=4\\Rightarrow x=\\pm2$.",
+        "Vậy phương trình có hai nghiệm $x=2$ và $x=-2$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "1b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x-y=3\\\\3x+2y=1\\end{cases}$.</p>",
+      "goiY": ["Rút $y=2x-3$ từ phương trình thứ nhất rồi thế vào phương trình thứ hai."],
+      "loiGiai": [
+        "Từ $2x-y=3$ suy ra $y=2x-3$.",
+        "Thay vào $3x+2y=1$: $3x+2(2x-3)=1\\Rightarrow7x=7\\Rightarrow x=1$.",
+        "$y=2\\cdot1-3=-1$.",
+        "Vậy hệ có nghiệm $(x;y)=(1;-1)$."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "2a",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-2(m-1)x+m^2-4=0$, với $m$ là tham số. Tìm $m$ để phương trình có hai nghiệm phân biệt.</p>",
+      "goiY": ["Tính $\\Delta'$ và cho $\\Delta'>0$."],
+      "loiGiai": [
+        "$\\Delta'=(m-1)^2-(m^2-4)=m^2-2m+1-m^2+4=5-2m$.",
+        "Phương trình có hai nghiệm phân biệt khi $5-2m>0\\Leftrightarrow m\\lt\\dfrac52$.",
+        "Vậy $m\\lt\\dfrac52$."
+      ]
+    },
+    {
+      "id": "c2d",
+      "soCau": 2,
+      "y": "2b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-2(m-1)x+m^2-4=0$, với $m$ là tham số. Khi phương trình có hai nghiệm $x_1,x_2$, tìm tất cả các giá trị của $m$ để biểu thức $P=x_1^2+x_2^2+x_1x_2+m^2$ đạt giá trị nhỏ nhất.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Dùng Vi-ét và biến đổi $x_1^2+x_2^2+x_1x_2=(x_1+x_2)^2-x_1x_2$."],
+      "loiGiai": [
+        "Với $m\\lt\\dfrac52$, theo Vi-ét: $x_1+x_2=2(m-1)$, $x_1x_2=m^2-4$.",
+        "$P=(x_1+x_2)^2-x_1x_2+m^2=4(m-1)^2-(m^2-4)+m^2=4m^2-8m+8$.",
+        "$P=4(m-1)^2+4\\ge4$, dấu bằng xảy ra khi $m=1$ (thỏa mãn $m\\lt\\dfrac52$).",
+        "Vậy $m=1$ và giá trị nhỏ nhất của $P$ là $4$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Hai đội công nhân cùng thi công một đoạn đường nông thôn và dự định hoàn thành công việc đó trong $16$ ngày. Khi làm được $12$ ngày thì đội I được điều động đi làm việc ở nơi khác. Những ngày sau đó, đội II làm việc với năng suất gấp $1,5$ lần năng suất ban đầu nên đã hoàn thành công việc đúng thời gian dự định. Hỏi theo năng suất ban đầu, nếu mỗi đội làm một mình thì phải bao nhiêu ngày mới hoàn thành công việc trên?</p>",
+      "goiY": ["Gọi $x,y$ (ngày) là thời gian đội I, II làm một mình xong việc; lập phương trình $\\dfrac1x+\\dfrac1y=\\dfrac1{16}$."],
+      "loiGiai": [
+        "Gọi $x,y$ lần lượt là số ngày đội I, đội II làm một mình xong công việc ($x,y>16$). Mỗi ngày cả hai đội làm được $\\dfrac1{16}$ công việc nên $\\dfrac1x+\\dfrac1y=\\dfrac1{16}$ (1).",
+        "Sau $12$ ngày, hai đội làm được $\\dfrac{12}{16}=\\dfrac34$ công việc, còn lại $\\dfrac14$ công việc.",
+        "Đội II làm $4$ ngày còn lại với năng suất gấp $1,5$ lần nên $4\\cdot\\dfrac{1,5}{y}=\\dfrac14$, suy ra $\\dfrac6y=\\dfrac14\\Rightarrow y=24$.",
+        "Thay vào (1): $\\dfrac1x=\\dfrac1{16}-\\dfrac1{24}=\\dfrac1{48}\\Rightarrow x=48$.",
+        "Vậy đội I cần $48$ ngày, đội II cần $24$ ngày nếu làm một mình theo năng suất ban đầu."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$. Biết $BH=4$ cm, $HC=5$ cm. Tính độ dài $AB$ và $AH$.</p>",
+      "goiY": ["Dùng hệ thức lượng trong tam giác vuông: $AB^2=BH\\cdot BC$, $AH^2=BH\\cdot HC$."],
+      "loiGiai": [
+        "$BC=BH+HC=4+5=9$ cm.",
+        "$AB^2=BH\\cdot BC=4\\cdot9=36\\Rightarrow AB=6$ cm.",
+        "$AH^2=BH\\cdot HC=4\\cdot5=20\\Rightarrow AH=2\\sqrt5$ cm."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có ba góc nhọn $(AB\\lt AC)$ nội tiếp đường tròn $(O;R)$. Hai đường cao $AE$ và $BF$ cắt nhau tại $H$. Chứng minh tứ giác $CEHF$ nội tiếp đường tròn. Xác định tâm của đường tròn đó.</p>",
+      "goiY": ["Chứng minh $\\widehat{CEH}=\\widehat{CFH}=90^\\circ$."],
+      "loiGiai": [
+        "Vì $AE\\perp BC$ nên $\\widehat{CEH}=90^\\circ$; vì $BF\\perp AC$ nên $\\widehat{CFH}=90^\\circ$.",
+        "Hai điểm $E,F$ cùng nhìn đoạn $CH$ dưới một góc vuông nên $C,E,H,F$ cùng thuộc đường tròn đường kính $CH$.",
+        "Vậy tứ giác $CEHF$ nội tiếp đường tròn đường kính $CH$, tâm là trung điểm của $CH$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "2b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có ba góc nhọn $(AB\\lt AC)$ nội tiếp đường tròn $(O;R)$, hai đường cao $AE$ và $BF$ cắt nhau tại $H$. Kẻ đường kính $AD$ của đường tròn $(O)$. Chứng minh tứ giác $BHCD$ là hình bình hành. Biết $BC=R\\sqrt3$, tính $AH$ theo $R$.</p>",
+      "goiY": ["Chứng minh $DC\\parallel BH$ và $BD\\parallel CH$; dùng $BC=2R\\sin A$ để tìm góc $A$."],
+      "loiGiai": [
+        "$AD$ là đường kính nên $\\widehat{ACD}=90^\\circ$, suy ra $DC\\perp AC$. Mà $BH\\perp AC$ nên $DC\\parallel BH$.",
+        "Tương tự $\\widehat{ABD}=90^\\circ$ nên $BD\\perp AB$; mà $CH\\perp AB$ nên $BD\\parallel CH$.",
+        "Tứ giác $BHCD$ có hai cặp cạnh đối song song nên là hình bình hành.",
+        "$BC=2R\\sin A=R\\sqrt3\\Rightarrow\\sin A=\\dfrac{\\sqrt3}{2}$. Vì tam giác $ABC$ nhọn nên $A=60^\\circ$.",
+        "Ta có $AH=2R\\cos A$. Thật vậy, $\\widehat{BAH}=90^\\circ-B$, $\\widehat{ABH}=90^\\circ-A$ nên $\\widehat{AHB}=180^\\circ-C$; theo định lí sin trong tam giác $ABH$: $\\dfrac{AH}{\\sin(90^\\circ-A)}=\\dfrac{AB}{\\sin C}$, mà $AB=2R\\sin C$, suy ra $AH=2R\\cos A$.",
+        "Vậy $AH=2R\\cos60^\\circ=R$."
+      ]
+    },
+    {
+      "id": "c4d",
+      "soCau": 4,
+      "y": "2c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ có ba góc nhọn $(AB\\lt AC)$ nội tiếp đường tròn $(O;R)$, hai đường cao $AE$ và $BF$ cắt nhau tại $H$. Gọi $N$ là giao điểm của đường thẳng $CH$ và $AB$, $K$ là giao điểm của hai đường thẳng $BC$ và $FN$. Chứng minh $BK\\cdot CE=BE\\cdot CK$.</p>",
+      "goiY": ["Đặt $BE=p$, $CE=q$, $AE=h$; dùng định lí Menelaus cho tam giác $ABC$ với cát tuyến $KFN$."],
+      "loiGiai": [
+        "Vì tam giác nhọn nên $N$ là chân đường cao từ $C$ nằm trong đoạn $AB$, $F$ là chân đường cao từ $B$ nằm trong đoạn $AC$. Đặt $BE=p$, $CE=q$, $AE=h$.",
+        "Trong tam giác vuông $ABE$: $AB=\\sqrt{p^2+h^2}$ và $BN=\\dfrac{BE\\cdot BC}{AB}=\\dfrac{p(p+q)}{\\sqrt{p^2+h^2}}$, suy ra $AN=\\dfrac{h^2-pq}{\\sqrt{p^2+h^2}}$.",
+        "Tương tự $CF=\\dfrac{q(p+q)}{\\sqrt{q^2+h^2}}$ và $AF=\\dfrac{h^2-pq}{\\sqrt{q^2+h^2}}$.",
+        "Áp dụng định lí Menelaus cho tam giác $ABC$ với cát tuyến $KFN$: $\\dfrac{BK}{CK}\\cdot\\dfrac{CF}{FA}\\cdot\\dfrac{AN}{NB}=1$.",
+        "Suy ra $\\dfrac{BK}{CK}=\\dfrac{NB}{AN}\\cdot\\dfrac{FA}{CF}=\\dfrac{p(p+q)}{h^2-pq}\\cdot\\dfrac{h^2-pq}{q(p+q)}=\\dfrac pq=\\dfrac{BE}{CE}$.",
+        "Vậy $BK\\cdot CE=BE\\cdot CK$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $\\dfrac1{3x^2}+\\dfrac1{x^2-12x+2024}=\\dfrac1{x^2-3x+506}$.</p>",
+      "goiY": ["Đặt $A=3x^2$, $B=x^2-12x+2024$, $C=x^2-3x+506$ và nhận xét $A+B=4C$."],
+      "loiGiai": [
+        "Điều kiện $x\\ne0$; hai mẫu còn lại luôn dương vì $x^2-12x+2024=(x-6)^2+1988>0$ và $x^2-3x+506=\\left(x-\\dfrac32\\right)^2+\\dfrac{2015}{4}>0$.",
+        "Đặt $A=3x^2$, $B=x^2-12x+2024$, $C=x^2-3x+506$. Ta có $A+B=4C$.",
+        "Phương trình trở thành $\\dfrac{A+B}{AB}=\\dfrac1C$, tức $\\dfrac{4C}{AB}=\\dfrac1C$, suy ra $AB=4C^2$.",
+        "Kết hợp $A+B=4C$ được $(A-B)^2=(A+B)^2-4AB=16C^2-16C^2=0$, nên $A=B$.",
+        "$3x^2=x^2-12x+2024\\Leftrightarrow2x^2+12x-2024=0\\Leftrightarrow x^2+6x-1012=0$.",
+        "$\\Delta'=9+1012=1021$, suy ra $x=-3\\pm\\sqrt{1021}$ (đều thỏa mãn $x\\ne0$).",
+        "Vậy phương trình có hai nghiệm $x=-3+\\sqrt{1021}$ và $x=-3-\\sqrt{1021}$."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "quang-binh-2023",
+  "tinh": "Quảng Bình",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán (chung) — năm học 2023–2024 (mã đề 003)",
+  "thoiGian": 90,
+  "mucDo": "Trung bình – khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Quảng Bình — đề chính thức, mã đề 003",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2023-2024-so-gddt-quang-binh.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho biểu thức $A=\\dfrac1{\\sqrt a+2}+\\dfrac4{a-4}$ với $a\\ge0$ và $a\\ne4$. Rút gọn biểu thức $A$.</p>",
+      "goiY": [
+        "Phân tích $a-4=(\\sqrt a-2)(\\sqrt a+2)$ rồi quy đồng."
+      ],
+      "loiGiai": [
+        "$A=\\dfrac1{\\sqrt a+2}+\\dfrac4{(\\sqrt a-2)(\\sqrt a+2)}=\\dfrac{\\sqrt a-2+4}{(\\sqrt a-2)(\\sqrt a+2)}$.",
+        "$A=\\dfrac{\\sqrt a+2}{(\\sqrt a-2)(\\sqrt a+2)}=\\dfrac1{\\sqrt a-2}$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho biểu thức $A=\\dfrac1{\\sqrt a+2}+\\dfrac4{a-4}$ với $a\\ge0$ và $a\\ne4$. Tìm tất cả các giá trị của $a$ để $A=\\dfrac12$.</p>",
+      "dapAn": [
+        "16"
+      ],
+      "goiY": [
+        "Dùng kết quả rút gọn $A=\\dfrac1{\\sqrt a-2}$ và chú ý điều kiện $a\\ge0$, $a\\ne4$."
+      ],
+      "loiGiai": [
+        "$\\dfrac1{\\sqrt a-2}=\\dfrac12\\Rightarrow\\sqrt a-2=2\\Rightarrow\\sqrt a=4\\Rightarrow a=16$.",
+        "Giá trị $a=16$ thỏa mãn điều kiện. Vậy $a=16$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^2+3x-4=0$.</p>",
+      "goiY": [
+        "Tính $\\Delta=3^2-4\\cdot1\\cdot(-4)=25$."
+      ],
+      "loiGiai": [
+        "$\\Delta=9+16=25$, $\\sqrt\\Delta=5$.",
+        "$x_1=\\dfrac{-3+5}{2}=1$, $x_2=\\dfrac{-3-5}{2}=-4$.",
+        "Vậy phương trình có hai nghiệm $x=1$ và $x=-4$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2+3x+m-3=0$ ($m$ là tham số). Tìm tất cả các giá trị của $m$ để phương trình có hai nghiệm.</p>",
+      "goiY": [
+        "Điều kiện để phương trình bậc hai có hai nghiệm là $\\Delta\\ge0$."
+      ],
+      "loiGiai": [
+        "$\\Delta=3^2-4(m-3)=9-4m+12=21-4m$.",
+        "Phương trình có hai nghiệm khi $\\Delta\\ge0\\Leftrightarrow21-4m\\ge0\\Leftrightarrow m\\le\\dfrac{21}{4}$.",
+        "Vậy $m\\le\\dfrac{21}{4}$."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "2b",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2+3x+m-3=0$ ($m$ là tham số). Trong trường hợp phương trình có hai nghiệm $x_1,x_2$, tìm tất cả các giá trị của $m$ để $x_1,x_2$ thỏa mãn hệ thức $2x_1x_2-(x_1+x_2)=2$.</p>",
+      "dapAn": [
+        "5/2",
+        "2,5",
+        "2.5"
+      ],
+      "goiY": [
+        "Theo Vi-ét: $x_1+x_2=-3$, $x_1x_2=m-3$."
+      ],
+      "loiGiai": [
+        "Theo Vi-ét: $x_1+x_2=-3$, $x_1x_2=m-3$.",
+        "Thay vào hệ thức: $2(m-3)-(-3)=2\\Leftrightarrow2m-6+3=2\\Leftrightarrow2m=5\\Leftrightarrow m=\\dfrac52$.",
+        "Giá trị $m=\\dfrac52$ thỏa mãn $m\\le\\dfrac{21}{4}$. Vậy $m=\\dfrac52$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Với $x\\in\\mathbb R$, tìm giá trị nhỏ nhất của biểu thức $P=9x^2-2|3x-2|-12x+2028$.</p>",
+      "dapAn": [
+        "2023"
+      ],
+      "goiY": [
+        "Đặt $t=|3x-2|\\ge0$; chú ý $9x^2-12x=(3x-2)^2-4$."
+      ],
+      "loiGiai": [
+        "Đặt $t=|3x-2|\\ge0$. Ta có $9x^2-12x=(3x-2)^2-4=t^2-4$.",
+        "$P=t^2-4-2t+2028=t^2-2t+2024=(t-1)^2+2023\\ge2023$.",
+        "Dấu bằng khi $t=1$, tức $|3x-2|=1\\Leftrightarrow x=1$ hoặc $x=\\dfrac13$.",
+        "Vậy $\\min P=2023$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho nửa đường tròn tâm $O$ đường kính $AB$ và điểm $C$ thuộc nửa đường tròn đó ($C$ khác $A$ và $B$). Lấy điểm $E$ thuộc cung $AC$ ($E$ khác $A$ và $C$) sao cho $AE\\lt BC$, gọi $M$ là giao điểm của $AC$ và $BE$. Kẻ $MH$ vuông góc với $AB$ tại $H$. Chứng minh tứ giác $BCMH$ nội tiếp.</p>",
+      "goiY": [
+        "$\\widehat{BCA}=90^\\circ$ và $\\widehat{BHM}=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $C$ thuộc nửa đường tròn đường kính $AB$ nên $\\widehat{BCA}=90^\\circ$, do đó $\\widehat{BCM}=90^\\circ$.",
+        "Vì $MH\\perp AB$ tại $H$ nên $\\widehat{BHM}=90^\\circ$.",
+        "Tứ giác $BCMH$ có $\\widehat{BCM}+\\widehat{BHM}=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho nửa đường tròn tâm $O$ đường kính $AB$ và điểm $C$ thuộc nửa đường tròn đó ($C$ khác $A$ và $B$). Lấy điểm $E$ thuộc cung $AC$ ($E$ khác $A$ và $C$) sao cho $AE\\lt BC$, gọi $M$ là giao điểm của $AC$ và $BE$. Kẻ $MH$ vuông góc với $AB$ tại $H$. Chứng minh $\\triangle ACE\\sim\\triangle HCM$.</p>",
+      "goiY": [
+        "Tìm hai cặp góc bằng nhau, dùng góc nội tiếp và tứ giác $BCMH$ nội tiếp."
+      ],
+      "loiGiai": [
+        "Trong $(O)$, $\\widehat{AEC}=\\widehat{ABC}$ (cùng chắn cung $AC$).",
+        "Tứ giác $BCMH$ nội tiếp nên $\\widehat{HMC}=\\widehat{HBC}=\\widehat{ABC}$. Suy ra $\\widehat{AEC}=\\widehat{HMC}$.",
+        "Trong $(O)$, $\\widehat{ACE}=\\widehat{ABE}$ (cùng chắn cung $AE$). Mà $\\widehat{ABE}=\\widehat{ABM}=\\widehat{HBM}=\\widehat{HCM}$ (do $BCMH$ nội tiếp). Suy ra $\\widehat{ACE}=\\widehat{HCM}$.",
+        "Vậy $\\triangle ACE\\sim\\triangle HCM$ (g.g)."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho nửa đường tròn tâm $O$ đường kính $AB$ và điểm $C$ thuộc nửa đường tròn đó ($C$ khác $A$ và $B$). Lấy điểm $E$ thuộc cung $AC$ ($E$ khác $A$ và $C$) sao cho $AE\\lt BC$, gọi $M$ là giao điểm của $AC$ và $BE$. Kẻ $MH$ vuông góc với $AB$ tại $H$. Gọi $K$ là giao điểm của $OE$ và $HC$. Chứng minh $KE\\cdot KO=KC\\cdot KH$.</p>",
+      "goiY": [
+        "Chứng minh bốn điểm $C,H,E,O$ cùng thuộc một đường tròn.",
+        "Dùng phương tích của $K$ với đường tròn đó."
+      ],
+      "loiGiai": [
+        "Tứ giác $AEMH$ có $\\widehat{AEM}=90^\\circ$ (vì $AE\\perp BE$) và $\\widehat{AHM}=90^\\circ$, nên nội tiếp. Suy ra $\\widehat{MHE}=\\widehat{MAE}=\\widehat{CAE}$.",
+        "Tứ giác $BCMH$ nội tiếp nên $\\widehat{CHM}=\\widehat{CBM}=\\widehat{CBE}$.",
+        "Vì $\\widehat{CAE}=\\widehat{CBE}$ (cùng chắn cung $CE$ của $(O)$), nên $\\widehat{CHE}=\\widehat{CHM}+\\widehat{MHE}=2\\widehat{CBE}$.",
+        "Mặt khác $\\widehat{COE}=2\\widehat{CBE}$ (góc ở tâm và góc nội tiếp cùng chắn cung $CE$), do đó $\\widehat{CHE}=\\widehat{COE}$.",
+        "Suy ra $C,H,E,O$ cùng thuộc một đường tròn. Vì $K$ nằm trên hai đường thẳng $HC$ và $OE$, theo phương tích của $K$ với đường tròn này ta có $KC\\cdot KH=KE\\cdot KO$."
+      ]
+    }
+  ]
+}

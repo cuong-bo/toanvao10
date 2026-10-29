@@ -1,7 +1,7 @@
 # Kế hoạch dự án: Trạm tiếp sức Toán vào 10 (mở rộng cả nước)
 
 > Cập nhật lần cuối: 2026-10-29
-> Trạng thái: **đã triển khai lõi (bước 1–6, bước 8), đã có 35 đề thật + 1 đề mẫu. Hiện chưa có giáo viên kiểm duyệt; lời giải có thể sai, cần kiểm tra và hỏi giáo viên nếu thắc mắc.**
+> Trạng thái: **đã triển khai lõi (bước 1–6, bước 8), đã có 45 đề thật + 1 đề mẫu. Hiện chưa có giáo viên kiểm duyệt; lời giải có thể sai, cần kiểm tra và hỏi giáo viên nếu thắc mắc.**
 >
 > Xem tiến độ thực tế: `README.md`, nguồn đề: `docs/NGUON_DE.md`, hướng dẫn đăng: `docs/HUONG_DAN_DANG.md`.
 
@@ -176,7 +176,7 @@ Tick `[x]` khi xong; mỗi bước có tiêu chí hoàn thành để kiểm tra.
 - [ ] **Bước 7. Kiểm duyệt và đăng:** chế độ xem duyệt, `publish.js`, hướng dẫn đăng lên hosting.
   *Đã có:* `publish.js`, API `/api/drafts`, hướng dẫn đăng. *Còn:* giao diện xem duyệt có thanh vàng — làm sau theo yêu cầu.
 - [x] **Bước 8. Nội dung:** thêm 1–2 đề thật đại diện, rồi mở rộng từng đợt (3–5 đề mỗi đợt).
-  *Đã có:* 35 đề thật thuộc 20 tỉnh/thành, 580 câu/ý (gồm đề mẫu), có lời giải; xem `docs/NGUON_DE.md`.
+  *Đã có:* 45 đề thật thuộc 30 tỉnh/thành, 725 câu/ý (gồm đề mẫu), có lời giải; xem `docs/NGUON_DE.md`.
 
 **Về đề trong lúc dựng khung (bước 1–7):** dùng *đề minh họa tự soạn*, ghi rõ "Đề mẫu để thử web, không phải đề thi thật", gồm đủ các loại câu (tự luận, đáp án số, có ảnh). Đến bước 8 mới thay bằng đề thật, ghi nguồn.
 
@@ -211,6 +211,16 @@ Tick `[x]` khi xong; mỗi bước có tiêu chí hoàn thành để kiểm tra.
 | Cần Thơ | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Quảng Ninh | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 | Thừa Thiên Huế | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Hà Tĩnh | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Quảng Bình | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Quảng Trị | 2024 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Quảng Nam | 2025 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Quảng Ngãi | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Bình Định | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Phú Yên | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Khánh Hòa | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Lâm Đồng | 2024 (Toán không chuyên – kỳ thi vào trường chuyên) | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
+| Đồng Nai | 2023 | Có | Xem `docs/NGUON_DE.md` | Đã đăng |
 
 ## 11. Rủi ro
 
@@ -235,7 +245,7 @@ Tick `[x]` khi xong; mỗi bước có tiêu chí hoàn thành để kiểm tra.
 Đến 2026-10-29:
 
 - `site/` đã có đầy đủ giao diện, dữ liệu, KaTeX, icon, manifest, service worker.
-- 36 đề trong `catalog.json` (35 đề thật + 1 đề mẫu), 580 câu/ý.
+- 46 đề trong `catalog.json` (45 đề thật + 1 đề mẫu), 725 câu/ý.
 - `drafts/` trống, sẵn sàng cho đợt đề tiếp theo.
 - `tools/` có `serve.js`, `validate.js`, `publish.js`, `build-catalog.js`.
 - Đã kiểm thử Playwright, Lighthouse; xem `README.md`.

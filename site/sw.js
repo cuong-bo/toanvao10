@@ -2,7 +2,7 @@
    - Trang và dữ liệu: ưu tiên mạng, rơi về cache khi offline.
    - Tài nguyên tĩnh: cache trước, cập nhật ngầm.
 */
-const VERSION = 'tram10-v2.7.1';
+const VERSION = 'tram10-v2.8.1';
 const CORE = [
   './',
   './index.html',

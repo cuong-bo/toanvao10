@@ -1,0 +1,219 @@
+{
+  "id": "ha-tinh-2023",
+  "tinh": "Hà Tĩnh",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024 (mã đề 01)",
+  "thoiGian": 90,
+  "mucDo": "Trung bình – khá",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hà Tĩnh — đề chính thức, mã đề 01",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-ha-tinh.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn biểu thức $A=\\sqrt{48}-3\\sqrt3$.</p>",
+      "dapAn": [
+        "√3",
+        "sqrt3"
+      ],
+      "goiY": [
+        "$\\sqrt{48}=4\\sqrt3$."
+      ],
+      "loiGiai": [
+        "$A=4\\sqrt3-3\\sqrt3=\\sqrt3$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn biểu thức $B=\\left(\\dfrac1{\\sqrt x+2}+\\dfrac1{\\sqrt x-2}\\right):\\dfrac{\\sqrt x}{x-4}$ với $x>0$; $x\\ne4$.</p>",
+      "dapAn": [
+        "2"
+      ],
+      "goiY": [
+        "Quy đồng mẫu trong ngoặc, chú ý $x-4=(\\sqrt x-2)(\\sqrt x+2)$."
+      ],
+      "loiGiai": [
+        "Trong ngoặc: $\\dfrac1{\\sqrt x+2}+\\dfrac1{\\sqrt x-2}=\\dfrac{(\\sqrt x-2)+(\\sqrt x+2)}{(\\sqrt x-2)(\\sqrt x+2)}=\\dfrac{2\\sqrt x}{x-4}$.",
+        "$B=\\dfrac{2\\sqrt x}{x-4}\\cdot\\dfrac{x-4}{\\sqrt x}=2$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho hai đường thẳng $(d_1):y=(m-3)x+4$ ($m$ là tham số) và $(d_2):y=2x-1$. Tìm giá trị của $m$ để hai đường thẳng $(d_1)$ và $(d_2)$ song song với nhau.</p>",
+      "dapAn": [
+        "5"
+      ],
+      "goiY": [
+        "Hai đường thẳng $y=ax+b$ và $y=a'x+b'$ song song khi $a=a'$ và $b\\ne b'$."
+      ],
+      "loiGiai": [
+        "$(d_1)\\parallel(d_2)$ khi $m-3=2$ và $4\\ne-1$.",
+        "Suy ra $m=5$. Vậy $m=5$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x-y=3\\\\3x+2y=8\\end{cases}$.</p>",
+      "goiY": [
+        "Nhân phương trình thứ nhất với $2$ rồi cộng với phương trình thứ hai."
+      ],
+      "loiGiai": [
+        "Nhân phương trình thứ nhất với $2$: $4x-2y=6$. Cộng với $3x+2y=8$ được $7x=14\\Rightarrow x=2$.",
+        "Thay $x=2$ vào $2x-y=3$: $4-y=3\\Rightarrow y=1$.",
+        "Vậy hệ có nghiệm $(x;y)=(2;1)$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-2mx+m^2-m-2=0$ ($m$ là tham số). Tìm tất cả các giá trị của $m$ để phương trình đã cho có hai nghiệm phân biệt $x_1,x_2$ thỏa mãn $\\dfrac{x_1x_2+1}{x_1^2+x_2^2+2(1+x_1x_2)}=\\dfrac16$.</p>",
+      "goiY": [
+        "Tính $\\Delta'=m+2$; điều kiện có hai nghiệm phân biệt là $m>-2$.",
+        "Dùng Vi-ét: $x_1+x_2=2m$, $x_1x_2=m^2-m-2$ và $x_1^2+x_2^2+2(1+x_1x_2)=(x_1+x_2)^2+2$."
+      ],
+      "loiGiai": [
+        "$\\Delta'=m^2-(m^2-m-2)=m+2$. Phương trình có hai nghiệm phân biệt khi $m+2>0\\Leftrightarrow m>-2$.",
+        "Theo Vi-ét: $x_1+x_2=2m$, $x_1x_2=m^2-m-2$.",
+        "Ta có $x_1^2+x_2^2+2(1+x_1x_2)=(x_1+x_2)^2+2=4m^2+2$.",
+        "Phương trình đã cho tương đương $\\dfrac{m^2-m-1}{4m^2+2}=\\dfrac16$, tức $6(m^2-m-1)=4m^2+2$.",
+        "$\\Leftrightarrow 2m^2-6m-8=0\\Leftrightarrow m^2-3m-4=0\\Leftrightarrow m=-1$ hoặc $m=4$.",
+        "Cả hai giá trị đều thỏa $m>-2$. Vậy $m\\in\\{-1;4\\}$."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một phòng họp ban đầu có $96$ ghế được xếp thành các dãy và số ghế trong mỗi dãy đều bằng nhau. Có một lần phòng họp phải cất bớt $2$ dãy ghế và mỗi dãy còn lại xếp thêm $1$ ghế (số ghế trong các dãy vẫn bằng nhau) để vừa đủ chỗ ngồi cho $110$ đại biểu. Hỏi ban đầu trong phòng họp có bao nhiêu dãy ghế?</p>",
+      "dapAn": [
+        "24"
+      ],
+      "goiY": [
+        "Gọi số dãy ghế ban đầu là $x$; số ghế mỗi dãy ban đầu là $\\dfrac{96}{x}$."
+      ],
+      "loiGiai": [
+        "Gọi $x$ là số dãy ghế ban đầu ($x\\in\\mathbb N$, $x\\ge3$). Mỗi dãy có $\\dfrac{96}{x}$ ghế.",
+        "Sau khi bớt $2$ dãy và thêm $1$ ghế mỗi dãy: $\\left(x-2\\right)\\left(\\dfrac{96}{x}+1\\right)=110$.",
+        "$\\Leftrightarrow (x-2)(x+96)=110x\\Leftrightarrow x^2-16x-192=0$.",
+        "$\\Leftrightarrow x=24$ hoặc $x=-8$. Loại $x=-8$.",
+        "Vậy ban đầu phòng họp có $24$ dãy ghế."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$ ($H\\in BC$). Biết độ dài đoạn $AB=5$ cm và $AH=4$ cm. Tính độ dài đoạn $BH$ và diện tích tam giác $ABC$.</p>",
+      "goiY": [
+        "Dùng Pythagore trong tam giác $ABH$; sau đó dùng $AB^2=BH\\cdot BC$."
+      ],
+      "loiGiai": [
+        "Trong tam giác vuông $ABH$: $BH=\\sqrt{AB^2-AH^2}=\\sqrt{25-16}=3$ cm.",
+        "Trong tam giác vuông $ABC$: $AB^2=BH\\cdot BC\\Rightarrow BC=\\dfrac{25}{3}$ cm.",
+        "Diện tích $S_{ABC}=\\dfrac12\\cdot AH\\cdot BC=\\dfrac12\\cdot4\\cdot\\dfrac{25}{3}=\\dfrac{50}{3}$ cm$^2$."
+      ]
+    },
+    {
+      "id": "c6a",
+      "soCau": 6,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn. Đường tròn $(O)$ đường kính $BC$ cắt các cạnh $AB,AC$ lần lượt tại $D$ và $E$ ($D$ khác $B$ và $E$ khác $C$). Gọi $H$ là giao điểm của hai đường thẳng $BE$ và $CD$. Chứng minh $ADHE$ là tứ giác nội tiếp.</p>",
+      "goiY": [
+        "$\\widehat{BDC}=\\widehat{BEC}=90^\\circ$ vì là góc nội tiếp chắn nửa đường tròn."
+      ],
+      "loiGiai": [
+        "Vì $\\widehat{BDC}=90^\\circ$ (góc nội tiếp chắn nửa đường tròn) nên $\\widehat{ADH}=90^\\circ$.",
+        "Tương tự $\\widehat{BEC}=90^\\circ$ nên $\\widehat{AEH}=90^\\circ$.",
+        "Tứ giác $ADHE$ có $\\widehat{ADH}+\\widehat{AEH}=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c6b",
+      "soCau": 6,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn. Đường tròn $(O)$ đường kính $BC$ cắt các cạnh $AB,AC$ lần lượt tại $D$ và $E$ ($D$ khác $B$ và $E$ khác $C$). Gọi $H$ là giao điểm của hai đường thẳng $BE$ và $CD$. Đường thẳng $AH$ cắt $BC$ tại $F$ và cắt đường tròn $(O)$ tại điểm $P$ ($P$ nằm giữa $A$ và $H$). Đường thẳng $DF$ cắt đường tròn $(O)$ tại điểm $K$ ($K$ khác $D$). Gọi $M$ là giao điểm của $EK$ và $BC$, $I$ là tâm đường tròn ngoại tiếp tam giác $HDP$. Chứng minh $CE^2=BC\\cdot MC$ và ba điểm $B,I,P$ thẳng hàng.</p>",
+      "goiY": [
+        "$H$ là trực tâm tam giác $ABC$; chứng minh $EK\\parallel AH$.",
+        "Chứng minh $PC$ là tiếp tuyến của đường tròn $(HDP)$ tại $P$."
+      ],
+      "loiGiai": [
+        "Vì $BE\\perp AC$ và $CD\\perp AB$ nên $H$ là trực tâm của tam giác $ABC$, suy ra $AH\\perp BC$ tại $F$.",
+        "Tứ giác $ADCF$ có $\\widehat{ADC}=\\widehat{AFC}=90^\\circ$ nên nội tiếp, suy ra $\\widehat{CAF}=\\widehat{CDF}$.",
+        "Trong $(O)$, $\\widehat{CDK}=\\widehat{CEK}$ (cùng chắn cung $CK$). Do đó $\\widehat{CAF}=\\widehat{CEK}$; vì $CE$ trùng $CA$ nên $EK\\parallel AF$.",
+        "Mà $AF\\perp BC$ nên $EK\\perp BC$. Trong tam giác vuông $EBC$, $EM$ là đường cao ứng với cạnh huyền $BC$, do đó $CE^2=CM\\cdot CB$.",
+        "Vì $\\widehat{BPC}=90^\\circ$ và $PF\\perp BC$, ta có $\\widehat{FPC}=\\widehat{PBC}$ (cùng phụ với $\\widehat{PCF}$).",
+        "Lại có $\\widehat{PBC}=\\widehat{PDC}$ (cùng chắn cung $PC$ của $(O)$), mà $D,H,C$ thẳng hàng nên $\\widehat{FPC}=\\widehat{PDH}$.",
+        "Vì $F,P,H$ thẳng hàng nên $\\widehat{HPC}=\\widehat{PDH}$; theo định lí góc tạo bởi tiếp tuyến và dây cung (đảo), $PC$ là tiếp tuyến tại $P$ của đường tròn $(HDP)$.",
+        "Suy ra $IP\\perp PC$. Mặt khác $BP\\perp PC$ (vì $\\widehat{BPC}=90^\\circ$), nên $B,P,I$ thẳng hàng."
+      ]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $a,b,c$ là các số thực khác không. Tìm giá trị nhỏ nhất của biểu thức $P=\\dfrac{a^2}{a^2+2(b+c)^2}+\\dfrac{b^2}{b^2+2(c+a)^2}+\\dfrac{c^2}{c^2+2(a+b)^2}$.</p>",
+      "dapAn": [
+        "1/3"
+      ],
+      "goiY": [
+        "Dùng $2(b+c)^2\\le4(b^2+c^2)$ để làm lớn mẫu.",
+        "Sau đó dùng bất đẳng thức Cauchy–Schwarz dạng Engel."
+      ],
+      "loiGiai": [
+        "Vì $2(b+c)^2\\le4(b^2+c^2)$ (tương đương $2(b-c)^2\\ge0$), ta có $P\\ge\\sum\\dfrac{a^2}{a^2+4b^2+4c^2}$.",
+        "Đặt $S=a^2+b^2+c^2$. Theo Cauchy–Schwarz, $\\sum\\dfrac{a^2}{a^2+4b^2+4c^2}=\\sum\\dfrac{a^4}{a^2(a^2+4b^2+4c^2)}\\ge\\dfrac{S^2}{\\sum a^2(a^2+4b^2+4c^2)}$.",
+        "Mà $3S^2-\\sum a^2(a^2+4b^2+4c^2)=(a^2-b^2)^2+(b^2-c^2)^2+(c^2-a^2)^2\\ge0$, nên mẫu không vượt quá $3S^2$.",
+        "Do đó $P\\ge\\dfrac{S^2}{3S^2}=\\dfrac13$. Dấu bằng xảy ra khi $a=b=c\\ne0$.",
+        "Vậy $\\min P=\\dfrac13$."
+      ]
+    }
+  ]
+}

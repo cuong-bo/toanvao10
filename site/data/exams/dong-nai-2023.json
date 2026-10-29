@@ -1,0 +1,218 @@
+{
+  "id": "dong-nai-2023",
+  "tinh": "Đồng Nai",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh vào lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Đồng Nai — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-dong-nai.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 02/6/2023, gồm 5 câu, thời gian 120 phút. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^2+8x+15=0$.</p>",
+      "goiY": ["Tính $\\Delta$ hoặc phân tích $x^2+8x+15=(x+3)(x+5)$."],
+      "loiGiai": [
+        "$\\Delta=8^2-4\\cdot15=4$, $\\sqrt\\Delta=2$.",
+        "$x_1=\\dfrac{-8+2}{2}=-3$, $x_2=\\dfrac{-8-2}{2}=-5$.",
+        "Vậy tập nghiệm $S=\\{-3;-5\\}$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^4-3x^2-4=0$.</p>",
+      "goiY": ["Đặt $t=x^2\\ge0$, đưa về phương trình bậc hai ẩn $t$."],
+      "loiGiai": [
+        "Đặt $t=x^2\\ge0$: $t^2-3t-4=0$.",
+        "$\\Delta=9+16=25$, $t_1=4$, $t_2=-1$ (loại).",
+        "$x^2=4\\Leftrightarrow x=\\pm2$. Vậy $S=\\{-2;2\\}$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x+3y=13\\\\ x-3y=2\\end{cases}$.</p>",
+      "goiY": ["Cộng hai phương trình để khử $y$."],
+      "loiGiai": [
+        "Cộng hai phương trình: $3x=15\\Rightarrow x=5$.",
+        "Thay $x=5$ vào $x-3y=2$: $5-3y=2\\Rightarrow y=1$.",
+        "Vậy $(x;y)=(5;1)$."
+      ]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn biểu thức $A=\\sqrt{\\left(\\sqrt2-1\\right)^2}-\\dfrac13\\sqrt{18}$.</p>",
+      "dapAn": ["-1"],
+      "goiY": ["$\\sqrt{x^2}=|x|$; đưa $\\sqrt{18}$ về $3\\sqrt2$."],
+      "loiGiai": [
+        "$\\sqrt{(\\sqrt2-1)^2}=|\\sqrt2-1|=\\sqrt2-1$ vì $\\sqrt2>1$.",
+        "$\\dfrac13\\sqrt{18}=\\dfrac13\\cdot3\\sqrt2=\\sqrt2$.",
+        "$A=(\\sqrt2-1)-\\sqrt2=-1$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị hàm số $y=-2x^2$.</p>",
+      "goiY": ["Lập bảng giá trị với $x=-2;-1;0;1;2$."],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2,-1,0,1,2$ tương ứng $y=-8,-2,0,-2,-8$.",
+        "Vẽ parabol đi qua các điểm $(-2;-8),(-1;-2),(0;0),(1;-2),(2;-8)$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Tìm tham số thực $m$ để đồ thị hàm số $y=-2x^2$ và đường thẳng $y=x-m$ có điểm chung.</p>",
+      "goiY": ["Lập phương trình hoành độ giao điểm và xét $\\Delta$."],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $-2x^2=x-m\\Leftrightarrow 2x^2+x-m=0$.",
+        "Hai đồ thị có điểm chung $\\Leftrightarrow \\Delta=1+8m\\ge0\\Leftrightarrow m\\ge-\\dfrac18$.",
+        "Vậy $m\\ge-\\dfrac18$."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "3",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $3x^2+5x-1=0$ có hai nghiệm $x_1,x_2$. Tính giá trị biểu thức $T=6x_1-7x_1x_2+6x_2$.</p>",
+      "dapAn": ["-23/3"],
+      "goiY": ["Dùng Vi-ét: $x_1+x_2=-\\dfrac53$, $x_1x_2=-\\dfrac13$."],
+      "loiGiai": [
+        "Theo Vi-ét: $x_1+x_2=-\\dfrac53$, $x_1x_2=-\\dfrac13$.",
+        "$T=6(x_1+x_2)-7x_1x_2=6\\cdot\\left(-\\dfrac53\\right)-7\\cdot\\left(-\\dfrac13\\right)$.",
+        "$T=-10+\\dfrac73=-\\dfrac{23}{3}$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Hai vòi nước cùng chảy vào một bể cạn (không có nước) sau $40$ phút thì đầy bể. Nếu mở vòi thứ nhất chảy trong $15$ phút rồi khóa lại, sau đó mở vòi thứ hai chảy tiếp trong $20$ phút thì lúc này lượng nước trong bể chiếm $\\dfrac{5}{12}$ thể tích của bể nước. Hỏi nếu mở riêng từng vòi thì thời gian để mỗi vòi chảy đầy bể là bao lâu?</p>",
+      "goiY": ["Gọi $x,y$ (phút) là thời gian vòi 1, vòi 2 chảy riêng đầy bể; lập hệ theo phần bể mỗi phút."],
+      "loiGiai": [
+        "Gọi $x,y$ (phút) lần lượt là thời gian vòi thứ nhất, vòi thứ hai chảy riêng đầy bể ($x,y>0$). Mỗi phút hai vòi chảy được $\\dfrac1x,\\dfrac1y$ bể.",
+        "Hai vòi cùng chảy đầy bể sau $40$ phút: $\\dfrac1x+\\dfrac1y=\\dfrac1{40}$.",
+        "Vòi thứ nhất chảy $15$ phút, vòi thứ hai chảy $20$ phút được $\\dfrac5{12}$ bể: $\\dfrac{15}{x}+\\dfrac{20}{y}=\\dfrac5{12}$.",
+        "Đặt $u=\\dfrac1x$, $v=\\dfrac1y$, được $\\begin{cases}u+v=\\dfrac1{40}\\\\ 15u+20v=\\dfrac5{12}\\end{cases}$.",
+        "Giải hệ được $u=\\dfrac1{60}$, $v=\\dfrac1{120}$, suy ra $x=60$, $y=120$.",
+        "Vậy vòi thứ nhất chảy riêng đầy bể trong $60$ phút, vòi thứ hai trong $120$ phút."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Một hình nón có bán kính đáy $r=6$ cm, độ dài đường sinh $l=10$ cm. Tính thể tích của hình nón đó.</p>",
+      "dapAn": ["96π"],
+      "goiY": ["Tính chiều cao $h=\\sqrt{l^2-r^2}$ rồi dùng $V=\\dfrac13\\pi r^2h$."],
+      "loiGiai": [
+        "Chiều cao $h=\\sqrt{l^2-r^2}=\\sqrt{10^2-6^2}=8$ cm.",
+        "$V=\\dfrac13\\pi r^2h=\\dfrac13\\pi\\cdot6^2\\cdot8=96\\pi$ cm$^3$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, trên cạnh $AB$ lấy điểm $M$ ($M$ khác $A$, $M$ khác $B$). Từ điểm $M$ vẽ đường thẳng $MN$ vuông góc với $BC$ ($N$ thuộc $BC$), đường thẳng $MN$ cắt đường thẳng $AC$ tại $K$. Chứng minh tứ giác $AMNC$ nội tiếp.</p>",
+      "goiY": ["Chỉ ra $\\angle MAC=\\angle MNC=90^\\circ$."],
+      "loiGiai": [
+        "$\\angle MAC=90^\\circ$ vì $AB\\perp AC$ và $M\\in AB$.",
+        "$\\angle MNC=90^\\circ$ vì $MN\\perp BC$ và $N\\in BC$.",
+        "Tứ giác $AMNC$ có $\\angle MAC+\\angle MNC=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, trên cạnh $AB$ lấy điểm $M$ ($M$ khác $A$, $M$ khác $B$). Từ điểm $M$ vẽ đường thẳng $MN$ vuông góc với $BC$ ($N$ thuộc $BC$), đường thẳng $MN$ cắt đường thẳng $AC$ tại $K$. Chứng minh $\\widehat{ABK}=\\widehat{ACM}$.</p>",
+      "goiY": ["Chứng minh $A,B,N,K$ cùng thuộc một đường tròn, rồi dùng các góc nội tiếp."],
+      "loiGiai": [
+        "Theo câu 1, $AMNC$ nội tiếp nên $\\angle ACM=\\angle ANM$ (cùng chắn cung $AM$).",
+        "$\\angle BAK=90^\\circ$ và $\\angle BNK=90^\\circ$ nên $A,B,N,K$ cùng thuộc đường tròn đường kính $BK$.",
+        "Suy ra $\\angle ABK=\\angle ANK$ (cùng chắn cung $AK$).",
+        "Vì $K,M,N$ thẳng hàng và $M$ nằm giữa $K,N$ nên $\\angle ANK=\\angle ANM$.",
+        "Do đó $\\angle ABK=\\angle ACM$."
+      ]
+    },
+    {
+      "id": "c5c",
+      "soCau": 5,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, trên cạnh $AB$ lấy điểm $M$ ($M$ khác $A$, $M$ khác $B$). Từ điểm $M$ vẽ đường thẳng $MN$ vuông góc với $BC$ ($N$ thuộc $BC$), đường thẳng $MN$ cắt đường thẳng $AC$ tại $K$. Đoạn thẳng $BK$ cắt đường tròn đường kính $BM$ tại điểm $D$ ($D$ khác $B$). Gọi $I$ là tâm và $r$ là bán kính của đường tròn nội tiếp tam giác $BKC$. Chứng minh $\\dfrac1r=\\dfrac1{KN}+\\dfrac1{CD}+\\dfrac1{AB}$.</p>",
+      "goiY": ["Chứng minh $CM\\perp BK$ và $CD$ là đường cao của tam giác $BKC$; dùng diện tích và tam giác đồng dạng."],
+      "loiGiai": [
+        "Từ câu 2, $\\angle ABK=\\angle ACM$. Góc giữa $BK$ và $BA$ bằng góc giữa $CM$ và $CA$, mà $BA\\perp CA$, nên $BK\\perp CM$.",
+        "Điểm $D$ thuộc đường tròn đường kính $BM$ nên $\\angle BDM=90^\\circ$, tức $MD\\perp BK$.",
+        "$CM$ và $MD$ là hai đường thẳng cùng đi qua $M$ và cùng vuông góc với $BK$, nên $C,M,D$ thẳng hàng. Do đó $CD\\perp BK$, hay $CD$ là đường cao của tam giác $BKC$.",
+        "Diện tích tam giác $BKC$: $S=\\dfrac12 BK\\cdot CD=\\dfrac12 KC\\cdot AB$ (vì $AB$ là khoảng cách từ $B$ đến $KC$). Suy ra $CD=\\dfrac{KC\\cdot AB}{BK}$.",
+        "$\\triangle KNC\\sim\\triangle BAC$ vì $\\angle KNC=\\angle BAC=90^\\circ$ và $\\angle KCN=\\angle ACB$. Suy ra $\\dfrac{KN}{AB}=\\dfrac{KC}{BC}$, hay $KN=\\dfrac{KC\\cdot AB}{BC}$.",
+        "Bán kính đường tròn nội tiếp $r=\\dfrac{S}{p}$ với $p=\\dfrac{BK+KC+BC}{2}$, nên $\\dfrac1r=\\dfrac{p}{S}=\\dfrac{BK+KC+BC}{2S}$.",
+        "Vì $2S=KC\\cdot AB$ nên $\\dfrac1r=\\dfrac{BK+KC+BC}{KC\\cdot AB}=\\dfrac1{AB}+\\dfrac{BK}{KC\\cdot AB}+\\dfrac{BC}{KC\\cdot AB}$.",
+        "Thay $\\dfrac{BK}{KC\\cdot AB}=\\dfrac1{CD}$ và $\\dfrac{BC}{KC\\cdot AB}=\\dfrac1{KN}$ được $\\dfrac1r=\\dfrac1{AB}+\\dfrac1{CD}+\\dfrac1{KN}$."
+      ]
+    }
+  ]
+}

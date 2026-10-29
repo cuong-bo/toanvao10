@@ -4,7 +4,7 @@ export function gioiThieu() {
       <div>
         <div class="eyebrow">Về dự án</div>
         <h1>Giới thiệu &amp; bản quyền</h1>
-        <p class="lead">Trạm tiếp sức Toán vào 10 — web ôn thi vào lớp 10 môn Toán dành cho học sinh các tỉnh Tây Bắc và vùng lân cận.</p>
+        <p class="lead">Trạm tiếp sức Toán vào 10 — web ôn thi vào lớp 10 môn Toán dành cho học sinh cả nước, ưu tiên vùng Tây Bắc và các tỉnh còn khó khăn.</p>
       </div>
     </div>
 
