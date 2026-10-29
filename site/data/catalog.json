@@ -164,6 +164,42 @@
       "capNhat": "2026-10-29"
     },
     {
+      "id": "nam-dinh-2023",
+      "tinh": "Nam Định",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT không chuyên môn Toán — năm học 2023–2024",
+      "thoiGian": 120,
+      "soCau": 13,
+      "soY": 18,
+      "mucDo": "Khá – nâng cao",
+      "deMau": false,
+      "ghiChu": "Đề chính thức năm học 2023–2024, gồm 8 câu trắc nghiệm (2 điểm) và 5 câu tự luận (8 điểm). Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Nam Định — đề chính thức",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-khong-chuyen-mon-toan-nam-2023-2024-so-gddt-nam-dinh.html"
+      },
+      "file": "data/exams/nam-dinh-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "bac-ninh-2022",
+      "tinh": "Bắc Ninh",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023 (trắc nghiệm và tự luận)",
+      "thoiGian": 120,
+      "soCau": 24,
+      "soY": 28,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Bắc Ninh — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-bac-ninh.html"
+      },
+      "file": "data/exams/bac-ninh-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
       "id": "dien-bien-2022",
       "tinh": "Điện Biên",
       "nam": 2022,
@@ -179,6 +215,42 @@
         "url": "https://thcs.toanmath.com/2022/07/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2022-2023-so-gddt-dien-bien.html"
       },
       "file": "data/exams/dien-bien-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "hai-duong-2022",
+      "tinh": "Hải Dương",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 10,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hải Dương — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-hai-duong.html"
+      },
+      "file": "data/exams/hai-duong-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "hai-phong-2022",
+      "tinh": "Hải Phòng",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 6,
+      "soY": 13,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hải Phòng — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-hai-phong.html"
+      },
+      "file": "data/exams/hai-phong-2022.json",
       "capNhat": "2026-10-29"
     },
     {
@@ -218,6 +290,24 @@
       "capNhat": "2026-10-29"
     },
     {
+      "id": "nghe-an-2022",
+      "tinh": "Nghệ An",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 10,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Nghệ An — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-nghe-an.html"
+      },
+      "file": "data/exams/nghe-an-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
       "id": "son-la-2022",
       "tinh": "Sơn La",
       "nam": 2022,
@@ -233,6 +323,24 @@
         "url": "https://thcs.toanmath.com/2022/07/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-son-la.html"
       },
       "file": "data/exams/son-la-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "thanh-hoa-2022",
+      "tinh": "Thanh Hóa",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 10,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Thanh Hóa — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-thanh-hoa.html"
+      },
+      "file": "data/exams/thanh-hoa-2022.json",
       "capNhat": "2026-10-29"
     },
     {
@@ -308,6 +416,24 @@
       "capNhat": "2026-10-29"
     },
     {
+      "id": "vinh-phuc-2021",
+      "tinh": "Vĩnh Phúc",
+      "nam": 2021,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+      "thoiGian": 120,
+      "soCau": 10,
+      "soY": 12,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Vĩnh Phúc — đề chính thức",
+        "url": "https://thcs.toanmath.com/2021/07/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2021-2022-so-gddt-vinh-phuc.html"
+      },
+      "file": "data/exams/vinh-phuc-2021.json",
+      "capNhat": "2026-10-29"
+    },
+    {
       "id": "hoa-binh-2020",
       "tinh": "Hòa Bình",
       "nam": 2020,
@@ -323,6 +449,24 @@
         "url": "https://thcs.toanmath.com/2020/08/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2020-2021-so-gddt-hoa-binh.html"
       },
       "file": "data/exams/hoa-binh-2020.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "thai-binh-2020",
+      "tinh": "Thái Bình",
+      "nam": 2020,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2020–2021",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 12,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Thái Bình — đề chính thức",
+        "url": "https://thcs.toanmath.com/2020/08/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2020-2021-so-gddt-thai-binh.html"
+      },
+      "file": "data/exams/thai-binh-2020.json",
       "capNhat": "2026-10-29"
     }
   ]

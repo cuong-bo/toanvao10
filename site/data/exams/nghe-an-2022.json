@@ -1,0 +1,233 @@
+{
+  "id": "nghe-an-2022",
+  "tinh": "Nghệ An",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Nghệ An — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-nghe-an.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $A=\\sqrt{81}-\\sqrt{36}+\\sqrt{49}$.</p>",
+      "dapAn": [
+        "10"
+      ],
+      "goiY": [
+        "$\\sqrt{81}=9$, $\\sqrt{36}=6$, $\\sqrt{49}=7$."
+      ],
+      "loiGiai": [
+        "$A=9-6+7=10$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn biểu thức $P=\\left(\\dfrac{1}{\\sqrt{x}-1}-\\dfrac{1}{\\sqrt{x}}\\right)\\cdot\\dfrac{x-\\sqrt{x}}{2022}$ với $x>0$ và $x\\ne 1$.</p>",
+      "dapAn": [
+        "1/2022"
+      ],
+      "goiY": [
+        "Quy đồng trong ngoặc: $\\dfrac{1}{\\sqrt{x}-1}-\\dfrac{1}{\\sqrt{x}}=\\dfrac{1}{\\sqrt{x}(\\sqrt{x}-1)}$.",
+        "Phân tích $x-\\sqrt{x}=\\sqrt{x}(\\sqrt{x}-1)$."
+      ],
+      "loiGiai": [
+        "$P=\\dfrac{\\sqrt{x}-(\\sqrt{x}-1)}{\\sqrt{x}(\\sqrt{x}-1)}\\cdot\\dfrac{\\sqrt{x}(\\sqrt{x}-1)}{2022}$.",
+        "$P=\\dfrac{1}{\\sqrt{x}(\\sqrt{x}-1)}\\cdot\\dfrac{\\sqrt{x}(\\sqrt{x}-1)}{2022}=\\dfrac{1}{2022}$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "c",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Xác định các hệ số $a,b$ của hàm số $y=ax+b$, biết đồ thị của hàm số đi qua điểm $M(-1;3)$ và cắt trục tung tại điểm có tung độ bằng $-2$.</p>",
+      "goiY": [
+        "Đồ thị cắt trục tung tại $(0;-2)$ nên $b=-2$.",
+        "Thay tọa độ $M(-1;3)$ vào $y=ax+b$."
+      ],
+      "loiGiai": [
+        "Vì đồ thị cắt trục tung tại điểm có tung độ $-2$ nên $b=-2$.",
+        "Thay $M(-1;3)$: $3=-a+b=-a-2\\Rightarrow a=-5$.",
+        "Vậy $a=-5$, $b=-2$ và $y=-5x-2$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $2x^2-9x+10=0$.</p>",
+      "goiY": [
+        "Tính $\\Delta=(-9)^2-4\\cdot 2\\cdot 10$."
+      ],
+      "loiGiai": [
+        "$\\Delta=81-80=1>0$ nên phương trình có hai nghiệm phân biệt.",
+        "$x_1=\\dfrac{9+1}{4}=\\dfrac{5}{2}$, $x_2=\\dfrac{9-1}{4}=2$.",
+        "Vậy $S=\\left\\{\\dfrac{5}{2};2\\right\\}$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2+3x-1=0$ có hai nghiệm phân biệt $x_1,x_2$. Không giải phương trình, hãy tính giá trị của biểu thức $T=\\dfrac{3|x_1-x_2|}{x_1^2x_2+x_1x_2^2}$.</p>",
+      "dapAn": [
+        "√13"
+      ],
+      "goiY": [
+        "Theo định lí Viète: $x_1+x_2=-3$, $x_1x_2=-1$.",
+        "Tính $|x_1-x_2|^2=(x_1+x_2)^2-4x_1x_2$ và $x_1^2x_2+x_1x_2^2=x_1x_2(x_1+x_2)$."
+      ],
+      "loiGiai": [
+        "Theo Viète: $x_1+x_2=-3$, $x_1x_2=-1$.",
+        "$|x_1-x_2|^2=(x_1+x_2)^2-4x_1x_2=9+4=13$ nên $|x_1-x_2|=\\sqrt{13}$.",
+        "$x_1^2x_2+x_1x_2^2=x_1x_2(x_1+x_2)=(-1)(-3)=3$.",
+        "$T=\\dfrac{3\\sqrt{13}}{3}=\\sqrt{13}$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1.5,
+      "loai": "dapanso",
+      "deBai": "<p>Trong kỳ SEA Games 31 tổ chức tại Việt Nam, thú sao la được chọn làm linh vật. Một phân xưởng được giao sản xuất $420$ thú nhồi bông sao la trong một thời gian dự định để làm quà tặng. Biết rằng nếu mỗi giờ phân xưởng sản xuất thêm $5$ thú nhồi bông sao la thì sẽ rút ngắn được thời gian hoàn thành công việc là $2$ giờ. Tính thời gian dự định của phân xưởng.</p>",
+      "dapAn": [
+        "14"
+      ],
+      "goiY": [
+        "Gọi $x$ (giờ) là thời gian dự định, $x>2$.",
+        "Năng suất dự định là $\\dfrac{420}{x}$, năng suất thực tế là $\\dfrac{420}{x-2}$ (thú/giờ)."
+      ],
+      "loiGiai": [
+        "Gọi $x$ (giờ) là thời gian dự định của phân xưởng, $x>2$.",
+        "Năng suất dự định là $\\dfrac{420}{x}$ (thú/giờ); thời gian thực tế là $x-2$ giờ nên năng suất thực tế là $\\dfrac{420}{x-2}$ (thú/giờ).",
+        "Theo đề: $\\dfrac{420}{x-2}-\\dfrac{420}{x}=5$.",
+        "$\\Rightarrow 420x-420(x-2)=5x(x-2)\\Leftrightarrow 840=5x^2-10x\\Leftrightarrow x^2-2x-168=0$.",
+        "$\\Delta'=1+168=169$ nên $x=1+13=14$ (nhận) hoặc $x=1-13=-12$ (loại).",
+        "Vậy thời gian dự định của phân xưởng là $14$ giờ."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $C$ $(AC<BC)$, đường cao $CK$ và đường phân giác trong $BD$ $(K\\in AB,\\ D\\in AC)$. Qua $D$ kẻ đường thẳng vuông góc với $AC$, cắt $CK$ và $AB$ lần lượt tại $H$ và $I$. Chứng minh $CDKI$ là tứ giác nội tiếp.</p>",
+      "goiY": [
+        "$DI\\perp AC$ nên $\\angle CDI=90^\\circ$; $CK\\perp AB$ nên $\\angle CKI=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Vì $DI\\perp AC$ và $C,D,A$ thẳng hàng nên $\\angle CDI=90^\\circ$.",
+        "Vì $CK\\perp AB$ và $K,I\\in AB$ nên $\\angle CKI=90^\\circ$.",
+        "Tứ giác $CDKI$ có $\\angle CDI+\\angle CKI=180^\\circ$ nên nội tiếp đường tròn."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, chứng minh $AD\\cdot AC=DH\\cdot AB$.</p>",
+      "goiY": [
+        "Chứng minh $\\triangle CDH\\sim\\triangle CBA$.",
+        "Dùng tính chất đường phân giác: $\\dfrac{AD}{DC}=\\dfrac{AB}{BC}$."
+      ],
+      "loiGiai": [
+        "Vì $DH\\perp AC$ nên $\\angle CDH=90^\\circ=\\angle BCA$.",
+        "Lại có $\\angle DCH=\\angle CBA$ (góc giữa $CA$ và đường cao $CK$ bằng góc $B$). Do đó $\\triangle CDH\\sim\\triangle CBA$ (g.g).",
+        "Suy ra $\\dfrac{DH}{CA}=\\dfrac{CD}{CB}$, tức $DH\\cdot CB=CD\\cdot CA$. (1)",
+        "Vì $BD$ là phân giác nên $\\dfrac{AD}{DC}=\\dfrac{AB}{BC}$, tức $AD\\cdot BC=AB\\cdot DC$. (2)",
+        "Chia (2) cho (1) theo vế: $\\dfrac{AD}{DH}=\\dfrac{AB}{AC}$, suy ra $AD\\cdot AC=DH\\cdot AB$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, gọi $F$ là trung điểm $AD$. Đường tròn tâm $I$ bán kính $ID$ cắt $BC$ tại $M$ ($M$ khác $B$) và cắt $AM$ tại $N$ ($N$ khác $M$). Chứng minh $B,N,F$ thẳng hàng.</p>",
+      "goiY": [
+        "Đặt $AC=a$, $BC=b$, $AB=c$ và dùng hệ trục $C(0;0)$, $A(a;0)$, $B(0;b)$.",
+        "Gọi $P$ là điểm đối xứng của $B$ qua $I$; chứng minh $PM\\parallel AC$ và $BP$ là đường kính.",
+        "So sánh $\\angle PBN$ với $\\angle ABF$."
+      ],
+      "loiGiai": [
+        "Đặt $AC=a$, $BC=b$, $AB=c$ $(c^2=a^2+b^2)$, $s=b+c$. Chọn hệ trục $C(0;0)$, $A(a;0)$, $B(0;b)$.",
+        "Theo tính chất đường phân giác: $CD=\\dfrac{ab}{b+c}$, $AD=\\dfrac{ac}{b+c}$, nên $D\\left(\\dfrac{ab}{s};0\\right)$.",
+        "Đường thẳng $AB$: $\\dfrac{x}{a}+\\dfrac{y}{b}=1$, giao với $x=\\dfrac{ab}{s}$ tại $I\\left(\\dfrac{ab}{s};\\dfrac{bc}{s}\\right)$. Bán kính $r=ID=\\dfrac{bc}{s}$.",
+        "$IB^2=\\left(\\dfrac{ab}{s}\\right)^2+\\left(b-\\dfrac{bc}{s}\\right)^2=\\dfrac{b^2(a^2+b^2)}{s^2}=r^2$ nên $B$ thuộc đường tròn $(I)$.",
+        "Giao điểm thứ hai của $(I)$ với $BC$ (trục tung) là $M\\left(0;\\dfrac{b(c-b)}{s}\\right)$.",
+        "Gọi $P$ là điểm đối xứng của $B$ qua $I$: $P\\left(\\dfrac{2ab}{s};\\dfrac{b(c-b)}{s}\\right)$. Suy ra $P\\in AB$, $PM\\parallel AC$ và $BP$ là đường kính của $(I)$.",
+        "Vì $BP$ là đường kính nên $\\angle BNP=90^\\circ$.",
+        "$AD$ là tiếp tuyến của $(I)$ tại $D$ nên $AP\\cdot AB=AD^2$; lại có $AM\\cdot AN=AD^2$. Do đó $AP\\cdot AB=AM\\cdot AN$, suy ra $\\dfrac{AP}{AM}=\\dfrac{AN}{AB}$. Với $\\angle PAN=\\angle MAB$, ta được $\\triangle APN\\sim\\triangle AMB$.",
+        "Suy ra $\\angle APN=\\angle AMB$. Vì $P$ nằm giữa $A$ và $B$ nên $\\angle BPN=180^\\circ-\\angle APN$, do đó trong tam giác vuông $BNP$: $\\angle PBN=90^\\circ-\\angle BPN=\\angle APN-90^\\circ=\\angle AMB-90^\\circ$.",
+        "Vì $MB\\parallel CB\\perp AC$ nên $\\angle AMB=90^\\circ+\\angle MAC$, suy ra $\\angle PBN=\\angle MAC$.",
+        "Ta có $\\tan\\angle MAC=\\dfrac{CM}{AC}=\\dfrac{b(c-b)}{as}=\\dfrac{ab}{s^2}$ (vì $a^2=(c-b)(c+b)$).",
+        "Trong tam giác $ABF$: $AF=\\dfrac{AD}{2}=\\dfrac{ac}{2s}$ và $\\angle BAF=\\angle BAC$, nên $\\tan\\angle ABF=\\dfrac{AF\\sin\\angle BAF}{AB-AF\\cos\\angle BAF}=\\dfrac{ab}{s^2}$.",
+        "Vậy $\\angle PBN=\\angle ABF$; hai tia $BN,BF$ cùng nằm trong $\\angle ABC$ nên trùng nhau. Vậy $B,N,F$ thẳng hàng."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $\\sqrt{x^2+1}+3=\\left(\\dfrac{1}{x}-3\\right)\\left(\\sqrt{9x^2-6x+2}+3\\right)$.</p>",
+      "dapAn": [
+        "1/4"
+      ],
+      "goiY": [
+        "Đặt $t=3x-1$ thì $9x^2-6x+2=t^2+1$.",
+        "Đưa phương trình về dạng $x\\left(\\sqrt{x^2+1}+3\\right)=-(3x-1)\\left(\\sqrt{(3x-1)^2+1}+3\\right)$."
+      ],
+      "loiGiai": [
+        "Điều kiện $x\\ne0$. Đặt $t=3x-1$ thì $9x^2-6x+2=t^2+1$.",
+        "Phương trình đã cho tương đương $\\sqrt{x^2+1}+3=\\left(\\dfrac{1}{x}-3\\right)\\left(\\sqrt{t^2+1}+3\\right)$.",
+        "Nhân hai vế với $x$: $x\\left(\\sqrt{x^2+1}+3\\right)=(1-3x)\\left(\\sqrt{t^2+1}+3\\right)=-t\\left(\\sqrt{t^2+1}+3\\right)$.",
+        "Xét $g(u)=u\\left(\\sqrt{u^2+1}+3\\right)$. Hàm $g$ lẻ; với $u>0$ thì $u$ và $\\sqrt{u^2+1}+3$ đều dương và tăng theo $u$ nên $g$ đồng biến trên $(0;+\\infty)$, do đó $g$ đồng biến trên $\\mathbb R$. Từ $g(x)=g(-t)$ suy ra $x=-t$.",
+        "Do đó $x=1-3x\\Leftrightarrow x=\\dfrac14$ (thỏa mãn $x\\ne0$).",
+        "Vậy phương trình có nghiệm duy nhất $x=\\dfrac14$."
+      ]
+    }
+  ]
+}

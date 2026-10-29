@@ -1,0 +1,277 @@
+{
+  "id": "hai-phong-2022",
+  "tinh": "Hải Phòng",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hải Phòng — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-hai-phong.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hai biểu thức $A=\\left(\\sqrt{80}-3\\sqrt{20}+\\sqrt5\\right):\\sqrt5$ và $B=\\dfrac{x+1-2\\sqrt x}{\\sqrt x-1}+\\dfrac{x+\\sqrt x}{\\sqrt x+1}$ (với $x\\ge0$, $x\\ne1$). Rút gọn các biểu thức $A$, $B$.</p>",
+      "goiY": [
+        "$\\sqrt{80}=4\\sqrt5$, $\\sqrt{20}=2\\sqrt5$.",
+        "$x+1-2\\sqrt x=(\\sqrt x-1)^2$."
+      ],
+      "loiGiai": [
+        "$A=\\dfrac{4\\sqrt5-3\\cdot2\\sqrt5+\\sqrt5}{\\sqrt5}=\\dfrac{-\\sqrt5}{\\sqrt5}=-1$.",
+        "$B=\\dfrac{(\\sqrt x-1)^2}{\\sqrt x-1}+\\dfrac{\\sqrt x(\\sqrt x+1)}{\\sqrt x+1}=\\sqrt x-1+\\sqrt x=2\\sqrt x-1$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với $A$, $B$ như trên, tìm các giá trị của $x$ để $A+B=2$.</p>",
+      "dapAn": [
+        "4"
+      ],
+      "goiY": [
+        "Thay $A=-1$, $B=2\\sqrt x-1$ vào $A+B=2$."
+      ],
+      "loiGiai": [
+        "$A+B=-1+2\\sqrt x-1=2\\sqrt x-2$.",
+        "$2\\sqrt x-2=2\\Leftrightarrow\\sqrt x=2\\Leftrightarrow x=4$ (thỏa mãn $x\\ge0$, $x\\ne1$)."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}4\\sqrt{x-2}-y=1\\\\2\\sqrt{x-2}+3y=25\\end{cases}$.</p>",
+      "goiY": [
+        "Điều kiện $x\\ge2$; đặt $t=\\sqrt{x-2}\\ge0$."
+      ],
+      "loiGiai": [
+        "Điều kiện $x\\ge2$. Đặt $t=\\sqrt{x-2}\\ge0$, hệ trở thành $\\begin{cases}4t-y=1\\\\2t+3y=25\\end{cases}$.",
+        "Từ $y=4t-1$ thay vào phương trình thứ hai: $2t+3(4t-1)=25\\Leftrightarrow14t=28\\Leftrightarrow t=2$.",
+        "Suy ra $y=7$ và $\\sqrt{x-2}=2\\Leftrightarrow x=6$. Vậy $(x;y)=(6;7)$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tuluan",
+      "deBai": "<p>Bác An thuê nhà với giá $1\\,500\\,000$ đồng/tháng, bác phải trả tiền dịch vụ giới thiệu là $500\\,000$ đồng (tiền dịch vụ chỉ trả một lần). Gọi $x$ (tháng) là thời gian bác An thuê nhà, $y$ (đồng) là tổng số tiền bác phải trả bao gồm tiền thuê nhà trong $x$ tháng và tiền dịch vụ giới thiệu. Lập công thức tính $y$ theo $x$.</p>",
+      "goiY": [
+        "Tiền thuê nhà $x$ tháng là $1\\,500\\,000x$ đồng; tiền dịch vụ trả một lần là $500\\,000$ đồng."
+      ],
+      "loiGiai": [
+        "Tiền thuê nhà trong $x$ tháng là $1\\,500\\,000x$ (đồng).",
+        "Tổng tiền phải trả: $y=1\\,500\\,000x+500\\,000$ (đồng)."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "2b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với tình huống trên, tính tổng số tiền bác An phải trả sau khi thuê nhà 5 tháng.</p>",
+      "dapAn": [
+        "8000000"
+      ],
+      "goiY": [
+        "Thay $x=5$ vào công thức $y=1\\,500\\,000x+500\\,000$."
+      ],
+      "loiGiai": [
+        "$y=1\\,500\\,000\\cdot5+500\\,000=7\\,500\\,000+500\\,000=8\\,000\\,000$ (đồng)."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho phương trình $x^2-(m+2)x+2m=0$ (1) ($x$ là ẩn, $m$ là tham số). Giải phương trình (1) khi $m=1$.</p>",
+      "goiY": [
+        "Thay $m=1$ được $x^2-3x+2=0$."
+      ],
+      "loiGiai": [
+        "Với $m=1$, phương trình (1) trở thành $x^2-3x+2=0$.",
+        "Vì $1-3+2=0$ nên phương trình có hai nghiệm $x=1$, $x=2$. Vậy $S=\\{1;2\\}$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "1b",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-(m+2)x+2m=0$ (1) ($x$ là ẩn, $m$ là tham số). Tìm các giá trị của $m$ để phương trình (1) có hai nghiệm $x_1$, $x_2$ thỏa mãn $x_1^2+x_2^2+x_1x_2\\le3$.</p>",
+      "dapAn": [
+        "-1"
+      ],
+      "goiY": [
+        "$\\Delta=(m-2)^2\\ge0$; theo Vi-ét $x_1+x_2=m+2$, $x_1x_2=2m$.",
+        "$x_1^2+x_2^2+x_1x_2=(x_1+x_2)^2-x_1x_2$."
+      ],
+      "loiGiai": [
+        "$\\Delta=(m+2)^2-4\\cdot2m=(m-2)^2\\ge0$ nên phương trình luôn có nghiệm.",
+        "Theo Vi-ét: $x_1+x_2=m+2$, $x_1x_2=2m$. Do đó $x_1^2+x_2^2+x_1x_2=(x_1+x_2)^2-x_1x_2=(m+2)^2-2m=m^2+2m+4$.",
+        "$m^2+2m+4\\le3\\Leftrightarrow(m+1)^2\\le0\\Leftrightarrow m=-1$. Thử lại, $m=-1$ thỏa mãn."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một người dự định trồng 210 cây theo thời gian định trước. Nhưng do thời tiết xấu nên thực tế mỗi ngày người đó trồng được ít hơn dự định 5 cây, vì thế hoàn thành công việc chậm mất 7 ngày so với dự kiến. Hỏi theo dự định ban đầu, mỗi ngày người đó trồng được bao nhiêu cây?</p>",
+      "dapAn": [
+        "15"
+      ],
+      "goiY": [
+        "Gọi $x$ (cây/ngày) là số cây dự định trồng mỗi ngày, $x>5$.",
+        "Thời gian dự định là $\\dfrac{210}{x}$, thực tế là $\\dfrac{210}{x-5}$ (ngày)."
+      ],
+      "loiGiai": [
+        "Gọi $x$ (cây/ngày) là số cây dự định trồng mỗi ngày ($x>5$).",
+        "Thời gian dự định là $\\dfrac{210}{x}$ ngày; thực tế mỗi ngày trồng $x-5$ cây nên thời gian là $\\dfrac{210}{x-5}$ ngày.",
+        "Theo đề: $\\dfrac{210}{x-5}-\\dfrac{210}{x}=7\\Leftrightarrow210x-210(x-5)=7x(x-5)\\Leftrightarrow x^2-5x-150=0$.",
+        "Giải được $x=15$ hoặc $x=-10$ (loại). Vậy theo dự định mỗi ngày người đó trồng 15 cây."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Để gò một chiếc thùng hình trụ bằng tôn không nắp có đường kính đáy là 40 cm và chiều cao là 60 cm thì cần dùng tối thiểu bao nhiêu mét vuông tôn? (coi lượng tôn dùng để viền mép thùng không đáng kể; lấy $\\pi\\approx3{,}14$, kết quả làm tròn đến chữ số thập phân thứ hai)</p>",
+      "dapAn": [
+        "0,88",
+        "0.88"
+      ],
+      "goiY": [
+        "Thùng không nắp nên diện tích tôn = diện tích xung quanh + diện tích một đáy.",
+        "$r=20$ cm $=0{,}2$ m, $h=60$ cm $=0{,}6$ m."
+      ],
+      "loiGiai": [
+        "Bán kính đáy $r=20$ cm $=0{,}2$ m; chiều cao $h=60$ cm $=0{,}6$ m.",
+        "Diện tích xung quanh: $S_{xq}=2\\pi rh\\approx2\\cdot3{,}14\\cdot0{,}2\\cdot0{,}6=0{,}7536$ m².",
+        "Diện tích một đáy: $S_d=\\pi r^2\\approx3{,}14\\cdot0{,}2^2=0{,}1256$ m².",
+        "Tổng diện tích tôn: $S\\approx0{,}7536+0{,}1256=0{,}8792$ m², làm tròn đến chữ số thập phân thứ hai được $0{,}88$ m²."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$ đường kính $AB$. Trên tiếp tuyến của đường tròn $(O)$ tại điểm $A$ lấy điểm $M$ ($M$ khác $A$). Lấy điểm $N$ trên đoạn thẳng $OB$ ($N$ khác $O$ và $B$). Đường thẳng $MN$ cắt đường tròn $(O)$ tại hai điểm $C$ và $D$ ($C$ nằm giữa $M$ và $D$). Gọi $I$ là trung điểm của đoạn thẳng $CD$. Chứng minh tứ giác $AMIO$ là tứ giác nội tiếp.</p>",
+      "goiY": [
+        "$AM$ là tiếp tuyến tại $A$ nên $OA\\perp AM$.",
+        "$I$ là trung điểm dây $CD$ nên $OI\\perp CD$."
+      ],
+      "loiGiai": [
+        "Vì $AM$ là tiếp tuyến của $(O)$ tại $A$ nên $\\widehat{OAM}=90^\\circ$.",
+        "Vì $I$ là trung điểm của dây $CD$ nên $OI\\perp CD$. Do $M,C,D$ thẳng hàng nên $\\widehat{OIM}=90^\\circ$.",
+        "Tứ giác $AMIO$ có $\\widehat{OAM}+\\widehat{OIM}=180^\\circ$ nên nội tiếp đường tròn đường kính $OM$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 5a, qua $D$ kẻ đường thẳng song song với $MO$ cắt $AB$ tại $H$. Chứng minh $MA^2=MC\\cdot MD$ và $\\widehat{IAB}=\\widehat{MDH}$.</p>",
+      "goiY": [
+        "Chứng minh $\\triangle MAC\\sim\\triangle MDA$.",
+        "$AMIO$ nội tiếp nên $\\widehat{IAO}=\\widehat{IMO}$; $DH\\parallel MO$."
+      ],
+      "loiGiai": [
+        "Xét $\\triangle MAC$ và $\\triangle MDA$: $\\widehat{AMC}=\\widehat{AMD}$ (vì $M,C,D$ thẳng hàng); $\\widehat{MAC}=\\widehat{MDA}$ (góc giữa tiếp tuyến $MA$ và dây $AC$ bằng góc nội tiếp chắn cung $AC$).",
+        "Suy ra $\\triangle MAC\\sim\\triangle MDA$, do đó $\\dfrac{MA}{MD}=\\dfrac{MC}{MA}$, tức $MA^2=MC\\cdot MD$.",
+        "Tứ giác $AMIO$ nội tiếp nên $\\widehat{IAO}=\\widehat{IMO}$ (cùng chắn cung $IO$). Vì $A,O,B$ thẳng hàng nên $\\widehat{IAB}=\\widehat{IAO}$.",
+        "Lại có $IM$ cùng phương $DM$ và $MO\\parallel DH$ nên $\\widehat{IMO}=\\widehat{MDH}$. Vậy $\\widehat{IAB}=\\widehat{MDH}$."
+      ]
+    },
+    {
+      "id": "c5c",
+      "soCau": 5,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 5a, gọi $E$, $F$ lần lượt là giao điểm của đường thẳng $MO$ với hai đường thẳng $BC$ và $BD$. Chứng minh tứ giác $AEBF$ là hình bình hành.</p>",
+      "goiY": [
+        "Kéo dài $DH$ cắt $BC$ tại $K$; chứng minh $A,I,H,D$ nội tiếp và $IH\\parallel BC$.",
+        "Dùng định lí đường trung bình và định lí Thales để được $OE=OF$."
+      ],
+      "loiGiai": [
+        "Kéo dài $DH$ cắt $BC$ tại $K$. Từ câu b, $\\widehat{IAB}=\\widehat{MDH}$. Vì $A,H,B$ thẳng hàng và $M,D,C$ thẳng hàng nên $\\widehat{IAH}=\\widehat{IDH}$, suy ra tứ giác $AIHD$ nội tiếp.",
+        "Trong tứ giác nội tiếp $AIHD$, $\\widehat{IHA}=\\widehat{IDA}$ (cùng chắn cung $IA$). Mà $\\widehat{IDA}=\\widehat{CDA}$ và $\\widehat{CDA}=\\widehat{CBA}$ (cùng chắn cung $CA$ của $(O)$), nên $\\widehat{IHA}=\\widehat{CBA}$. Do đó $IH\\parallel BC$.",
+        "Trong $\\triangle CDK$ có $IC=ID$ và $IH\\parallel CK$ nên $H$ là trung điểm của $DK$, tức $HK=HD$.",
+        "Trong $\\triangle EBO$ có $KH\\parallel OE$ nên $\\dfrac{KH}{OE}=\\dfrac{BH}{BO}$. Trong $\\triangle FBO$ có $DH\\parallel OF$ nên $\\dfrac{HD}{OF}=\\dfrac{BH}{BO}$.",
+        "Suy ra $\\dfrac{KH}{OE}=\\dfrac{HD}{OF}$; mà $KH=HD$ nên $OE=OF$.",
+        "Tứ giác $AEBF$ có $O$ là trung điểm của $AB$ (đường kính) và $O$ là trung điểm của $EF$, nên hai đường chéo cắt nhau tại trung điểm mỗi đường. Vậy $AEBF$ là hình bình hành."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $a,b,c$ là ba số dương thỏa mãn $a+b+c=1$. Tìm giá trị lớn nhất của biểu thức $P=\\dfrac{a}{a+\\sqrt{a+bc}}+\\dfrac{b}{b+\\sqrt{b+ca}}+\\dfrac{c}{c+\\sqrt{c+ab}}$.</p>",
+      "dapAn": [
+        "1"
+      ],
+      "goiY": [
+        "$a+bc=(a+b)(a+c)$; dùng AM-GM để đánh giá $\\sqrt{(a+b)(a+c)}$.",
+        "Chứng minh $\\sqrt{a+bc}\\ge\\sqrt a(\\sqrt b+\\sqrt c)$."
+      ],
+      "loiGiai": [
+        "Vì $a+b+c=1$ nên $a+bc=a(a+b+c)+bc=(a+b)(a+c)$.",
+        "Theo AM-GM: $(a+b)(a+c)=a^2+ab+ac+bc\\ge ab+ac+2a\\sqrt{bc}=(\\sqrt{ab}+\\sqrt{ac})^2$. Do đó $\\sqrt{a+bc}\\ge\\sqrt a(\\sqrt b+\\sqrt c)$.",
+        "Suy ra $a+\\sqrt{a+bc}\\ge a+\\sqrt a(\\sqrt b+\\sqrt c)=\\sqrt a(\\sqrt a+\\sqrt b+\\sqrt c)$, nên $\\dfrac{a}{a+\\sqrt{a+bc}}\\le\\dfrac{\\sqrt a}{\\sqrt a+\\sqrt b+\\sqrt c}$.",
+        "Tương tự cho hai hạng tử còn lại, cộng vế theo vế được $P\\le\\dfrac{\\sqrt a+\\sqrt b+\\sqrt c}{\\sqrt a+\\sqrt b+\\sqrt c}=1$.",
+        "Dấu \"=\" xảy ra khi $a^2=bc$, $b^2=ca$, $c^2=ab$, tức $a=b=c=\\dfrac{1}{3}$. Vậy $\\max P=1$."
+      ]
+    }
+  ]
+}

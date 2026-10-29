@@ -1,0 +1,222 @@
+{
+  "id": "vinh-phuc-2021",
+  "tinh": "Vĩnh Phúc",
+  "nam": 2021,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Vĩnh Phúc — đề chính thức",
+    "url": "https://thcs.toanmath.com/2021/07/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2021-2022-so-gddt-vinh-phuc.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tracnghiem",
+      "deBai": "<p>Biểu thức $\\sqrt{x-2021}$ có nghĩa khi và chỉ khi</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x\\ge2021$" },
+        { "ma": "B", "noiDung": "$x>2021$" },
+        { "ma": "C", "noiDung": "$x<2021$" },
+        { "ma": "D", "noiDung": "$x\\le2021$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Căn thức $\\sqrt{A}$ có nghĩa khi $A\\ge0$."],
+      "loiGiai": ["$\\sqrt{x-2021}$ có nghĩa $\\Leftrightarrow x-2021\\ge0\\Leftrightarrow x\\ge2021$. Chọn A."]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đồ thị hàm số $y=ax^2$ ($a$ là tham số) đi qua điểm $M(-1;4)$. Giá trị của $a$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$-4$" },
+        { "ma": "B", "noiDung": "$1$" },
+        { "ma": "C", "noiDung": "$4$" },
+        { "ma": "D", "noiDung": "$-1$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Thay tọa độ $M$ vào công thức hàm số."],
+      "loiGiai": ["$M(-1;4)$ thuộc đồ thị nên $4=a\\cdot(-1)^2\\Leftrightarrow a=4$. Chọn C."]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tracnghiem",
+      "deBai": "<p>Tổng hai nghiệm của phương trình $2x^2+7x-3=0$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac72$" },
+        { "ma": "B", "noiDung": "$-\\dfrac72$" },
+        { "ma": "C", "noiDung": "$\\dfrac32$" },
+        { "ma": "D", "noiDung": "$-\\dfrac32$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Dùng định lí Vi-ét: $x_1+x_2=-\\dfrac{b}{a}$."],
+      "loiGiai": ["$x_1+x_2=-\\dfrac{7}{2}$. Chọn B."]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $\\triangle ABC$ vuông tại $A$ có $\\cos\\widehat{ABC}=\\dfrac13$, $BC=9$ cm. Độ dài cạnh $AB$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$27$ cm" },
+        { "ma": "B", "noiDung": "$6\\sqrt2$ cm" },
+        { "ma": "C", "noiDung": "$6$ cm" },
+        { "ma": "D", "noiDung": "$3$ cm" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Trong tam giác vuông, $\\cos B=\\dfrac{AB}{BC}$ (cạnh kề chia cạnh huyền)."],
+      "loiGiai": ["$\\cos\\widehat{ABC}=\\dfrac{AB}{BC}\\Rightarrow AB=BC\\cdot\\cos\\widehat{ABC}=9\\cdot\\dfrac13=3$ cm. Chọn D."]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^2-x-2=0$.</p>",
+      "goiY": ["Nhận xét $a-b+c=1+1-2=0$, hoặc phân tích thành nhân tử."],
+      "loiGiai": [
+        "Ta có $a-b+c=1-(-1)+(-2)=0$ nên phương trình có hai nghiệm $x=-1$ và $x=-\\dfrac{c}{a}=2$.",
+        "Vậy tập nghiệm $S=\\{-1;2\\}$."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}3x-y=-4\\\\2x+3y=1\\end{cases}$.</p>",
+      "goiY": ["Nhân phương trình thứ nhất với $3$ rồi cộng với phương trình thứ hai để khử $y$."],
+      "loiGiai": [
+        "Nhân hai vế của $3x-y=-4$ với $3$: $9x-3y=-12$.",
+        "Cộng với $2x+3y=1$ được $11x=-11\\Rightarrow x=-1$.",
+        "Thay $x=-1$ vào $3x-y=-4$: $-3-y=-4\\Rightarrow y=1$.",
+        "Vậy $(x;y)=(-1;1)$."
+      ]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và đường thẳng $d:y=2x-m$ ($m$ là tham số). Tìm tất cả các giá trị của tham số $m$ để đường thẳng $d$ cắt parabol $(P)$ tại hai điểm phân biệt $A(x_1;y_1)$, $B(x_2;y_2)$ sao cho $y_1+y_2+x_1^2x_2^2=6(x_1+x_2)$.</p>",
+      "dapAn": ["-2"],
+      "goiY": ["Lập phương trình hoành độ giao điểm, dùng $\\Delta'>0$ và định lí Vi-ét."],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $x^2=2x-m\\Leftrightarrow x^2-2x+m=0$ (1).",
+        "$\\Delta'=1-m$; $d$ cắt $(P)$ tại hai điểm phân biệt $\\Leftrightarrow\\Delta'>0\\Leftrightarrow m<1$.",
+        "Theo Vi-ét: $x_1+x_2=2$, $x_1x_2=m$. Vì $y_i=x_i^2$ nên $y_1+y_2+x_1^2x_2^2=(x_1+x_2)^2-2x_1x_2+(x_1x_2)^2=4-2m+m^2$.",
+        "Điều kiện đề bài: $4-2m+m^2=6\\cdot2=12\\Leftrightarrow m^2-2m-8=0\\Leftrightarrow m=4$ hoặc $m=-2$.",
+        "Đối chiếu $m<1$ được $m=-2$."
+      ]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một đội công nhân $A$ và $B$ làm chung một công việc và dự định hoàn thành trong $12$ ngày. Khi làm chung được $8$ ngày thì đội $A$ được điều động đi làm việc khác, đội $B$ tiếp tục làm phần việc còn lại. Kể từ khi làm một mình, do cải tiến cách làm nên năng suất của đội $B$ tăng gấp đôi, do đó đội $B$ đã hoàn thành phần việc còn lại trong $8$ ngày tiếp theo. Hỏi với năng suất ban đầu thì mỗi đội làm một mình sẽ hoàn thành công việc đó trong bao lâu? (nhập số ngày đội $A$ làm một mình)</p>",
+      "dapAn": ["16"],
+      "goiY": ["Gọi $x,y$ là số ngày đội $A$, $B$ làm một mình xong việc. Lập hệ từ $8$ ngày làm chung và $8$ ngày đội $B$ tăng gấp đôi năng suất."],
+      "loiGiai": [
+        "Gọi $x,y$ (ngày) là thời gian đội $A$, $B$ làm một mình xong việc ($x,y>12$). Mỗi ngày hai đội làm được $\\dfrac1x+\\dfrac1y=\\dfrac1{12}$ (1).",
+        "$8$ ngày đầu làm chung được $\\dfrac{8}{12}=\\dfrac23$ công việc, còn lại $\\dfrac13$. Đội $B$ làm $8$ ngày với năng suất gấp đôi: $8\\cdot\\dfrac2y=\\dfrac13\\Rightarrow y=48$.",
+        "Thay vào (1): $\\dfrac1x=\\dfrac1{12}-\\dfrac1{48}=\\dfrac1{16}\\Rightarrow x=16$.",
+        "Vậy đội $A$ làm một mình trong $16$ ngày, đội $B$ trong $48$ ngày."
+      ]
+    },
+    {
+      "id": "c9a",
+      "soCau": 9,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$ và điểm $A$ nằm ngoài đường tròn. Qua điểm $A$ kẻ hai tiếp tuyến $AB$ và $AC$ đến $(O)$ ($B,C$ là các tiếp điểm). Kẻ tia $Ax$ (nằm giữa hai tia $AB,AO$) cắt đường tròn tại $E$ và $F$ ($E$ nằm giữa $A$ và $F$).</p><p>Chứng minh rằng tứ giác $ABOC$ nội tiếp đường tròn.</p>",
+      "goiY": ["Hai tiếp tuyến cho hai góc vuông tại $B$ và $C$."],
+      "loiGiai": [
+        "Vì $AB,AC$ là tiếp tuyến của $(O)$ nên $OB\\perp AB$ và $OC\\perp AC$, tức $\\widehat{ABO}=\\widehat{ACO}=90^\\circ$.",
+        "Tứ giác $ABOC$ có $\\widehat{ABO}+\\widehat{ACO}=180^\\circ$ nên nội tiếp đường tròn (đường kính $AO$)."
+      ]
+    },
+    {
+      "id": "c9b",
+      "soCau": 9,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình vẽ câu 9a, chứng minh rằng $BA^2=AE\\cdot AF$ và $\\widehat{OEF}=\\widehat{OHF}$, với $H$ là giao điểm của $AO$ và $BC$.</p>",
+      "goiY": ["Chứng minh $\\triangle ABE\\sim\\triangle AFB$; dùng $AB^2=AH\\cdot AO$ trong tam giác vuông $ABO$."],
+      "loiGiai": [
+        "$\\widehat{ABE}=\\widehat{AFB}$ (góc tạo bởi tiếp tuyến $AB$ và dây $BE$ bằng góc nội tiếp chắn cung $BE$), $\\widehat{BAE}$ chung, nên $\\triangle ABE\\sim\\triangle AFB$.",
+        "Suy ra $\\dfrac{AB}{AF}=\\dfrac{AE}{AB}\\Rightarrow AB^2=AE\\cdot AF$.",
+        "Vì $AB=AC$, $OB=OC$ nên $AO$ là trung trực của $BC$, do đó $BH\\perp AO$. Trong tam giác $ABO$ vuông tại $B$ có $AB^2=AH\\cdot AO$.",
+        "Vậy $AE\\cdot AF=AH\\cdot AO$, suy ra $E,F,H,O$ cùng thuộc một đường tròn.",
+        "Trong đường tròn đó, $\\widehat{OEF}=\\widehat{OHF}$ (cùng chắn cung $OF$)."
+      ]
+    },
+    {
+      "id": "c9c",
+      "soCau": 9,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình vẽ câu 9a, đường thẳng qua $E$ song song với $BF$ cắt đường thẳng $BC$ tại $K$. Đường thẳng $AK$ cắt đường thẳng $BF$ tại $M$. Chứng minh rằng $MC=2HF$.</p>",
+      "goiY": ["Gọi $P=AF\\cap BC$. Chứng minh $HB$ là phân giác trong, $HA$ là phân giác ngoài của $\\widehat{EHF}$, rồi dùng định lí đường phân giác."],
+      "loiGiai": [
+        "Gọi $P=AF\\cap BC$. Từ câu 9b, $E,F,H,O$ nội tiếp. Ta có $\\widehat{FHO}=\\widehat{FEO}$ (cùng chắn cung $FO$) và $\\widehat{FEO}=\\widehat{EFO}$ (do $OE=OF$), nên $\\widehat{FHO}=\\widehat{EFO}$.",
+        "Mặt khác $\\widehat{EHO}=180^\\circ-\\widehat{EFO}$ (hai góc đối của tứ giác nội tiếp $EHOF$). Vậy $HE$ và $HF$ tạo với đường thẳng $HO$ hai góc bằng nhau, tức $HO$ là phân giác ngoài của $\\widehat{EHF}$; do $HB\\perp HO$ nên $HB$ là phân giác trong của $\\widehat{EHF}$.",
+        "Áp dụng tính chất đường phân giác trong tam giác $EHF$: $\\dfrac{EP}{PF}=\\dfrac{EH}{HF}$; đường phân giác ngoài: $\\dfrac{EA}{FA}=\\dfrac{EH}{HF}$. Suy ra $\\dfrac{EP}{PF}=\\dfrac{EA}{FA}$.",
+        "Trong tam giác $AMF$ có $EK\\parallel MF$ nên $\\dfrac{EK}{MF}=\\dfrac{AE}{AF}$; trong tam giác $PBF$ có $EK\\parallel BF$ nên $\\dfrac{EK}{BF}=\\dfrac{PE}{PF}$.",
+        "Từ đó $\\dfrac{EK}{MF}=\\dfrac{EK}{BF}\\Rightarrow MF=BF$, tức $F$ là trung điểm $BM$. Lại có $H$ là trung điểm $BC$ nên $HF$ là đường trung bình của $\\triangle BCM$.",
+        "Vậy $HF=\\dfrac{MC}{2}$, tức $MC=2HF$."
+      ]
+    },
+    {
+      "id": "c10",
+      "soCau": 10,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $a,b,c$ là các số thực dương thỏa mãn điều kiện $abc\\le1$. Chứng minh rằng</p><p>$\\dfrac{a(1-b^3)}{b^3}+\\dfrac{b(1-c^3)}{c^3}+\\dfrac{c(1-a^3)}{a^3}\\ge0$.</p>",
+      "goiY": ["Biến đổi tương đương, dùng $abc\\le1$ để đổi mẫu, sau đó ghép ba số cho bất đẳng thức AM–GM."],
+      "loiGiai": [
+        "Bất đẳng thức tương đương $\\dfrac{a}{b^3}+\\dfrac{b}{c^3}+\\dfrac{c}{a^3}\\ge a+b+c$.",
+        "Từ $abc\\le1$ suy ra $\\dfrac1b\\ge ac$, do đó $\\dfrac{a}{b^3}=a\\cdot\\dfrac1b\\cdot\\dfrac1{b^2}\\ge a\\cdot ac\\cdot\\dfrac1{b^2}=\\dfrac{a^2c}{b^2}$. Tương tự $\\dfrac{b}{c^3}\\ge\\dfrac{b^2a}{c^2}$ và $\\dfrac{c}{a^3}\\ge\\dfrac{c^2b}{a^2}$.",
+        "Vậy chỉ cần chứng minh $\\dfrac{a^2c}{b^2}+\\dfrac{b^2a}{c^2}+\\dfrac{c^2b}{a^2}\\ge a+b+c$.",
+        "Theo AM–GM: $\\dfrac{a^2c}{b^2}+\\dfrac{b^2a}{c^2}+c\\ge3\\sqrt[3]{a^3}=3a$; tương tự $\\dfrac{b^2a}{c^2}+\\dfrac{c^2b}{a^2}+a\\ge3b$ và $\\dfrac{c^2b}{a^2}+\\dfrac{a^2c}{b^2}+b\\ge3c$.",
+        "Cộng ba bất đẳng thức: $2\\left(\\dfrac{a^2c}{b^2}+\\dfrac{b^2a}{c^2}+\\dfrac{c^2b}{a^2}\\right)+(a+b+c)\\ge3(a+b+c)$, suy ra điều phải chứng minh. Dấu bằng xảy ra tại $a=b=c=1$."
+      ]
+    }
+  ]
+}

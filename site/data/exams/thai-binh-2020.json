@@ -1,0 +1,247 @@
+{
+  "id": "thai-binh-2020",
+  "tinh": "Thái Bình",
+  "nam": 2020,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2020–2021",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Thái Bình — đề chính thức",
+    "url": "https://thcs.toanmath.com/2020/08/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2020-2021-so-gddt-thai-binh.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $A=\\dfrac{\\sqrt x+1}{\\sqrt x-1}$ và $B=\\left(\\dfrac{\\sqrt x+1}{\\sqrt x-1}-\\dfrac{\\sqrt x-1}{\\sqrt x+1}\\right):\\dfrac{\\sqrt x}{\\sqrt x-1}$ (với $x>0$, $x\\ne1$). Tính giá trị của biểu thức $A$ khi $x=9$.</p>",
+      "dapAn": [
+        "2"
+      ],
+      "goiY": [
+        "Thay $x=9$ vào $A$."
+      ],
+      "loiGiai": [
+        "Với $x=9$ (thỏa mãn $x>0$, $x\\ne1$): $A=\\dfrac{\\sqrt{9}+1}{\\sqrt{9}-1}=\\dfrac{3+1}{3-1}=2$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với $A$, $B$ như trên, rút gọn biểu thức $B$.</p>",
+      "goiY": [
+        "Quy đồng trong ngoặc; chú ý $(\\sqrt x+1)^2-(\\sqrt x-1)^2=4\\sqrt x$."
+      ],
+      "loiGiai": [
+        "$B=\\dfrac{(\\sqrt x+1)^2-(\\sqrt x-1)^2}{(\\sqrt x-1)(\\sqrt x+1)}:\\dfrac{\\sqrt x}{\\sqrt x-1}$.",
+        "$=\\dfrac{4\\sqrt x}{x-1}\\cdot\\dfrac{\\sqrt x-1}{\\sqrt x}=\\dfrac{4}{\\sqrt x+1}$.",
+        "Vậy $B=\\dfrac{4}{\\sqrt x+1}$ với $x>0$, $x\\ne1$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "c",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với $A$, $B$ như trên, tìm $x$ để giá trị của $A$ và $B$ trái dấu.</p>",
+      "goiY": [
+        "$B>0$ với mọi $x>0$; cần $A<0$."
+      ],
+      "loiGiai": [
+        "Với $x>0$, $\\sqrt x+1>0$ nên $B=\\dfrac{4}{\\sqrt x+1}>0$.",
+        "Do đó $A$ và $B$ trái dấu $\\Leftrightarrow A<0\\Leftrightarrow\\sqrt x-1<0\\Leftrightarrow x<1$.",
+        "Kết hợp $x>0$, $x\\ne1$ được $0<x<1$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hệ phương trình $\\begin{cases}x-2y=4m-5\\\\2x+y=3m\\end{cases}$ ($m$ là tham số). Giải hệ phương trình khi $m=3$.</p>",
+      "goiY": [
+        "Thay $m=3$ được $\\begin{cases}x-2y=7\\\\2x+y=9\\end{cases}$."
+      ],
+      "loiGiai": [
+        "Với $m=3$: $\\begin{cases}x-2y=7\\\\2x+y=9\\end{cases}$.",
+        "Từ $x=7+2y$ thay vào: $2(7+2y)+y=9\\Leftrightarrow5y=-5\\Leftrightarrow y=-1$.",
+        "Suy ra $x=5$. Vậy $(x;y)=(5;-1)$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hệ phương trình $\\begin{cases}x-2y=4m-5\\\\2x+y=3m\\end{cases}$ ($m$ là tham số). Tìm $m$ để hệ phương trình có nghiệm $(x;y)$ thỏa mãn $\\dfrac{2}{x}-\\dfrac{1}{y}=-1$.</p>",
+      "goiY": [
+        "Giải hệ theo $m$: $x=2m-1$, $y=2-m$.",
+        "Thay vào điều kiện, chú ý $x\\ne0$, $y\\ne0$."
+      ],
+      "loiGiai": [
+        "Từ phương trình thứ nhất $x=4m-5+2y$. Thay vào phương trình thứ hai: $2(4m-5+2y)+y=3m\\Leftrightarrow5y=10-5m\\Leftrightarrow y=2-m$.",
+        "Suy ra $x=2m-1$. Điều kiện $x\\ne0$, $y\\ne0$ tức $m\\ne\\dfrac{1}{2}$, $m\\ne2$.",
+        "$\\dfrac{2}{2m-1}-\\dfrac{1}{2-m}=-1\\Leftrightarrow2(2-m)-(2m-1)=-(2m-1)(2-m)$.",
+        "$\\Leftrightarrow5-4m=2m^2-5m+2\\Leftrightarrow2m^2-m-3=0\\Leftrightarrow m=-1$ hoặc $m=\\dfrac{3}{2}$ (đều thỏa mãn). Vậy $m\\in\\left\\{-1;\\dfrac{3}{2}\\right\\}$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và đường thẳng $(d):y=3mx+1-m^2$ ($m$ là tham số). Tìm $m$ để $(d)$ đi qua điểm $A(1;-9)$.</p>",
+      "goiY": [
+        "Thay $x=1$, $y=-9$ vào phương trình của $(d)$."
+      ],
+      "loiGiai": [
+        "$(d)$ đi qua $A(1;-9)\\Leftrightarrow-9=3m\\cdot1+1-m^2\\Leftrightarrow m^2-3m-10=0$.",
+        "$\\Leftrightarrow(m-5)(m+2)=0\\Leftrightarrow m=5$ hoặc $m=-2$. Vậy $m\\in\\{5;-2\\}$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và đường thẳng $(d):y=3mx+1-m^2$ ($m$ là tham số). Tìm $m$ để $(d)$ cắt $(P)$ tại hai điểm phân biệt có hoành độ $x_1$, $x_2$ thỏa mãn $x_1+x_2=2x_1x_2$.</p>",
+      "goiY": [
+        "Phương trình hoành độ giao điểm: $x^2-3mx+m^2-1=0$.",
+        "$\\Delta=5m^2+4>0$; dùng Vi-ét."
+      ],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $x^2=3mx+1-m^2\\Leftrightarrow x^2-3mx+m^2-1=0$.",
+        "$\\Delta=9m^2-4(m^2-1)=5m^2+4>0$ với mọi $m$, nên $(d)$ luôn cắt $(P)$ tại hai điểm phân biệt.",
+        "Theo Vi-ét: $x_1+x_2=3m$, $x_1x_2=m^2-1$. Điều kiện $x_1+x_2=2x_1x_2\\Leftrightarrow3m=2(m^2-1)\\Leftrightarrow2m^2-3m-2=0$.",
+        "$\\Leftrightarrow(m-2)(2m+1)=0\\Leftrightarrow m=2$ hoặc $m=-\\dfrac{1}{2}$. Vậy $m\\in\\left\\{2;-\\dfrac{1}{2}\\right\\}$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Qua điểm $M$ nằm bên ngoài đường tròn $(O;R)$ kẻ hai tiếp tuyến $MA$, $MB$ ($A$, $B$ là các tiếp điểm). Vẽ cát tuyến $MCD$ không đi qua tâm $O$ ($C$ nằm giữa $M$ và $D$). Chứng minh tứ giác $MAOB$ nội tiếp và $MO\\perp AB$.</p>",
+      "goiY": [
+        "$MA$, $MB$ là tiếp tuyến nên $MA\\perp OA$, $MB\\perp OB$.",
+        "$MA=MB$, $OA=OB$ nên $MO$ là đường trung trực của $AB$."
+      ],
+      "loiGiai": [
+        "Vì $MA$, $MB$ là tiếp tuyến của $(O)$ nên $\\widehat{MAO}=\\widehat{MBO}=90^\\circ$.",
+        "Tứ giác $MAOB$ có $\\widehat{MAO}+\\widehat{MBO}=180^\\circ$ nên nội tiếp.",
+        "Mặt khác $MA=MB$ (tính chất hai tiếp tuyến cắt nhau) và $OA=OB=R$, nên $M$ và $O$ cùng thuộc đường trung trực của $AB$. Do đó $MO\\perp AB$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, chứng minh $MA\\cdot AD=MD\\cdot AC$.</p>",
+      "goiY": [
+        "Chứng minh $\\triangle MAC\\sim\\triangle MDA$.",
+        "Góc giữa tiếp tuyến $MA$ và dây $AC$ bằng góc nội tiếp chắn cung $AC$."
+      ],
+      "loiGiai": [
+        "Xét $\\triangle MAC$ và $\\triangle MDA$: $\\widehat{AMC}=\\widehat{AMD}$ (vì $M,C,D$ thẳng hàng); $\\widehat{MAC}=\\widehat{MDA}$ (góc giữa tiếp tuyến $MA$ và dây $AC$ bằng góc nội tiếp chắn cung $AC$).",
+        "Suy ra $\\triangle MAC\\sim\\triangle MDA$, do đó $\\dfrac{MA}{MD}=\\dfrac{AC}{AD}$, tức $MA\\cdot AD=MD\\cdot AC$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, gọi $I$ là trung điểm của dây cung $CD$ và $E$ là giao điểm của hai đường thẳng $AB$ và $OI$. Tính độ dài đoạn thẳng $OE$ theo $R$ khi $OI=\\dfrac{R}{3}$.</p>",
+      "goiY": [
+        "Gọi $K=OM\\cap AB$. Chứng minh $\\triangle OEK\\sim\\triangle OMI$.",
+        "$OK\\cdot OM=OA^2=R^2$ (hệ thức lượng trong tam giác vuông $OAM$)."
+      ],
+      "loiGiai": [
+        "Gọi $K=OM\\cap AB$. Vì $MO\\perp AB$ tại $K$ và $MA\\perp OA$, trong tam giác vuông $OAM$ có $OK\\cdot OM=OA^2=R^2$.",
+        "Vì $I$ là trung điểm dây $CD$ nên $OI\\perp CD$, suy ra $\\widehat{OIM}=90^\\circ$; lại có $\\widehat{OKE}=90^\\circ$.",
+        "Xét $\\triangle OEK$ và $\\triangle OMI$: $\\widehat{OKE}=\\widehat{OIM}=90^\\circ$, $\\widehat{EOK}=\\widehat{MOI}$ (cùng là góc giữa $OM$ và $OI$). Do đó $\\triangle OEK\\sim\\triangle OMI$.",
+        "Suy ra $\\dfrac{OE}{OM}=\\dfrac{OK}{OI}\\Rightarrow OE\\cdot OI=OK\\cdot OM=R^2$.",
+        "Với $OI=\\dfrac{R}{3}$: $OE=\\dfrac{R^2}{R/3}=3R$."
+      ]
+    },
+    {
+      "id": "c4d",
+      "soCau": 4,
+      "y": "d",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 4a, qua tâm $O$ kẻ đường thẳng vuông góc với $OM$, cắt các đường thẳng $MA$, $MB$ lần lượt tại $P$ và $Q$. Tìm vị trí của điểm $M$ để diện tích tam giác $MPQ$ đạt giá trị nhỏ nhất.</p>",
+      "goiY": [
+        "$PQ\\parallel AB$ nên $\\triangle MPQ\\sim\\triangle MAB$; $O$ là trung điểm $PQ$.",
+        "Đặt $OM=d$; chứng minh $S_{MPQ}=R(AM+AP)$ và $AM\\cdot AP=R^2$."
+      ],
+      "loiGiai": [
+        "Vì $PQ\\perp OM$ và $AB\\perp OM$ nên $PQ\\parallel AB$; do $MA=MB$ nên $MO$ là trục đối xứng, suy ra $O$ là trung điểm của $PQ$.",
+        "Do đó $S_{MPQ}=\\dfrac{1}{2}PQ\\cdot OM=OP\\cdot OM$.",
+        "Ta có $\\widehat{OAP}=\\widehat{OAM}=90^\\circ$ và $\\widehat{APO}=\\widehat{AOM}$ (góc giữa $PA$ và $PO$ bằng góc giữa $OA$ và $OM$, vì $PA\\perp OA$, $PO\\perp OM$), nên $\\triangle OAP\\sim\\triangle OAM$.",
+        "Suy ra $\\dfrac{OP}{OM}=\\dfrac{AP}{OA}=\\dfrac{OA}{AM}$, do đó $AP=\\dfrac{R^2}{AM}$ và $OP=\\dfrac{R\\cdot OM}{AM}$. Vậy $S_{MPQ}=OM\\cdot OP=\\dfrac{R\\cdot OM^2}{AM}=R\\left(AM+\\dfrac{R^2}{AM}\\right)=R(AM+AP)$.",
+        "Theo AM-GM: $AM+AP\\ge2\\sqrt{AM\\cdot AP}=2\\sqrt{R^2}=2R$, nên $S_{MPQ}\\ge2R^2$.",
+        "Dấu \"=\" xảy ra khi $AM=AP=R$, tức $OM^2=OA^2+AM^2=2R^2$, hay $OM=R\\sqrt2$. Vậy $M$ nằm trên tiếp tuyến tại $A$ sao cho $OM=R\\sqrt2$ thì diện tích $MPQ$ nhỏ nhất, bằng $2R^2$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm giá trị lớn nhất của biểu thức $P=-3x^2-4x\\sqrt y+16x-2y+12\\sqrt y+1998$.</p>",
+      "dapAn": [
+        "2020"
+      ],
+      "goiY": [
+        "Điều kiện $y\\ge0$; nhóm thành các bình phương.",
+        "Biến đổi $P=2020-2(x+\\sqrt y-3)^2-(x-2)^2$."
+      ],
+      "loiGiai": [
+        "Điều kiện $y\\ge0$. Ta có $P=-2(x+\\sqrt y-3)^2-(x-2)^2+2020$.",
+        "Vì $(x+\\sqrt y-3)^2\\ge0$ và $(x-2)^2\\ge0$ nên $P\\le2020$.",
+        "Dấu \"=\" xảy ra khi $x=2$ và $x+\\sqrt y-3=0$, tức $x=2$, $y=1$ (thỏa mãn). Vậy $\\max P=2020$."
+      ]
+    }
+  ]
+}

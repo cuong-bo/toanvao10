@@ -1,0 +1,326 @@
+{
+  "id": "nam-dinh-2023",
+  "tinh": "Nam Định",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT không chuyên môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Khá – nâng cao",
+  "nguon": {
+    "ten": "Sở GD&ĐT Nam Định — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-khong-chuyen-mon-toan-nam-2023-2024-so-gddt-nam-dinh.html"
+  },
+  "ghiChu": "Đề chính thức năm học 2023–2024, gồm 8 câu trắc nghiệm (2 điểm) và 5 câu tự luận (8 điểm). Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "tn1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điều kiện xác định của biểu thức $\\dfrac5{\\sqrt{x-2023}+1}$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x\\ge2023$" },
+        { "ma": "B", "noiDung": "$x>2023$" },
+        { "ma": "C", "noiDung": "$x<2023$" },
+        { "ma": "D", "noiDung": "$x\\le2023$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Căn có nghĩa khi $x-2023\\ge0$."],
+      "loiGiai": ["$x-2023\\ge0 \\Leftrightarrow x\\ge2023$. Chọn A."]
+    },
+    {
+      "id": "tn2",
+      "soCau": 2,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hàm số nào sau đây đồng biến với mọi $x\\in\\mathbb R$?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$y=(1-\\sqrt5)x^2$" },
+        { "ma": "B", "noiDung": "$y=x+3$" },
+        { "ma": "C", "noiDung": "$y=(2-\\sqrt7)x+2$" },
+        { "ma": "D", "noiDung": "$y=x^2$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Hàm số bậc nhất $y=ax+b$ đồng biến khi $a>0$."],
+      "loiGiai": ["$y=x+3$ có $a=1>0$ nên đồng biến trên $\\mathbb R$. Chọn B."]
+    },
+    {
+      "id": "tn3",
+      "soCau": 3,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Phương trình $2x^2-x-1=0$ có hai nghiệm $x_1<x_2$. Giá trị $2x_1+x_2$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$0$" },
+        { "ma": "B", "noiDung": "$-1,5$" },
+        { "ma": "C", "noiDung": "$-2$" },
+        { "ma": "D", "noiDung": "$2$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Phân tích $(2x+1)(x-1)=0$."],
+      "loiGiai": ["$(2x+1)(x-1)=0$ nên $x_1=-\\dfrac12$, $x_2=1$.", "$2x_1+x_2=-1+1=0$. Chọn A."]
+    },
+    {
+      "id": "tn4",
+      "soCau": 4,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường thẳng $y=(m-1)x+2$ đi qua $A(-1;1)$ khi</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$m=0$" },
+        { "ma": "B", "noiDung": "$m=-1$" },
+        { "ma": "C", "noiDung": "$m=-2$" },
+        { "ma": "D", "noiDung": "$m=2$" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Thay $x=-1,y=1$."],
+      "loiGiai": ["$1=-(m-1)+2=3-m \\Rightarrow m=2$. Chọn D."]
+    },
+    {
+      "id": "tn5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Số nghiệm của hệ $\\begin{cases}2x+y=5\\\\x-3y=2\\end{cases}$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$2$" },
+        { "ma": "B", "noiDung": "$0$" },
+        { "ma": "C", "noiDung": "$1$" },
+        { "ma": "D", "noiDung": "vô số" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Hai đường thẳng cắt nhau."],
+      "loiGiai": ["Hệ có nghiệm duy nhất $\\left(\\dfrac{17}{7};\\dfrac17\\right)$. Chọn C."]
+    },
+    {
+      "id": "tn6",
+      "soCau": 6,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, $AC=6$, $BC=10$. Giá trị $\\tan B$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac34$" },
+        { "ma": "B", "noiDung": "$\\dfrac35$" },
+        { "ma": "C", "noiDung": "$\\dfrac43$" },
+        { "ma": "D", "noiDung": "$\\dfrac53$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["$AB=\\sqrt{BC^2-AC^2}$; $\\tan B=\\dfrac{AC}{AB}$."],
+      "loiGiai": ["$AB=8$; $\\tan B=\\dfrac68=\\dfrac34$. Chọn A."]
+    },
+    {
+      "id": "tn7",
+      "soCau": 7,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hình nón có bán kính đáy $4$ cm, chiều cao $6$ cm. Thể tích là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$96\\pi$ cm³" },
+        { "ma": "B", "noiDung": "$32\\pi$ cm³" },
+        { "ma": "C", "noiDung": "$30\\pi$ cm³" },
+        { "ma": "D", "noiDung": "$36\\pi$ cm³" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["$V=\\dfrac13\\pi r^2h$."],
+      "loiGiai": ["$V=\\dfrac13\\pi\\cdot16\\cdot6=32\\pi$. Chọn B."]
+    },
+    {
+      "id": "tn8",
+      "soCau": 8,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $ABC$ có $\\widehat{BAC}=45^\\circ$, nội tiếp đường tròn bán kính $2$ cm. Diện tích tam giác $OBC$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$1$ cm²" },
+        { "ma": "B", "noiDung": "$4$ cm²" },
+        { "ma": "C", "noiDung": "$2$ cm²" },
+        { "ma": "D", "noiDung": "$2\\sqrt2$ cm²" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["$\\widehat{BOC}=2\\widehat{BAC}=90^\\circ$."],
+      "loiGiai": ["$S_{OBC}=\\dfrac12\\cdot2\\cdot2\\cdot\\sin90^\\circ=2$ cm². Chọn C."]
+    },
+    {
+      "id": "tl1a",
+      "soCau": 9,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p><b>Phần tự luận — Câu 1.</b> Chứng minh $\\sqrt{27}-2\\sqrt{12}+\\sqrt{4-2\\sqrt3}=-1$.</p>",
+      "goiY": ["$\\sqrt{4-2\\sqrt3}=\\sqrt{(\\sqrt3-1)^2}=|\\sqrt3-1|$."],
+      "loiGiai": [
+        "$\\sqrt{27}=3\\sqrt3$, $2\\sqrt{12}=4\\sqrt3$, $\\sqrt{4-2\\sqrt3}=\\sqrt3-1$.",
+        "Biểu thức $=3\\sqrt3-4\\sqrt3+\\sqrt3-1=-1$."
+      ]
+    },
+    {
+      "id": "tl1b",
+      "soCau": 9,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn $A=\\left(\\dfrac{9-\\sqrt x}{x-9}+\\dfrac2{\\sqrt x+3}\\right):\\dfrac{\\sqrt x+1}{\\sqrt x-3}$ với $x\\ge0,x\\ne9$.</p>",
+      "goiY": ["Quy đồng mẫu $x-9$; tử thu được $\\sqrt x+3$."],
+      "loiGiai": [
+        "Trong ngoặc: $\\dfrac{9-\\sqrt x+2(\\sqrt x-3)}{(\\sqrt x-3)(\\sqrt x+3)}=\\dfrac{\\sqrt x+3}{(\\sqrt x-3)(\\sqrt x+3)}=\\dfrac1{\\sqrt x-3}$.",
+        "$A=\\dfrac1{\\sqrt x-3}\\cdot\\dfrac{\\sqrt x-3}{\\sqrt x+1}=\\dfrac1{\\sqrt x+1}$."
+      ]
+    },
+    {
+      "id": "tl2a",
+      "soCau": 10,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm tọa độ giao điểm của $y=x^2$ và $y=-2x+3$. Nhập tổng tung độ hai giao điểm.</p>",
+      "dapAn": ["10"],
+      "goiY": ["Giải $x^2=-2x+3$."],
+      "loiGiai": [
+        "$x^2+2x-3=0 \\Rightarrow x=1$ hoặc $x=-3$.",
+        "Các giao điểm $(1;1)$ và $(-3;9)$; tổng tung độ $1+9=10$."
+      ]
+    },
+    {
+      "id": "tl2b",
+      "soCau": 10,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $x^2-2(m+1)x+6m-4=0$. Tìm $m$ để phương trình có hai nghiệm $x_1,x_2$ thoả mãn $x_1^2-x_2^2=3x_1x_2(x_2-x_1)$.</p>",
+      "dapAn": ["1/2"],
+      "goiY": ["Biến đổi thành $(x_1-x_2)(x_1+x_2+3x_1x_2)=0$; hai nghiệm phân biệt."],
+      "loiGiai": [
+        "$\\Delta'=(m-2)^2+1>0$ nên phương trình luôn có hai nghiệm phân biệt.",
+        "Điều kiện tương đương $(x_1-x_2)(x_1+x_2+3x_1x_2)=0$. Vì $x_1\\ne x_2$: $x_1+x_2+3x_1x_2=0$.",
+        "Viète: $x_1+x_2=2(m+1)$, $x_1x_2=6m-4$.",
+        "$2(m+1)+3(6m-4)=0 \\Rightarrow 20m=10 \\Rightarrow m=\\dfrac12$."
+      ]
+    },
+    {
+      "id": "tl3",
+      "soCau": 11,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ $\\begin{cases}x+3y=4\\\\\\dfrac1{x-4}+\\dfrac1y=1\\end{cases}$ và nhập $x+y$.</p>",
+      "dapAn": ["8/3"],
+      "goiY": ["Từ $x+3y=4$ suy ra $x-4=-3y$."],
+      "loiGiai": [
+        "Điều kiện $x\\ne4,y\\ne0$. Từ $x+3y=4 \\Rightarrow x-4=-3y$.",
+        "Thay vào: $\\dfrac1{-3y}+\\dfrac1y=1 \\Rightarrow \\dfrac2{3y}=1 \\Rightarrow y=\\dfrac23$.",
+        "Suy ra $x=2$. Vậy $x+y=\\dfrac83$."
+      ]
+    },
+    {
+      "id": "tl4a",
+      "soCau": 12,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Mảnh vườn hình thang $ABCD$ có $\\widehat{BAD}=\\widehat{ADC}=90^\\circ$, $AB=3$, $AD=5$, $DC=7$. Người ta trồng hoa trên nửa hình tròn đường kính $AD$, phần còn lại trồng cỏ. Tính diện tích phần trồng cỏ (m², làm tròn đến hàng phần trăm, $\\pi\\approx3,14$).</p>",
+      "dapAn": ["15,19"],
+      "goiY": ["Diện tích hình thang trừ diện tích nửa hình tròn bán kính $2,5$."],
+      "loiGiai": [
+        "$S_{thang}=\\dfrac{(3+7)\\cdot5}{2}=25$ m².",
+        "$S_{nửa tròn}=\\dfrac12\\pi(2,5)^2=\\dfrac{25\\pi}{8}\\approx9,81$ m².",
+        "$S_{cỏ}=25-9,81=15,19$ m²."
+      ]
+    },
+    {
+      "id": "tl4b",
+      "soCau": 12,
+      "y": "2a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn ($AB<AC$) nội tiếp $(O)$, đường cao $AD,BE$ cắt nhau tại $H$. $M$ là trung điểm $AH$, đường thẳng qua $M$ vuông góc $BM$ cắt $AC$ tại $N$. $K$ là giao điểm thứ hai của $AH$ với $(O)$. Chứng minh $B,M,E,N$ cùng thuộc một đường tròn và $\\widehat{MBN}=\\widehat{KAC}$.</p>",
+      "goiY": ["$\\angle BMN=\\angle BEN=90^\\circ$; $EM=AM$."],
+      "loiGiai": [
+        "$\\angle BMN=90^\\circ$ (giả thiết) và $\\angle BEN=90^\\circ$ (vì $BE\\perp AC$), nên $B,M,E,N$ cùng thuộc đường tròn đường kính $BN$.",
+        "Trong tam giác vuông $AEH$, $EM$ là trung tuyến ứng với cạnh huyền nên $EM=AM$, suy ra $\\widehat{MEA}=\\widehat{MAE}$.",
+        "Vì $B,M,E,N$ nội tiếp, $\\widehat{MBN}=\\widehat{MEA}$. Mà $\\widehat{MAE}=\\widehat{KAC}$ nên $\\widehat{MBN}=\\widehat{KAC}$."
+      ]
+    },
+    {
+      "id": "tl4c",
+      "soCau": 12,
+      "y": "2b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 2a, kéo dài $KN$ cắt $(O)$ tại $T$. Chứng minh tam giác $BHK$ cân và $B,O,T$ thẳng hàng.</p>",
+      "goiY": ["Chứng minh $BC$ là phân giác của $\\widehat{KBH}$; dùng $\\widehat{BKM}=\\widehat{BNM}$ để được $B,M,N,K$ nội tiếp."],
+      "loiGiai": [
+        "Trong $(O)$, $\\widehat{KBC}=\\widehat{KAC}$; lại có $\\widehat{KAC}=\\widehat{EBC}$ (cùng phụ $\\widehat{ACB}$), nên $\\widehat{KBC}=\\widehat{EBC}$.",
+        "$BC$ là phân giác của $\\widehat{KBH}$; mà $BC\\perp AH$ nên $\\triangle BHK$ cân tại $B$.",
+        "Từ $\\widehat{BKM}=\\widehat{BNM}$ suy ra $B,M,N,K$ nội tiếp, nên $\\widehat{BKN}=\\widehat{BMN}=90^\\circ$.",
+        "Do đó $\\widehat{BKT}=90^\\circ$, tức $BT$ là đường kính của $(O)$; vậy $B,O,T$ thẳng hàng."
+      ]
+    },
+    {
+      "id": "tl5a",
+      "soCau": 13,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+4x=2\\sqrt{1+3x}+\\sqrt{2x-1}$.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Chuyển vế, nhân liên hợp để tách nhân tử $x-1$."],
+      "loiGiai": [
+        "Điều kiện $x\\ge\\dfrac12$. Chuyển vế và nhân liên hợp:",
+        "$(x-1)\\left(x+5-\\dfrac6{\\sqrt{1+3x}+2}-\\dfrac2{\\sqrt{2x-1}+1}\\right)=0$.",
+        "Nên $x=1$. Phương trình còn lại vô nghiệm vì $x+5>5$ còn tổng hai phân thức $<5$ với $x\\ge\\dfrac12$.",
+        "Vậy $x=1$."
+      ]
+    },
+    {
+      "id": "tl5b",
+      "soCau": 13,
+      "y": "b",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $x,y,z>0$, $x+y+z=1$. Tìm giá trị nhỏ nhất của $P=\\dfrac{x+yz}{y+z}+\\dfrac{y+zx}{z+x}+\\dfrac{z+xy}{x+y}$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["$x+yz=(x+y)(x+z)$; đặt $a=x+y$, $b=y+z$, $c=z+x$."],
+      "loiGiai": [
+        "Vì $x+y+z=1$, $x+yz=x(x+y+z)+yz=(x+y)(x+z)$.",
+        "Đặt $a=x+y$, $b=y+z$, $c=z+x$; $a+b+c=2$.",
+        "$P=\\dfrac12\\left(\\dfrac{ab}{c}+\\dfrac{bc}{a}+\\dfrac{ca}{b}\\right)\\ge\\dfrac12(2a+2b+2c)=a+b+c=2$.",
+        "Dấu bằng khi $a=b=c=\\dfrac23$, tức $x=y=z=\\dfrac13$. Vậy $\\min P=2$."
+      ]
+    }
+  ]
+}

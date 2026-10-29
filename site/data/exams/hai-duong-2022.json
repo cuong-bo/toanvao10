@@ -1,0 +1,182 @@
+{
+  "id": "hai-duong-2022",
+  "tinh": "Hải Dương",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hải Dương — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-hai-duong.html"
+  },
+  "ghiChu": "Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $|x-3|=2$.</p>",
+      "goiY": ["$|A|=m$ với $m>0$ thì $A=m$ hoặc $A=-m$."],
+      "loiGiai": [
+        "$|x-3|=2\\Leftrightarrow x-3=2$ hoặc $x-3=-2$.",
+        "Suy ra $x=5$ hoặc $x=1$. Vậy $S=\\{1;5\\}$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Giải phương trình $x^2-3x+6=2x$.</p>",
+      "goiY": ["Chuyển vế rồi phân tích thành nhân tử."],
+      "loiGiai": [
+        "$x^2-3x+6=2x\\Leftrightarrow x^2-5x+6=0\\Leftrightarrow(x-2)(x-3)=0$.",
+        "Vậy $x=2$ hoặc $x=3$; tập nghiệm $S=\\{2;3\\}$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn biểu thức $P=\\dfrac3{(\\sqrt x-2)(\\sqrt x+1)}+\\dfrac2{\\sqrt x+1}+\\dfrac1{2-\\sqrt x}$ với $x\\ge0$ và $x\\ne4$.</p>",
+      "goiY": ["Đổi $\\dfrac1{2-\\sqrt x}=-\\dfrac1{\\sqrt x-2}$ rồi quy đồng mẫu $(\\sqrt x-2)(\\sqrt x+1)$."],
+      "loiGiai": [
+        "$P=\\dfrac3{(\\sqrt x-2)(\\sqrt x+1)}+\\dfrac2{\\sqrt x+1}-\\dfrac1{\\sqrt x-2}$.",
+        "$P=\\dfrac{3+2(\\sqrt x-2)-(\\sqrt x+1)}{(\\sqrt x-2)(\\sqrt x+1)}=\\dfrac{\\sqrt x-2}{(\\sqrt x-2)(\\sqrt x+1)}=\\dfrac1{\\sqrt x+1}$.",
+        "Vậy $P=\\dfrac1{\\sqrt x+1}$ với $x\\ge0$, $x\\ne4$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm giá trị của tham số $m$ để ba đường thẳng sau cắt nhau tại một điểm:</p><p>$y=6-4x$; $y=\\dfrac{3x+5}{4}$ và $y=(m-1)x+2m-5$.</p>",
+      "dapAn": ["8/3"],
+      "goiY": ["Tìm giao điểm của hai đường thẳng đầu rồi cho điểm đó thuộc đường thẳng thứ ba."],
+      "loiGiai": [
+        "Hoành độ giao điểm của $y=6-4x$ và $y=\\dfrac{3x+5}{4}$: $6-4x=\\dfrac{3x+5}{4}\\Leftrightarrow24-16x=3x+5\\Leftrightarrow x=1$, khi đó $y=2$.",
+        "Ba đường thẳng đồng quy khi $(1;2)$ thuộc đường thẳng thứ ba: $2=(m-1)\\cdot1+2m-5\\Leftrightarrow3m=8\\Leftrightarrow m=\\dfrac83$.",
+        "Với $m=\\dfrac83$ ba đường thẳng có hệ số góc $-4$; $\\dfrac34$; $\\dfrac53$ đôi một khác nhau nên thỏa mãn. Vậy $m=\\dfrac83$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Bạn An đi xe đạp từ nhà đến trường trên quãng đường dài $4$ km. Khi đi từ trường về nhà vẫn trên con đường đó, An đạp xe với vận tốc trung bình lớn hơn vận tốc trung bình lúc đi là $3$ km/h. Tổng thời gian đạp xe cả đi và về của An là $36$ phút. Tính vận tốc đạp xe trung bình của An lúc đi từ nhà đến trường.</p>",
+      "dapAn": ["12"],
+      "goiY": ["Gọi vận tốc lúc đi là $x$ (km/h); tổng thời gian là $\\dfrac4x+\\dfrac4{x+3}=\\dfrac35$."],
+      "loiGiai": [
+        "Gọi vận tốc lúc đi là $x$ (km/h, $x>0$); vận tốc lúc về là $x+3$. Ta có $\\dfrac4x+\\dfrac4{x+3}=\\dfrac35$.",
+        "$\\Leftrightarrow20(x+3)+20x=3x(x+3)\\Leftrightarrow3x^2-31x-60=0\\Leftrightarrow x=12$ hoặc $x=-\\dfrac53$.",
+        "Đối chiếu $x>0$ được $x=12$ km/h."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Trong mặt phẳng tọa độ $Oxy$, cho parabol $(P):y=x^2$ và đường thẳng $(d):y=mx+5$. Chứng minh rằng với mọi giá trị của tham số $m$, đường thẳng $(d)$ luôn cắt $(P)$ tại hai điểm phân biệt có hoành độ $x_1,x_2$. Tìm $m$ để $x_1^2=9-mx_2$.</p>",
+      "goiY": ["Lập phương trình hoành độ giao điểm, chứng minh $\\Delta>0$; dùng $x_1^2=mx_1+5$ và định lí Vi-ét."],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $x^2=mx+5\\Leftrightarrow x^2-mx-5=0$ (1). Có $ac=1\\cdot(-5)<0$ nên (1) luôn có hai nghiệm phân biệt, tức $(d)$ luôn cắt $(P)$ tại hai điểm phân biệt.",
+        "Theo Vi-ét: $x_1+x_2=m$, $x_1x_2=-5$.",
+        "Vì $x_1$ là nghiệm của (1) nên $x_1^2=mx_1+5$. Điều kiện $x_1^2=9-mx_2$ trở thành $mx_1+5=9-mx_2\\Leftrightarrow m(x_1+x_2)=4$.",
+        "Suy ra $m\\cdot m=4\\Leftrightarrow m=\\pm2$. Vậy $m=\\pm2$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$ và dây cung $BC$ không đi qua tâm $O$. Hai tiếp tuyến với đường tròn $(O)$ tại $B$ và $C$ cắt nhau tại $A$. Lấy điểm $M$ trên cung nhỏ $BC$ ($M$ khác $B$ và $C$), gọi $I,H,K$ theo thứ tự là chân các đường vuông góc kẻ từ $M$ đến $BC,AB,AC$.</p><p>Chứng minh các tứ giác $MIBH$, $MICK$ nội tiếp.</p>",
+      "goiY": ["Các góc tại $I$, $H$, $K$ đều vuông."],
+      "loiGiai": [
+        "Vì $MI\\perp BC$, $MH\\perp AB$, $MK\\perp AC$ nên $\\widehat{MIB}=\\widehat{MHB}=\\widehat{MIC}=\\widehat{MKC}=90^\\circ$.",
+        "Tứ giác $MIBH$ có $\\widehat{MIB}+\\widehat{MHB}=180^\\circ$ nên nội tiếp đường tròn.",
+        "Tứ giác $MICK$ có $\\widehat{MIC}+\\widehat{MKC}=180^\\circ$ nên nội tiếp đường tròn."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "1b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình vẽ câu 4.1a, chứng minh $MI^2=MH\\cdot MK$.</p>",
+      "goiY": ["Chứng minh $\\triangle MIH\\sim\\triangle MKI$ nhờ các góc nội tiếp và góc tạo bởi tiếp tuyến với dây cung."],
+      "loiGiai": [
+        "Theo tính chất góc tạo bởi tiếp tuyến và dây cung: $\\widehat{MBA}=\\widehat{MCB}$ (cùng bằng nửa số đo cung $MB$) và $\\widehat{MCA}=\\widehat{MBC}$ (cùng bằng nửa số đo cung $MC$).",
+        "Từ $MIBH$ nội tiếp: $\\widehat{MIH}=\\widehat{MBH}=\\widehat{MBA}$; từ $MICK$ nội tiếp: $\\widehat{MKI}=\\widehat{MCI}=\\widehat{MCB}$. Do đó $\\widehat{MIH}=\\widehat{MKI}$.",
+        "Tương tự $\\widehat{MHI}=\\widehat{MBI}=\\widehat{MBC}=\\widehat{MCA}=\\widehat{MCK}=\\widehat{MIK}$.",
+        "Suy ra $\\triangle MIH\\sim\\triangle MKI$, do đó $\\dfrac{MI}{MK}=\\dfrac{MH}{MI}\\Rightarrow MI^2=MH\\cdot MK$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Từ điểm $P$ nằm ngoài đường tròn $(O)$ kẻ hai tiếp tuyến $PQ$, $PR$ tới đường tròn với $Q$ và $R$ là các tiếp điểm. Đường thẳng qua $P$ cắt đường tròn $(O)$ tại hai điểm $E$ và $F$ ($E$ nằm giữa $P$ và $F$; dây cung $EF$ không đi qua tâm $O$). Gọi $I$ là trung điểm của $EF$, $K$ là giao điểm của $PF$ và $QR$. Chứng minh rằng $\\dfrac2{PK}=\\dfrac1{PE}+\\dfrac1{PF}$.</p>",
+      "goiY": ["Chứng minh $PQ^2=PE\\cdot PF$ và $PQ^2=PK\\cdot PI$, rồi dùng $PE+PF=2PI$."],
+      "loiGiai": [
+        "Do $PQ,PR$ là tiếp tuyến nên $\\widehat{PQO}=\\widehat{PRO}=90^\\circ$; do $I$ là trung điểm dây $EF$ nên $OI\\perp EF$, tức $\\widehat{PIO}=90^\\circ$. Suy ra $P,Q,I,O,R$ cùng thuộc đường tròn đường kính $PO$.",
+        "$\\triangle PQE\\sim\\triangle PFQ$ vì $\\widehat{QPE}$ chung và $\\widehat{PQE}=\\widehat{PFQ}$ (góc tạo bởi tiếp tuyến $PQ$ và dây $QE$ bằng góc nội tiếp chắn cung $QE$). Suy ra $PQ^2=PE\\cdot PF$ (1).",
+        "Trong đường tròn đường kính $PO$ có $\\widehat{PIQ}=\\widehat{PRQ}$ (cùng chắn cung $PQ$). Mà $PQ=PR$ nên $\\widehat{PRQ}=\\widehat{PQR}=\\widehat{PQK}$ (do $K\\in QR$), vậy $\\widehat{PIQ}=\\widehat{PQK}$.",
+        "Lại có $\\widehat{IPQ}=\\widehat{KPQ}$ (vì $I,K$ cùng thuộc đường thẳng $PF$), nên $\\triangle PIQ\\sim\\triangle PQK$. Suy ra $\\dfrac{PQ}{PI}=\\dfrac{PK}{PQ}\\Rightarrow PQ^2=PK\\cdot PI$ (2).",
+        "Từ (1) và (2): $PE\\cdot PF=PK\\cdot PI$. Vì $I$ là trung điểm $EF$ nên $PE+PF=2PI$, tức $PI=\\dfrac{PE+PF}{2}$.",
+        "Do đó $PE\\cdot PF=PK\\cdot\\dfrac{PE+PF}{2}\\Rightarrow\\dfrac2{PK}=\\dfrac{PE+PF}{PE\\cdot PF}=\\dfrac1{PE}+\\dfrac1{PF}$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $a,b,c$ là các số thực dương thay đổi thỏa mãn $\\sqrt{\\dfrac{ab}{c}}+\\sqrt{\\dfrac{bc}{a}}+\\sqrt{\\dfrac{ca}{b}}=3$. Tìm giá trị nhỏ nhất của biểu thức $T=\\sqrt a+\\sqrt b+\\sqrt c+\\dfrac{2022}{\\sqrt a+\\sqrt b+\\sqrt c}$.</p>",
+      "dapAn": ["677"],
+      "goiY": ["Dùng AM–GM chứng minh $\\sqrt a+\\sqrt b+\\sqrt c\\le3$, rồi đặt $S=\\sqrt a+\\sqrt b+\\sqrt c$ và tách $\\dfrac{2022}{S}=\\dfrac9S+\\dfrac{2013}{S}$."],
+      "loiGiai": [
+        "Theo AM–GM: $\\sqrt{\\dfrac{ab}{c}}+\\sqrt{\\dfrac{bc}{a}}\\ge2\\sqrt b$; tương tự $\\sqrt{\\dfrac{bc}{a}}+\\sqrt{\\dfrac{ca}{b}}\\ge2\\sqrt c$ và $\\sqrt{\\dfrac{ca}{b}}+\\sqrt{\\dfrac{ab}{c}}\\ge2\\sqrt a$.",
+        "Cộng ba bất đẳng thức và dùng giả thiết: $2\\cdot3\\ge2(\\sqrt a+\\sqrt b+\\sqrt c)$, suy ra $S=\\sqrt a+\\sqrt b+\\sqrt c\\le3$.",
+        "$T=S+\\dfrac{2022}{S}=S+\\dfrac9S+\\dfrac{2013}{S}\\ge2\\sqrt9+\\dfrac{2013}{3}=6+671=677$ (AM–GM cho $S+\\dfrac9S$, và $S\\le3$).",
+        "Dấu bằng khi $a=b=c=1$. Vậy $\\min T=677$."
+      ]
+    }
+  ]
+}

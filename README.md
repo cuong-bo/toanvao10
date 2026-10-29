@@ -50,9 +50,9 @@ docs/                 kế hoạch, nguồn đề, hướng dẫn đăng
 
 ## Hiện trạng dữ liệu
 
-- 17 đề thật của 7 tỉnh/thành: Điện Biên, Hòa Bình, Lai Châu, Lào Cai, Sơn La, Yên Bái, Hà Nội (2020–2026).
+- 25 đề thật của 15 tỉnh/thành: Điện Biên, Hòa Bình, Lai Châu, Lào Cai, Sơn La, Yên Bái, Hà Nội, Nam Định, Bắc Ninh, Hải Dương, Hải Phòng, Nghệ An, Thanh Hóa, Vĩnh Phúc, Thái Bình.
 - 1 đề mẫu để thử web (ghi rõ không phải đề thật).
-- 317 câu/ý, có lời giải từng bước; một số câu hình học nâng cao dùng bổ đề hoặc toạ độ.
+- 430 câu/ý, có lời giải từng bước; một số câu hình học nâng cao dùng bổ đề hoặc toạ độ.
 - Đề Yên Bái 2022 có 50 câu; câu 39 bản in sai đáp án nên chuyển thành câu trả lời ngắn (đáp án đúng 6/5).
 
 ## Kiểm thử

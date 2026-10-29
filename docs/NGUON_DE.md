@@ -21,6 +21,14 @@ Nguyên tắc: chỉ dùng đề chính thức do Sở GD&ĐT công bố; lời 
 | `son-la-2025` | Sơn La | 2025 | [PDF đề chính thức](https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-son-la.html) | Đã đăng |
 | `son-la-2021` | Sơn La | 2021 | [PDF đề chính thức](https://thcs.toanmath.com/2021/07/de-thi-tuyen-sinh-lop-10-mon-toan-nam-2021-2022-so-gddt-son-la.html) | Đã đăng |
 | `yen-bai-2022` | Yên Bái | 2022 | [PDF đề chính thức](https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-yen-bai.html) | Đã đăng; câu 39 in sai đáp án, chuyển thành trả lời ngắn |
+| `nam-dinh-2023` | Nam Định | 2023 | [PDF đề chính thức](https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-khong-chuyen-mon-toan-nam-2023-2024-so-gddt-nam-dinh.html) | Đã đăng |
+| `bac-ninh-2022` | Bắc Ninh | 2022 | [PDF đề chính thức](https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-bac-ninh.html) | Đã đăng |
+| `hai-duong-2022` | Hải Dương | 2022 | [PDF đề chính thức](https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-hai-duong.html) | Đã đăng |
+| `hai-phong-2022` | Hải Phòng | 2022 | [PDF đề chính thức](https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-hai-phong.html) | Đã đăng |
+| `nghe-an-2022` | Nghệ An | 2022 | [PDF đề chính thức](https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-nghe-an.html) | Đã đăng |
+| `thanh-hoa-2022` | Thanh Hóa | 2022 | [PDF đề chính thức](https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-thanh-hoa.html) | Đã đăng |
+| `vinh-phuc-2021` | Vĩnh Phúc | 2021 | [PDF đề chính thức](https://thcs.toanmath.com/2021/07/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2021-2022-so-gddt-vinh-phuc.html) | Đã đăng |
+| `thai-binh-2020` | Thái Bình | 2020 | [PDF đề chính thức](https://thcs.toanmath.com/2020/08/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2020-2021-so-gddt-thai-binh.html) | Đã đăng |
 | `mau-2025` | Đề mẫu | 2025 | Tự soạn | Chỉ để thử web |
 
 ## Độ phủ hiện tại
@@ -34,6 +42,14 @@ Nguyên tắc: chỉ dùng đề chính thức do Sở GD&ĐT công bố; lời 
 | Sơn La | 2021, 2022, 2025 | 2020, 2023, 2024 |
 | Yên Bái | 2022 | 2020, 2021, 2023–2025 |
 | Hà Nội | 2024 | 2020–2023, 2025 |
+| Nam Định | 2023 | 2020–2022, 2024–2026 |
+| Bắc Ninh | 2022 | 2020, 2021, 2023–2026 |
+| Hải Dương | 2022 | 2020, 2021, 2023–2026 |
+| Hải Phòng | 2022 | 2020, 2021, 2023–2026 |
+| Nghệ An | 2022 | 2020, 2021, 2023–2026 |
+| Thanh Hóa | 2022 | 2020, 2021, 2023–2026 |
+| Vĩnh Phúc | 2021 | 2020, 2022–2026 |
+| Thái Bình | 2020 | 2021–2026 |
 
 Các năm còn thiếu sẽ được bổ sung khi tìm được đề chính thức và biên soạn xong lời giải; không đưa đề không rõ nguồn vào `site/`.
 
