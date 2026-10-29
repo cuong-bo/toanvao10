@@ -1,0 +1,265 @@
+{
+  "id": "lao-cai-2024",
+  "tinh": "Lào Cai",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+    "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2024-2025-so-gddt-lao-cai.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 04/6/2024, gồm 10 câu. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính giá trị biểu thức $3+\\sqrt{25}$.</p>",
+      "dapAn": ["8"],
+      "goiY": ["$\\sqrt{25}=5$."],
+      "loiGiai": ["$3+5=8$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính giá trị biểu thức $\\sqrt{36}-\\sqrt9$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["$\\sqrt{36}=6$, $\\sqrt9=3$."],
+      "loiGiai": ["$6-3=3$."]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+2x-3=0$. Nhập nghiệm dương.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Phân tích $x^2+2x-3=(x-1)(x+3)$."],
+      "loiGiai": [
+        "$x^2+2x-3=(x-1)(x+3)=0$.",
+        "Suy ra $x=1$ hoặc $x=-3$. Nghiệm dương là $x=1$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x-y=4\\\\x+2y=7\\end{cases}$ và tính $x+y$.</p>",
+      "dapAn": ["5"],
+      "goiY": ["Từ phương trình đầu suy ra $y=2x-4$."],
+      "loiGiai": [
+        "Từ $2x-y=4$ suy ra $y=2x-4$.",
+        "Thay vào $x+2y=7$: $x+2(2x-4)=7 \\Leftrightarrow 5x=15 \\Leftrightarrow x=3$.",
+        "Suy ra $y=2$. Vậy $x+y=5$."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Chọn ngẫu nhiên một số trong các số tự nhiên từ $1$ đến $20$. Tính xác suất để số được chọn chia hết cho $3$.</p>",
+      "dapAn": ["3/10", "0,3"],
+      "goiY": ["Các số chia hết cho $3$: $3;6;9;12;15;18$."],
+      "loiGiai": [
+        "Có $20$ kết quả có thể. Các số chia hết cho $3$ là $3;6;9;12;15;18$ — có $6$ số.",
+        "Xác suất là $\\dfrac6{20}=\\dfrac3{10}$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $P=\\dfrac{\\sqrt{x}}{\\sqrt{x}-2}-\\dfrac{\\sqrt{x}}{\\sqrt{x}+2}-\\dfrac{8}{x-4}$ với $x\\ge0,\\ x\\ne4$. Rút gọn $P$.</p>",
+      "goiY": ["Quy đồng mẫu $x-4=(\\sqrt{x}-2)(\\sqrt{x}+2)$."],
+      "loiGiai": [
+        "$P=\\dfrac{\\sqrt{x}(\\sqrt{x}+2)-\\sqrt{x}(\\sqrt{x}-2)-8}{x-4}$.",
+        "$=\\dfrac{(x+2\\sqrt{x})-(x-2\\sqrt{x})-8}{x-4}=\\dfrac{4\\sqrt{x}-8}{x-4}$.",
+        "$=\\dfrac{4(\\sqrt{x}-2)}{(\\sqrt{x}-2)(\\sqrt{x}+2)}=\\dfrac{4}{\\sqrt{x}+2}$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với $P=\\dfrac{4}{\\sqrt{x}+2}$, tìm các giá trị của $x$ để $P\\ge1$.</p>",
+      "goiY": ["$\\sqrt{x}+2>0$ nên nhân hai vế với mẫu mà không đổi chiều."],
+      "loiGiai": [
+        "$P\\ge1 \\Leftrightarrow \\dfrac{4}{\\sqrt{x}+2}\\ge1$.",
+        "Vì $\\sqrt{x}+2>0$, nhân hai vế: $4\\ge\\sqrt{x}+2 \\Leftrightarrow \\sqrt{x}\\le2 \\Leftrightarrow x\\le4$.",
+        "Kết hợp $x\\ge0$ và $x\\ne4$: $0\\le x<4$."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho hai đường thẳng $(d_1):y=(2m-5)x+6$ và $(d_2):y=-3x+1$. Tìm $m$ để $(d_1)$ vuông góc với $(d_2)$.</p>",
+      "dapAn": ["8/3"],
+      "goiY": ["Hai đường thẳng vuông góc khi tích hai hệ số góc bằng $-1$."],
+      "loiGiai": [
+        "$(2m-5)\\cdot(-3)=-1$.",
+        "$\\Leftrightarrow 2m-5=\\dfrac13 \\Leftrightarrow 2m=\\dfrac{16}{3} \\Leftrightarrow m=\\dfrac83$."
+      ]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>An và Chi cùng làm một công việc thì $12$ ngày xong. Hai bạn làm chung $8$ ngày thì An đi làm việc khác, Chi làm tiếp $10$ ngày nữa thì xong. Hỏi nếu Chi làm một mình thì bao nhiêu ngày xong công việc?</p>",
+      "dapAn": ["30"],
+      "goiY": [
+        "Trong $8$ ngày, hai bạn làm được $\\dfrac{8}{12}=\\dfrac23$ công việc.",
+        "Phần còn lại $\\dfrac13$ do Chi làm trong $10$ ngày."
+      ],
+      "loiGiai": [
+        "Sau $8$ ngày, hai bạn làm được $\\dfrac{8}{12}=\\dfrac23$ công việc; còn $\\dfrac13$ công việc.",
+        "Chi làm $\\dfrac13$ công việc trong $10$ ngày nên năng suất của Chi là $\\dfrac1{30}$ công việc/ngày.",
+        "Vậy Chi làm một mình xong trong $30$ ngày."
+      ]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-2(m+1)x+4m=0$ ($m$ là tham số). Biết phương trình có hai nghiệm phân biệt $x_1,x_2$ thoả mãn $x_1^2+x_2^2-2x_1=4$. Tính tổng tất cả các giá trị của $m$ thoả mãn.</p>",
+      "dapAn": ["-1"],
+      "goiY": [
+        "Vi-ét: $x_1+x_2=2(m+1)$, $x_1x_2=4m$. Hãy biến đổi điều kiện để tìm $x_1$.",
+        "Từ điều kiện suy ra $2x_1=4m^2$, tức $x_1=2m^2$; thay vào phương trình."
+      ],
+      "loiGiai": [
+        "Điều kiện có hai nghiệm phân biệt: $\\Delta'=(m+1)^2-4m=(m-1)^2>0 \\Leftrightarrow m\\ne1$.",
+        "Theo Vi-ét: $x_1+x_2=2(m+1)$, $x_1x_2=4m$.",
+        "Điều kiện $x_1^2+x_2^2-2x_1=4 \\Leftrightarrow (x_1+x_2)^2-2x_1x_2-2x_1=4$.",
+        "Thay: $4(m+1)^2-8m-2x_1=4 \\Leftrightarrow 4m^2+4-2x_1=4 \\Leftrightarrow x_1=2m^2$.",
+        "Vì $x_1$ là nghiệm: $(2m^2)^2-2(m+1)(2m^2)+4m=0$.",
+        "$\\Leftrightarrow 4m^4-4m^3-4m^2+4m=0 \\Leftrightarrow 4m(m-1)^2(m+1)=0$.",
+        "Kết hợp $m\\ne1$: $m=0$ hoặc $m=-1$. Tổng các giá trị là $-1$."
+      ]
+    },
+    {
+      "id": "c9a",
+      "soCau": 9,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $B$, $BC=8$ cm, $AB=4$ cm. Tính $AC$ (cm).</p>",
+      "dapAn": ["4√5", "√80"],
+      "goiY": ["Dùng Pythagore: $AC^2=AB^2+BC^2$."],
+      "loiGiai": ["$AC^2=4^2+8^2=80$, suy ra $AC=\\sqrt{80}=4\\sqrt5$ cm."]
+    },
+    {
+      "id": "c9b",
+      "soCau": 9,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với tam giác ở câu a, gọi $E$ là trung điểm $AC$. Đường thẳng qua $C$ vuông góc với $AC$ cắt đường thẳng $BE$ tại $D$. Tính $BD$ (cm).</p>",
+      "dapAn": ["16√5/3"],
+      "goiY": [
+        "Chọn hệ trục $B(0;0)$, $A(4;0)$, $C(0;8)$.",
+        "Đường $BE$ có phương trình $y=2x$; đường qua $C$ vuông góc $AC$ có phương trình $y=8+\\dfrac{x}{2}$."
+      ],
+      "loiGiai": [
+        "Chọn $B(0;0)$, $A(4;0)$, $C(0;8)$. Khi đó $E(2;4)$.",
+        "Đường $BE$ đi qua $B,E$ nên $y=2x$.",
+        "Đường $AC$ có hệ số góc $\\dfrac{8-0}{0-4}=-2$; đường vuông góc với $AC$ có hệ số góc $\\dfrac12$, qua $C(0;8)$: $y=8+\\dfrac x2$.",
+        "Giao điểm $D$: $2x=8+\\dfrac x2 \\Leftrightarrow \\dfrac32x=8 \\Leftrightarrow x=\\dfrac{16}{3}$, $y=\\dfrac{32}{3}$.",
+        "$BD=\\sqrt{\\left(\\dfrac{16}{3}\\right)^2+\\left(\\dfrac{32}{3}\\right)^2}=\\dfrac{16\\sqrt5}{3}$ cm."
+      ]
+    },
+    {
+      "id": "c10a",
+      "soCau": 10,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$, từ điểm $M$ ngoài đường tròn kẻ hai tiếp tuyến $MA,MB$ ($A,B$ là tiếp điểm). Chứng minh tứ giác $OAMB$ nội tiếp.</p>",
+      "goiY": ["$\\angle OAM=90^\\circ$ và $\\angle OBM=90^\\circ$."],
+      "loiGiai": [
+        "Vì $MA,MB$ là tiếp tuyến nên $OA\\perp MA$, $OB\\perp MB$, tức $\\angle OAM=\\angle OBM=90^\\circ$.",
+        "Tứ giác $OAMB$ có $\\angle OAM+\\angle OBM=180^\\circ$ nên nội tiếp đường tròn."
+      ]
+    },
+    {
+      "id": "c10b",
+      "soCau": 10,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, kẻ đường kính $AC$, đường thẳng $MC$ cắt $(O)$ tại $D$ ($D\\ne C$). Chứng minh $MB^2=MC\\cdot MD$.</p>",
+      "goiY": ["$MB$ là tiếp tuyến, $MCD$ là cát tuyến; dùng phương tích của điểm $M$."],
+      "loiGiai": [
+        "Từ điểm $M$ ngoài đường tròn, $MB$ là tiếp tuyến và $MCD$ là cát tuyến.",
+        "Theo phương tích của điểm $M$: $MB^2=MC\\cdot MD$.",
+        "Có thể chứng minh lại: $\\triangle MBD\\sim\\triangle MCB$ (g.g) vì $\\angle MBD=\\angle MCB$ (góc tạo bởi tiếp tuyến và dây cung) và $\\angle BMC$ chung."
+      ]
+    },
+    {
+      "id": "c10c",
+      "soCau": 10,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, gọi $H$ là hình chiếu vuông góc của $B$ trên $AC$. Chứng minh đường thẳng $MC$ đi qua trung điểm của đoạn $BH$.</p>",
+      "goiY": [
+        "Gọi $P=MC\\cap BH$. Cần chứng minh $P$ là trung điểm $BH$.",
+        "Sử dụng bổ đề: trong cấu hình này $AE\\parallel BD$ với $E$ là giao điểm thứ hai của $CM$ và $(O)$; hoặc dùng hệ trục toạ độ."
+      ],
+      "loiGiai": [
+        "Chọn hệ trục toạ độ với $O(0;0)$, $A(1;0)$, $C(-1;0)$. Gọi $B(\\cos\\theta;\\sin\\theta)$ với $0<\\theta<180^\\circ$.",
+        "Khi đó $H(\\cos\\theta;0)$ là hình chiếu của $B$ trên $AC$; trung điểm $P$ của $BH$ là $P\\left(\\cos\\theta;\\dfrac{\\sin\\theta}{2}\\right)$.",
+        "Tiếp tuyến tại $A$ là $x=1$. Tiếp tuyến tại $B$ là $x\\cos\\theta+y\\sin\\theta=1$. Giao điểm $M$ của hai tiếp tuyến có $x=1$ và $y=\\dfrac{1-\\cos\\theta}{\\sin\\theta}=\\tan\\dfrac{\\theta}{2}$.",
+        "Hệ số góc của $CM$: $\\dfrac{\\tan(\\theta/2)-0}{1-(-1)}=\\dfrac{\\sin\\theta}{2(1+\\cos\\theta)}$.",
+        "Hệ số góc của $CP$: $\\dfrac{\\sin\\theta/2-0}{\\cos\\theta-(-1)}=\\dfrac{\\sin\\theta}{2(1+\\cos\\theta)}$.",
+        "Hai đường thẳng $CM$ và $CP$ có cùng hệ số góc và cùng đi qua $C$ nên trùng nhau. Vậy $MC$ đi qua trung điểm $P$ của $BH$."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "hoa-binh-2022",
+  "tinh": "Hòa Bình",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-mon-toan-nam-2022-2023-so-gddt-hoa-binh.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 23/6/2022, gồm 4 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn $A=\\sqrt{16}-\\sqrt4$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["$\\sqrt{16}=4$, $\\sqrt4=2$."],
+      "loiGiai": ["$4-2=2$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "1b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn $B=\\sqrt8+3\\sqrt2$.</p>",
+      "dapAn": ["5√2"],
+      "goiY": ["$\\sqrt8=2\\sqrt2$."],
+      "loiGiai": ["$2\\sqrt2+3\\sqrt2=5\\sqrt2$."]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "2a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải $2x-1=7$.</p>",
+      "dapAn": ["4"],
+      "goiY": ["$2x=8$."],
+      "loiGiai": ["$2x=8 \\Rightarrow x=4$."]
+    },
+    {
+      "id": "c1d",
+      "soCau": 1,
+      "y": "2b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải $\\sqrt{x+1}=4$.</p>",
+      "dapAn": ["15"],
+      "goiY": ["Bình phương hai vế."],
+      "loiGiai": ["$x+1=16 \\Rightarrow x=15$."]
+    },
+    {
+      "id": "c1e",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị hàm số $y=x+2$.</p>",
+      "goiY": ["Xác định hai điểm $(0;2)$ và $(-2;0)$."],
+      "loiGiai": ["Cho $x=0\\Rightarrow y=2$; cho $y=0\\Rightarrow x=-2$.", "Vẽ đường thẳng qua hai điểm."]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ $\\begin{cases}x+y=5\\\\2x-y=1\\end{cases}$ và nhập $x$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Cộng hai phương trình."],
+      "loiGiai": ["$3x=6\\Rightarrow x=2$, $y=3$."]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Mảnh vườn hình chữ nhật có chiều dài hơn chiều rộng $4$ m, chu vi $40$ m. Cứ $3$ m² trồng 1 cây cam. Hỏi trồng được bao nhiêu cây?</p>",
+      "dapAn": ["32"],
+      "goiY": ["Nửa chu vi $20$ m; gọi chiều rộng $x$, chiều dài $x+4$."],
+      "loiGiai": [
+        "Nửa chu vi $20$ m. Gọi chiều rộng $x$, chiều dài $x+4$: $x+x+4=20 \\Rightarrow x=8$.",
+        "Chiều dài $12$ m, diện tích $96$ m². Số cây: $96:3=32$."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "3a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, $AB=5$ cm, $BC=13$ cm. Tính $AC$ (cm).</p>",
+      "dapAn": ["12"],
+      "goiY": ["Pythagore."],
+      "loiGiai": ["$AC=\\sqrt{13^2-5^2}=\\sqrt{144}=12$ cm."]
+    },
+    {
+      "id": "c2d",
+      "soCau": 2,
+      "y": "3b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với tam giác ở câu 3a, tính đường cao $AH$ (cm).</p>",
+      "dapAn": ["60/13"],
+      "goiY": ["$AB\\cdot AC=AH\\cdot BC$."],
+      "loiGiai": ["$AH=\\dfrac{AB\\cdot AC}{BC}=\\dfrac{5\\cdot12}{13}=\\dfrac{60}{13}$ cm."]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $(O)$, $A$ ngoài đường tròn, kẻ tiếp tuyến $AM,AN$. Chứng minh $AMON$ nội tiếp.</p>",
+      "goiY": ["$\\angle AMO=\\angle ANO=90^\\circ$."],
+      "loiGiai": [
+        "Vì $AM,AN$ là tiếp tuyến nên $OM\\perp AM$, $ON\\perp AN$.",
+        "Tứ giác $AMON$ có $\\angle AMO+\\angle ANO=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, $K$ thuộc cung nhỏ $MN$, tiếp tuyến tại $K$ cắt $AM,AN$ tại $E,F$. Chứng minh $\\widehat{EOF}=\\dfrac12\\widehat{MON}$.</p>",
+      "goiY": ["$OE$ là phân giác $\\widehat{MOK}$, $OF$ là phân giác $\\widehat{KON}$."],
+      "loiGiai": [
+        "Từ $E$ kẻ hai tiếp tuyến $EM,EK$ nên $OE$ là phân giác của $\\widehat{MOK}$.",
+        "Tương tự $OF$ là phân giác của $\\widehat{KON}$.",
+        "Do đó $\\widehat{EOF}=\\dfrac12(\\widehat{MOK}+\\widehat{KON})=\\dfrac12\\widehat{MON}$."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, $OE,OF$ cắt $MN$ tại $P,Q$. Chứng minh $ME\\cdot OF=OE\\cdot MP$.</p>",
+      "goiY": ["Dùng tam giác đồng dạng tạo bởi các tia phân giác và dây $MN$."],
+      "loiGiai": [
+        "Từ tính chất hai tiếp tuyến cắt nhau, $EM=EK$ và $OE$ là phân giác góc $MOK$.",
+        "Dùng các cặp góc bằng nhau trong tam giác $MEP$ và $OEF$, chứng minh $\\triangle MEP\\sim\\triangle OEF$.",
+        "Suy ra $\\dfrac{ME}{OE}=\\dfrac{MP}{OF}$, tức $ME\\cdot OF=OE\\cdot MP$."
+      ]
+    },
+    {
+      "id": "c3d",
+      "soCau": 3,
+      "y": "4",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, chứng minh $OK,EQ,FP$ đồng quy.</p>",
+      "goiY": ["Dùng định lý Ceva trong tam giác tạo bởi các đường $OE,OF,MN$."],
+      "loiGiai": [
+        "Xét tam giác $EOF$ với $P\\in OF$, $Q\\in OE$ và $K$ trên cạnh $EF$ (do $E,K,F$ thẳng hàng).",
+        "Từ các tỉ số nhận được ở câu 3, áp dụng định lý Ceva cho tam giác $EOF$.",
+        "Suy ra $OK,EQ,FP$ đồng quy."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm giá trị nhỏ nhất của $P=\\dfrac{x^2+2022}{(x+1)^2}$.</p>",
+      "dapAn": ["2022/2023"],
+      "goiY": ["Đặt $t=x+1$, đưa về tam thức theo $\\dfrac1t$."],
+      "loiGiai": [
+        "Đặt $t=x+1\\ne0$, $x=t-1$. Khi đó $P=\\dfrac{t^2-2t+2023}{t^2}=1-\\dfrac2t+\\dfrac{2023}{t^2}$.",
+        "Đặt $u=\\dfrac1t$: $P=2023u^2-2u+1=2023\\left(u-\\dfrac1{2023}\\right)^2+\\dfrac{2022}{2023}$.",
+        "Vậy $\\min P=\\dfrac{2022}{2023}$, đạt tại $x=2022$."
+      ]
+    }
+  ]
+}

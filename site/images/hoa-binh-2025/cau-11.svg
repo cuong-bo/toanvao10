@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" role="img" aria-labelledby="t d">
+  <title id="t">Bồn chứa nước hình trụ hai đầu hình cầu</title>
+  <desc id="d">Bồn gồm thân hình trụ dài 3,2 mét, đường kính 1,8 mét, hai đầu là nửa hình cầu.</desc>
+  <rect width="420" height="220" fill="#fff"/>
+  <g fill="none" stroke="#1a2b23" stroke-width="2.4">
+    <path d="M100 55 H320 A45 55 0 0 1 320 165 H100 A45 55 0 0 1 100 55 Z"/>
+    <ellipse cx="100" cy="110" rx="10" ry="55" stroke-dasharray="5 4" stroke-width="1.4"/>
+    <ellipse cx="320" cy="110" rx="10" ry="55" stroke-dasharray="5 4" stroke-width="1.4"/>
+    <line x1="100" y1="30" x2="320" y2="30" stroke-width="1.2"/>
+    <line x1="100" y1="24" x2="100" y2="36" stroke-width="1.2"/>
+    <line x1="320" y1="24" x2="320" y2="36" stroke-width="1.2"/>
+    <line x1="365" y1="55" x2="365" y2="165" stroke-width="1.2"/>
+    <line x1="359" y1="55" x2="371" y2="55" stroke-width="1.2"/>
+    <line x1="359" y1="165" x2="371" y2="165" stroke-width="1.2"/>
+  </g>
+  <g fill="#1a2b23" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    <text x="198" y="22">3,2 m</text>
+    <text x="374" y="115">1,8 m</text>
+  </g>
+</svg>

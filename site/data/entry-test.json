@@ -1,0 +1,117 @@
+{
+  "tieuDe": "Bài kiểm tra đầu vào",
+  "moTa": "10 câu, 15 phút. Không cần làm hết — mục đích là để biết em nên bắt đầu từ đâu.",
+  "thoiGian": 15,
+  "cauHoi": [
+    {
+      "id": "kt1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $\\sqrt{50}-\\sqrt{18}$.</p>",
+      "dapAn": ["2√2", "√8", "2sqrt2"],
+      "goiY": ["Đưa thừa số ra ngoài căn: $\\sqrt{50}=5\\sqrt2$, $\\sqrt{18}=3\\sqrt2$."],
+      "loiGiai": ["$\\sqrt{50}=5\\sqrt2$, $\\sqrt{18}=3\\sqrt2$.", "$5\\sqrt2-3\\sqrt2=2\\sqrt2$."]
+    },
+    {
+      "id": "kt2",
+      "soCau": 2,
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $A=\\dfrac{\\sqrt{x}+2}{\\sqrt{x}-1}$. Tính giá trị của $A$ khi $x=9$.</p>",
+      "dapAn": ["2,5", "5/2"],
+      "goiY": ["Thay $x=9$ thì $\\sqrt{x}=3$."],
+      "loiGiai": ["Với $x=9$: $\\sqrt{x}=3$.", "$A=\\dfrac{3+2}{3-1}=\\dfrac52=2,5$."]
+    },
+    {
+      "id": "kt3",
+      "soCau": 3,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $2x-5=0$.</p>",
+      "dapAn": ["2,5", "5/2"],
+      "goiY": ["Chuyển $-5$ sang vế phải rồi chia hai vế cho $2$."],
+      "loiGiai": ["$2x-5=0 \\Leftrightarrow 2x=5 \\Leftrightarrow x=\\dfrac52=2,5$."]
+    },
+    {
+      "id": "kt4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ $\\begin{cases}x+y=5\\\\x-y=1\\end{cases}$ và tính $xy$.</p>",
+      "dapAn": ["6"],
+      "goiY": ["Cộng hai phương trình để tìm $x$, rồi thay lại tìm $y$."],
+      "loiGiai": ["Cộng hai phương trình: $2x=6 \\Rightarrow x=3$.", "Thay vào $x+y=5$ được $y=2$.", "Vậy $xy=3\\cdot2=6$."]
+    },
+    {
+      "id": "kt5",
+      "soCau": 5,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho đường thẳng $y=2x-3$. Tính tung độ của điểm trên đường thẳng có hoành độ $x=2$.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Thay $x=2$ vào công thức $y=2x-3$."],
+      "loiGiai": ["Thay $x=2$: $y=2\\cdot2-3=1$."]
+    },
+    {
+      "id": "kt6",
+      "soCau": 6,
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-5x+6=0$ có hai nghiệm $x_1,x_2$. Tính $x_1^2+x_2^2$.</p>",
+      "dapAn": ["13"],
+      "goiY": ["Dùng $x_1+x_2=5$, $x_1x_2=6$.", "$x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2$."],
+      "loiGiai": ["Theo Vi-ét: $x_1+x_2=5$, $x_1x_2=6$.", "$x_1^2+x_2^2=5^2-2\\cdot6=13$."]
+    },
+    {
+      "id": "kt7",
+      "soCau": 7,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "loai": "dapanso",
+      "deBai": "<p>Hai số có tổng bằng $12$ và tích bằng $35$. Tìm số lớn hơn.</p>",
+      "dapAn": ["7"],
+      "goiY": ["Gọi hai số là $x$ và $12-x$, lập phương trình $x(12-x)=35$."],
+      "loiGiai": ["Gọi hai số là $x$ và $12-x$. Ta có $x(12-x)=35 \\Leftrightarrow x^2-12x+35=0$.", "Giải được $x=5$ hoặc $x=7$. Số lớn hơn là $7$."]
+    },
+    {
+      "id": "kt8",
+      "soCau": 8,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Tam giác vuông có hai cạnh góc vuông dài $6$ cm và $8$ cm. Tính độ dài cạnh huyền.</p>",
+      "dapAn": ["10"],
+      "goiY": ["Dùng định lý Pythagore."],
+      "loiGiai": ["Cạnh huyền $=\\sqrt{6^2+8^2}=\\sqrt{100}=10$ cm."]
+    },
+    {
+      "id": "kt9",
+      "soCau": 9,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "loai": "dapanso",
+      "deBai": "<p>Một dây cung của đường tròn bán kính $5$ cm cách tâm $3$ cm. Tính độ dài dây cung.</p>",
+      "dapAn": ["8"],
+      "goiY": ["Khoảng cách từ tâm đến dây vuông góc với dây và chia dây thành hai nửa bằng nhau.", "Nửa dây $=\\sqrt{5^2-3^2}$."],
+      "loiGiai": ["Gọi $H$ là trung điểm dây, $OH=3$ cm, $OB=5$ cm.", "$HB=\\sqrt{5^2-3^2}=4$ cm, nên dây dài $2\\cdot4=8$ cm."]
+    },
+    {
+      "id": "kt10",
+      "soCau": 10,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $a+b=4$. Tìm giá trị nhỏ nhất của $P=a^2+b^2$.</p>",
+      "dapAn": ["8"],
+      "goiY": ["Dùng $2(a^2+b^2)\\ge(a+b)^2$."],
+      "loiGiai": ["$2P\\ge(a+b)^2=16 \\Rightarrow P\\ge8$.", "Dấu bằng khi $a=b=2$. Vậy $\\min P=8$."]
+    }
+  ]
+}

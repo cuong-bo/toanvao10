@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" role="img" aria-labelledby="t d">
+  <title id="t">Tam giác ABC vuông tại A có đường cao AH</title>
+  <desc id="d">Tam giác vuông ABC, góc A vuông, H là chân đường cao hạ từ A xuống BC.</desc>
+  <rect width="520" height="300" fill="#fff"/>
+  <g fill="none" stroke="#1a2b23" stroke-width="2.2" stroke-linejoin="round">
+    <path d="M90 240 L90 70 L410 240 Z"/>
+    <path d="M90 100 L110 100 L110 120 L90 120 Z" fill="none" stroke-width="1.6"/>
+    <path d="M90 70 L236 240" stroke-dasharray="6 5" stroke-width="1.7"/>
+    <path d="M90 70 L236 240" stroke="none"/>
+  </g>
+  <g fill="#1a2b23" font-family="Segoe UI, Arial, sans-serif" font-size="17">
+    <text x="72" y="62" font-weight="700">A</text>
+    <text x="76" y="258" font-weight="700">B</text>
+    <text x="418" y="256" font-weight="700">C</text>
+    <text x="240" y="260" font-weight="700">H</text>
+  </g>
+  <g fill="none" stroke="#1a2b23" stroke-width="2.2">
+    <circle cx="236" cy="240" r="3" fill="#1a2b23"/>
+  </g>
+  <g fill="#4a5a52" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <text x="120" y="170" transform="rotate(57 120 170)">6 cm</text>
+    <text x="300" y="188" transform="rotate(-32 300 188)">8 cm</text>
+    <text x="146" y="162" transform="rotate(58 146 162)">h</text>
+  </g>
+</svg>

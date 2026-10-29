@@ -1,0 +1,252 @@
+{
+  "id": "dien-bien-2023",
+  "tinh": "Điện Biên",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT — năm học 2023–2024",
+  "thoiGian": 90,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Điện Biên — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2023-2024-so-gddt-dien-bien.html"
+  },
+  "ghiChu": "Đề chính thức kỳ thi tuyển sinh lớp 10 THPT, ngày 02/6/2023. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Tính giá trị của biểu thức $M=\\sqrt{81}+2\\sqrt{9}-\\sqrt{25}$.</p>",
+      "dapAn": ["10"],
+      "goiY": ["Tính từng căn: $\\sqrt{81}=9$, $\\sqrt9=3$, $\\sqrt{25}=5$."],
+      "loiGiai": [
+        "$M=9+2\\cdot3-5$.",
+        "$M=9+6-5=10$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2-7x+6=0$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": ["6"],
+      "goiY": ["Nhận xét $1-7+6=0$ nên phương trình có một nghiệm bằng $1$."],
+      "loiGiai": [
+        "Ta có $a+b+c=1-7+6=0$ nên phương trình có hai nghiệm $x_1=1$, $x_2=\\dfrac{c}{a}=6$.",
+        "Nghiệm lớn hơn là $x=6$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}5x-2y=8\\\\x+2y=4\\end{cases}$ và tính $x+y$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["Cộng hai phương trình để khử $y$."],
+      "loiGiai": [
+        "Cộng hai phương trình: $6x=12 \\Rightarrow x=2$.",
+        "Thay vào $x+2y=4$: $2+2y=4 \\Rightarrow y=1$.",
+        "Vậy $x+y=3$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $A=\\dfrac{\\sqrt{x}+2}{\\sqrt{x}-2}$ và $B=\\dfrac{3}{\\sqrt{x}-2}-\\dfrac{\\sqrt{x}+10}{x-4}$ với $x\\ge0,\\ x\\ne4$. Rút gọn biểu thức $B$.</p>",
+      "goiY": [
+        "Chú ý $x-4=(\\sqrt{x}-2)(\\sqrt{x}+2)$.",
+        "Quy đồng mẫu rồi thu gọn tử thức."
+      ],
+      "loiGiai": [
+        "Với $x\\ge0,\\ x\\ne4$: $B=\\dfrac{3}{\\sqrt{x}-2}-\\dfrac{\\sqrt{x}+10}{(\\sqrt{x}-2)(\\sqrt{x}+2)}$.",
+        "$B=\\dfrac{3(\\sqrt{x}+2)-(\\sqrt{x}+10)}{(\\sqrt{x}-2)(\\sqrt{x}+2)}$.",
+        "$B=\\dfrac{3\\sqrt{x}+6-\\sqrt{x}-10}{x-4}=\\dfrac{2\\sqrt{x}-4}{x-4}$.",
+        "$B=\\dfrac{2(\\sqrt{x}-2)}{(\\sqrt{x}-2)(\\sqrt{x}+2)}=\\dfrac{2}{\\sqrt{x}+2}$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với $A$ và $B$ ở câu a, đặt $P=A\\cdot B$. Có bao nhiêu giá trị nguyên của $x$ để $P\\le -1$?</p>",
+      "dapAn": ["4"],
+      "goiY": [
+        "Rút gọn $P=\\dfrac{2}{\\sqrt{x}-2}$.",
+        "Với $0\\le x<4$ thì mẫu âm; giải bất phương trình và đếm $x$ nguyên."
+      ],
+      "loiGiai": [
+        "$P=\\dfrac{\\sqrt{x}+2}{\\sqrt{x}-2}\\cdot\\dfrac{2}{\\sqrt{x}+2}=\\dfrac{2}{\\sqrt{x}-2}$.",
+        "$P\\le-1 \\Leftrightarrow \\dfrac{2}{\\sqrt{x}-2}\\le-1$. Vì $\\sqrt{x}-2<0$ khi $0\\le x<4$, nhân hai vế với mẫu âm đổi chiều: $2\\ge-(\\sqrt{x}-2) \\Leftrightarrow \\sqrt{x}\\ge0$ (luôn đúng).",
+        "Vậy $0\\le x<4$. Các giá trị nguyên là $x\\in\\{0;1;2;3\\}$, có $4$ giá trị."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một ô tô và một xe máy khởi hành cùng lúc đi từ $A$ đến $B$ dài $240$ km. Vận tốc ô tô lớn hơn vận tốc xe máy $20$ km/h nên ô tô đến $B$ sớm hơn xe máy $2$ giờ. Tính vận tốc của ô tô (km/h).</p>",
+      "dapAn": ["60"],
+      "goiY": [
+        "Gọi vận tốc xe máy là $x$ (km/h), vận tốc ô tô là $x+20$.",
+        "Lập phương trình về thời gian: $\\dfrac{240}{x}-\\dfrac{240}{x+20}=2$."
+      ],
+      "loiGiai": [
+        "Gọi vận tốc xe máy là $x$ (km/h, $x>0$); vận tốc ô tô là $x+20$ (km/h).",
+        "Thời gian xe máy: $\\dfrac{240}{x}$; thời gian ô tô: $\\dfrac{240}{x+20}$.",
+        "Theo đề: $\\dfrac{240}{x}-\\dfrac{240}{x+20}=2$.",
+        "$\\Rightarrow 240(x+20)-240x=2x(x+20) \\Rightarrow 4800=2x^2+40x$.",
+        "$\\Leftrightarrow x^2+20x-2400=0$. Giải được $x=40$ (nhận) hoặc $x=-60$ (loại).",
+        "Vận tốc ô tô là $40+20=60$ km/h."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "ham-so",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và đường thẳng $(d):y=-2x+m$. Tìm $m$ để $(d)$ cắt $(P)$ tại hai điểm phân biệt $A(x_1;y_1)$, $B(x_2;y_2)$ thoả mãn $y_1+y_2+3x_1x_2=1$.</p>",
+      "dapAn": ["3"],
+      "goiY": [
+        "Phương trình hoành độ giao điểm: $x^2+2x-m=0$.",
+        "Dùng Vi-ét: $x_1+x_2=-2$, $x_1x_2=-m$; thay $y_i=x_i^2$."
+      ],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $x^2=-2x+m \\Leftrightarrow x^2+2x-m=0$.",
+        "Hai giao điểm phân biệt $\\Leftrightarrow \\Delta'=1+m>0 \\Leftrightarrow m>-1$.",
+        "Theo Vi-ét: $x_1+x_2=-2$, $x_1x_2=-m$. Lại có $y_1+y_2=x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2=4+2m$.",
+        "Điều kiện: $4+2m+3(-m)=1 \\Leftrightarrow 4-m=1 \\Leftrightarrow m=3$ (thoả $m>-1$).",
+        "Vậy $m=3$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O;R)$, đường kính $AB$. Kẻ $Ax$ là tiếp tuyến tại $A$. Trên tia $Ax$ lấy $C$ ($C\\ne A$), $CB$ cắt đường tròn tại $D$. Gọi $I=OC\\cap AD$. Kẻ $AH\\perp OC$ tại $H$, $AH$ cắt $BC$ tại $M$. Chứng minh tứ giác $DMHI$ nội tiếp.</p>",
+      "goiY": [
+        "Vì $AB$ là đường kính nên $\\angle ADB=90^\\circ$, suy ra $AD\\perp BC$.",
+        "Chứng minh $\\angle MDI=90^\\circ$ và $\\angle MHI=90^\\circ$."
+      ],
+      "loiGiai": [
+        "Ta có $\\angle ADB=90^\\circ$ (góc nội tiếp chắn nửa đường tròn) nên $AD\\perp DB$, tức $AD\\perp BC$.",
+        "Do $D,M\\in BC$ và $I\\in AD$ nên $\\angle MDI=90^\\circ$.",
+        "Vì $I,H\\in OC$ và $AH\\perp OC$ nên $\\angle MHI=90^\\circ$ (vì $M\\in AH$).",
+        "Tứ giác $DMHI$ có $\\angle MDI=\\angle MHI=90^\\circ$ nên nội tiếp đường tròn đường kính $MI$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $OH\\cdot OC=R^2$ và $\\triangle OHB$ đồng dạng với $\\triangle OBC$.</p>",
+      "goiY": [
+        "$AC$ là tiếp tuyến tại $A$ nên $OA\\perp AC$. Tam giác $OAC$ vuông tại $A$, đường cao $AH$.",
+        "Dùng hệ thức lượng $OA^2=OH\\cdot OC$."
+      ],
+      "loiGiai": [
+        "Vì $AC$ là tiếp tuyến tại $A$ nên $OA\\perp AC$, hay tam giác $OAC$ vuông tại $A$.",
+        "Trong tam giác vuông $OAC$, $AH$ là đường cao ứng với cạnh huyền $OC$, nên $OA^2=OH\\cdot OC$.",
+        "Mà $OA=R$ nên $OH\\cdot OC=R^2$.",
+        "Ta có $OB=R$, suy ra $OH\\cdot OC=OB^2$, tức $\\dfrac{OH}{OB}=\\dfrac{OB}{OC}$.",
+        "Hai tam giác $OHB$ và $OBC$ có $\\angle HOB=\\angle BOC$ (chung góc tại $O$) và $\\dfrac{OH}{OB}=\\dfrac{OB}{OC}$, nên đồng dạng (c.g.c)."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $\\dfrac{MD}{MB}=\\dfrac{HD}{HB}$.</p>",
+      "goiY": [
+        "Từ tứ giác $DMHI$ nội tiếp và $\\triangle OHB\\sim\\triangle OBC$, hãy chứng minh $HM$ là tia phân giác của $\\angle DHB$.",
+        "Sau đó dùng tính chất đường phân giác trong tam giác $DHB$."
+      ],
+      "loiGiai": [
+        "Từ tứ giác $DMHI$ nội tiếp và $\\triangle OHB\\sim\\triangle OBC$, góc chung tại $O$ và các góc vuông đã có, ta chứng minh được $\\angle DHM=\\angle MHB$.",
+        "Thật vậy, $\\angle DHM=\\angle DIM$ (cùng chắn cung $DM$ của đường tròn ngoại tiếp $DMHI$); kết hợp $\\triangle OHB\\sim\\triangle OBC$ và $O,H,C$ thẳng hàng suy ra $\\angle DIM=\\angle MHB$.",
+        "Do đó $HM$ là tia phân giác của $\\angle DHB$.",
+        "Trong tam giác $DHB$, $M$ nằm trên cạnh $DB$ và $HM$ là phân giác, nên theo tính chất đường phân giác: $\\dfrac{MD}{MB}=\\dfrac{HD}{HB}$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "1",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Chứng minh rằng với mọi số tự nhiên $a$, biểu thức $A=\\dfrac{a^5}{120}+\\dfrac{a^4}{12}+\\dfrac{7a^3}{24}+\\dfrac{5a^2}{12}+\\dfrac{a}{5}$ là một số tự nhiên.</p>",
+      "goiY": [
+        "Quy đồng mẫu $120$.",
+        "Nhận ra tử thức là $a(a+1)(a+2)(a+3)(a+4)$."
+      ],
+      "loiGiai": [
+        "$A=\\dfrac{a^5+10a^4+35a^3+50a^2+24a}{120}=\\dfrac{a(a+1)(a+2)(a+3)(a+4)}{120}$.",
+        "Trong $5$ số tự nhiên liên tiếp: có ít nhất một số chia hết cho $3$; có ít nhất một số chia hết cho $4$ và một số chẵn khác nên tích chia hết cho $8$; có một số chia hết cho $5$.",
+        "Vì $3,8,5$ đôi một nguyên tố cùng nhau và $3\\cdot8\\cdot5=120$, tích $a(a+1)(a+2)(a+3)(a+4)$ chia hết cho $120$.",
+        "Vậy $A$ là số tự nhiên với mọi $a\\in\\mathbb{N}$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "2",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $a,b,c>0$ và $a+b+c=3$. Chứng minh $\\dfrac{a}{b^2+ab}+\\dfrac{b}{c^2+bc}+\\dfrac{c}{a^2+ca}\\ge\\dfrac32$.</p>",
+      "goiY": [
+        "Viết $b^2+ab=b(a+b)$.",
+        "Dùng bất đẳng thức AM–GM cho ba số hạng và đánh giá $(a+b)(b+c)(c+a)$."
+      ],
+      "loiGiai": [
+        "Ta có $\\dfrac{a}{b^2+ab}=\\dfrac{a}{b(a+b)}$, tương tự cho hai số hạng còn lại.",
+        "Theo AM–GM: $\\displaystyle\\sum\\dfrac{a}{b(a+b)}\\ge 3\\sqrt[3]{\\dfrac{abc}{abc(a+b)(b+c)(c+a)}}=\\dfrac{3}{\\sqrt[3]{(a+b)(b+c)(c+a)}}$.",
+        "Lại có $(a+b)(b+c)(c+a)\\le\\left(\\dfrac{2(a+b+c)}{3}\\right)^3=\\left(\\dfrac{2\\cdot3}{3}\\right)^3=8$.",
+        "Do đó $\\sqrt[3]{(a+b)(b+c)(c+a)}\\le2$, suy ra tổng đã cho $\\ge\\dfrac32$.",
+        "Dấu bằng xảy ra khi $a=b=c=1$."
+      ]
+    }
+  ]
+}

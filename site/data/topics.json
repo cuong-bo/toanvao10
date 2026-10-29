@@ -1,0 +1,68 @@
+{
+  "capNhat": "2026-10-29",
+  "chuyenDe": [
+    {
+      "ma": "rut-gon",
+      "ten": "Rút gọn biểu thức",
+      "tenNgan": "Rút gọn",
+      "moTa": "Căn thức, phân thức, hằng đẳng thức và các bài toán tìm x để biểu thức nhận giá trị cho trước. Đây là phần ăn điểm chắc chắn nhất trong đề.",
+      "icon": "√",
+      "mau": "#1c7a4e",
+      "thuTu": 1
+    },
+    {
+      "ma": "phuong-trinh",
+      "ten": "Phương trình và hệ phương trình",
+      "tenNgan": "Phương trình",
+      "moTa": "Phương trình bậc nhất, hệ hai phương trình bậc nhất hai ẩn, phương trình bậc hai và phương trình quy về bậc hai.",
+      "icon": "=",
+      "mau": "#2563a8",
+      "thuTu": 2
+    },
+    {
+      "ma": "ham-so",
+      "ten": "Hàm số y = ax² và y = ax + b",
+      "tenNgan": "Hàm số",
+      "moTa": "Vẽ parabol và đường thẳng, tìm tọa độ giao điểm, xét vị trí tương đối và các bài toán chứa tham số.",
+      "icon": "∿",
+      "mau": "#9a6b12",
+      "thuTu": 3
+    },
+    {
+      "ma": "viet",
+      "ten": "Định lí Vi-ét",
+      "tenNgan": "Vi-ét",
+      "moTa": "Hệ thức Vi-ét (định lí Vi-ét): tính tổng, tích hai nghiệm; tính giá trị biểu thức đối xứng; tìm tham số để phương trình có nghiệm thỏa mãn điều kiện.",
+      "icon": "𝑥",
+      "mau": "#7c3f8f",
+      "thuTu": 4
+    },
+    {
+      "ma": "giai-toan",
+      "ten": "Giải bài toán bằng cách lập phương trình",
+      "tenNgan": "Toán thực tế",
+      "moTa": "Chuyển động, năng suất, hình học, mua bán, tuổi… — dạng bài xuất hiện gần như chắc chắn trong đề thi.",
+      "icon": "⚖",
+      "mau": "#b9670e",
+      "thuTu": 5
+    },
+    {
+      "ma": "hinh-hoc",
+      "ten": "Hình học",
+      "tenNgan": "Hình học",
+      "moTa": "Tam giác đồng dạng, đường tròn, tứ giác nội tiếp, tiếp tuyến và các bài toán tính độ dài, diện tích, chứng minh.",
+      "icon": "△",
+      "mau": "#a5322b",
+      "thuTu": 6
+    },
+    {
+      "ma": "bdt",
+      "ten": "Bất đẳng thức và cực trị",
+      "tenNgan": "BĐT – cực trị",
+      "moTa": "Bất đẳng thức Cauchy, Bunhiacopxki, biến đổi bình phương, tìm giá trị lớn nhất – nhỏ nhất. Câu khó để lấy điểm 9–10.",
+      "icon": "≥",
+      "mau": "#0f5132",
+      "thuTu": 7
+    }
+  ]
+}

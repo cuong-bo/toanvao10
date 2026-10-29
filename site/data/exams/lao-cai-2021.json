@@ -1,0 +1,290 @@
+{
+  "id": "lao-cai-2021",
+  "tinh": "Lào Cai",
+  "nam": 2021,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+    "url": "https://thcs.toanmath.com/2021/06/de-tuyen-sinh-lop-10-mon-toan-nam-2021-2022-so-gddt-lao-cai.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 02/6/2021, gồm 7 câu. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $A=\\sqrt{49}-3$.</p>",
+      "dapAn": [
+        "4"
+      ],
+      "goiY": [
+        "$\\sqrt{49}=7$."
+      ],
+      "loiGiai": [
+        "$7-3=4$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $B=\\sqrt{(10-\\sqrt5)^2}+\\sqrt5$.</p>",
+      "dapAn": [
+        "10"
+      ],
+      "goiY": [
+        "$10-\\sqrt5>0$ nên $\\sqrt{(10-\\sqrt5)^2}=10-\\sqrt5$."
+      ],
+      "loiGiai": [
+        "$B=10-\\sqrt5+\\sqrt5=10$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn $P=\\left(\\dfrac{\\sqrt x}{\\sqrt x+2}+\\dfrac2{\\sqrt x-2}\\right):\\dfrac{x+4}{\\sqrt x+2}$ với $x\\ge0,\\ x\\ne4$.</p>",
+      "goiY": [
+        "Quy đồng mẫu $x-4$; tử trong ngoặc là $x+4$."
+      ],
+      "loiGiai": [
+        "Trong ngoặc: $\\dfrac{\\sqrt x(\\sqrt x-2)+2(\\sqrt x+2)}{x-4}=\\dfrac{x+4}{x-4}$.",
+        "$P=\\dfrac{x+4}{x-4}\\cdot\\dfrac{\\sqrt x+2}{x+4}=\\dfrac{\\sqrt x+2}{(\\sqrt x-2)(\\sqrt x+2)}=\\dfrac1{\\sqrt x-2}$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với $P=\\dfrac1{\\sqrt x-2}$, tìm $x$ để $P=\\dfrac16$.</p>",
+      "dapAn": [
+        "64"
+      ],
+      "goiY": [
+        "$\\dfrac1{\\sqrt x-2}=\\dfrac16$."
+      ],
+      "loiGiai": [
+        "$\\sqrt x-2=6 \\Rightarrow \\sqrt x=8 \\Rightarrow x=64$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $y=2x+b$. Tìm $b$ biết đồ thị cắt trục hoành tại điểm có hoành độ bằng $3$.</p>",
+      "dapAn": [
+        "-6"
+      ],
+      "goiY": [
+        "Thay $x=3,y=0$."
+      ],
+      "loiGiai": [
+        "$0=2\\cdot3+b \\Rightarrow b=-6$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $(P):y=x^2$ và $d:y=(m-1)x+m+4$. Tìm điều kiện của $m$ để $d$ cắt $(P)$ tại hai điểm nằm về hai phía của trục tung. Nhập giá trị nguyên nhỏ nhất của $m$.</p>",
+      "dapAn": [
+        "-3"
+      ],
+      "goiY": [
+        "Phương trình hoành độ có hai nghiệm trái dấu $\\Leftrightarrow$ tích $<0$."
+      ],
+      "loiGiai": [
+        "Phương trình hoành độ: $x^2-(m-1)x-(m+4)=0$.",
+        "Hai giao điểm nằm hai phía trục tung khi hai nghiệm trái dấu: $x_1x_2=-(m+4)<0 \\Leftrightarrow m>-4$.",
+        "Giá trị nguyên nhỏ nhất là $m=-3$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x-y=1\\\\x+y=2\\end{cases}$ và nhập $x+y$.</p>",
+      "dapAn": [
+        "2"
+      ],
+      "goiY": [
+        "Cộng hai phương trình."
+      ],
+      "loiGiai": [
+        "Cộng: $3x=3\\Rightarrow x=1$, suy ra $y=1$. Vậy $x+y=2$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Hai bạn An và Bình cùng may khẩu trang thì 2 ngày xong việc. Nếu An làm một mình 4 ngày rồi nghỉ, Bình làm tiếp 1 ngày nữa thì xong. Hỏi Bình làm một mình thì bao nhiêu ngày xong việc?</p>",
+      "dapAn": [
+        "3"
+      ],
+      "goiY": [
+        "Gọi năng suất An là $a$, Bình là $b$: $a+b=\\dfrac12$, $4a+b=1$."
+      ],
+      "loiGiai": [
+        "Gọi năng suất An, Bình lần lượt là $a,b$ (công việc/ngày). Ta có $a+b=\\dfrac12$.",
+        "An làm 4 ngày, Bình làm 1 ngày thì xong: $4a+b=1$.",
+        "Trừ hai phương trình: $3a=\\dfrac12 \\Rightarrow a=\\dfrac16$, suy ra $b=\\dfrac13$.",
+        "Vậy Bình làm một mình xong trong $3$ ngày."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+5x-6=0$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": [
+        "1"
+      ],
+      "goiY": [
+        "$1+5-6=0$."
+      ],
+      "loiGiai": [
+        "$a+b+c=0$ nên $x_1=1$, $x_2=-6$. Nghiệm lớn hơn là $1$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $x^2-mx+m-2=0$. Tìm tất cả $m$ để phương trình có hai nghiệm $x_1,x_2$ thoả mãn $x_1-x_2=2\\sqrt5$. Nhập tổng các giá trị $m$.</p>",
+      "dapAn": [
+        "4"
+      ],
+      "goiY": [
+        "$(x_1-x_2)^2=(x_1+x_2)^2-4x_1x_2$."
+      ],
+      "loiGiai": [
+        "$\\Delta=m^2-4(m-2)=(m-2)^2+4>0$ với mọi $m$.",
+        "Vi-ét: $x_1+x_2=m$, $x_1x_2=m-2$.",
+        "$(x_1-x_2)^2=m^2-4(m-2)=20 \\Rightarrow m^2-4m-12=0$.",
+        "Giải được $m=6$ hoặc $m=-2$; tổng là $4$."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, các cạnh thoả mãn $BC^2=(\\sqrt3+1)AC^2+(\\sqrt3-1)AB\\cdot AC$. Tính số đo góc $ABC$ (độ).</p>",
+      "dapAn": [
+        "30"
+      ],
+      "goiY": [
+        "Đặt $AB=c$, $AC=b$; dùng $BC^2=b^2+c^2$ và đặt $t=\\dfrac cb$."
+      ],
+      "loiGiai": [
+        "Đặt $AB=c$, $AC=b$. Vì tam giác vuông tại $A$: $BC^2=b^2+c^2$.",
+        "Phương trình trở thành $b^2+c^2=(\\sqrt3+1)b^2+(\\sqrt3-1)bc$.",
+        "$\\Leftrightarrow c^2-(\\sqrt3-1)bc-\\sqrt3b^2=0$. Đặt $t=\\dfrac cb>0$: $t^2-(\\sqrt3-1)t-\\sqrt3=0$.",
+        "Giải được $t=\\sqrt3$. Vậy $\\tan B=\\dfrac{AC}{AB}=\\dfrac1{\\sqrt3}\\Rightarrow\\widehat B=30^\\circ$."
+      ]
+    },
+    {
+      "id": "c7a",
+      "soCau": 7,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$, từ $A$ ngoài đường tròn kẻ đường thẳng $AO$ cắt $(O)$ tại $B,C$ ($AB<AC$). Qua $A$ kẻ cát tuyến $ADE$ ($AD<AE$). Đường thẳng vuông góc với $AB$ tại $A$ cắt $CE$ tại $F$. Chứng minh tứ giác $ABEF$ nội tiếp.</p>",
+      "goiY": [
+        "$BC$ là đường kính nên $\\angle BEC=90^\\circ$; $AF\\perp AB$."
+      ],
+      "loiGiai": [
+        "Vì $B,C$ là hai đầu đường kính nên $\\angle BEC=90^\\circ$, suy ra $BE\\perp CE$.",
+        "$E,C,F$ thẳng hàng nên $BE\\perp EF$, tức $\\angle BEF=90^\\circ$.",
+        "Lại có $AF\\perp AB$ nên $\\angle BAF=90^\\circ$.",
+        "Tứ giác $ABEF$ có $\\angle BAF+\\angle BEF=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c7b",
+      "soCau": 7,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, gọi $M$ là giao điểm thứ hai của $FB$ với $(O)$. Chứng minh $DM\\perp AC$.</p>",
+      "goiY": [
+        "Dùng góc nội tiếp và tứ giác $ABEF$ nội tiếp."
+      ],
+      "loiGiai": [
+        "Trong $(O)$: $\\angle DMB=\\angle DEB$ (cùng chắn cung $DB$).",
+        "Vì $D,E,A$ thẳng hàng nên $\\angle DEB=\\angle AEB$; tứ giác $ABEF$ nội tiếp nên $\\angle AEB=\\angle AFB$.",
+        "Do $AF\\perp AB$ nên $\\angle AFB=90^\\circ-\\angle ABM$.",
+        "Suy ra $\\angle DMB=90^\\circ-\\angle ABM$, tức $\\angle DMB+\\angle MBA=90^\\circ$.",
+        "Vậy $DM\\perp AB$, mà $A,B,C$ thẳng hàng nên $DM\\perp AC$."
+      ]
+    },
+    {
+      "id": "c7c",
+      "soCau": 7,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $CE\\cdot CF+AD\\cdot AE=AC^2$.</p>",
+      "goiY": [
+        "Dùng phương tích của $C$ với đường tròn $ABEF$ và của $A$ với $(O)$."
+      ],
+      "loiGiai": [
+        "Tứ giác $ABEF$ nội tiếp. Từ $C$ trên đường thẳng $AB$, cát tuyến $CEF$ và $CBA$ cho $CE\\cdot CF=CB\\cdot CA$.",
+        "Từ $A$ với đường tròn $(O)$, cát tuyến $ADE$ và $ABC$ cho $AD\\cdot AE=AB\\cdot AC$.",
+        "Cộng lại: $CE\\cdot CF+AD\\cdot AE=AC(CB+AB)=AC\\cdot AC=AC^2$."
+      ]
+    }
+  ]
+}

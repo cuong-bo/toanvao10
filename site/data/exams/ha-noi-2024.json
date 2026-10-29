@@ -1,0 +1,211 @@
+{
+  "id": "ha-noi-2024",
+  "tinh": "Hà Nội",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Khá – nâng cao",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hà Nội — đề chính thức",
+    "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2024-2025-so-gddt-ha-noi.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 09/6/2024, gồm 5 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $A=\\dfrac{x}{\\sqrt x-3}$. Tính $A$ khi $x=16$.</p>",
+      "dapAn": ["16"],
+      "goiY": ["$\\sqrt{16}=4$."],
+      "loiGiai": ["$A=\\dfrac{16}{4-3}=16$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $B=\\dfrac{2x-3}{x-3\\sqrt x}-\\dfrac1{\\sqrt x}$ với $x>0,x\\ne9$. Chứng minh $B=\\dfrac{2\\sqrt x-1}{\\sqrt x-3}$.</p>",
+      "goiY": ["$x-3\\sqrt x=\\sqrt x(\\sqrt x-3)$; quy đồng."],
+      "loiGiai": [
+        "$B=\\dfrac{2x-3}{\\sqrt x(\\sqrt x-3)}-\\dfrac1{\\sqrt x}=\\dfrac{2x-3-(\\sqrt x-3)}{\\sqrt x(\\sqrt x-3)}$.",
+        "$=\\dfrac{2x-\\sqrt x}{\\sqrt x(\\sqrt x-3)}=\\dfrac{\\sqrt x(2\\sqrt x-1)}{\\sqrt x(\\sqrt x-3)}=\\dfrac{2\\sqrt x-1}{\\sqrt x-3}$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với $A,B$ ở trên, tìm tất cả $x$ để $A-B<0$.</p>",
+      "goiY": ["$A-B=\\dfrac{(\\sqrt x-1)^2}{\\sqrt x-3}$; xét dấu mẫu."],
+      "loiGiai": [
+        "$A-B=\\dfrac{x-(2\\sqrt x-1)}{\\sqrt x-3}=\\dfrac{(\\sqrt x-1)^2}{\\sqrt x-3}$.",
+        "Tử không âm, bằng $0$ tại $x=1$. Với $x\\ne1$, $A-B<0 \\Leftrightarrow \\sqrt x-3<0 \\Leftrightarrow x<9$.",
+        "Kết hợp $x>0,x\\ne9$: $0<x<9,\\ x\\ne1$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1.25,
+      "loai": "dapanso",
+      "deBai": "<p>Để chở $15$ tấn thiết bị, đội dự định dùng các xe tải loại nhỏ. Khi thực hiện chỉ dùng xe tải loại lớn, số xe giảm $2$ xe và mỗi xe lớn chở nhiều hơn mỗi xe nhỏ $2$ tấn. Hỏi đội đã dùng bao nhiêu xe tải loại lớn?</p>",
+      "dapAn": ["3"],
+      "goiY": ["Gọi số xe lớn là $x$, số xe nhỏ là $x+2$."],
+      "loiGiai": [
+        "Gọi số xe lớn là $x$ (xe, $x>0$), số xe nhỏ là $x+2$.",
+        "Mỗi xe lớn chở $\\dfrac{15}{x}$ tấn; mỗi xe nhỏ chở $\\dfrac{15}{x+2}$ tấn.",
+        "$\\dfrac{15}{x}-\\dfrac{15}{x+2}=2 \\Rightarrow 30=2x(x+2) \\Rightarrow x^2+2x-15=0$.",
+        "Giải được $x=3$ (nhận) hoặc $x=-5$ (loại). Vậy dùng $3$ xe lớn."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Một bình nước hình trụ có bán kính đáy $4$ cm, chiều cao $25$ cm. Tính diện tích xung quanh (cm²), lấy $\\pi\\approx3,14$.</p>",
+      "dapAn": ["628"],
+      "goiY": ["$S_{xq}=2\\pi rh$."],
+      "loiGiai": ["$S=2\\cdot3,14\\cdot4\\cdot25=628$ cm²."]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ $\\begin{cases}\\sqrt{3x+1}+2y=4\\\\3\\sqrt{3x+1}-y=5\\end{cases}$ và nhập $x+y$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Đặt $u=\\sqrt{3x+1}\\ge0$."],
+      "loiGiai": [
+        "Đặt $u=\\sqrt{3x+1}$. Hệ: $u+2y=4$, $3u-y=5$.",
+        "Từ $y=3u-5$ thay vào: $u+6u-10=4 \\Rightarrow u=2$, $y=1$.",
+        "$3x+1=4 \\Rightarrow x=1$. Vậy $x+y=2$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2a",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $(P):y=x^2$ và $(d):y=(m-2)x+5$. Chứng minh $(d)$ luôn cắt $(P)$ tại hai điểm phân biệt.</p>",
+      "goiY": ["Xét $x^2-(m-2)x-5=0$; tính $\\Delta$."],
+      "loiGiai": [
+        "Phương trình hoành độ: $x^2-(m-2)x-5=0$.",
+        "$\\Delta=(m-2)^2+20>0$ với mọi $m$, nên luôn có hai nghiệm phân biệt.",
+        "Vậy $(d)$ luôn cắt $(P)$ tại hai điểm phân biệt."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "2b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Với $x_1,x_2$ là hoành độ hai giao điểm ở câu 2a, tìm tất cả $m$ để $x_1+5x_2=0$. Nhập tổng các giá trị $m$.</p>",
+      "dapAn": ["4"],
+      "goiY": ["$x_1+x_2=m-2$, $x_1x_2=-5$."],
+      "loiGiai": [
+        "Vi-ét: $x_1+x_2=m-2$, $x_1x_2=-5$.",
+        "Từ $x_1=-5x_2$ suy ra $-4x_2=m-2$ và $-5x_2^2=-5$, nên $x_2=\\pm1$.",
+        "Nếu $x_2=1$ thì $m=-2$; nếu $x_2=-1$ thì $m=6$. Tổng các giá trị là $4$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Từ $A$ ngoài $(O)$ kẻ hai tiếp tuyến $AB,AC$. Chứng minh $ABOC$ nội tiếp.</p>",
+      "goiY": ["$\\angle OBA=\\angle OCA=90^\\circ$."],
+      "loiGiai": [
+        "Vì $AB,AC$ là tiếp tuyến nên $OB\\perp AB$, $OC\\perp AC$.",
+        "Tứ giác $ABOC$ có $\\angle OBA+\\angle OCA=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, vẽ đường kính $BD$, $E$ là giao điểm thứ hai của $AD$ với $(O)$, $BC\\cap AO=H$. Chứng minh $AB^2=AE\\cdot AD=AH\\cdot AO$ và $\\angle HDO=\\angle HBE$.</p>",
+      "goiY": [
+        "Dùng phương tích của $A$ với $(O)$ và hệ thức lượng trong tam giác vuông $ABO$.",
+        "Từ $AE\\cdot AD=AH\\cdot AO$ suy ra $H,D,O,E$ nội tiếp."
+      ],
+      "loiGiai": [
+        "$AB$ là tiếp tuyến, $ADE$ là cát tuyến nên $AB^2=AE\\cdot AD$.",
+        "Trong tam giác vuông $ABO$, $BH\\perp AO$ nên $AB^2=AH\\cdot AO$.",
+        "Suy ra $AE\\cdot AD=AH\\cdot AO$, do đó $H,D,O,E$ cùng thuộc một đường tròn.",
+        "Dùng góc nội tiếp trong các đường tròn $(O)$ và $(HDOE)$, kết hợp $BD$ là đường kính, suy ra $\\angle HDO=\\angle HBE$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1.25,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, lấy $M$ thuộc tia đối của tia $CB$. Gọi $N$ là chân đường vuông góc kẻ từ $M$ đến $AB$. Chứng minh $BE$ đi qua trung điểm của $MN$.</p>",
+      "goiY": ["Gọi $P$ là trung điểm $MN$; dùng đường trung bình và các tứ giác nội tiếp để chứng minh $B,E,P$ thẳng hàng."],
+      "loiGiai": [
+        "Gọi $P$ là trung điểm $MN$. Cần chứng minh $B,E,P$ thẳng hàng.",
+        "Kẻ các đường phụ và dùng tính chất đường trung bình trong tam giác $BMN$, kết hợp $ABOC$ và $HDOE$ nội tiếp.",
+        "Từ các cặp góc bằng nhau suy ra $\\angle PBM=\\angle EBM$, do đó $B,E,P$ thẳng hàng.",
+        "Vậy $BE$ đi qua trung điểm $P$ của $MN$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $x,y>0$ thoả mãn $x+y+xy=3$. Tìm giá trị nhỏ nhất của $P=\\dfrac3{x+y}-xy$.</p>",
+      "dapAn": ["1/2"],
+      "goiY": ["Đặt $s=x+y$, $p=xy$; $s+p=3$ và $s^2\\ge4p$."],
+      "loiGiai": [
+        "Đặt $s=x+y>0$, $p=xy>0$. Ta có $s+p=3$ và $s^2\\ge4p=4(3-s)$.",
+        "$s^2+4s-12\\ge0 \\Rightarrow s\\ge2$ (vì $s>0$).",
+        "$P=\\dfrac3s-(3-s)=s+\\dfrac3s-3$.",
+        "Với $s\\ge2$, hàm số $s+\\dfrac3s$ đồng biến nên $P\\ge2+\\dfrac32-3=\\dfrac12$.",
+        "Dấu bằng khi $x=y=1$. Vậy $\\min P=\\dfrac12$."
+      ]
+    }
+  ]
+}

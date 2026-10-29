@@ -1,0 +1,329 @@
+{
+  "capNhat": "2026-10-29",
+  "de": [
+    {
+      "id": "lai-chau-2026",
+      "tinh": "Lai Châu",
+      "nam": 2026,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán (chung) — năm học 2026–2027",
+      "thoiGian": 120,
+      "soCau": 7,
+      "soY": 15,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 26/5/2026. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Lai Châu — đề chính thức",
+        "url": "https://thcs.toanmath.com/2026/05/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2026-2027-so-gddt-lai-chau.html"
+      },
+      "file": "data/exams/lai-chau-2026.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "mau-2025",
+      "tinh": "Đề mẫu",
+      "nam": 2025,
+      "tieuDe": "Đề minh hoạ kỹ năng — môn Toán",
+      "thoiGian": 90,
+      "soCau": 7,
+      "soY": 15,
+      "mucDo": "Trung bình",
+      "deMau": true,
+      "ghiChu": "Đề mẫu để thử web, không phải đề thi thật. Toàn bộ câu hỏi và lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Nhóm biên soạn Trạm tiếp sức Toán vào 10",
+        "url": ""
+      },
+      "file": "data/exams/mau-2025.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "hoa-binh-2025",
+      "tinh": "Hòa Bình",
+      "nam": 2025,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2025–2026",
+      "thoiGian": 120,
+      "soCau": 12,
+      "soY": 20,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 04/6/2025, gồm 8 câu trả lời ngắn (2 điểm) và 4 câu tự luận (8 điểm). Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+        "url": "https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-hoa-binh.html"
+      },
+      "file": "data/exams/hoa-binh-2025.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "son-la-2025",
+      "tinh": "Sơn La",
+      "nam": 2025,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2025–2026",
+      "thoiGian": 120,
+      "soCau": 18,
+      "soY": 25,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 01/6/2025, gồm 12 câu trắc nghiệm (3 điểm) và 6 câu tự luận (7 điểm). Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Sơn La — đề chính thức",
+        "url": "https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-son-la.html"
+      },
+      "file": "data/exams/son-la-2025.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "ha-noi-2024",
+      "tinh": "Hà Nội",
+      "nam": 2024,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 12,
+      "mucDo": "Khá – nâng cao",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 09/6/2024, gồm 5 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hà Nội — đề chính thức",
+        "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2024-2025-so-gddt-ha-noi.html"
+      },
+      "file": "data/exams/ha-noi-2024.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "hoa-binh-2024",
+      "tinh": "Hòa Bình",
+      "nam": 2024,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 15,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 07/6/2024, gồm 5 câu. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+        "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2024-2025-so-gddt-hoa-binh.html"
+      },
+      "file": "data/exams/hoa-binh-2024.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "lao-cai-2024",
+      "tinh": "Lào Cai",
+      "nam": 2024,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+      "thoiGian": 120,
+      "soCau": 10,
+      "soY": 15,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 04/6/2024, gồm 10 câu. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+        "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2024-2025-so-gddt-lao-cai.html"
+      },
+      "file": "data/exams/lao-cai-2024.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "dien-bien-2023",
+      "tinh": "Điện Biên",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT — năm học 2023–2024",
+      "thoiGian": 90,
+      "soCau": 5,
+      "soY": 12,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức kỳ thi tuyển sinh lớp 10 THPT, ngày 02/6/2023. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Điện Biên — đề chính thức",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2023-2024-so-gddt-dien-bien.html"
+      },
+      "file": "data/exams/dien-bien-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "lao-cai-2023",
+      "tinh": "Lào Cai",
+      "nam": 2023,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024",
+      "thoiGian": 120,
+      "soCau": 10,
+      "soY": 15,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 03/6/2023, gồm 10 câu. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+        "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-lao-cai.html"
+      },
+      "file": "data/exams/lao-cai-2023.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "dien-bien-2022",
+      "tinh": "Điện Biên",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán (chung) — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 12,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 06/6/2022, gồm 5 câu. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Điện Biên — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/07/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2022-2023-so-gddt-dien-bien.html"
+      },
+      "file": "data/exams/dien-bien-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "hoa-binh-2022",
+      "tinh": "Hòa Bình",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 4,
+      "soY": 14,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 23/6/2022, gồm 4 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-mon-toan-nam-2022-2023-so-gddt-hoa-binh.html"
+      },
+      "file": "data/exams/hoa-binh-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "lao-cai-2022",
+      "tinh": "Lào Cai",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 7,
+      "soY": 15,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 10/6/2022, gồm 7 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-lao-cai.html"
+      },
+      "file": "data/exams/lao-cai-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "son-la-2022",
+      "tinh": "Sơn La",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+      "thoiGian": 120,
+      "soCau": 15,
+      "soY": 20,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 06/6/2022, gồm 10 câu trắc nghiệm (2 điểm) và 5 câu tự luận (8 điểm). Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Sơn La — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/07/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-son-la.html"
+      },
+      "file": "data/exams/son-la-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "yen-bai-2022",
+      "tinh": "Yên Bái",
+      "nam": 2022,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023 (mã đề 008)",
+      "thoiGian": 90,
+      "soCau": 50,
+      "soY": 50,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề gốc 50 câu trắc nghiệm. Câu 39 bản in có đáp án không khớp (tính được m=6/5 nhưng không có trong A–D), nên được chuyển thành câu trả lời ngắn; 49 câu còn lại giữ nguyên, mỗi câu 0,2 điểm.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Yên Bái — đề chính thức",
+        "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-yen-bai.html"
+      },
+      "file": "data/exams/yen-bai-2022.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "hoa-binh-2021",
+      "tinh": "Hòa Bình",
+      "nam": 2021,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 15,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 05/7/2021, gồm 5 câu. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+        "url": "https://thcs.toanmath.com/2021/07/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2021-2022-so-gddt-hoa-binh.html"
+      },
+      "file": "data/exams/hoa-binh-2021.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "lao-cai-2021",
+      "tinh": "Lào Cai",
+      "nam": 2021,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+      "thoiGian": 120,
+      "soCau": 7,
+      "soY": 14,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 02/6/2021, gồm 7 câu. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+        "url": "https://thcs.toanmath.com/2021/06/de-tuyen-sinh-lop-10-mon-toan-nam-2021-2022-so-gddt-lao-cai.html"
+      },
+      "file": "data/exams/lao-cai-2021.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "son-la-2021",
+      "tinh": "Sơn La",
+      "nam": 2021,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+      "thoiGian": 120,
+      "soCau": 15,
+      "soY": 19,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức thi ngày 14/6/2021, gồm 10 câu trắc nghiệm (2 điểm) và 5 câu tự luận (8 điểm). Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Sơn La — đề chính thức",
+        "url": "https://thcs.toanmath.com/2021/07/de-thi-tuyen-sinh-lop-10-mon-toan-nam-2021-2022-so-gddt-son-la.html"
+      },
+      "file": "data/exams/son-la-2021.json",
+      "capNhat": "2026-10-29"
+    },
+    {
+      "id": "hoa-binh-2020",
+      "tinh": "Hòa Bình",
+      "nam": 2020,
+      "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2020–2021",
+      "thoiGian": 120,
+      "soCau": 5,
+      "soY": 14,
+      "mucDo": "Trung bình",
+      "deMau": false,
+      "ghiChu": "Đề chính thức năm học 2020–2021, gồm 5 câu. Lời giải do nhóm biên soạn.",
+      "nguon": {
+        "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+        "url": "https://thcs.toanmath.com/2020/08/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2020-2021-so-gddt-hoa-binh.html"
+      },
+      "file": "data/exams/hoa-binh-2020.json",
+      "capNhat": "2026-10-29"
+    }
+  ]
+}

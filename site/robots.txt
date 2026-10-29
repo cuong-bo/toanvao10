@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Web tĩnh dùng hash routing; mọi nội dung nằm trong trang chủ.

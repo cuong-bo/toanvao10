@@ -1,0 +1,126 @@
+{
+  "capNhat": "2026-10-29",
+  "gioiThieu": "Lộ trình 10 tuần, mỗi tuần khoảng 5–7 buổi học 45 phút. Em có thể kéo dài thành 12 tuần nếu mất gốc. Đánh dấu khi hoàn thành — tiến độ lưu trên máy em.",
+  "tuan": [
+    {
+      "so": 1,
+      "ten": "Căn thức — nền tảng",
+      "moTa": "Nắm chắc điều kiện xác định, các phép biến đổi căn và hằng đẳng thức.",
+      "viec": [
+        { "ma": "w1-1", "ten": "Học lại định nghĩa căn bậc hai, điều kiện xác định" },
+        { "ma": "w1-2", "ten": "Làm 10 câu rút gọn mức Nền tảng" },
+        { "ma": "w1-3", "ten": "Học trục căn thức và hằng đẳng thức $a^2-b^2$" },
+        { "ma": "w1-4", "ten": "Ghi lại 3 lỗi sai đầu tiên vào sổ lỗi" },
+        { "ma": "w1-5", "ten": "Làm đề mẫu, chỉ câu 1" }
+      ]
+    },
+    {
+      "so": 2,
+      "ten": "Rút gọn — tìm x",
+      "moTa": "Luyện dạng rút gọn có điều kiện và tìm x để biểu thức nhận giá trị cho trước.",
+      "viec": [
+        { "ma": "w2-1", "ten": "Làm 10 câu rút gọn mức Khá" },
+        { "ma": "w2-2", "ten": "Học cách giải phương trình chứa căn đơn giản" },
+        { "ma": "w2-3", "ten": "Luyện 5 câu tìm x để $A=m$" },
+        { "ma": "w2-4", "ten": "Làm lại toàn bộ câu sai tuần 1" },
+        { "ma": "w2-5", "ten": "Tự viết lại công thức trục căn thức không nhìn" }
+      ]
+    },
+    {
+      "so": 3,
+      "ten": "Phương trình và hệ phương trình",
+      "moTa": "Thành thạo phương pháp thế, cộng đại số và phương trình bậc hai cơ bản.",
+      "viec": [
+        { "ma": "w3-1", "ten": "Luyện 10 hệ phương trình mức Nền tảng" },
+        { "ma": "w3-2", "ten": "Học công thức nghiệm phương trình bậc hai" },
+        { "ma": "w3-3", "ten": "Nhẩm nghiệm bằng $a+b+c=0$ và $a-b+c=0$" },
+        { "ma": "w3-4", "ten": "Làm 5 câu phương trình chứa căn" },
+        { "ma": "w3-5", "ten": "Làm lại câu sai trong tuần" }
+      ]
+    },
+    {
+      "so": 4,
+      "ten": "Vi-ét và phương trình chứa tham số",
+      "moTa": "Dùng Vi-ét tính biểu thức đối xứng, tìm tham số để có nghiệm thỏa mãn điều kiện.",
+      "viec": [
+        { "ma": "w4-1", "ten": "Học 4 biểu thức Vi-ét thường gặp" },
+        { "ma": "w4-2", "ten": "Luyện 8 câu tính giá trị biểu thức nghiệm" },
+        { "ma": "w4-3", "ten": "Luyện 5 câu tìm tham số có hai nghiệm" },
+        { "ma": "w4-4", "ten": "Ghi nhớ: luôn kiểm tra $\\Delta\\ge 0$ trước khi dùng Vi-ét" },
+        { "ma": "w4-5", "ten": "Làm đề mẫu, câu 2 và câu 4" }
+      ]
+    },
+    {
+      "so": 5,
+      "ten": "Hàm số và đồ thị",
+      "moTa": "Vẽ parabol, đường thẳng; tìm tọa độ giao điểm và xét vị trí tương đối.",
+      "viec": [
+        { "ma": "w5-1", "ten": "Lập bảng giá trị và vẽ 3 parabol" },
+        { "ma": "w5-2", "ten": "Tìm giao điểm của parabol và đường thẳng" },
+        { "ma": "w5-3", "ten": "Luyện 8 câu tương giao mức Khá" },
+        { "ma": "w5-4", "ten": "Học điều kiện song song, cắt nhau, vuông góc" },
+        { "ma": "w5-5", "ten": "Làm đề mẫu, câu 3" }
+      ]
+    },
+    {
+      "so": 6,
+      "ten": "Giải toán bằng cách lập phương trình",
+      "moTa": "Chuyển động, năng suất, hình học, mua bán — nhận diện và lập đúng phương trình.",
+      "viec": [
+        { "ma": "w6-1", "ten": "Học quy trình 4 bước và các công thức chuyển động" },
+        { "ma": "w6-2", "ten": "Làm 5 bài toán chuyển động" },
+        { "ma": "w6-3", "ten": "Làm 5 bài toán năng suất" },
+        { "ma": "w6-4", "ten": "Làm 5 bài toán hình học, mua bán" },
+        { "ma": "w6-5", "ten": "Làm đề mẫu, câu 5" }
+      ]
+    },
+    {
+      "so": 7,
+      "ten": "Hình học tam giác",
+      "moTa": "Pythagore, hệ thức lượng, tam giác đồng dạng và tỉ số diện tích.",
+      "viec": [
+        { "ma": "w7-1", "ten": "Học thuộc 5 hệ thức lượng trong tam giác vuông" },
+        { "ma": "w7-2", "ten": "Luyện 8 bài tính độ dài, diện tích" },
+        { "ma": "w7-3", "ten": "Ôn 3 trường hợp tam giác đồng dạng" },
+        { "ma": "w7-4", "ten": "Luyện 5 bài chứng minh đồng dạng" },
+        { "ma": "w7-5", "ten": "Làm đề mẫu, câu 6a–6c" }
+      ]
+    },
+    {
+      "so": 8,
+      "ten": "Hình học đường tròn",
+      "moTa": "Góc nội tiếp, tứ giác nội tiếp, tiếp tuyến và các bài chứng minh tổng hợp.",
+      "viec": [
+        { "ma": "w8-1", "ten": "Học góc ở tâm, góc nội tiếp, góc tạo bởi tiếp tuyến" },
+        { "ma": "w8-2", "ten": "Học dấu hiệu tứ giác nội tiếp" },
+        { "ma": "w8-3", "ten": "Luyện 8 bài chứng minh tứ giác nội tiếp" },
+        { "ma": "w8-4", "ten": "Luyện 5 bài tiếp tuyến" },
+        { "ma": "w8-5", "ten": "Làm lại câu hình đã sai" }
+      ]
+    },
+    {
+      "so": 9,
+      "ten": "Bất đẳng thức — cực trị",
+      "moTa": "Phần lấy điểm 9–10. Học chắc Cauchy, biến đổi bình phương và cách chỉ ra dấu bằng.",
+      "viec": [
+        { "ma": "w9-1", "ten": "Học Cauchy và hệ quả $(a+b)^2\\ge 4ab$" },
+        { "ma": "w9-2", "ten": "Luyện 8 câu tìm min – max mức Khá" },
+        { "ma": "w9-3", "ten": "Luyện 5 câu bất đẳng thức nâng cao" },
+        { "ma": "w9-4", "ten": "Tập trình bày dấu bằng rõ ràng" },
+        { "ma": "w9-5", "ten": "Làm đề mẫu, câu 7" }
+      ]
+    },
+    {
+      "so": 10,
+      "ten": "Luyện đề và chữa lỗi",
+      "moTa": "Làm đề thật theo thời gian, chấm điểm, chữa kỹ các câu sai.",
+      "viec": [
+        { "ma": "w10-1", "ten": "Làm 1 đề thật đủ 90 phút, không xem tài liệu" },
+        { "ma": "w10-2", "ten": "Chữa toàn bộ câu sai, ghi nguyên nhân" },
+        { "ma": "w10-3", "ten": "Làm đề thứ hai, tập trung vào phần yếu" },
+        { "ma": "w10-4", "ten": "Làm lại các câu trong sổ lỗi" },
+        { "ma": "w10-5", "ten": "Đọc lại tờ công thức và đi ngủ sớm trước hôm thi" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": "son-la-2022",
+  "tinh": "Sơn La",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Sơn La — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/07/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-son-la.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 06/6/2022, gồm 10 câu trắc nghiệm (2 điểm) và 5 câu tự luận (8 điểm). Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "tn1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Rút gọn biểu thức $P=\\sqrt{16a^2b}$ với $a\\ge0,b\\ge0$.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$P=4a\\sqrt b$" },
+        { "ma": "B", "noiDung": "$P=16a\\sqrt b$" },
+        { "ma": "C", "noiDung": "$P=4a^2\\sqrt b$" },
+        { "ma": "D", "noiDung": "$P=4a^2b$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["$\\sqrt{16a^2b}=\\sqrt{16}\\cdot\\sqrt{a^2}\\cdot\\sqrt b$."],
+      "loiGiai": ["$\\sqrt{16a^2b}=4a\\sqrt b$ (vì $a\\ge0$). Chọn A."]
+    },
+    {
+      "id": "tn2",
+      "soCau": 2,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đồ thị hàm số $y=-2x+1$ đi qua điểm nào dưới đây?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$M(0;-1)$" },
+        { "ma": "B", "noiDung": "$N(0;1)$" },
+        { "ma": "C", "noiDung": "$Q(1;0)$" },
+        { "ma": "D", "noiDung": "$P(1;-2)$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Thay $x=0$ vào công thức."],
+      "loiGiai": ["$x=0 \\Rightarrow y=1$ nên $N(0;1)$ thuộc đồ thị. Chọn B."]
+    },
+    {
+      "id": "tn3",
+      "soCau": 3,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$. Khẳng định nào sau đây đúng?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\tan C=\\dfrac{AB}{BC}$" },
+        { "ma": "B", "noiDung": "$\\tan C=\\dfrac{AC}{AB}$" },
+        { "ma": "C", "noiDung": "$\\tan C=\\dfrac{AC}{BC}$" },
+        { "ma": "D", "noiDung": "$\\tan C=\\dfrac{AB}{AC}$" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["$\\tan$ bằng cạnh đối chia cạnh kề."],
+      "loiGiai": ["Góc $C$ có cạnh đối là $AB$, cạnh kề là $AC$ nên $\\tan C=\\dfrac{AB}{AC}$. Chọn D."]
+    },
+    {
+      "id": "tn4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Phương trình $x+2y-1=0$ có một nghiệm $(x;y)$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$(0;0)$" },
+        { "ma": "B", "noiDung": "$(1;2)$" },
+        { "ma": "C", "noiDung": "$(1;0)$" },
+        { "ma": "D", "noiDung": "$(1;-1)$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Thay từng cặp số vào phương trình."],
+      "loiGiai": ["$(1;0)$: $1+0-1=0$ đúng. Chọn C."]
+    },
+    {
+      "id": "tn5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Phương trình nào sau đây là phương trình bậc hai một ẩn?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$2x+y-1=0$" },
+        { "ma": "B", "noiDung": "$x^2-2x+3=0$" },
+        { "ma": "C", "noiDung": "$3x-5=0$" },
+        { "ma": "D", "noiDung": "$x^4-2x^2-4=0$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Bậc hai một ẩn có dạng $ax^2+bx+c=0$ với $a\\ne0$."],
+      "loiGiai": ["$x^2-2x+3=0$ có dạng bậc hai một ẩn. Chọn B."]
+    },
+    {
+      "id": "tn6",
+      "soCau": 6,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Tìm $a$ để đồ thị hàm số $y=ax^2$ đi qua điểm $M(1;2)$.</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$a=2$" },
+        { "ma": "B", "noiDung": "$a=1$" },
+        { "ma": "C", "noiDung": "$a=4$" },
+        { "ma": "D", "noiDung": "$a=\\sqrt2$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Thay $x=1,y=2$ vào $y=ax^2$."],
+      "loiGiai": ["$2=a\\cdot1^2 \\Rightarrow a=2$. Chọn A."]
+    },
+    {
+      "id": "tn7",
+      "soCau": 7,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Trong một đường tròn, nếu góc nội tiếp chắn cung có số đo bằng $80^\\circ$ thì số đo góc nội tiếp đó bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$20^\\circ$" },
+        { "ma": "B", "noiDung": "$80^\\circ$" },
+        { "ma": "C", "noiDung": "$40^\\circ$" },
+        { "ma": "D", "noiDung": "$60^\\circ$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Góc nội tiếp bằng nửa số đo cung bị chắn."],
+      "loiGiai": ["$\\dfrac{80^\\circ}{2}=40^\\circ$. Chọn C."]
+    },
+    {
+      "id": "tn8",
+      "soCau": 8,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Nếu phương trình $ax^2+bx+c=0$ ($a\\ne0$) có hai nghiệm $x_1,x_2$ thì $x_1+x_2$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac ba$" },
+        { "ma": "B", "noiDung": "$\\dfrac ca$" },
+        { "ma": "C", "noiDung": "$-\\dfrac ca$" },
+        { "ma": "D", "noiDung": "$-\\dfrac ba$" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Định lí Vi-ét."],
+      "loiGiai": ["$x_1+x_2=-\\dfrac ba$. Chọn D."]
+    },
+    {
+      "id": "tn9",
+      "soCau": 9,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Công thức tính diện tích mặt cầu bán kính $R$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$S=4\\pi R^2$" },
+        { "ma": "B", "noiDung": "$S=4\\pi R$" },
+        { "ma": "C", "noiDung": "$S=\\dfrac43\\pi R^2$" },
+        { "ma": "D", "noiDung": "$S=2\\pi R^2$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Diện tích mặt cầu bằng $4$ lần diện tích hình tròn lớn."],
+      "loiGiai": ["$S=4\\pi R^2$. Chọn A."]
+    },
+    {
+      "id": "tn10",
+      "soCau": 10,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tứ giác $ABCD$ nội tiếp đường tròn $(O)$. Khi đó $\\widehat B+\\widehat D$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$360^\\circ$" },
+        { "ma": "B", "noiDung": "$120^\\circ$" },
+        { "ma": "C", "noiDung": "$90^\\circ$" },
+        { "ma": "D", "noiDung": "$180^\\circ$" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Tổng hai góc đối của tứ giác nội tiếp."],
+      "loiGiai": ["$\\widehat B+\\widehat D=180^\\circ$. Chọn D."]
+    },
+    {
+      "id": "tl1a",
+      "soCau": 11,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 1.</b> Tìm điều kiện xác định của biểu thức $A=\\sqrt{x+1}+\\sqrt{x-2}$. Nhập giá trị nhỏ nhất của $x$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Cả hai căn phải có nghĩa."],
+      "loiGiai": ["$x+1\\ge0$ và $x-2\\ge0$, suy ra $x\\ge2$. Giá trị nhỏ nhất là $x=2$."]
+    },
+    {
+      "id": "tl1b",
+      "soCau": 11,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}x-2y=3\\\\2x+y=6\\end{cases}$ và nhập $x+y$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["Từ phương trình đầu suy ra $x=3+2y$."],
+      "loiGiai": [
+        "$x=3+2y$. Thay vào $2x+y=6$: $2(3+2y)+y=6 \\Rightarrow 6+5y=6 \\Rightarrow y=0$.",
+        "Suy ra $x=3$. Vậy $x+y=3$."
+      ]
+    },
+    {
+      "id": "tl1c",
+      "soCau": 11,
+      "y": "c",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2-3x-4=0$. Nhập nghiệm dương.</p>",
+      "dapAn": ["4"],
+      "goiY": ["$1+3-4=0$ nên có một nghiệm bằng $-1$."],
+      "loiGiai": [
+        "$a-b+c=1-(-3)+(-4)=0$ nên $x_1=-1$, $x_2=-\\dfrac ca=4$.",
+        "Nghiệm dương là $x=4$."
+      ]
+    },
+    {
+      "id": "tl2",
+      "soCau": 12,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một người đi xe máy từ $A$ đến $B$ với vận tốc $30$ km/h; lúc về đi với vận tốc $40$ km/h nên thời gian về ít hơn thời gian đi $30$ phút. Tính quãng đường $AB$ (km).</p>",
+      "dapAn": ["60"],
+      "goiY": [
+        "Gọi quãng đường $AB$ là $x$ (km).",
+        "Lập phương trình $\\dfrac{x}{30}-\\dfrac{x}{40}=\\dfrac12$."
+      ],
+      "loiGiai": [
+        "Gọi $AB=x$ (km, $x>0$). Thời gian đi $\\dfrac{x}{30}$, thời gian về $\\dfrac{x}{40}$.",
+        "$\\dfrac{x}{30}-\\dfrac{x}{40}=\\dfrac12 \\Rightarrow \\dfrac{x}{120}=\\dfrac12 \\Rightarrow x=60$.",
+        "Vậy $AB=60$ km."
+      ]
+    },
+    {
+      "id": "tl3",
+      "soCau": 13,
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $2x^2+(2m-1)x-m-1=0$ có hai nghiệm $x_1,x_2$. Tìm $m$ để $F=4x_1^2+2x_1x_2+4x_2^2-1$ đạt giá trị nhỏ nhất.</p>",
+      "dapAn": ["1/8"],
+      "goiY": [
+        "Chứng minh $\\Delta>0$ với mọi $m$.",
+        "Biến đổi $F=4(x_1+x_2)^2-6x_1x_2-1$ rồi dùng Vi-ét."
+      ],
+      "loiGiai": [
+        "$\\Delta=(2m-1)^2+8(m+1)=4m^2+4m+9>0$ với mọi $m$.",
+        "Vi-ét: $x_1+x_2=\\dfrac{1-2m}{2}=\\dfrac12-m$, $x_1x_2=\\dfrac{-m-1}{2}$.",
+        "$F=4[(x_1+x_2)^2-2x_1x_2]+2x_1x_2-1=4(x_1+x_2)^2-6x_1x_2-1$.",
+        "$F=4\\left(\\dfrac12-m\\right)^2+3(m+1)-1=4m^2-m+3$.",
+        "$F=4\\left(m-\\dfrac18\\right)^2+\\dfrac{47}{16}\\ge\\dfrac{47}{16}$.",
+        "Dấu bằng khi $m=\\dfrac18$. Vậy $m=\\dfrac18$."
+      ]
+    },
+    {
+      "id": "tl4a",
+      "soCau": 14,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn nội tiếp đường tròn tâm $O$. Các đường cao $AE,BF$ cắt nhau tại trực tâm $H$. Chứng minh tứ giác $EHFC$ nội tiếp.</p>",
+      "goiY": ["$EH\\perp EC$ và $FH\\perp FC$."],
+      "loiGiai": [
+        "Vì $AE\\perp BC$ nên $EH\\perp EC$, suy ra $\\angle HEC=90^\\circ$.",
+        "Vì $BF\\perp AC$ nên $FH\\perp FC$, suy ra $\\angle HFC=90^\\circ$.",
+        "Tứ giác $EHFC$ có $\\angle HEC+\\angle HFC=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "tl4b",
+      "soCau": 14,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, $AO$ cắt đường tròn tại điểm thứ hai $M$. Chứng minh tứ giác $BHCM$ là hình bình hành.</p>",
+      "goiY": [
+        "$AM$ là đường kính nên $BM\\perp AB$, $CM\\perp AC$.",
+        "So sánh với các đường cao $CH\\perp AB$, $BH\\perp AC$."
+      ],
+      "loiGiai": [
+        "Vì $AM$ là đường kính nên $\\angle ABM=90^\\circ$, suy ra $BM\\perp AB$. Lại có $CH\\perp AB$ nên $BM\\parallel CH$.",
+        "Tương tự $\\angle ACM=90^\\circ$ nên $CM\\perp AC$; mà $BH\\perp AC$ nên $CM\\parallel BH$.",
+        "Tứ giác $BHCM$ có hai cặp cạnh đối song song nên là hình bình hành."
+      ]
+    },
+    {
+      "id": "tl4c",
+      "soCau": 14,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $CO\\perp EF$.</p>",
+      "goiY": [
+        "Tứ giác $BFEC$ nội tiếp đường tròn đường kính $BC$, suy ra $\\angle AFE=\\widehat C$.",
+        "Trong tam giác cân $OBC$, $\\angle OCB=90^\\circ-\\widehat A$."
+      ],
+      "loiGiai": [
+        "Tứ giác $BFEC$ có $\\angle BFC=\\angle BEC=90^\\circ$ nên nội tiếp đường tròn đường kính $BC$.",
+        "Góc ngoài tại $F$: $\\angle AFE=\\angle BCE=\\widehat C$. Do đó $EF$ tạo với $AC$ một góc bằng $\\widehat B$, nên $EF$ tạo với $BC$ một góc bằng $\\widehat A$.",
+        "Tam giác $OBC$ cân tại $O$ có $\\angle BOC=2\\widehat A$, suy ra $\\angle OCB=90^\\circ-\\widehat A$.",
+        "Vậy góc giữa $CO$ và $EF$ bằng $\\widehat A+(90^\\circ-\\widehat A)=90^\\circ$, tức $CO\\perp EF$."
+      ]
+    },
+    {
+      "id": "tl5a",
+      "soCau": 15,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 5.</b> Giải phương trình $\\sqrt[3]{x-2}+\\sqrt{x+1}=3$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["Nhẩm $x=3$; chứng minh hàm số ở vế trái đồng biến nên nghiệm duy nhất."],
+      "loiGiai": [
+        "Điều kiện $x\\ge-1$. Nhận thấy $x=3$ thoả mãn: $\\sqrt[3]{1}+\\sqrt4=1+2=3$.",
+        "Hàm $f(x)=\\sqrt[3]{x-2}+\\sqrt{x+1}$ đồng biến trên $[-1;+\\infty)$ nên phương trình có nghiệm duy nhất $x=3$."
+      ]
+    },
+    {
+      "id": "tl5b",
+      "soCau": 15,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Xác định đường thẳng $(d):y=ax+b$, biết $(d)$ đi qua $A(3;2)$, cắt trục tung tại điểm có tung độ nguyên dương và cắt trục hoành tại điểm có hoành độ là một số nguyên tố. Nhập tung độ gốc $b$.</p>",
+      "dapAn": ["5"],
+      "goiY": [
+        "$3a+b=2$. Giao với $Ox$ có hoành độ $-\\dfrac ba$ là số nguyên tố.",
+        "Thay $a=\\dfrac{2-b}{3}$, được hoành độ $\\dfrac{3b}{b-2}=3+\\dfrac{6}{b-2}$."
+      ],
+      "loiGiai": [
+        "$A(3;2)\\in(d)$ nên $3a+b=2 \\Rightarrow a=\\dfrac{2-b}{3}$.",
+        "Giao với $Ox$: $y=0 \\Rightarrow x=-\\dfrac ba=\\dfrac{3b}{b-2}=3+\\dfrac{6}{b-2}$.",
+        "Vì $b$ nguyên dương, $b-2$ là ước của $6$: $b\\in\\{1;3;4;5;8\\}$.",
+        "Thử được $b=5$ cho $x=5$ là số nguyên tố; khi đó $a=-1$.",
+        "Vậy $(d):y=-x+5$, tung độ gốc $b=5$."
+      ]
+    }
+  ]
+}

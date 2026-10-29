@@ -1,0 +1,253 @@
+{
+  "id": "lao-cai-2023",
+  "tinh": "Lào Cai",
+  "nam": 2023,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2023–2024",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+    "url": "https://thcs.toanmath.com/2023/06/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2023-2024-so-gddt-lao-cai.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 03/6/2023, gồm 10 câu. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính giá trị biểu thức $\\dfrac{\\sqrt{81}}{3}$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["$\\sqrt{81}=9$."],
+      "loiGiai": ["$\\dfrac{9}{3}=3$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính giá trị biểu thức $\\sqrt{16}-\\sqrt9$.</p>",
+      "dapAn": ["1"],
+      "goiY": ["$\\sqrt{16}=4$, $\\sqrt9=3$."],
+      "loiGiai": ["$4-3=1$."]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $3x^2+x-4=0$. Nhập nghiệm nguyên.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Nhận xét $3+1-4=0$."],
+      "loiGiai": [
+        "Vì $a+b+c=3+1-4=0$ nên phương trình có hai nghiệm $x_1=1$, $x_2=\\dfrac ca=-\\dfrac43$.",
+        "Nghiệm nguyên là $x=1$."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}x+y=3\\\\x-4y=8\\end{cases}$ và nhập giá trị của $x$.</p>",
+      "dapAn": ["4"],
+      "goiY": ["Trừ hai phương trình để khử $x$."],
+      "loiGiai": [
+        "Trừ vế theo vế: $(x+y)-(x-4y)=3-8 \\Leftrightarrow 5y=-5 \\Leftrightarrow y=-1$.",
+        "Thay vào $x+y=3$: $x-1=3 \\Leftrightarrow x=4$."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Gieo hai đồng xu cân đối và đồng chất một lần. Tính xác suất để hai đồng xu xuất hiện mặt giống nhau.</p>",
+      "dapAn": ["1/2", "0,5"],
+      "goiY": ["Các kết quả có thể: SS, SN, NS, NN."],
+      "loiGiai": [
+        "Không gian mẫu có $4$ kết quả: SS, SN, NS, NN.",
+        "Hai kết quả cùng mặt: SS, NN. Xác suất là $\\dfrac24=\\dfrac12$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $P=\\dfrac1{\\sqrt{x}+1}-\\dfrac1{\\sqrt{x}-1}+\\dfrac{2\\sqrt{x}}{x-1}$ với $x\\ge0,\\ x\\ne1$. Rút gọn $P$.</p>",
+      "goiY": ["Quy đồng mẫu $x-1$."],
+      "loiGiai": [
+        "$P=\\dfrac{(\\sqrt{x}-1)-(\\sqrt{x}+1)+2\\sqrt{x}}{x-1}$.",
+        "$=\\dfrac{2\\sqrt{x}-2}{x-1}=\\dfrac{2(\\sqrt{x}-1)}{(\\sqrt{x}-1)(\\sqrt{x}+1)}=\\dfrac{2}{\\sqrt{x}+1}$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với $P=\\dfrac2{\\sqrt{x}+1}$, tìm $x$ để $P=\\dfrac13$.</p>",
+      "dapAn": ["25"],
+      "goiY": ["$\\dfrac2{\\sqrt{x}+1}=\\dfrac13$."],
+      "loiGiai": [
+        "$\\dfrac2{\\sqrt{x}+1}=\\dfrac13 \\Rightarrow \\sqrt{x}+1=6 \\Rightarrow \\sqrt{x}=5 \\Rightarrow x=25$."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho hàm số $y=mx+2m-1$. Tìm $m$ để đồ thị hàm số cắt trục tung tại điểm có tung độ bằng $5$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["Tung độ gốc là $2m-1$."],
+      "loiGiai": ["$2m-1=5 \\Leftrightarrow 2m=6 \\Leftrightarrow m=3$."]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Một cửa hàng nhập $10$ sản phẩm gồm hai loại $A$ và $B$. Mỗi sản phẩm loại $A$ nặng $9$ kg, mỗi sản phẩm loại $B$ nặng $10$ kg, tổng khối lượng là $95$ kg. Hỏi cửa hàng nhập bao nhiêu sản phẩm loại $A$?</p>",
+      "dapAn": ["5"],
+      "goiY": ["Gọi số sản phẩm loại $A$ là $x$, loại $B$ là $10-x$."],
+      "loiGiai": [
+        "Gọi số sản phẩm loại $A$ là $x$ ($0\\le x\\le10$), loại $B$ là $10-x$.",
+        "Ta có $9x+10(10-x)=95 \\Leftrightarrow 100-x=95 \\Leftrightarrow x=5$.",
+        "Vậy có $5$ sản phẩm loại $A$."
+      ]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2+2mx+m^2+m-2=0$ ($m$ là tham số). Tìm $m$ để phương trình có hai nghiệm $x_1,x_2$ sao cho $P=-x_1^2+(2m+3)x_2+3x_1+x_1x_2$ đạt giá trị lớn nhất.</p>",
+      "dapAn": ["-1"],
+      "goiY": [
+        "Điều kiện hai nghiệm: $\\Delta'=-m+2>0$.",
+        "Dùng $x_1^2=-2mx_1-m^2-m+2$ và Vi-ét để rút $P$ theo $m$."
+      ],
+      "loiGiai": [
+        "$\\Delta'=m^2-(m^2+m-2)=2-m>0 \\Leftrightarrow m<2$.",
+        "Vì $x_1$ là nghiệm: $x_1^2=-2mx_1-m^2-m+2$.",
+        "Thay vào $P$: $P=2mx_1+m^2+m-2+(2m+3)x_2+3x_1+x_1x_2$.",
+        "$P=(2m+3)(x_1+x_2)+m^2+m-2+x_1x_2$.",
+        "Theo Vi-ét: $x_1+x_2=-2m$, $x_1x_2=m^2+m-2$.",
+        "$P=(2m+3)(-2m)+2(m^2+m-2)=-2m^2-4m-4=-2(m+1)^2-2$.",
+        "Vì $-2(m+1)^2\\le0$, $P\\le-2$; dấu bằng khi $m=-1$ (thoả $m<2$). Vậy $m=-1$."
+      ]
+    },
+    {
+      "id": "c9a",
+      "soCau": 9,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$, $\\widehat{ABC}=60^\\circ$, $BC=40$ cm. Tính $AB$ (cm).</p>",
+      "dapAn": ["20"],
+      "goiY": ["$AB=BC\\cdot\\cos B$."],
+      "loiGiai": ["$AB=BC\\cdot\\cos60^\\circ=40\\cdot\\dfrac12=20$ cm."]
+    },
+    {
+      "id": "c9b",
+      "soCau": 9,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với tam giác ở câu a, gọi $K$ thuộc $AC$ sao cho $HK\\perp AC$. Tính $HK$ (cm).</p>",
+      "dapAn": ["15"],
+      "goiY": [
+        "Tính $AC=20\\sqrt3$, $AH=\\dfrac{AB\\cdot AC}{BC}=10\\sqrt3$, $HC=\\dfrac{AC^2}{BC}=30$.",
+        "Trong tam giác vuông $AHC$, $HK$ là đường cao ứng với cạnh huyền $AC$."
+      ],
+      "loiGiai": [
+        "$AC=BC\\cdot\\sin60^\\circ=40\\cdot\\dfrac{\\sqrt3}{2}=20\\sqrt3$ cm.",
+        "$AH=\\dfrac{AB\\cdot AC}{BC}=\\dfrac{20\\cdot20\\sqrt3}{40}=10\\sqrt3$ cm.",
+        "$HC=\\dfrac{AC^2}{BC}=\\dfrac{1200}{40}=30$ cm.",
+        "Tam giác $AHC$ vuông tại $H$, $HK\\perp AC$ nên $HK=\\dfrac{AH\\cdot HC}{AC}=\\dfrac{10\\sqrt3\\cdot30}{20\\sqrt3}=15$ cm."
+      ]
+    },
+    {
+      "id": "c10a",
+      "soCau": 10,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn ($BA<BC$) nội tiếp đường tròn $(O)$. Hai tiếp tuyến tại $A$ và $C$ cắt nhau tại $I$. Tia $BI$ cắt $(O)$ tại $D$ ($D\\ne B$). Chứng minh tứ giác $OAIC$ nội tiếp.</p>",
+      "goiY": ["$\\angle OAI=90^\\circ$, $\\angle OCI=90^\\circ$."],
+      "loiGiai": [
+        "Vì $IA,IC$ là tiếp tuyến nên $OA\\perp IA$, $OC\\perp IC$, tức $\\angle OAI=\\angle OCI=90^\\circ$.",
+        "Tứ giác $OAIC$ có $\\angle OAI+\\angle OCI=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c10b",
+      "soCau": 10,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $IC^2=IB\\cdot ID$.</p>",
+      "goiY": ["$IC$ là tiếp tuyến, $IBD$ là cát tuyến; dùng phương tích của $I$."],
+      "loiGiai": [
+        "Từ $I$ ngoài đường tròn, $IC$ là tiếp tuyến và $IBD$ là cát tuyến.",
+        "Theo phương tích của điểm $I$: $IC^2=IB\\cdot ID$.",
+        "Có thể chứng minh lại bằng $\\triangle ICB\\sim\\triangle IDC$ (g.g)."
+      ]
+    },
+    {
+      "id": "c10c",
+      "soCau": 10,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, gọi $M$ là trung điểm $BD$. Tia $CM$ cắt $(O)$ tại $E$ ($E\\ne C$). Chứng minh $MO\\perp AE$.</p>",
+      "goiY": [
+        "$M$ là trung điểm dây $BD$ nên $OM\\perp BD$.",
+        "Chứng minh $AE\\parallel BD$ (bổ đề quen thuộc của cấu hình hai tiếp tuyến và cát tuyến)."
+      ],
+      "loiGiai": [
+        "Vì $M$ là trung điểm của dây $BD$ nên $OM\\perp BD$.",
+        "Ta chứng minh $AE\\parallel BD$. Thật vậy, áp dụng bổ đề: nếu $IA,IC$ là hai tiếp tuyến, $IBD$ là cát tuyến và $M$ là trung điểm $BD$ thì giao điểm thứ hai $E$ của $CM$ với đường tròn thoả mãn $AE\\parallel BD$.",
+        "Bổ đề có thể chứng minh bằng định lý sin trong tam giác $BCD$ kết hợp $IC^2=IB\\cdot ID$ (câu b).",
+        "Từ $AE\\parallel BD$ và $OM\\perp BD$ suy ra $OM\\perp AE$."
+      ]
+    }
+  ]
+}

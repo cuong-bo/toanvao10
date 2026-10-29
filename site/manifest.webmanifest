@@ -1,0 +1,24 @@
+{
+  "name": "Trạm tiếp sức Toán vào 10",
+  "short_name": "Trạm tiếp sức Toán vào 10",
+  "description": "Trạm tiếp sức Toán vào 10: đề thi thật, luyện theo chuyên đề và lời giải từng bước cho học sinh lớp 9 khu vực Tây Bắc.",
+  "lang": "vi",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f1e7",
+  "theme_color": "#0f3d2e",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Đề thi", "url": "./#/de", "description": "Danh sách đề thi" },
+    { "name": "Sổ lỗi sai", "url": "./#/so-loi", "description": "Các câu cần làm lại" },
+    { "name": "Luyện chuyên đề", "url": "./#/chuyen-de", "description": "Luyện theo chuyên đề" }
+  ]
+}

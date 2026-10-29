@@ -1,0 +1,268 @@
+{
+  "id": "lai-chau-2026",
+  "tinh": "Lai Châu",
+  "nam": 2026,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán (chung) — năm học 2026–2027",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Lai Châu — đề chính thức",
+    "url": "https://thcs.toanmath.com/2026/05/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2026-2027-so-gddt-lai-chau.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 26/5/2026. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $4x-32=0$.</p>",
+      "dapAn": ["8"],
+      "goiY": ["Chuyển $32$ sang vế phải rồi chia hai vế cho $4$."],
+      "loiGiai": ["$4x-32=0 \\Leftrightarrow 4x=32 \\Leftrightarrow x=8$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2-8x+7=0$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": ["7"],
+      "goiY": ["Nhận xét $1-8+7=0$ nên có một nghiệm bằng $1$."],
+      "loiGiai": [
+        "Vì $a+b+c=1-8+7=0$ nên phương trình có hai nghiệm $x_1=1$, $x_2=\\dfrac{c}{a}=7$.",
+        "Nghiệm lớn hơn là $x=7$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "c",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải bất phương trình $5x-20>0$. Nhập giá trị nguyên nhỏ nhất của $x$ thoả mãn.</p>",
+      "dapAn": ["5"],
+      "goiY": ["$5x>20 \\Leftrightarrow x>4$."],
+      "loiGiai": ["$5x-20>0 \\Leftrightarrow 5x>20 \\Leftrightarrow x>4$.", "Giá trị nguyên nhỏ nhất thoả mãn là $x=5$."]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2.1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $\\sqrt{81}+\\sqrt{64}-\\sqrt4$.</p>",
+      "dapAn": ["15"],
+      "goiY": ["$\\sqrt{81}=9$, $\\sqrt{64}=8$, $\\sqrt4=2$."],
+      "loiGiai": ["$9+8-2=15$."]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2.2,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $A=\\dfrac{4}{\\sqrt{x}+1}+\\dfrac{5}{\\sqrt{x}-1}$ với $x\\ge0,\\ x\\ne1$. Rút gọn $A$.</p>",
+      "goiY": ["Mẫu chung $x-1=(\\sqrt{x}-1)(\\sqrt{x}+1)$."],
+      "loiGiai": [
+        "$A=\\dfrac{4(\\sqrt{x}-1)+5(\\sqrt{x}+1)}{x-1}$.",
+        "$A=\\dfrac{4\\sqrt{x}-4+5\\sqrt{x}+5}{x-1}=\\dfrac{9\\sqrt{x}+1}{x-1}$."
+      ]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2.2,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với $A=\\dfrac{9\\sqrt{x}+1}{x-1}$, tính $A$ khi $x=4$.</p>",
+      "dapAn": ["19/3"],
+      "goiY": ["$x=4$ thì $\\sqrt{x}=2$."],
+      "loiGiai": ["Thay $x=4$: $A=\\dfrac{9\\cdot2+1}{4-1}=\\dfrac{19}{3}$."]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị hàm số $y=-2x^2$.</p>",
+      "goiY": ["Lập bảng giá trị với $x=-2;-1;0;1;2$ rồi nối các điểm bằng một đường cong."],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2\\Rightarrow y=-8$; $x=-1\\Rightarrow y=-2$; $x=0\\Rightarrow y=0$; $x=1\\Rightarrow y=-2$; $x=2\\Rightarrow y=-8$.",
+        "Đồ thị là parabol có bề lõm hướng xuống, đỉnh $O(0;0)$, nhận trục $Oy$ làm trục đối xứng."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Bạn Hoa thống kê sự yêu thích các môn học của học sinh lớp 9A: Toán $40$, Ngữ văn $35$, Tiếng Anh $20$, Khoa học tự nhiên $25$ (học sinh). Vẽ biểu đồ tần số dạng cột biểu diễn bảng thống kê trên.</p>",
+      "goiY": [
+        "Trục ngang ghi tên 4 môn, trục dọc ghi số học sinh.",
+        "Chọn đơn vị trục dọc phù hợp (ví dụ mỗi vạch 5 học sinh) và vẽ các cột có chiều cao tương ứng."
+      ],
+      "loiGiai": [
+        "Lập bảng tần số: Toán 40; Ngữ văn 35; Tiếng Anh 20; Khoa học tự nhiên 25.",
+        "Vẽ 4 cột có cùng chiều rộng, chiều cao lần lượt tỉ lệ với $40;35;20;25$.",
+        "Ghi tên môn dưới mỗi cột, ghi số học sinh trên đầu cột và chú thích trục."
+      ]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "c",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Một túi đựng $5$ viên bi cùng khối lượng và kích thước, được đánh số $1;2;3;4;5$. Lấy ngẫu nhiên hai viên bi. Tính xác suất để tích hai số ghi trên hai viên bi lớn hơn $6$.</p>",
+      "dapAn": ["1/2", "0,5"],
+      "goiY": [
+        "Có $\\binom52=10$ cách lấy hai viên.",
+        "Liệt kê các cặp có tích lớn hơn $6$: $(2;4),(2;5),(3;4),(3;5),(4;5)$."
+      ],
+      "loiGiai": [
+        "Số kết quả có thể là $\\binom52=10$.",
+        "Các cặp có tích lớn hơn $6$: $(2;4)=8$, $(2;5)=10$, $(3;4)=12$, $(3;5)=15$, $(4;5)=20$ — có $5$ kết quả thuận lợi.",
+        "Xác suất là $\\dfrac{5}{10}=\\dfrac12$."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một người đi ô tô từ $A$ đến $B$ dài $100$ km với vận tốc không đổi. Khi từ $B$ về $A$, người đó đi đường khác dài hơn đường cũ $20$ km với vận tốc lớn hơn lúc đi $20$ km/h. Thời gian về ít hơn thời gian đi $30$ phút. Tính vận tốc lúc đi (km/h).</p>",
+      "dapAn": ["40"],
+      "goiY": [
+        "Gọi vận tốc lúc đi là $x$ (km/h); vận tốc về là $x+20$.",
+        "Đổi $30$ phút $=0,5$ giờ; lập phương trình $\\dfrac{100}{x}-\\dfrac{120}{x+20}=0,5$."
+      ],
+      "loiGiai": [
+        "Gọi vận tốc lúc đi là $x$ (km/h, $x>0$); vận tốc lúc về là $x+20$ (km/h).",
+        "Thời gian đi: $\\dfrac{100}{x}$; thời gian về: $\\dfrac{120}{x+20}$.",
+        "Theo đề: $\\dfrac{100}{x}-\\dfrac{120}{x+20}=\\dfrac12$.",
+        "$\\Rightarrow 200(x+20)-240x=x(x+20) \\Leftrightarrow x^2+60x-4000=0$.",
+        "Giải được $x=40$ (nhận) hoặc $x=-100$ (loại). Vậy vận tốc lúc đi là $40$ km/h."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "5.1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, $BC=10$ cm, $\\widehat{ABC}=30^\\circ$. Tính $AC$ (cm).</p>",
+      "dapAn": ["5"],
+      "goiY": ["$AC$ là cạnh đối diện góc $B$, dùng $AC=BC\\cdot\\sin B$."],
+      "loiGiai": ["$AC=BC\\cdot\\sin30^\\circ=10\\cdot\\dfrac12=5$ cm."]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "5.2a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn nội tiếp $(O)$, các đường cao $AD,BE,CF$ cắt nhau tại $H$. Chứng minh tứ giác $AFHE$ nội tiếp.</p>",
+      "goiY": ["Chỉ ra $\\angle AFH=90^\\circ$ và $\\angle AEH=90^\\circ$."],
+      "loiGiai": [
+        "Vì $CF\\perp AB$ nên $\\angle AFH=90^\\circ$.",
+        "Vì $BE\\perp AC$ nên $\\angle AEH=90^\\circ$.",
+        "Tứ giác $AFHE$ có $\\angle AFH+\\angle AEH=180^\\circ$ nên nội tiếp đường tròn."
+      ]
+    },
+    {
+      "id": "c5c",
+      "soCau": 5,
+      "y": "5.2b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 5.2a, kẻ đường kính $AM$ của $(O)$. Chứng minh $AD\\cdot AM=AB\\cdot AC$.</p>",
+      "goiY": [
+        "$\\angle ABM=90^\\circ$ (góc nội tiếp chắn nửa đường tròn).",
+        "Chứng minh $\\triangle ABM\\sim\\triangle ADC$."
+      ],
+      "loiGiai": [
+        "Vì $AM$ là đường kính nên $\\angle ABM=90^\\circ$.",
+        "Xét $\\triangle ABM$ và $\\triangle ADC$: $\\angle ABM=\\angle ADC=90^\\circ$; $\\angle AMB=\\angle ACB$ (cùng chắn cung $AB$), mà $\\angle ACB=\\angle ACD$.",
+        "Do đó $\\triangle ABM\\sim\\triangle ADC$ (g.g), suy ra $\\dfrac{AB}{AD}=\\dfrac{AM}{AC}$.",
+        "Vậy $AB\\cdot AC=AD\\cdot AM$."
+      ]
+    },
+    {
+      "id": "c5d",
+      "soCau": 5,
+      "y": "5.2c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 5.2a, gọi $K$ là trung điểm của $BC$. Chứng minh $H,K,M$ thẳng hàng.</p>",
+      "goiY": [
+        "$BM\\perp AB$ và $CH\\perp AB$ nên $BM\\parallel CH$.",
+        "Tương tự $CM\\parallel BH$, suy ra $BHCM$ là hình bình hành."
+      ],
+      "loiGiai": [
+        "Ta có $\\angle ABM=90^\\circ$ nên $BM\\perp AB$; lại có $CH\\perp AB$ (vì $CF$ là đường cao), suy ra $BM\\parallel CH$.",
+        "Tương tự $\\angle ACM=90^\\circ$ nên $CM\\perp AC$; mà $BH\\perp AC$ nên $CM\\parallel BH$.",
+        "Tứ giác $BHCM$ có $BM\\parallel CH$ và $CM\\parallel BH$ nên là hình bình hành.",
+        "Hai đường chéo $BC$ và $HM$ cắt nhau tại trung điểm mỗi đường. $K$ là trung điểm $BC$ nên $K$ cũng là trung điểm $HM$.",
+        "Vậy $H,K,M$ thẳng hàng."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Bác Quang làm một cửa sổ gồm một hình chữ nhật ghép với nửa hình tròn, tâm nửa đường tròn là trung điểm cạnh trên của hình chữ nhật. Tổng độ dài đường viền cửa sổ là $6$ m. Tính diện tích lớn nhất của cửa sổ (m², làm tròn đến hàng phần trăm).</p>",
+      "dapAn": ["2,52", "18/(π+4)"],
+      "goiY": [
+        "Gọi chiều rộng hình chữ nhật là $2x$ thì bán kính nửa đường tròn là $x$; gọi chiều cao hình chữ nhật là $h$.",
+        "Chu vi: $\\pi x+2h+2x=6$; diện tích: $S=2xh+\\dfrac{\\pi x^2}{2}$."
+      ],
+      "loiGiai": [
+        "Gọi chiều rộng hình chữ nhật là $2x$ ($x>0$), chiều cao là $h$. Bán kính nửa đường tròn là $x$.",
+        "Tổng đường viền: $\\pi x+2h+2x=6 \\Rightarrow h=3-x\\left(\\dfrac{\\pi}{2}+1\\right)$.",
+        "Diện tích: $S=2xh+\\dfrac{\\pi x^2}{2}=2x\\left[3-x\\left(\\dfrac{\\pi}{2}+1\\right)\\right]+\\dfrac{\\pi x^2}{2}=6x-\\left(\\dfrac{\\pi}{2}+2\\right)x^2$.",
+        "Đây là tam thức bậc hai có hệ số $a<0$, đạt giá trị lớn nhất tại $x=\\dfrac{6}{2(\\frac{\\pi}{2}+2)}=\\dfrac{6}{\\pi+4}$.",
+        "Khi đó $S_{\\max}=\\dfrac{18}{\\pi+4}\\approx2,52$ m²."
+      ],
+      "hinhAnh": {
+        "duongDan": "images/lai-chau-2026/cau-6.svg",
+        "moTa": "Cửa sổ gồm hình chữ nhật phía dưới và nửa hình tròn phía trên, tâm nửa đường tròn là trung điểm cạnh trên."
+      }
+    }
+  ]
+}

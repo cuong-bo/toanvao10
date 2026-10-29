@@ -1,0 +1,343 @@
+{
+  "id": "son-la-2021",
+  "tinh": "Sơn La",
+  "nam": 2021,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Sơn La — đề chính thức",
+    "url": "https://thcs.toanmath.com/2021/07/de-thi-tuyen-sinh-lop-10-mon-toan-nam-2021-2022-so-gddt-son-la.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 14/6/2021, gồm 10 câu trắc nghiệm (2 điểm) và 5 câu tự luận (8 điểm). Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "tn1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Căn bậc hai số học của $5$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$-\\sqrt5$" },
+        { "ma": "B", "noiDung": "$\\sqrt5$" },
+        { "ma": "C", "noiDung": "$25$" },
+        { "ma": "D", "noiDung": "$-25$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Căn bậc hai số học là số không âm."],
+      "loiGiai": ["Căn bậc hai số học của $5$ là $\\sqrt5$. Chọn B."]
+    },
+    {
+      "id": "tn2",
+      "soCau": 2,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Phương trình nào dưới đây là phương trình bậc nhất một ẩn?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x^2+2x-3=0$" },
+        { "ma": "B", "noiDung": "$x+\\dfrac1x-1=0$" },
+        { "ma": "C", "noiDung": "$2x+3=0$" },
+        { "ma": "D", "noiDung": "$x^3+x^2-1=0$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Dạng $ax+b=0$ với $a\\ne0$."],
+      "loiGiai": ["$2x+3=0$ là phương trình bậc nhất một ẩn. Chọn C."]
+    },
+    {
+      "id": "tn3",
+      "soCau": 3,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hàm số $y=mx+5$ đồng biến trên $\\mathbb R$ khi</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$m>0$" },
+        { "ma": "B", "noiDung": "$m<0$" },
+        { "ma": "C", "noiDung": "$m=0$" },
+        { "ma": "D", "noiDung": "$m\\ne0$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Hàm số $y=ax+b$ đồng biến khi $a>0$."],
+      "loiGiai": ["Cần $m>0$. Chọn A."]
+    },
+    {
+      "id": "tn4",
+      "soCau": 4,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tam giác $OAB$ vuông tại $O$, $OH\\perp AB$ tại $H$. Khẳng định nào đúng?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac1{OH^2}=\\dfrac1{HA^2}+\\dfrac1{HB^2}$" },
+        { "ma": "B", "noiDung": "$\\dfrac1{OH^2}=\\dfrac1{OA^2}+\\dfrac1{OB^2}$" },
+        { "ma": "C", "noiDung": "$\\dfrac1{OH^2}=\\dfrac1{OA^2}\\cdot\\dfrac1{OB^2}$" },
+        { "ma": "D", "noiDung": "$\\dfrac1{OH^2}=\\dfrac1{OA^2}-\\dfrac1{OB^2}$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Hệ thức lượng trong tam giác vuông."],
+      "loiGiai": ["$\\dfrac1{OH^2}=\\dfrac1{OA^2}+\\dfrac1{OB^2}$. Chọn B."]
+    },
+    {
+      "id": "tn5",
+      "soCau": 5,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hai đường tròn $(O;2\\text{ cm})$ và $(O';6\\text{ cm})$ tiếp xúc ngoài với nhau khi $OO'$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$3$ cm" },
+        { "ma": "B", "noiDung": "$4$ cm" },
+        { "ma": "C", "noiDung": "$12$ cm" },
+        { "ma": "D", "noiDung": "$8$ cm" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Tiếp xúc ngoài khi $OO'=R+r$."],
+      "loiGiai": ["$OO'=2+6=8$ cm. Chọn D."]
+    },
+    {
+      "id": "tn6",
+      "soCau": 6,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hệ phương trình $\\begin{cases}x+y=-3\\\\2x-y=3\\end{cases}$ có nghiệm là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$(-3;0)$" },
+        { "ma": "B", "noiDung": "$(3;3)$" },
+        { "ma": "C", "noiDung": "$(0;-3)$" },
+        { "ma": "D", "noiDung": "$(0;3)$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Cộng hai phương trình."],
+      "loiGiai": ["Cộng: $3x=0 \\Rightarrow x=0$, suy ra $y=-3$. Chọn C."]
+    },
+    {
+      "id": "tn7",
+      "soCau": 7,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đồ thị hàm số $y=\\dfrac12x^2$ đi qua điểm nào?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$M(0;1)$" },
+        { "ma": "B", "noiDung": "$N\\left(0;\\dfrac12\\right)$" },
+        { "ma": "C", "noiDung": "$P(1;1)$" },
+        { "ma": "D", "noiDung": "$Q(0;0)$" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Thay toạ độ vào công thức."],
+      "loiGiai": ["$x=0\\Rightarrow y=0$ nên $Q(0;0)$ thuộc đồ thị. Chọn D."]
+    },
+    {
+      "id": "tn8",
+      "soCau": 8,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Phương trình $x^2-5x-7=0$ có hai nghiệm $x_1,x_2$. Giá trị $x_1x_2$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$-7$" },
+        { "ma": "B", "noiDung": "$7$" },
+        { "ma": "C", "noiDung": "$-5$" },
+        { "ma": "D", "noiDung": "$5$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Vi-ét: $x_1x_2=\\dfrac ca$."],
+      "loiGiai": ["$x_1x_2=\\dfrac{-7}{1}=-7$. Chọn A."]
+    },
+    {
+      "id": "tn9",
+      "soCau": 9,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Góc nội tiếp chắn nửa đường tròn có số đo bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$45^\\circ$" },
+        { "ma": "B", "noiDung": "$60^\\circ$" },
+        { "ma": "C", "noiDung": "$90^\\circ$" },
+        { "ma": "D", "noiDung": "$180^\\circ$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Nửa đường tròn có số đo $180^\\circ$."],
+      "loiGiai": ["Góc nội tiếp bằng nửa $180^\\circ$, tức $90^\\circ$. Chọn C."]
+    },
+    {
+      "id": "tn10",
+      "soCau": 10,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Thể tích hình cầu bán kính $R$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac13\\pi R^3$" },
+        { "ma": "B", "noiDung": "$\\dfrac43\\pi R^3$" },
+        { "ma": "C", "noiDung": "$4\\pi R^3$" },
+        { "ma": "D", "noiDung": "$\\dfrac34\\pi R^3$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Công thức thể tích hình cầu."],
+      "loiGiai": ["$V=\\dfrac43\\pi R^3$. Chọn B."]
+    },
+    {
+      "id": "tl1a",
+      "soCau": 11,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 1.</b> Tính $M=\\sqrt{75}-\\sqrt{12}-\\sqrt{48}+\\sqrt3$.</p>",
+      "dapAn": ["0"],
+      "goiY": ["Đưa về $\\sqrt3$: $5\\sqrt3-2\\sqrt3-4\\sqrt3+\\sqrt3$."],
+      "loiGiai": ["$M=5\\sqrt3-2\\sqrt3-4\\sqrt3+\\sqrt3=0$."]
+    },
+    {
+      "id": "tl1b",
+      "soCau": 11,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn $P=\\dfrac{\\sqrt x}{\\sqrt x-1}+\\dfrac3{\\sqrt x+1}-\\dfrac{4\\sqrt x-3}{x-1}$ với $x\\ge0,x\\ne1$.</p>",
+      "goiY": ["Quy đồng mẫu $x-1$."],
+      "loiGiai": [
+        "$P=\\dfrac{\\sqrt x(\\sqrt x+1)+3(\\sqrt x-1)-(4\\sqrt x-3)}{x-1}$.",
+        "$=\\dfrac{x+\\sqrt x+3\\sqrt x-3-4\\sqrt x+3}{x-1}=\\dfrac{x}{x-1}$."
+      ]
+    },
+    {
+      "id": "tl2a",
+      "soCau": 12,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+5x-6=0$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": ["1"],
+      "goiY": ["$1+5-6=0$ nên có nghiệm $x=1$."],
+      "loiGiai": ["$a+b+c=1+5-6=0$ nên $x_1=1$, $x_2=-6$. Nghiệm lớn hơn là $1$."]
+    },
+    {
+      "id": "tl2b",
+      "soCau": 12,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $x^2-2mx+4m-4=0$. Tìm $m$ để phương trình có hai nghiệm $x_1,x_2$ thoả mãn $x_1^2+x_2^2-8=0$.</p>",
+      "dapAn": ["0"],
+      "goiY": ["$\\Delta'=(m-2)^2$; hai nghiệm phân biệt khi $m\\ne2$."],
+      "loiGiai": [
+        "$\\Delta'=m^2-(4m-4)=(m-2)^2>0 \\Leftrightarrow m\\ne2$.",
+        "Vi-ét: $x_1+x_2=2m$, $x_1x_2=4m-4$.",
+        "$x_1^2+x_2^2=4m^2-2(4m-4)=4m^2-8m+8=8 \\Rightarrow 4m(m-2)=0$.",
+        "Kết hợp $m\\ne2$ được $m=0$."
+      ]
+    },
+    {
+      "id": "tl3",
+      "soCau": 13,
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một trường THPT nhận $650$ hồ sơ đăng kí tuyển sinh, gồm đăng kí trực tuyến và trực tiếp. Số hồ sơ trực tuyến nhiều hơn trực tiếp $120$. Hỏi có bao nhiêu hồ sơ đăng kí trực tuyến?</p>",
+      "dapAn": ["385"],
+      "goiY": ["Gọi số hồ sơ trực tuyến là $x$, trực tiếp là $y$."],
+      "loiGiai": ["$x+y=650$, $x-y=120$. Cộng lại: $2x=770 \\Rightarrow x=385$."]
+    },
+    {
+      "id": "tl4a",
+      "soCau": 14,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn, đường cao $AD$, trực tâm $H$. Vẽ đường tròn tâm $I$ đường kính $BC$, từ $A$ kẻ tiếp tuyến $AM,AN$ ($M,N$ là tiếp điểm). Chứng minh $AMIN$ nội tiếp.</p>",
+      "goiY": ["$\\angle AMI=\\angle ANI=90^\\circ$."],
+      "loiGiai": [
+        "Vì $AM,AN$ là tiếp tuyến nên $IM\\perp AM$, $IN\\perp AN$.",
+        "Tứ giác $AMIN$ có $\\angle AMI+\\angle ANI=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "tl4b",
+      "soCau": 14,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $\\widehat{AMN}=\\widehat{ADN}$ và $\\widehat{AHN}=\\widehat{AND}$.</p>",
+      "goiY": [
+        "Dùng góc tạo bởi tiếp tuyến và dây cung, góc nội tiếp.",
+        "$A,M,N,I$ nội tiếp; $AD\\perp BC$."
+      ],
+      "loiGiai": [
+        "Vì $AM$ là tiếp tuyến của $(I)$ nên $\\widehat{AMN}=\\widehat{ANM}$ (tam giác $AMN$ cân).",
+        "Tứ giác $AMIN$ nội tiếp nên $\\widehat{AMN}=\\widehat{AIN}$ (cùng chắn cung $AN$).",
+        "Trong tam giác vuông $ADI$ và đường tròn đường kính $BC$, góc $\\widehat{AIN}$ bù với $\\widehat{ADN}$ theo tính chất góc nội tiếp, suy ra $\\widehat{AMN}=\\widehat{ADN}$.",
+        "Tương tự, từ $A,M,N,I$ nội tiếp và $AD\\perp BC$ suy ra $\\widehat{AHN}=\\widehat{AND}$."
+      ]
+    },
+    {
+      "id": "tl4c",
+      "soCau": 14,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $M,H,N$ thẳng hàng.</p>",
+      "goiY": ["$MN$ là đường đối cực của $A$ với đường tròn đường kính $BC$; $H$ nằm trên đường đối cực đó."],
+      "loiGiai": [
+        "Chọn hệ trục toạ độ với $I$ là gốc, $BC$ là trục $Ox$. Đặt $B(-R;0)$, $C(R;0)$ và $A(x_0;y_0)$.",
+        "Đường tròn $(I)$ có phương trình $x^2+y^2=R^2$.",
+        "Đường cao từ $A$ là $x=x_0$. Đường cao từ $B$ vuông góc với $AC$ có phương trình $y=\\dfrac{R-x_0}{y_0}(x+R)$.",
+        "Giao của hai đường cao là $H\\left(x_0;\\dfrac{R^2-x_0^2}{y_0}\\right)$.",
+        "Đường đối cực của $A$ với $(I)$ là $x_0x+y_0y=R^2$. Thay toạ độ $H$: $x_0^2+y_0\\cdot\\dfrac{R^2-x_0^2}{y_0}=R^2$, đúng.",
+        "Vì $M,N$ là hai tiếp điểm nên $MN$ là đường đối cực của $A$; do đó $H\\in MN$, tức $M,H,N$ thẳng hàng."
+      ]
+    },
+    {
+      "id": "tl5",
+      "soCau": 15,
+      "chuyenDe": "ham-so",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và $A(-3;9)$, $B(2;4)$. Tìm hoành độ của $M\\in(P)$ (với $-3<x<2$) sao cho diện tích tam giác $MAB$ lớn nhất.</p>",
+      "dapAn": ["-1/2"],
+      "goiY": [
+        "Đường thẳng $AB$: $y=-x+6$.",
+        "Diện tích $=\\dfrac12 AB\\cdot d(M,AB)$; biểu diễn theo $x$ và tìm max."
+      ],
+      "loiGiai": [
+        "Đường thẳng $AB$ có phương trình $y=-x+6$, hay $x+y-6=0$.",
+        "$AB=5\\sqrt2$; $d(M,AB)=\\dfrac{|x+x^2-6|}{\\sqrt2}$.",
+        "Với $-3<x<2$, $x^2+x-6<0$, nên $d=\\dfrac{6-x-x^2}{\\sqrt2}$.",
+        "$S=\\dfrac12\\cdot5\\sqrt2\\cdot\\dfrac{6-x-x^2}{\\sqrt2}=\\dfrac52(6-x-x^2)$.",
+        "$6-x-x^2=\\dfrac{25}{4}-\\left(x+\\dfrac12\\right)^2\\le\\dfrac{25}{4}$.",
+        "Dấu bằng khi $x=-\\dfrac12$. Vậy hoành độ cần tìm là $-\\dfrac12$."
+      ]
+    }
+  ]
+}

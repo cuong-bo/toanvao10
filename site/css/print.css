@@ -1,0 +1,43 @@
+/* In đề / xuất PDF */
+@page { margin: 14mm 13mm; }
+
+html, body { background: #fff !important; color: #000 !important; font-size: 11pt; }
+
+.topbar, .tabbar, .sitefooter, .preview-banner, .toast, .modal-back,
+.no-print, .take-top, .bottom-controls, .answer-area, .hint-zone,
+.print-toolbar, .btn, .toc, .qnav { display: none !important; }
+
+#main { max-width: none; padding: 0 !important; min-height: 0; }
+.wrap { max-width: none; padding: 0; }
+
+.print-head { display: block !important; margin-bottom: 14pt; text-align: center; }
+.print-head h1 { font-size: 15pt; margin: 0 0 2pt; }
+.print-head .sub { font-size: 9.5pt; }
+.print-meta { display: flex; justify-content: space-between; font-size: 9pt; margin: 6pt 0 10pt; border-bottom: 1px solid #999; padding-bottom: 5pt; }
+
+.qcard {
+  border: 0 !important; box-shadow: none !important; padding: 0 0 10pt !important;
+  break-inside: avoid; page-break-inside: avoid; background: none !important;
+}
+.qhead { margin-bottom: 5pt; }
+.qnum { background: none !important; color: #000 !important; min-width: 0; height: auto; padding: 0; font-size: 11pt; display: inline; }
+.qhead .chip { border: 0; background: none; color: #555; padding: 0; font-size: 8pt; }
+.qbody { font-size: 11pt; line-height: 1.5; }
+.figure img { max-height: 55mm; }
+.print-options { display: grid; grid-template-columns: 1fr 1fr; gap: 2pt 12pt; margin: 5pt 0 2pt; font-size: 10pt; }
+.solution { border: 1px solid #bbb; background: none; padding: 8pt; margin-top: 8pt; break-inside: avoid; }
+.solution h4 { color: #000; }
+.print-answer-key { break-before: page; page-break-before: always; }
+.print-answer-key h2 { font-size: 13pt; border-bottom: 1px solid #999; padding-bottom: 3pt; }
+.key-item { margin-bottom: 5pt; font-size: 10pt; }
+.print-footer { margin-top: 16pt; border-top: 1px solid #999; padding-top: 4pt; font-size: 8pt; color: #555; text-align: center; }
+
+.print-toolbar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+  padding: 12px 16px; border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--surface); margin-bottom: 18px;
+}
+.print-toolbar .grow { flex: 1; min-width: 180px; }
+
+.print-only { display: none; }
+@media screen { .print-only { display: none !important; } }

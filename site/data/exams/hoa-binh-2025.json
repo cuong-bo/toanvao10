@@ -1,0 +1,331 @@
+{
+  "id": "hoa-binh-2025",
+  "tinh": "Hòa Bình",
+  "nam": 2025,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2025–2026",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+    "url": "https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-hoa-binh.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 04/6/2025, gồm 8 câu trả lời ngắn (2 điểm) và 4 câu tự luận (8 điểm). Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1",
+      "soCau": 1,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm nghiệm của bất phương trình $x+2<0$. Nhập số nguyên lớn nhất thoả mãn.</p>",
+      "dapAn": ["-3"],
+      "goiY": ["$x+2<0 \\Leftrightarrow x<-2$."],
+      "loiGiai": ["$x<-2$. Số nguyên lớn nhất thoả mãn là $x=-3$."]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm các nghiệm của phương trình $x^2+3x+2=0$ rồi nhập tổng hai nghiệm.</p>",
+      "dapAn": ["-3"],
+      "goiY": ["Vi-ét: tổng hai nghiệm bằng $-\\dfrac ba$."],
+      "loiGiai": ["Phương trình có hai nghiệm $x=-1$, $x=-2$; tổng bằng $-3$ (hoặc Vi-ét $-\\dfrac31=-3$)."]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $\\sqrt{25}+\\sqrt4$.</p>",
+      "dapAn": ["7"],
+      "goiY": ["$\\sqrt{25}=5$, $\\sqrt4=2$."],
+      "loiGiai": ["$5+2=7$."]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm điều kiện xác định của biểu thức $\\sqrt{x-3}$. Nhập giá trị nhỏ nhất của $x$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["$x-3\\ge0$."],
+      "loiGiai": ["$x\\ge3$. Giá trị nhỏ nhất là $x=3$."]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Giá trị của hàm số $y=2x^2$ tại $x=3$ bằng bao nhiêu?</p>",
+      "dapAn": ["18"],
+      "goiY": ["Thay $x=3$ vào công thức."],
+      "loiGiai": ["$y=2\\cdot3^2=18$."]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$ có $AB=3$ cm, $AC=2$ cm. Tính $\\tan B$.</p>",
+      "dapAn": ["2/3"],
+      "goiY": ["$\\tan B=\\dfrac{\\text{cạnh đối}}{\\text{cạnh kề}}=\\dfrac{AC}{AB}$."],
+      "loiGiai": ["$\\tan B=\\dfrac{AC}{AB}=\\dfrac23$."]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Cô Mai thống kê quãng đường đi bộ mỗi ngày trong tháng tư: nhóm $[4;5)$ có tần số tương đối $10\\%$; $[5;6)$ có $40\\%$; $[6;7)$ có $20\\%$; $[7;8)$ có $20\\%$; $[8;9)$ có $10\\%$. Tần số tương đối của nhóm $[5;6)$ là bao nhiêu phần trăm?</p>",
+      "dapAn": ["40"],
+      "goiY": ["Đọc trực tiếp bảng thống kê."],
+      "loiGiai": ["Nhóm $[5;6)$ có tần số tương đối $40\\%$."]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p>Cho đường tròn $(O)$ và hai điểm $A,B$ như hình vẽ, $\\widehat{AOB}=120^\\circ$. Tính số đo cung lớn $AmB$.</p>",
+      "dapAn": ["240"],
+      "goiY": ["Cung nhỏ $AB$ có số đo $120^\\circ$; cả đường tròn $360^\\circ$."],
+      "loiGiai": ["Cung lớn $AmB=360^\\circ-120^\\circ=240^\\circ$."]
+    },
+    {
+      "id": "c9a",
+      "soCau": 9,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 9.</b> Giải hệ phương trình $\\begin{cases}3x-y=1\\\\x+y=3\\end{cases}$ và nhập $x$.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Cộng hai phương trình để khử $y$."],
+      "loiGiai": ["Cộng hai phương trình: $4x=4 \\Rightarrow x=1$; suy ra $y=2$."]
+    },
+    {
+      "id": "c9b",
+      "soCau": 9,
+      "y": "2",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $2(x+1)-3=0$.</p>",
+      "dapAn": ["1/2", "0,5"],
+      "goiY": ["$2x+2-3=0$."],
+      "loiGiai": ["$2x-1=0 \\Leftrightarrow x=\\dfrac12$."]
+    },
+    {
+      "id": "c9c",
+      "soCau": 9,
+      "y": "3a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Bạn Phúc gieo một con xúc xắc cân đối, đồng chất hai lần liên tiếp. Không gian mẫu có bao nhiêu phần tử?</p>",
+      "dapAn": ["36"],
+      "goiY": ["Mỗi lần có $6$ kết quả; hai lần có $6\\cdot6$."],
+      "loiGiai": ["$6\\cdot6=36$ kết quả."]
+    },
+    {
+      "id": "c9d",
+      "soCau": 9,
+      "y": "3b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với phép thử ở câu 3a, tính xác suất của biến cố $A$: “Tích số chấm xuất hiện của hai lần gieo là số chia hết cho $5$”.</p>",
+      "dapAn": ["11/36"],
+      "goiY": ["Tích chia hết cho $5$ khi ít nhất một lần gieo được mặt $5$."],
+      "loiGiai": [
+        "Số kết quả có thể là $36$. Số kết quả không có mặt $5$ nào là $5\\cdot5=25$.",
+        "Số kết quả thuận lợi là $36-25=11$. Xác suất là $\\dfrac{11}{36}$."
+      ]
+    },
+    {
+      "id": "c10a",
+      "soCau": 10,
+      "y": "1",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $2x^2-6x+1=0$ có hai nghiệm $x_1,x_2$. Không giải phương trình, tính $B=x_1^2+x_2^2+2025$.</p>",
+      "dapAn": ["2033"],
+      "goiY": ["Vi-ét: $x_1+x_2=3$, $x_1x_2=\\dfrac12$."],
+      "loiGiai": [
+        "$x_1+x_2=3$, $x_1x_2=\\dfrac12$.",
+        "$x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2=9-1=8$.",
+        "$B=8+2025=2033$."
+      ]
+    },
+    {
+      "id": "c10b",
+      "soCau": 10,
+      "y": "2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Năm ngoái, hai tổ sản xuất nông nghiệp thu hoạch tổng $3800$ tấn thóc. Năm nay, tổ 1 vượt $10\\%$, tổ 2 vượt $15\\%$ nên tổng thu hoạch là $4270$ tấn. Hỏi năm ngoái tổ 1 thu hoạch bao nhiêu tấn?</p>",
+      "dapAn": ["2000"],
+      "goiY": ["Gọi sản lượng năm ngoái của tổ 1 là $x$, tổ 2 là $y$ (tấn)."],
+      "loiGiai": [
+        "Gọi $x,y$ là sản lượng năm ngoái của tổ 1, tổ 2 ($x,y>0$). Ta có $x+y=3800$.",
+        "Năm nay: $1,1x+1,15y=4270$.",
+        "Nhân phương trình đầu với $1,1$: $1,1x+1,1y=4180$; trừ đi được $0,05y=90 \\Rightarrow y=1800$.",
+        "Suy ra $x=2000$ tấn."
+      ]
+    },
+    {
+      "id": "c11a",
+      "soCau": 11,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một xe bồn chở nước sạch cho cụm dân cư $100$ hộ. Bồn gồm thân hình trụ dài $3,2$ m, đường kính $1,8$ m, hai đầu là nửa hình cầu. Nước được chia đều cho từng hộ. Hỏi mỗi hộ nhận được bao nhiêu m³ nước (làm tròn đến chữ số thập phân thứ hai, lấy $\\pi=3,14$)?</p>",
+      "dapAn": ["0,11"],
+      "goiY": [
+        "Bán kính $r=0,9$ m. Thể tích bồn = thể tích trụ + thể tích hình cầu.",
+        "$V=\\pi r^2h+\\dfrac43\\pi r^3$; chia cho $100$."
+      ],
+      "loiGiai": [
+        "$r=0,9$ m; $V_{trụ}=\\pi\\cdot0,9^2\\cdot3,2=2,592\\pi$ m³.",
+        "$V_{cầu}=\\dfrac43\\pi\\cdot0,9^3=0,972\\pi$ m³.",
+        "$V=3,564\\pi\\approx11,19$ m³. Mỗi hộ: $11,19:100\\approx0,11$ m³."
+      ],
+      "hinhAnh": {
+        "duongDan": "images/hoa-binh-2025/cau-11.svg",
+        "moTa": "Bồn nước hình trụ dài 3,2 mét, đường kính 1,8 mét, hai đầu là nửa hình cầu."
+      }
+    },
+    {
+      "id": "c11b",
+      "soCau": 11,
+      "y": "2a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ nhọn nội tiếp $(O)$ ($AB<AC$). Các đường cao $BK,CN$ cắt nhau tại $H$. Chứng minh tứ giác $BNKC$ nội tiếp.</p>",
+      "goiY": ["$\\angle BKC=90^\\circ$, $\\angle BNC=90^\\circ$."],
+      "loiGiai": [
+        "Vì $BK\\perp AC$ nên $\\angle BKC=90^\\circ$.",
+        "Vì $CN\\perp AB$ nên $\\angle BNC=90^\\circ$.",
+        "Hai điểm $K,N$ cùng nhìn $BC$ dưới góc vuông nên $B,N,K,C$ cùng thuộc đường tròn đường kính $BC$."
+      ]
+    },
+    {
+      "id": "c11c",
+      "soCau": 11,
+      "y": "2b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 2a, kẻ đường kính $AM$ của $(O)$, kẻ $CE\\perp AM$ ($E\\in AM$). Chứng minh $\\widehat{ABH}=\\widehat{NEA}$.</p>",
+      "goiY": [
+        "$\\widehat{ABH}=90^\\circ-\\widehat A$ vì $BH\\perp AC$.",
+        "$A,N,E,C$ cùng thuộc đường tròn đường kính $AC$."
+      ],
+      "loiGiai": [
+        "Vì $BH\\perp AC$ nên $\\widehat{ABH}=90^\\circ-\\widehat{BAC}$.",
+        "Ta có $\\angle ANC=90^\\circ$ (vì $CN\\perp AB$) và $\\angle AEC=90^\\circ$ (vì $CE\\perp AM$), nên $A,N,E,C$ cùng thuộc đường tròn đường kính $AC$.",
+        "Do đó $\\widehat{NEA}=\\widehat{NCA}$ (cùng chắn cung $NA$).",
+        "Mà $\\widehat{NCA}=90^\\circ-\\widehat{BAC}$ (vì $CN\\perp AB$).",
+        "Vậy $\\widehat{ABH}=\\widehat{NEA}$."
+      ]
+    },
+    {
+      "id": "c11d",
+      "soCau": 11,
+      "y": "2c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 2a, cho $B,C$ cố định và $A$ di động trên cung lớn $BC$ sao cho tam giác $ABC$ nhọn, $AB<AC$. Chứng minh $NE$ luôn đi qua một điểm cố định.</p>",
+      "goiY": [
+        "Gọi $P$ là trung điểm $BC$. Chứng minh $P,N,E$ thẳng hàng.",
+        "Trong tam giác vuông $BNC$, $PN=PC$ nên $\\widehat{PNC}=\\widehat{PCN}$."
+      ],
+      "loiGiai": [
+        "Gọi $P$ là trung điểm $BC$ — điểm cố định khi $B,C$ cố định.",
+        "Tam giác $BNC$ vuông tại $N$, $P$ là trung điểm cạnh huyền $BC$ nên $PN=PC$, suy ra $\\widehat{PNC}=\\widehat{PCN}=\\widehat{BCN}=90^\\circ-\\widehat B$.",
+        "Tứ giác $A,N,E,C$ nội tiếp (câu b) nên $\\widehat{CNE}=\\widehat{CAE}$ (cùng chắn cung $CE$).",
+        "Vì $AM$ là đường kính nên $\\widehat{ACM}=90^\\circ$; lại có $\\widehat{AMC}=\\widehat{ABC}=\\widehat B$ (cùng chắn cung $AC$), suy ra $\\widehat{CAM}=90^\\circ-\\widehat B$.",
+        "Do đó $\\widehat{CNE}=90^\\circ-\\widehat B=\\widehat{PNC}$, nên $P,N,E$ thẳng hàng.",
+        "Vậy $NE$ luôn đi qua trung điểm $P$ của $BC$."
+      ]
+    },
+    {
+      "id": "c12a",
+      "soCau": 12,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}\\dfrac{x^2}{x-2}-\\dfrac{y^2}{y+1}=13\\\\\\dfrac4{x-2}+\\dfrac2{y+1}=1-x-2y\\end{cases}$. Nhập tổng tất cả các giá trị của $x$.</p>",
+      "dapAn": ["9"],
+      "goiY": [
+        "Đặt $a=x-2$, $b=y+1$ để đơn giản mẫu.",
+        "Từ phương trình thứ hai rút $\\dfrac4a$, thay vào phương trình đầu; chứng minh $b=-1$."
+      ],
+      "loiGiai": [
+        "Điều kiện $x\\ne2,\\ y\\ne-1$. Đặt $a=x-2$, $b=y+1$.",
+        "Phương trình đầu trở thành $a-b+\\dfrac4a-\\dfrac1b=7$ (1).",
+        "Phương trình thứ hai: $\\dfrac4a+\\dfrac2b=1-a-2b$ (2).",
+        "Từ (2) rút $\\dfrac4a=1-a-2b-\\dfrac2b$, thay vào (1): $-3b-\\dfrac3b=6 \\Rightarrow b+\\dfrac1b=-2 \\Rightarrow (b+1)^2=0 \\Rightarrow b=-1$.",
+        "Suy ra $y=-2$. Thay $b=-1$ vào (1): $a+1+\\dfrac4a+1=7 \\Rightarrow a^2-5a+4=0 \\Rightarrow a=1$ hoặc $a=4$.",
+        "Vậy $(x;y)=(3;-2)$ hoặc $(6;-2)$. Tổng các giá trị $x$ là $3+6=9$."
+      ]
+    },
+    {
+      "id": "c12b",
+      "soCau": 12,
+      "y": "2",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Một gia đình xây bể chứa nước hình hộp chữ nhật không nắp, thể tích $45$ m³, đáy có chiều dài gấp đôi chiều rộng. Giá thuê đáy $300\\,000$ đồng/m², thành bể $240\\,000$ đồng/m². Chi phí thuê nhân công thấp nhất là bao nhiêu triệu đồng?</p>",
+      "dapAn": ["16,2", "16200000"],
+      "goiY": [
+        "Gọi chiều rộng đáy là $x$ (m), chiều dài $2x$, chiều cao $h$.",
+        "$2x^2h=45 \\Rightarrow h=\\dfrac{45}{2x^2}$; tổng chi phí $=600000x^2+\\dfrac{32400000}{x}$."
+      ],
+      "loiGiai": [
+        "Gọi chiều rộng đáy là $x$ (m), chiều dài $2x$ (m), chiều cao $h$ (m).",
+        "$V=2x^2h=45 \\Rightarrow h=\\dfrac{45}{2x^2}$.",
+        "Diện tích đáy $2x^2$; diện tích thành $2h(x+2x)=6xh=\\dfrac{135}{x}$.",
+        "Chi phí: $C=300000\\cdot2x^2+240000\\cdot\\dfrac{135}{x}=600000x^2+\\dfrac{32\\,400\\,000}{x}$.",
+        "Áp dụng AM–GM hoặc đạo hàm, $C$ nhỏ nhất khi $x=3$ m.",
+        "$C_{\\min}=600000\\cdot9+\\dfrac{32\\,400\\,000}{3}=5\\,400\\,000+10\\,800\\,000=16\\,200\\,000$ đồng $=16,2$ triệu đồng."
+      ]
+    }
+  ]
+}

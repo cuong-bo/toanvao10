@@ -1,0 +1,1803 @@
+{
+  "id": "yen-bai-2022",
+  "tinh": "Yên Bái",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023 (mã đề 008)",
+  "thoiGian": 90,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Yên Bái — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-yen-bai.html"
+  },
+  "ghiChu": "Đề gốc 50 câu trắc nghiệm. Câu 39 bản in có đáp án không khớp (tính được m=6/5 nhưng không có trong A–D), nên được chuyển thành câu trả lời ngắn; 49 câu còn lại giữ nguyên, mỗi câu 0,2 điểm.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1",
+      "soCau": 1,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $\\triangle ABC$ vuông tại $A$ có $AB=3$ và $AC=4$. Độ dài $BC$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$25$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$7$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$5$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Dùng định lý Pythagore."
+      ],
+      "loiGiai": [
+        "$BC=\\sqrt{3^2+4^2}=5$. Chọn D."
+      ]
+    },
+    {
+      "id": "c2",
+      "soCau": 2,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Nghiệm của phương trình $2x+1=0$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x=\\dfrac12$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x=2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x=1$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x=-\\dfrac12$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Chuyển $1$ sang vế phải."
+      ],
+      "loiGiai": [
+        "$2x=-1 \\Leftrightarrow x=-\\dfrac12$. Chọn D."
+      ]
+    },
+    {
+      "id": "c3",
+      "soCau": 3,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Kết quả của phép nhân $(x+1)(x-2)$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x^2-x+2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x^2-3x+2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x^2-x-2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x^2+x-2$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Nhân từng hạng tử rồi thu gọn."
+      ],
+      "loiGiai": [
+        "$x^2-2x+x-2=x^2-x-2$. Chọn C."
+      ]
+    },
+    {
+      "id": "c4",
+      "soCau": 4,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Trong một đường tròn, góc nội tiếp chắn cung $80^\\circ$ có số đo bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$20^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$100^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$160^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$40^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Góc nội tiếp bằng nửa số đo cung bị chắn."
+      ],
+      "loiGiai": [
+        "$\\dfrac{80^\\circ}{2}=40^\\circ$. Chọn D."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Khẳng định nào sau đây đúng?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\sin37^\\circ=\\cos53^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\sin37^\\circ=\\cos43^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\sin37^\\circ=\\tan53^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\sin37^\\circ=\\cot53^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Hai góc phụ nhau thì sin góc này bằng cos góc kia."
+      ],
+      "loiGiai": [
+        "$37^\\circ+53^\\circ=90^\\circ$ nên $\\sin37^\\circ=\\cos53^\\circ$. Chọn A."
+      ]
+    },
+    {
+      "id": "c6",
+      "soCau": 6,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường thẳng đi qua $A(0;4)$ và song song với đường thẳng $y=\\dfrac13x-7$ có phương trình là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$y=\\dfrac13x+4$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=-3x+4$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=-3x-4$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=-\\dfrac13x+4$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Song song nên cùng hệ số góc; thay $A(0;4)$ tìm $b$."
+      ],
+      "loiGiai": [
+        "Hệ số góc $a=\\dfrac13$; $x=0,y=4$ nên $b=4$. Chọn A."
+      ]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đồ thị hàm số $y=-2022x^2$ đi qua điểm nào sau đây?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$N(-1;2022)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$Q(0;-2022)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$P(0;2022)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$M(-1;-2022)$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Thay toạ độ vào công thức."
+      ],
+      "loiGiai": [
+        "$x=-1 \\Rightarrow y=-2022\\cdot1=-2022$ nên $M(-1;-2022)$ thuộc đồ thị. Chọn D."
+      ]
+    },
+    {
+      "id": "c8",
+      "soCau": 8,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điều kiện của $x$ để $\\sqrt{5-x}$ có nghĩa là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x>5$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x\\ne5$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x\\le5$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x\\ge5$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "$\\sqrt A$ có nghĩa khi $A\\ge0$."
+      ],
+      "loiGiai": [
+        "$5-x\\ge0 \\Leftrightarrow x\\le5$. Chọn C."
+      ]
+    },
+    {
+      "id": "c9",
+      "soCau": 9,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Phương trình nào sau đây <b>không phải</b> là phương trình bậc nhất hai ẩn?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x+3y=-1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$-x+10y=5$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\dfrac1x-3y=-2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x+2y=-1$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Bậc nhất hai ẩn chỉ có $x,y$ với số mũ $1$."
+      ],
+      "loiGiai": [
+        "Phương trình C có $\\dfrac1x$ nên không phải bậc nhất. Chọn C."
+      ]
+    },
+    {
+      "id": "c10",
+      "soCau": 10,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điểm nào thuộc đồ thị hàm số $y=2x+2$?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$M(0;2)$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$P(1;0)$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$N(-1;2)$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$Q(0;-1)$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Thay toạ độ vào $y=2x+2$."
+      ],
+      "loiGiai": [
+        "$x=0 \\Rightarrow y=2$ nên $M(0;2)$ thuộc đồ thị. Chọn A."
+      ]
+    },
+    {
+      "id": "c11",
+      "soCau": 11,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điều kiện xác định của $P=\\sqrt{x-1}+\\dfrac1{x-2}$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x>2$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x\\ge1$ và $x\\ne2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x\\ge2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x\\ge1$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Căn có nghĩa khi $x\\ge1$, mẫu khác $0$ khi $x\\ne2$."
+      ],
+      "loiGiai": [
+        "Kết hợp: $x\\ge1$ và $x\\ne2$. Chọn B."
+      ]
+    },
+    {
+      "id": "c12",
+      "soCau": 12,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Mặt cầu có thể tích $V=288\\pi$ cm³. Đường kính mặt cầu bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$4$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$12$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$8$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$6$ cm"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "$V=\\dfrac43\\pi R^3$; tìm $R$ rồi nhân $2$."
+      ],
+      "loiGiai": [
+        "$\\dfrac43\\pi R^3=288\\pi \\Rightarrow R^3=216 \\Rightarrow R=6$; đường kính $12$ cm. Chọn B."
+      ]
+    },
+    {
+      "id": "c13",
+      "soCau": 13,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Nghiệm tổng quát của phương trình $-x+3y=1$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\begin{cases}x\\in\\mathbb R\\\\y=x+1\\end{cases}$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\begin{cases}x\\in\\mathbb R\\\\y=-\\dfrac13x+\\dfrac13\\end{cases}$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\begin{cases}x\\in\\mathbb R\\\\y=\\dfrac13x-\\dfrac13\\end{cases}$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\begin{cases}x\\in\\mathbb R\\\\y=\\dfrac13x+\\dfrac13\\end{cases}$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Rút $y$ theo $x$."
+      ],
+      "loiGiai": [
+        "$3y=x+1 \\Rightarrow y=\\dfrac13x+\\dfrac13$. Chọn D."
+      ]
+    },
+    {
+      "id": "c14",
+      "soCau": 14,
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $x,y$ thoả mãn $\\dfrac x2=\\dfrac y5$ và $x+y=14$. Giá trị của $x$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$x=-4$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$x=10$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$x=4$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$x=-10$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Đặt $x=2k$, $y=5k$."
+      ],
+      "loiGiai": [
+        "$2k+5k=14 \\Rightarrow k=2 \\Rightarrow x=4$. Chọn C."
+      ]
+    },
+    {
+      "id": "c15",
+      "soCau": 15,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Số phần tử của tập hợp $A=\\{a;b;c;d\\}$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$5$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$2$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Đếm các phần tử phân biệt."
+      ],
+      "loiGiai": [
+        "Tập $A$ có $4$ phần tử. Chọn B."
+      ]
+    },
+    {
+      "id": "c16",
+      "soCau": 16,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho hàm số $y=(m-1)x^2$. Tập giá trị của $m$ để đồ thị là parabol nằm phía dưới trục hoành là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$m>1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$m\\ne1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$m=1$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$m<1$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Parabol bề lõm hướng xuống khi hệ số $a<0$."
+      ],
+      "loiGiai": [
+        "$m-1<0 \\Leftrightarrow m<1$. Chọn D."
+      ]
+    },
+    {
+      "id": "c17",
+      "soCau": 17,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường thẳng đi qua $P(-1;4)$ và $Q(2;-5)$ có phương trình là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$y=-3x+1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=-2x-1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=x-3$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=x+3$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Tính hệ số góc $a=\\dfrac{y_Q-y_P}{x_Q-x_P}$ rồi thay điểm."
+      ],
+      "loiGiai": [
+        "$a=\\dfrac{-5-4}{2-(-1)}=-3$; $4=-3(-1)+b \\Rightarrow b=1$. Chọn A."
+      ]
+    },
+    {
+      "id": "c18",
+      "soCau": 18,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $\\cos\\alpha=\\dfrac35$ với $0^\\circ<\\alpha<90^\\circ$. Giá trị của $\\tan\\alpha$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\dfrac43$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\dfrac34$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\dfrac45$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\dfrac53$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "$\\sin^2\\alpha+\\cos^2\\alpha=1$; $\\tan=\\dfrac{\\sin}{\\cos}$."
+      ],
+      "loiGiai": [
+        "$\\sin\\alpha=\\dfrac45$ nên $\\tan\\alpha=\\dfrac{4/5}{3/5}=\\dfrac43$. Chọn A."
+      ]
+    },
+    {
+      "id": "c19",
+      "soCau": 19,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $A,B$ thuộc đường tròn $(O)$, $\\widehat{AOB}=55^\\circ$. Số đo cung nhỏ $AB$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$35^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$55^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$110^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$135^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Góc ở tâm bằng số đo cung bị chắn."
+      ],
+      "loiGiai": [
+        "Cung nhỏ $AB$ có số đo bằng $\\widehat{AOB}=55^\\circ$. Chọn B."
+      ]
+    },
+    {
+      "id": "c20",
+      "soCau": 20,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho hai đường tròn $(O;3\\text{ cm})$ và $(O';2\\text{ cm})$, $OO'=4\\text{ cm}$. Vị trí tương đối là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "không có điểm chung"
+        },
+        {
+          "ma": "B",
+          "noiDung": "cắt nhau"
+        },
+        {
+          "ma": "C",
+          "noiDung": "tiếp xúc trong"
+        },
+        {
+          "ma": "D",
+          "noiDung": "tiếp xúc ngoài"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "So sánh $OO'$ với $R+r$ và $|R-r|$."
+      ],
+      "loiGiai": [
+        "$|3-2|=1<4<5=3+2$ nên hai đường tròn cắt nhau. Chọn B."
+      ]
+    },
+    {
+      "id": "c21",
+      "soCau": 21,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Công thức thể tích $V$ của hình trụ bán kính đáy $r$, chiều cao $h$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$V=\\dfrac13\\pi r^2h$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$V=\\pi r^2h$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$V=\\dfrac13\\pi rh$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$V=2\\pi rh$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Thể tích trụ bằng diện tích đáy nhân chiều cao."
+      ],
+      "loiGiai": [
+        "$V=\\pi r^2h$. Chọn B."
+      ]
+    },
+    {
+      "id": "c22",
+      "soCau": 22,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $\\triangle ABC$ vuông tại $A$, $\\widehat{ABC}=30^\\circ$, $BC=4$ cm. Độ dài $AC$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$2$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$6$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2\\sqrt3$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4\\sqrt3$ cm"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "$AC=BC\\sin B$."
+      ],
+      "loiGiai": [
+        "$AC=4\\sin30^\\circ=2$ cm. Chọn A."
+      ]
+    },
+    {
+      "id": "c23",
+      "soCau": 23,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho đường tròn $(O;25\\text{ cm})$. Dây lớn nhất của đường tròn có độ dài bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$25$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$20$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$50$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$625\\sqrt3$ cm"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Dây lớn nhất là đường kính."
+      ],
+      "loiGiai": [
+        "$2R=50$ cm. Chọn C."
+      ]
+    },
+    {
+      "id": "c24",
+      "soCau": 24,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Số ước nguyên dương của $24$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$12$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$8$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$24$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "$24=2^3\\cdot3$ nên số ước là $(3+1)(1+1)$."
+      ],
+      "loiGiai": [
+        "Số ước là $4\\cdot2=8$. Chọn C."
+      ]
+    },
+    {
+      "id": "c25",
+      "soCau": 25,
+      "chuyenDe": "bdt",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giá trị lớn nhất của $M=-x^2+4x-10$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$-5$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$6$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$-6$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$0$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Đưa về dạng $-(x-2)^2-6$."
+      ],
+      "loiGiai": [
+        "$M=-(x^2-4x+4)-6=-(x-2)^2-6\\le-6$. Chọn C."
+      ]
+    },
+    {
+      "id": "c26",
+      "soCau": 26,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho nửa đường tròn đường kính $AB$ và $C$ thuộc nửa đường tròn sao cho số đo cung $AC$ bằng $120^\\circ$. Kẻ tiếp tuyến $Ax$ với nửa đường tròn. Số đo góc hợp bởi $Ax$ và $AC$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$70^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$30^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$120^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$60^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Góc giữa tiếp tuyến và dây bằng góc nội tiếp chắn dây đó."
+      ],
+      "loiGiai": [
+        "Góc giữa $Ax$ và $AC$ bằng $\\widehat{ABC}=\\dfrac12\\cdot120^\\circ=60^\\circ$. Chọn D."
+      ]
+    },
+    {
+      "id": "c27",
+      "soCau": 27,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho đường tròn $(O;5\\text{ cm})$. Khoảng cách từ $O$ đến đường thẳng $d$ là $6$ cm. Số điểm chung của $d$ và đường tròn là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "vô số"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$0$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$2$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "So sánh khoảng cách với bán kính."
+      ],
+      "loiGiai": [
+        "$6>5$ nên $d$ không cắt đường tròn: $0$ điểm chung. Chọn C."
+      ]
+    },
+    {
+      "id": "c28",
+      "soCau": 28,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Biểu thức $2^3\\cdot2^4\\cdot2^5$ có giá trị bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$2^7$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$2^{12}$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2^9$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$2^{60}$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Nhân luỹ thừa cùng cơ số: cộng số mũ."
+      ],
+      "loiGiai": [
+        "$2^{3+4+5}=2^{12}$. Chọn B."
+      ]
+    },
+    {
+      "id": "c29",
+      "soCau": 29,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hệ số góc của đường thẳng $y=5x-1$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$-1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$5$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$-5$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Hệ số góc là hệ số của $x$."
+      ],
+      "loiGiai": [
+        "Hệ số góc là $5$. Chọn C."
+      ]
+    },
+    {
+      "id": "c30",
+      "soCau": 30,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Gọi $x_1,x_2$ là hai nghiệm của $2x^2-3x+1=0$. Khi đó $x_1x_2$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$-\\dfrac32$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$-\\dfrac12$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\dfrac32$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\dfrac12$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Vi-ét: $x_1x_2=\\dfrac ca$."
+      ],
+      "loiGiai": [
+        "$x_1x_2=\\dfrac12$. Chọn D."
+      ]
+    },
+    {
+      "id": "c31",
+      "soCau": 31,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giá trị của biểu thức $\\sqrt{25}-3$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$16$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$22$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$-8$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "$\\sqrt{25}=5$."
+      ],
+      "loiGiai": [
+        "$5-3=2$. Chọn C."
+      ]
+    },
+    {
+      "id": "c32",
+      "soCau": 32,
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hàm số nào dưới đây đồng biến trên $\\mathbb R$?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$y=-2x+3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$y=-3-x$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$y=3-4x$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$y=2x+1$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Hàm số $y=ax+b$ đồng biến khi $a>0$."
+      ],
+      "loiGiai": [
+        "$y=2x+1$ có $a=2>0$. Chọn D."
+      ]
+    },
+    {
+      "id": "c33",
+      "soCau": 33,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Số nghiệm của phương trình $x^2-6x+10=0$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$0$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$3$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$1$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Tính $\\Delta=b^2-4ac$."
+      ],
+      "loiGiai": [
+        "$\\Delta=36-40=-4<0$ nên vô nghiệm. Chọn A."
+      ]
+    },
+    {
+      "id": "c34",
+      "soCau": 34,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tứ giác nội tiếp $ABCD$ có $\\widehat A=70^\\circ$ và $\\widehat B=60^\\circ$. Khẳng định nào đúng?</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\widehat D=110^\\circ$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\widehat C=120^\\circ$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\widehat D=130^\\circ$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\widehat C=110^\\circ$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Tổng hai góc đối bằng $180^\\circ$."
+      ],
+      "loiGiai": [
+        "$\\widehat C=180^\\circ-\\widehat A=110^\\circ$; $\\widehat D=180^\\circ-\\widehat B=120^\\circ$. Chọn D."
+      ]
+    },
+    {
+      "id": "c35",
+      "soCau": 35,
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giá trị của biểu thức $\\dfrac{\\sqrt8-\\sqrt{27}}{\\sqrt2-\\sqrt3}-\\sqrt6$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$5+2\\sqrt6$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$5$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$5-2\\sqrt6$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Nhân liên hợp; $\\sqrt8=2\\sqrt2$, $\\sqrt{27}=3\\sqrt3$."
+      ],
+      "loiGiai": [
+        "$\\dfrac{2\\sqrt2-3\\sqrt3}{\\sqrt2-\\sqrt3}=5+\\sqrt6$ (nhân liên hợp); trừ $\\sqrt6$ được $5$. Chọn C."
+      ]
+    },
+    {
+      "id": "c36",
+      "soCau": 36,
+      "chuyenDe": "rut-gon",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Rút gọn $A=\\dfrac{4x}{x-9}+\\dfrac{\\sqrt x+3}{\\sqrt x-3}-\\dfrac{\\sqrt x-3}{\\sqrt x+3}$ ($x\\ge0,x\\ne9$) được $\\dfrac{m\\sqrt x+n}{\\sqrt x-3}$. Giá trị $m-n$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$-4$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$3$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Quy đồng mẫu $x-9$; tử là $4\\sqrt x(\\sqrt x+3)$."
+      ],
+      "loiGiai": [
+        "$A=\\dfrac{4x+(\\sqrt x+3)^2-(\\sqrt x-3)^2}{x-9}=\\dfrac{4x+12\\sqrt x}{x-9}=\\dfrac{4\\sqrt x}{\\sqrt x-3}$. Vậy $m=4,n=0,m-n=4$. Chọn A."
+      ]
+    },
+    {
+      "id": "c37",
+      "soCau": 37,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hai đường tròn $(O;12\\text{ cm})$ và $(I;16\\text{ cm})$ cắt nhau tại $A,B$, $AB=19,2$ cm. Khoảng cách $OI$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$20$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$9,8$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$9,6$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$5,6$ cm"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Khoảng cách từ mỗi tâm đến dây chung; cộng lại."
+      ],
+      "loiGiai": [
+        "Nửa dây $9,6$. Khoảng cách từ $O$: $\\sqrt{12^2-9,6^2}=7,2$; từ $I$: $\\sqrt{16^2-9,6^2}=12,8$. $OI=20$ cm. Chọn A."
+      ]
+    },
+    {
+      "id": "c38",
+      "soCau": 38,
+      "chuyenDe": "ham-so",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $(P):y=x^2$ và $(d):y=2mx-m+3$. Tìm $m$ để $(P)$ và $(d)$ cắt nhau tại hai điểm phân biệt có hoành độ $x_1,x_2$ thoả mãn $\\dfrac1{x_1}+\\dfrac1{x_2}=\\dfrac32$.</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$m=6$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$m=9$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$m=-6$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$m=-9$"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Phương trình hoành độ $x^2-2mx+m-3=0$; dùng Vi-ét."
+      ],
+      "loiGiai": [
+        "$\\Delta'=m^2-m+3>0$ luôn đúng. $x_1+x_2=2m$, $x_1x_2=m-3$. $\\dfrac1{x_1}+\\dfrac1{x_2}=\\dfrac{2m}{m-3}=\\dfrac32 \\Rightarrow 4m=3m-9 \\Rightarrow m=-9$ (thoả $m\\ne3$). Chọn D."
+      ]
+    },
+    {
+      "id": "c39",
+      "soCau": 39,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "dapanso",
+      "deBai": "<p>Giá trị của tham số $m$ để hệ phương trình $\\begin{cases}x+y=5m+1\\\\x+3y=5m+3\\end{cases}$ có nghiệm duy nhất $(x;y)$ thoả mãn $x-y=5$ là bao nhiêu? <span class=\"muted\">(Bản in gốc không có phương án đúng; hãy nhập giá trị tính được.)</span></p>",
+      "dapAn": [
+        "6/5",
+        "1,2"
+      ],
+      "goiY": [
+        "Trừ hai phương trình để tìm $y$; thay lại tìm $x$ theo $m$.",
+        "Điều kiện $x-y=5$ cho phương trình theo $m$."
+      ],
+      "loiGiai": [
+        "Trừ vế theo vế: $(x+3y)-(x+y)=2y=2 \\Rightarrow y=1$.",
+        "Thay vào $x+y=5m+1$: $x=5m$.",
+        "Điều kiện $x-y=5 \\Rightarrow 5m-1=5 \\Rightarrow m=\\dfrac65$.",
+        "Vậy $m=\\dfrac65$ (bản in gốc không có phương án này)."
+      ]
+    },
+    {
+      "id": "c40",
+      "soCau": 40,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $\\triangle ABC$ vuông tại $A$, đường cao $AH$ ($H\\in BC$). Biết $HB=12,5$ cm và $\\widehat B=65^\\circ$. Độ dài $AC$ (làm tròn đến chữ số thập phân thứ hai) bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$64,41$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$63,43$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$13,78$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$25$ cm"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Tính $AB=\\dfrac{HB}{\\cos B}$ rồi $AC=AB\\tan B$."
+      ],
+      "loiGiai": [
+        "$AB=\\dfrac{12,5}{\\cos65^\\circ}\\approx29,58$; $AC=AB\\tan65^\\circ\\approx63,43$ cm. Chọn B."
+      ]
+    },
+    {
+      "id": "c41",
+      "soCau": 41,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Số nghiệm của phương trình $2x^4-3x^2-20=0$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$4$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$0$"
+        }
+      ],
+      "dapAn": [
+        "B"
+      ],
+      "goiY": [
+        "Đặt $t=x^2\\ge0$."
+      ],
+      "loiGiai": [
+        "$2t^2-3t-20=0 \\Rightarrow t=4$ (nhận) hoặc $t=-2,5$ (loại). $x^2=4$ có $2$ nghiệm. Chọn B."
+      ]
+    },
+    {
+      "id": "c42",
+      "soCau": 42,
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Khoảng cách từ $O(0;0)$ đến đường thẳng $4x-3y+10=0$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$10$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$5$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Công thức $d=\\dfrac{|ax_0+by_0+c|}{\\sqrt{a^2+b^2}}$."
+      ],
+      "loiGiai": [
+        "$d=\\dfrac{|10|}{\\sqrt{16+9}}=2$. Chọn C."
+      ]
+    },
+    {
+      "id": "c43",
+      "soCau": 43,
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $x^2-2x-m+1=0$. Điều kiện của $m$ để phương trình có hai nghiệm trái dấu là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$m>3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$m<-1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$m>1$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$m>2$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Hai nghiệm trái dấu khi $ac<0$."
+      ],
+      "loiGiai": [
+        "$1(1-m)<0 \\Leftrightarrow m>1$. Chọn C."
+      ]
+    },
+    {
+      "id": "c44",
+      "soCau": 44,
+      "chuyenDe": "ham-so",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường thẳng $y=ax+b$ song song với $y=4x-3$, cắt $Ox$ tại $A$, $Oy$ tại $B$. Biết $S_{\\triangle OAB}=2$. Giá trị $T=a^2+b^2$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$40$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$24$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$32$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$16$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Song song nên $a=4$; diện tích $=\\dfrac{b^2}{8}$."
+      ],
+      "loiGiai": [
+        "$a=4$; $S=\\dfrac12\\cdot\\dfrac{|b|}{4}\\cdot|b|=\\dfrac{b^2}{8}=2 \\Rightarrow b^2=16$. $T=16+16=32$. Chọn C."
+      ]
+    },
+    {
+      "id": "c45",
+      "soCau": 45,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $(O;15\\text{ cm})$, dây $AB=24$ cm. Tiếp tuyến song song với $AB$ cắt các tia $OA,OB$ tại $E,F$. Độ dài $EF$ bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$48$ cm"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$42$ cm"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$40$ cm"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$20$ cm"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Khoảng cách từ $O$ đến $AB$ là $9$ cm; dùng tam giác đồng dạng tỉ số $15:9$."
+      ],
+      "loiGiai": [
+        "$d(O,AB)=\\sqrt{15^2-12^2}=9$. Tiếp tuyến cách $O$ $15$ cm nên $\\dfrac{EF}{AB}=\\dfrac{15}{9}=\\dfrac53$; $EF=40$ cm. Chọn C."
+      ]
+    },
+    {
+      "id": "c46",
+      "soCau": 46,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho đường tròn $(O)$ đường kính $AB=2\\sqrt3$ cm, $C$ là điểm chính giữa cung $AB$. Cung $AmB$ có tâm $C$, bán kính $CA$. Diện tích phần gạch chéo (phần giữa nửa đường tròn và cung $AmB$) bằng</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$\\dfrac94$ cm²"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\dfrac{4\\pi}{3}$ cm²"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$3\\pi$ cm²"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$3$ cm²"
+        }
+      ],
+      "dapAn": [
+        "D"
+      ],
+      "goiY": [
+        "Diện tích nửa đường tròn trừ diện tích hình viên phân của cung tâm $C$."
+      ],
+      "loiGiai": [
+        "$R=\\sqrt3$, $CA=\\sqrt6$, $\\widehat{ACB}=90^\\circ$. Diện tích nửa đường tròn $=\\dfrac32\\pi$; hình viên phân $=\\dfrac14\\pi(\\sqrt6)^2-\\dfrac12(2\\sqrt3)(\\sqrt3)=\\dfrac32\\pi-3$. Hiệu $=3$ cm². Chọn D."
+      ]
+    },
+    {
+      "id": "c47",
+      "soCau": 47,
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Số các giá trị thực của $m$ để $x^2-2mx+2m+3=0$ có hai nghiệm nguyên phân biệt là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$3$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$2$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Gọi hai nghiệm nguyên $p,q$; dùng Vi-ét để được $(p-1)(q-1)=4$."
+      ],
+      "loiGiai": [
+        "$p+q=2m$, $pq=2m+3 \\Rightarrow pq=p+q+3 \\Rightarrow (p-1)(q-1)=4$. Các cặp nguyên cho hai nghiệm phân biệt ứng với $m=\\dfrac72$ và $m=-\\dfrac32$: có $2$ giá trị. Chọn C."
+      ]
+    },
+    {
+      "id": "c48",
+      "soCau": 48,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Từ hai vị trí $A,B$ cách nhau $70$ m theo phương thẳng đứng, người ta ngắm đỉnh $C$ của ngọn núi. Phương nhìn $AC$ tạo với phương ngang $30^\\circ$, phương nhìn $BC$ tạo với phương ngang $15^\\circ30'$. Chiều cao ngọn núi so với mặt đất gần nhất với</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$145$ m"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$140$ m"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$135$ m"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$130$ m"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Gọi $H$ là chân núi; lập tỉ số $\\tan15^\\circ30'=\\dfrac{CH-70}{CH}\\tan30^\\circ$ hoặc dùng hai tam giác vuông."
+      ],
+      "loiGiai": [
+        "$\\dfrac{CH-70}{CH}=\\dfrac{\\tan15^\\circ30'}{\\tan30^\\circ}\\approx0,48$ nên $CH\\approx135$ m. Chọn C."
+      ]
+    },
+    {
+      "id": "c49",
+      "soCau": 49,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho hình bình hành $ABCD$ ($\\widehat A>90^\\circ$). $M,N,P$ là hình chiếu của $C$ lên $AD,DB,AB$. Biết $MN=5$, $NP=4$. Độ dài $CN$ gần nhất với</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$4,4$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$4,6$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$4,8$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$4,2$"
+        }
+      ],
+      "dapAn": [
+        "A"
+      ],
+      "goiY": [
+        "Bổ đề: $CN^2=MN\\cdot NP$ trong cấu hình chân đường vuông góc của hình bình hành."
+      ],
+      "loiGiai": [
+        "$CN=\\sqrt{5\\cdot4}=\\sqrt{20}=2\\sqrt5\\approx4,47$, gần $4,4$. Chọn A."
+      ]
+    },
+    {
+      "id": "c50",
+      "soCau": 50,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.2,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho $x,y,z>0$ thoả mãn $x\\sqrt{1-y^2}+y\\sqrt{1-z^2}+z\\sqrt{1-x^2}=\\dfrac32$. Giá trị của $P=x^4+y^4+z^4$ là</p>",
+      "phuongAn": [
+        {
+          "ma": "A",
+          "noiDung": "$1$"
+        },
+        {
+          "ma": "B",
+          "noiDung": "$\\dfrac14$"
+        },
+        {
+          "ma": "C",
+          "noiDung": "$\\dfrac34$"
+        },
+        {
+          "ma": "D",
+          "noiDung": "$\\dfrac12$"
+        }
+      ],
+      "dapAn": [
+        "C"
+      ],
+      "goiY": [
+        "Dùng Cauchy–Schwarz; đẳng thức khi $x=y=z=\\dfrac1{\\sqrt2}$."
+      ],
+      "loiGiai": [
+        "Theo Cauchy, tổng $\\le\\sqrt{(x^2+y^2+z^2)(3-x^2-y^2-z^2)}\\le\\dfrac32$. Đẳng thức khi $x=y=z=\\dfrac1{\\sqrt2}$, suy ra $P=3\\cdot\\dfrac14=\\dfrac34$. Chọn C."
+      ]
+    }
+  ]
+}

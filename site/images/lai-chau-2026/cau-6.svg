@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" role="img" aria-labelledby="t d">
+  <title id="t">Cửa sổ gồm hình chữ nhật và nửa hình tròn</title>
+  <desc id="d">Cửa sổ có phần dưới là hình chữ nhật, phần trên là nửa hình tròn, tổng chu vi 6 mét.</desc>
+  <rect width="360" height="320" fill="#fff"/>
+  <path d="M80 150 L80 260 L280 260 L280 150" fill="none" stroke="#1a2b23" stroke-width="3"/>
+  <path d="M80 150 A100 100 0 0 1 280 150" fill="none" stroke="#1a2b23" stroke-width="3"/>
+  <line x1="80" y1="150" x2="280" y2="150" stroke="#1a2b23" stroke-width="1.6" stroke-dasharray="6 5"/>
+  <circle cx="180" cy="150" r="4" fill="#1a2b23"/>
+  <g fill="#1a2b23" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">
+    <text x="56" y="146">A</text>
+    <text x="286" y="146">B</text>
+    <text x="56" y="280">D</text>
+    <text x="286" y="280">C</text>
+    <text x="174" y="140">I</text>
+  </g>
+  <g fill="#4a5a52" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <text x="170" y="292">chiều rộng AB = 2x</text>
+    <text x="292" y="215" transform="rotate(90 292 215)">chiều cao h</text>
+  </g>
+</svg>

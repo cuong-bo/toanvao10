@@ -1,0 +1,279 @@
+{
+  "capNhat": "2026-10-29",
+  "nhom": [
+    {
+      "ma": "can-thuc",
+      "ten": "Căn thức và rút gọn biểu thức",
+      "icon": "√",
+      "muc": [
+        {
+          "ten": "Điều kiện xác định",
+          "congThuc": [
+            "$\\sqrt{A}$ xác định khi $A\\ge 0$.",
+            "$\\dfrac{1}{A}$ xác định khi $A\\ne 0$; $\\dfrac{1}{\\sqrt{A}}$ xác định khi $A>0$."
+          ],
+          "ghiChu": "Đặt điều kiện trước khi rút gọn, rồi kiểm tra lại điều kiện khi kết luận."
+        },
+        {
+          "ten": "Các phép biến đổi căn",
+          "congThuc": [
+            "$\\sqrt{A^2}=|A|$.",
+            "$\\sqrt{AB}=\\sqrt{A}\\,\\sqrt{B}$ với $A,B\\ge 0$.",
+            "$\\sqrt{\\dfrac{A}{B}}=\\dfrac{\\sqrt{A}}{\\sqrt{B}}$ với $A\\ge 0,\\ B>0$.",
+            "$\\sqrt{A^2B}=|A|\\sqrt{B}$ với $B\\ge 0$."
+          ]
+        },
+        {
+          "ten": "Trục căn thức",
+          "congThuc": [
+            "$\\dfrac{1}{\\sqrt{A}}=\\dfrac{\\sqrt{A}}{A}$ với $A>0$.",
+            "$\\dfrac{1}{\\sqrt{A}\\pm\\sqrt{B}}=\\dfrac{\\sqrt{A}\\mp\\sqrt{B}}{A-B}$ với $A,B\\ge 0,\\ A\\ne B$.",
+            "$\\dfrac{1}{\\sqrt{A}\\pm B}=\\dfrac{\\sqrt{A}\\mp B}{A-B^2}$ với $A\\ge 0,\\ A\\ne B^2$."
+          ]
+        },
+        {
+          "ten": "Hằng đẳng thức thường dùng",
+          "congThuc": [
+            "$a^2-b^2=(a-b)(a+b)$.",
+            "$a^2\\pm 2ab+b^2=(a\\pm b)^2$.",
+            "$a^3\\pm b^3=(a\\pm b)(a^2\\mp ab+b^2)$."
+          ]
+        }
+      ],
+      "loiThuongGap": [
+        "Bỏ dấu giá trị tuyệt đối: $\\sqrt{A^2}=A$ là sai khi $A<0$.",
+        "Quên đặt điều kiện $x\\ge 0$ khi đặt $t=\\sqrt{x}$.",
+        "Rút gọn phân thức nhưng không loại nghiệm làm mẫu bằng 0."
+      ]
+    },
+    {
+      "ma": "phuong-trinh",
+      "ten": "Phương trình và hệ phương trình",
+      "icon": "=",
+      "muc": [
+        {
+          "ten": "Phương trình bậc hai",
+          "congThuc": [
+            "$ax^2+bx+c=0\\ (a\\ne 0)$ có $\\Delta=b^2-4ac$.",
+            "$\\Delta>0$: hai nghiệm $x_{1,2}=\\dfrac{-b\\pm\\sqrt{\\Delta}}{2a}$.",
+            "$\\Delta=0$: nghiệm kép $x=-\\dfrac{b}{2a}$; $\\Delta<0$: vô nghiệm.",
+            "Công thức thu gọn: $\\Delta'=\\left(\\dfrac{b}{2}\\right)^2-ac$, $x_{1,2}=\\dfrac{-\\frac{b}{2}\\pm\\sqrt{\\Delta'}}{a}$."
+          ]
+        },
+        {
+          "ten": "Nhẩm nghiệm nhanh",
+          "congThuc": [
+            "Nếu $a+b+c=0$ thì $x_1=1,\\ x_2=\\dfrac{c}{a}$.",
+            "Nếu $a-b+c=0$ thì $x_1=-1,\\ x_2=-\\dfrac{c}{a}$."
+          ]
+        },
+        {
+          "ten": "Hệ hai phương trình bậc nhất",
+          "congThuc": [
+            "$\\begin{cases}ax+by=c\\\\a'x+b'y=c'\\end{cases}$ — dùng phương pháp thế hoặc cộng đại số.",
+            "Hệ có nghiệm duy nhất khi $\\dfrac{a}{a'}\\ne\\dfrac{b}{b'}$ (với $a',b'\\ne 0$)."
+          ],
+          "ghiChu": "Khi dùng phương pháp thế, nhớ thế cả biểu thức vào đúng phương trình còn lại."
+        },
+        {
+          "ten": "Phương trình chứa căn",
+          "congThuc": [
+            "$\\sqrt{A}=B\\iff B\\ge 0$ và $A=B^2$.",
+            "$\\sqrt{A}=\\sqrt{B}\\iff A=B\\ge 0$.",
+            "$\\sqrt{A}=C$ (với $C$ là biểu thức) cần đặt $C\\ge 0$ trước khi bình phương."
+          ]
+        }
+      ],
+      "loiThuongGap": [
+        "Bình phương hai vế mà quên điều kiện, dẫn đến nghiệm ngoại lai.",
+        "Chia hai vế cho $x$ khi $x$ có thể bằng 0.",
+        "Hệ số $a=0$ vẫn dùng công thức nghiệm bậc hai."
+      ]
+    },
+    {
+      "ma": "ham-so",
+      "ten": "Hàm số y = ax + b và y = ax²",
+      "icon": "∿",
+      "muc": [
+        {
+          "ten": "Đường thẳng y = ax + b",
+          "congThuc": [
+            "$a$ là hệ số góc; $b$ là tung độ gốc.",
+            "Hai đường thẳng song song khi $a=a'$ và $b\\ne b'$; trùng nhau khi $a=a',\\ b=b'$.",
+            "Hai đường thẳng cắt nhau khi $a\\ne a'$; vuông góc khi $a\\cdot a'=-1$."
+          ]
+        },
+        {
+          "ten": "Parabol y = ax² (a ≠ 0)",
+          "congThuc": [
+            "$a>0$: bề lõm hướng lên, giá trị nhỏ nhất $y=0$ tại $x=0$.",
+            "$a<0$: bề lõm hướng xuống, giá trị lớn nhất $y=0$ tại $x=0$.",
+            "Đồ thị nhận trục $Oy$ làm trục đối xứng, đỉnh $O(0;0)$."
+          ]
+        },
+        {
+          "ten": "Tương giao parabol và đường thẳng",
+          "congThuc": [
+            "Xét $ax^2=a'x+b'$ hay $ax^2-a'x-b'=0$.",
+            "Số nghiệm của phương trình = số giao điểm.",
+            "Hai giao điểm phân biệt $\\iff \\Delta>0$; tiếp xúc $\\iff \\Delta=0$; không cắt $\\iff \\Delta<0$."
+          ]
+        }
+      ],
+      "loiThuongGap": [
+        "Lấy sai dấu khi lập phương trình hoành độ giao điểm.",
+        "Vẽ parabol bằng hai điểm thay vì lập bảng giá trị đối xứng.",
+        "Nhầm tung độ và hoành độ khi kết luận tọa độ giao điểm."
+      ]
+    },
+    {
+      "ma": "viet",
+      "ten": "Định lí Vi-ét",
+      "icon": "𝑥",
+      "muc": [
+        {
+          "ten": "Hệ thức Vi-ét",
+          "congThuc": [
+            "Nếu $x_1,x_2$ là hai nghiệm của $ax^2+bx+c=0$ thì $x_1+x_2=-\\dfrac{b}{a}$, $x_1x_2=\\dfrac{c}{a}$.",
+            "Điều kiện để dùng: phương trình có hai nghiệm, tức $\\Delta\\ge 0$ (hoặc $\\Delta'\\ge 0$)."
+          ],
+          "ghiChu": "François Viète (1540–1603). Sách giáo khoa Việt Nam thường gọi là định lí Vi-ét; tên gốc tiếng Pháp là Viète."
+        },
+        {
+          "ten": "Biểu thức đối xứng",
+          "congThuc": [
+            "$x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2=S^2-2P$.",
+            "$(x_1-x_2)^2=(x_1+x_2)^2-4x_1x_2=S^2-4P$.",
+            "$\\dfrac{1}{x_1}+\\dfrac{1}{x_2}=\\dfrac{x_1+x_2}{x_1x_2}=\\dfrac{S}{P}$ (khi $P\\ne 0$).",
+            "$x_1^3+x_2^3=S^3-3PS$."
+          ]
+        },
+        {
+          "ten": "Dấu hai nghiệm",
+          "congThuc": [
+            "Hai nghiệm trái dấu $\\iff P<0$.",
+            "Hai nghiệm cùng dấu $\\iff \\Delta\\ge 0$ và $P>0$.",
+            "Hai nghiệm dương $\\iff \\Delta\\ge 0,\\ S>0,\\ P>0$.",
+            "Hai nghiệm âm $\\iff \\Delta\\ge 0,\\ S<0,\\ P>0$."
+          ]
+        }
+      ],
+      "loiThuongGap": [
+        "Dùng Vi-ét khi chưa kiểm tra phương trình có nghiệm.",
+        "Nhầm $S=-b/a$ thành $b/a$.",
+        "Khi tìm tham số, quên thử lại điều kiện $\\Delta\\ge 0$."
+      ]
+    },
+    {
+      "ma": "giai-toan",
+      "ten": "Giải bài toán bằng cách lập phương trình",
+      "icon": "⚖",
+      "muc": [
+        {
+          "ten": "Quy trình 4 bước",
+          "congThuc": [
+            "1. Chọn ẩn, nêu đơn vị và điều kiện.",
+            "2. Biểu diễn các đại lượng chưa biết theo ẩn.",
+            "3. Lập phương trình (hoặc hệ phương trình) từ dữ kiện đề bài.",
+            "4. Giải, đối chiếu điều kiện rồi kết luận."
+          ]
+        },
+        {
+          "ten": "Công thức thường gặp",
+          "congThuc": [
+            "Chuyển động: $s=vt$; $v=\\dfrac{s}{t}$; $t=\\dfrac{s}{v}$.",
+            "Xuôi dòng: $v_{\\text{xuôi}}=v_{\\text{thực}}+v_{\\text{nước}}$; ngược dòng: $v_{\\text{ngược}}=v_{\\text{thực}}-v_{\\text{nước}}$.",
+            "Năng suất: $N=\\dfrac{\\text{công việc}}{\\text{thời gian}}$.",
+            "Hình chữ nhật: chu vi $=2(a+b)$, diện tích $=ab$."
+          ]
+        }
+      ],
+      "loiThuongGap": [
+        "Không đổi đơn vị thời gian (phút → giờ).",
+        "Quên điều kiện dương của độ dài, vận tốc, thời gian.",
+        "Tìm được nghiệm nhưng không đối chiếu với điều kiện."
+      ]
+    },
+    {
+      "ma": "hinh-hoc",
+      "ten": "Hình học",
+      "icon": "△",
+      "muc": [
+        {
+          "ten": "Tam giác vuông",
+          "congThuc": [
+            "$a^2=b^2+c^2$ (Pythagore, $a$ là cạnh huyền).",
+            "$b^2=a\\cdot b'$, $c^2=a\\cdot c'$, $h^2=b'\\cdot c'$.",
+            "$ah=bc$; $\\dfrac{1}{h^2}=\\dfrac{1}{b^2}+\\dfrac{1}{c^2}$."
+          ],
+          "ghiChu": "$a$ là cạnh huyền, $b,c$ là hai cạnh góc vuông, $h$ là đường cao ứng với cạnh huyền; $b',c'$ là hình chiếu của $b,c$ lên cạnh huyền."
+        },
+        {
+          "ten": "Tỉ số lượng giác",
+          "congThuc": [
+            "$\\sin=\\dfrac{\\text{đối}}{\\text{huyền}}$; $\\cos=\\dfrac{\\text{kề}}{\\text{huyền}}$; $\\tan=\\dfrac{\\text{đối}}{\\text{kề}}$; $\\cot=\\dfrac{\\text{kề}}{\\text{đối}}$.",
+            "$\\sin^2\\alpha+\\cos^2\\alpha=1$; $\\tan\\alpha\\cdot\\cot\\alpha=1$.",
+            "$\\sin(90^\\circ-\\alpha)=\\cos\\alpha$; $\\tan(90^\\circ-\\alpha)=\\cot\\alpha$."
+          ]
+        },
+        {
+          "ten": "Tam giác đồng dạng",
+          "congThuc": [
+            "Các trường hợp: c.c.c; c.g.c; g.g (hoặc g.c.g).",
+            "Tỉ số chu vi bằng tỉ số đồng dạng $k$; tỉ số diện tích bằng $k^2$."
+          ]
+        },
+        {
+          "ten": "Đường tròn",
+          "congThuc": [
+            "Góc nội tiếp bằng nửa số đo cung bị chắn, bằng nửa góc ở tâm cùng chắn một cung.",
+            "Tứ giác nội tiếp $\\iff$ tổng hai góc đối bằng $180^\\circ$.",
+            "Tiếp tuyến vuông góc với bán kính tại tiếp điểm.",
+            "Hai tiếp tuyến cắt nhau tại $M$: $MA=MB$ và $MO$ là phân giác của góc $AMB$."
+          ]
+        }
+      ],
+      "loiThuongGap": [
+        "Nhầm bán kính với đường kính khi tính chu vi, diện tích.",
+        "Chứng minh tứ giác nội tiếp mà chỉ nêu tổng hai góc đối bằng $180^\\circ$ nhưng không chỉ rõ hai góc đối.",
+        "Dùng hệ thức lượng trong tam giác không vuông."
+      ]
+    },
+    {
+      "ma": "bdt",
+      "ten": "Bất đẳng thức và cực trị",
+      "icon": "≥",
+      "muc": [
+        {
+          "ten": "Bất đẳng thức cơ bản",
+          "congThuc": [
+            "$(a-b)^2\\ge 0$ với mọi $a,b$.",
+            "$a^2+b^2\\ge 2ab$.",
+            "$(a+b)^2\\ge 4ab$.",
+            "Cauchy: với $a,b\\ge 0$, $a+b\\ge 2\\sqrt{ab}$; dấu bằng khi $a=b$."
+          ]
+        },
+        {
+          "ten": "Bunhiacopxki",
+          "congThuc": [
+            "$(ax+by)^2\\le (a^2+b^2)(x^2+y^2)$.",
+            "Dấu bằng khi $\\dfrac{a}{x}=\\dfrac{b}{y}$ (với $x,y\\ne 0$)."
+          ]
+        },
+        {
+          "ten": "Kỹ thuật tìm min – max",
+          "congThuc": [
+            "Nếu $a+b=S$ thì $ab\\le\\dfrac{S^2}{4}$ và $a^2+b^2\\ge\\dfrac{S^2}{2}$.",
+            "Đưa biểu thức về dạng $A^2+k$ để kết luận $\\ge k$.",
+            "Luôn chỉ ra dấu bằng xảy ra tại giá trị nào."
+          ]
+        }
+      ],
+      "loiThuongGap": [
+        "Dùng Cauchy cho số âm.",
+        "Kết luận min/max nhưng không tìm được dấu bằng.",
+        "Nhân hai bất đẳng thức cùng chiều mà không kiểm tra dấu."
+      ]
+    }
+  ]
+}

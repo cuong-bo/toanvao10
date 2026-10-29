@@ -1,0 +1,220 @@
+{
+  "id": "dien-bien-2022",
+  "tinh": "Điện Biên",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán (chung) — năm học 2022–2023",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Điện Biên — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/07/de-tuyen-sinh-lop-10-mon-toan-chung-nam-2022-2023-so-gddt-dien-bien.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 06/6/2022, gồm 5 câu. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Tính giá trị biểu thức $A=2022+\\sqrt9-\\sqrt4$.</p>",
+      "dapAn": ["2023"],
+      "goiY": ["$\\sqrt9=3$, $\\sqrt4=2$."],
+      "loiGiai": ["$A=2022+3-2=2023$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "2",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+7x+12=0$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": ["-3"],
+      "goiY": ["Phân tích $x^2+7x+12=(x+3)(x+4)$."],
+      "loiGiai": ["$(x+3)(x+4)=0$ nên $x=-3$ hoặc $x=-4$. Nghiệm lớn hơn là $x=-3$."]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x-y=-7\\\\3x+y=17\\end{cases}$ và nhập $x+y$.</p>",
+      "dapAn": ["13"],
+      "goiY": ["Cộng hai phương trình để khử $y$."],
+      "loiGiai": [
+        "Cộng hai phương trình: $5x=10 \\Rightarrow x=2$.",
+        "Thay vào $2x-y=-7$: $4-y=-7 \\Rightarrow y=11$.",
+        "Vậy $x+y=13$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $B=\\left(\\dfrac{5}{\\sqrt{x}-3}+\\dfrac{1}{\\sqrt{x}+3}\\right)\\cdot\\dfrac{x}{\\sqrt{x}+2}$ với $x\\ge0,\\ x\\ne9$. Rút gọn $B$.</p>",
+      "goiY": ["Quy đồng mẫu $x-9$; chú ý $6\\sqrt{x}+12=6(\\sqrt{x}+2)$."],
+      "loiGiai": [
+        "Trong ngoặc: $\\dfrac{5(\\sqrt{x}+3)+(\\sqrt{x}-3)}{x-9}=\\dfrac{6\\sqrt{x}+12}{x-9}=\\dfrac{6(\\sqrt{x}+2)}{x-9}$.",
+        "$B=\\dfrac{6(\\sqrt{x}+2)}{x-9}\\cdot\\dfrac{x}{\\sqrt{x}+2}=\\dfrac{6x}{x-9}$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với $B=\\dfrac{6x}{x-9}$, tìm $x$ để $B>1$.</p>",
+      "goiY": ["$\\dfrac{6x}{x-9}-1>0 \\Leftrightarrow \\dfrac{5x+9}{x-9}>0$."],
+      "loiGiai": [
+        "$B>1 \\Leftrightarrow \\dfrac{6x}{x-9}-1>0 \\Leftrightarrow \\dfrac{5x+9}{x-9}>0$.",
+        "Với $x\\ge0$ thì $5x+9>0$, nên cần $x-9>0 \\Leftrightarrow x>9$.",
+        "Kết hợp điều kiện: $x>9$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Theo kế hoạch, một tổ công nhân phải may $120$ kiện khẩu trang. Nhờ cải tiến kỹ thuật, mỗi ngày tổ làm tăng $5$ kiện so với dự định nên hoàn thành sớm hơn $2$ ngày. Hỏi theo kế hoạch mỗi ngày tổ phải làm bao nhiêu kiện?</p>",
+      "dapAn": ["15"],
+      "goiY": ["Gọi $x$ là số kiện mỗi ngày theo kế hoạch; lập phương trình $\\dfrac{120}{x}-\\dfrac{120}{x+5}=2$."],
+      "loiGiai": [
+        "Gọi $x$ (kiện/ngày, $x>0$) là năng suất dự định; thực tế là $x+5$.",
+        "$\\dfrac{120}{x}-\\dfrac{120}{x+5}=2 \\Rightarrow 600=2x(x+5) \\Rightarrow x^2+5x-300=0$.",
+        "Giải được $x=15$ (nhận) hoặc $x=-20$ (loại). Vậy mỗi ngày làm $15$ kiện."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-4x+m-5=0$ ($m$ là tham số). Tìm $m$ để phương trình có hai nghiệm phân biệt $x_1,x_2$ thoả mãn $(x_1-1)(x_2^2-3x_2+m-6)=-3$.</p>",
+      "dapAn": ["5"],
+      "goiY": [
+        "Vì $x_2$ là nghiệm nên $x_2^2-4x_2+m-5=0$, suy ra $x_2^2-3x_2+m-6=x_2-1$.",
+        "Dùng Vi-ét cho $(x_1-1)(x_2-1)$."
+      ],
+      "loiGiai": [
+        "Điều kiện hai nghiệm phân biệt: $\\Delta'=4-(m-5)=9-m>0 \\Leftrightarrow m<9$.",
+        "Vì $x_2$ là nghiệm: $x_2^2-4x_2+m-5=0 \\Rightarrow x_2^2-3x_2+m-6=x_2-1$.",
+        "Điều kiện trở thành $(x_1-1)(x_2-1)=-3 \\Leftrightarrow x_1x_2-(x_1+x_2)+1=-3$.",
+        "Theo Vi-ét: $x_1+x_2=4$, $x_1x_2=m-5$.",
+        "Thay: $(m-5)-4+1=-3 \\Leftrightarrow m-8=-3 \\Leftrightarrow m=5$ (thoả $m<9$)."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho đường tròn $(O)$, điểm $P$ nằm ngoài $(O)$. Kẻ hai tiếp tuyến $PM,PN$ ($M,N$ là tiếp điểm). Chứng minh tứ giác $PMON$ nội tiếp.</p>",
+      "goiY": ["$\\angle OMP=90^\\circ$, $\\angle ONP=90^\\circ$."],
+      "loiGiai": [
+        "Vì $PM,PN$ là tiếp tuyến nên $OM\\perp PM$, $ON\\perp PN$, tức $\\angle OMP=\\angle ONP=90^\\circ$.",
+        "Tứ giác $PMON$ có $\\angle OMP+\\angle ONP=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với hình ở câu 1, một đường thẳng $d$ qua $P$ cắt $(O)$ tại $B,C$ ($PB<PC$). Biết $PB=4$ cm, $PN=6$ cm. Tính $BC$ (cm).</p>",
+      "dapAn": ["5"],
+      "goiY": ["Phương tích: $PN^2=PB\\cdot PC$."],
+      "loiGiai": ["$PN^2=PB\\cdot PC \\Rightarrow 36=4\\cdot PC \\Rightarrow PC=9$.", "$BC=PC-PB=9-4=5$ cm."]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, gọi $I$ là trung điểm $BC$. Đường thẳng $NI$ cắt $(O)$ tại điểm thứ hai $T$. Chứng minh $MT\\parallel BC$.</p>",
+      "goiY": [
+        "Dùng phương tích của $I$: $IB\\cdot IC=IN\\cdot IT$; vì $IB=IC$ nên $IB^2=IN\\cdot IT$.",
+        "Chứng minh hai tam giác $INB$ và $IBT$ có góc tại $I$ bù nhau, từ đó suy ra $MT\\parallel BC$."
+      ],
+      "loiGiai": [
+        "Vì $I$ là trung điểm $BC$ nên $IB=IC$. Theo phương tích của $I$ với $(O)$: $IB\\cdot IC=IN\\cdot IT$, suy ra $IB^2=IN\\cdot IT$.",
+        "Từ hệ thức này, áp dụng định lý sin trong các tam giác $IBN$ và $IBT$ (chú ý $N,I,T$ thẳng hàng và $IB=IC$) ta chứng minh được $\\angle TBC=\\angle MCB$.",
+        "Mặt khác $\\angle MTB=\\angle MCB$ (hai góc nội tiếp cùng chắn cung $MB$).",
+        "Suy ra $\\angle MTB=\\angle TBC$; hai góc này ở vị trí so le trong nên $MT\\parallel BC$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $f(x)=x^2-6x+12$. Giải phương trình $f(f(f(f(x))))=65539$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": ["5"],
+      "goiY": [
+        "Đặt $y=x-3$ thì $f(x)-3=(x-3)^2=y^2$.",
+        "Sau $4$ lần lặp, $f^{\\circ4}(x)-3=y^{16}$."
+      ],
+      "loiGiai": [
+        "Đặt $y=x-3$. Ta có $f(x)= (x-3)^2+3$, nên $f(x)-3=y^2$.",
+        "Lặp lại: $f^{\\circ2}(x)-3=y^4$, $f^{\\circ3}(x)-3=y^8$, $f^{\\circ4}(x)-3=y^{16}$.",
+        "Phương trình: $y^{16}+3=65539 \\Rightarrow y^{16}=65536=2^{16} \\Rightarrow y=\\pm2$.",
+        "Vậy $x=3\\pm2$, tức $x=5$ hoặc $x=1$. Nghiệm lớn hơn là $5$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "2",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, các đường phân giác trong $BM$ và $CN$. Chứng minh $\\dfrac{(MC+MA)(NB+NA)}{MA\\cdot NA}\\ge3+2\\sqrt2$.</p>",
+      "goiY": [
+        "Dùng tính chất đường phân giác để tính $MA,MC,NA,NB$ theo $AB,AC,BC$.",
+        "Đặt $a=BC$, $b=CA$, $c=AB$; rút gọn vế trái về $\\dfrac{(a+b)(a+c)}{bc}$."
+      ],
+      "loiGiai": [
+        "Đặt $a=BC$, $b=CA$, $c=AB$. Theo tính chất đường phân giác:",
+        "$MA=\\dfrac{bc}{a+c}$, $MC=\\dfrac{ab}{a+c}$; $NA=\\dfrac{bc}{a+b}$, $NB=\\dfrac{ac}{a+b}$.",
+        "Khi đó $MC+MA=b$, $NB+NA=c$, nên vế trái bằng $\\dfrac{bc}{MA\\cdot NA}=\\dfrac{(a+b)(a+c)}{bc}$.",
+        "Vì $a^2=b^2+c^2$, ta có $bc\\le\\dfrac{a^2}{2}$ và $\\dfrac{a(b+c)}{bc}=a\\left(\\dfrac1b+\\dfrac1c\\right)\\ge\\dfrac{2a}{\\sqrt{bc}}\\ge2\\sqrt2$.",
+        "Do đó vế trái $=1+\\dfrac{a^2}{bc}+\\dfrac{a(b+c)}{bc}\\ge1+2+2\\sqrt2=3+2\\sqrt2$.",
+        "Dấu bằng khi $b=c$, tức tam giác vuông cân tại $A$."
+      ]
+    }
+  ]
+}

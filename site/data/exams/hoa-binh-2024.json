@@ -1,0 +1,277 @@
+{
+  "id": "hoa-binh-2024",
+  "tinh": "Hòa Bình",
+  "nam": 2024,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2024–2025",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+    "url": "https://thcs.toanmath.com/2024/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2024-2025-so-gddt-hoa-binh.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 07/6/2024, gồm 5 câu. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn $A=\\sqrt{25}-\\sqrt4$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["$\\sqrt{25}=5$, $\\sqrt4=2$."],
+      "loiGiai": ["$A=5-2=3$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "1b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn $B=\\dfrac{2}{\\sqrt5-1}+\\dfrac{2}{\\sqrt5+1}$.</p>",
+      "dapAn": ["√5", "sqrt5"],
+      "goiY": ["Quy đồng mẫu $(\\sqrt5-1)(\\sqrt5+1)=4$."],
+      "loiGiai": [
+        "$B=\\dfrac{2(\\sqrt5+1)+2(\\sqrt5-1)}{(\\sqrt5-1)(\\sqrt5+1)}$.",
+        "$=\\dfrac{4\\sqrt5}{4}=\\sqrt5$."
+      ]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "2a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $\\sqrt{x-2}=3$.</p>",
+      "dapAn": ["11"],
+      "goiY": ["Bình phương hai vế với điều kiện $x\\ge2$."],
+      "loiGiai": ["$x-2=9 \\Leftrightarrow x=11$ (thoả $x\\ge2$)."]
+    },
+    {
+      "id": "c1d",
+      "soCau": 1,
+      "y": "2b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+10x+9=0$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": ["-1"],
+      "goiY": ["$1-10+9=0$ nên có nghiệm $x=-1$."],
+      "loiGiai": [
+        "$a-b+c=1-10+9=0$ nên $x_1=-1$, $x_2=-\\dfrac ca=-9$.",
+        "Nghiệm lớn hơn là $x=-1$."
+      ]
+    },
+    {
+      "id": "c1e",
+      "soCau": 1,
+      "y": "3",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Trong mặt phẳng $Oxy$, vẽ đường thẳng $(d):y=x-4$.</p>",
+      "goiY": ["Xác định hai điểm: giao với $Ox$ tại $(4;0)$, giao với $Oy$ tại $(0;-4)$."],
+      "loiGiai": [
+        "Cho $x=0 \\Rightarrow y=-4$, được điểm $(0;-4)$.",
+        "Cho $y=0 \\Rightarrow x=4$, được điểm $(4;0)$.",
+        "Vẽ đường thẳng đi qua hai điểm trên."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}x+2y=5\\\\3x-y=1\\end{cases}$ và nhập $x+y$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["Từ phương trình thứ hai suy ra $y=3x-1$."],
+      "loiGiai": [
+        "$y=3x-1$. Thay vào $x+2y=5$: $x+6x-2=5 \\Rightarrow 7x=7 \\Rightarrow x=1$.",
+        "$y=2$. Vậy $x+y=3$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$ ($H\\in BC$), $AH=8$ cm, $HC=4$ cm. Tính $HB$ (cm).</p>",
+      "dapAn": ["16"],
+      "goiY": ["Hệ thức lượng: $AH^2=HB\\cdot HC$."],
+      "loiGiai": ["$8^2=HB\\cdot4 \\Rightarrow HB=16$ cm."]
+    },
+    {
+      "id": "c2c",
+      "soCau": 2,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Một chi tiết máy hình nón có đường kính đáy $8$ cm, độ dài đường sinh $5$ cm. Tính diện tích xung quanh (cm²), lấy $\\pi\\approx3,14$.</p>",
+      "dapAn": ["62,8", "20π"],
+      "goiY": ["Bán kính đáy $r=4$ cm; $S_{xq}=\\pi rl$."],
+      "loiGiai": ["$r=8:2=4$ cm.", "$S_{xq}=\\pi\\cdot4\\cdot5=20\\pi\\approx62,8$ cm²."]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1",
+      "chuyenDe": "ham-so",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho parabol $(P):y=x^2$ và đường thẳng $(d):y=-6x+2m-5$ ($m$ là tham số). Tìm $m$ để $(d)$ cắt $(P)$ tại hai điểm phân biệt có hoành độ $x_1,x_2$ thoả mãn $x_1<x_2<-2$.</p>",
+      "goiY": [
+        "Phương trình hoành độ: $x^2+6x-2m+5=0$.",
+        "Hai nghiệm phân biệt nhỏ hơn $-2$ khi $\\Delta>0$ và $f(-2)>0$ (với parabol hướng lên, trục đối xứng $x=-3$)."
+      ],
+      "loiGiai": [
+        "Phương trình hoành độ: $x^2=-6x+2m-5 \\Leftrightarrow x^2+6x-2m+5=0$.",
+        "$\\Delta'=9-(-2m+5)=2m+4>0 \\Leftrightarrow m>-2$.",
+        "Hai nghiệm $x_1<x_2$ có tổng $-6$, trục đối xứng $x=-3$. Để $x_2<-2$, cần $f(-2)>0$ với $f(x)=x^2+6x-2m+5$:",
+        "$f(-2)=4-12-2m+5=-3-2m>0 \\Leftrightarrow m<-\\dfrac32$.",
+        "Kết hợp: $-2<m<-\\dfrac32$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Hai máy cày cùng cày một thửa ruộng trong $8$ giờ thì xong. Nếu máy thứ nhất cày trong $7$ giờ và máy thứ hai cày trong $4$ giờ thì còn $25\\%$ diện tích chưa cày. Hỏi máy thứ hai làm riêng thì bao nhiêu giờ xong?</p>",
+      "dapAn": ["24"],
+      "goiY": [
+        "Gọi năng suất máy thứ nhất là $x$, máy thứ hai là $y$ (công việc/giờ).",
+        "$x+y=\\dfrac18$ và $7x+4y=\\dfrac34$."
+      ],
+      "loiGiai": [
+        "Gọi năng suất hai máy lần lượt là $x,y$ (công việc/giờ). Ta có $x+y=\\dfrac18$.",
+        "Sau $7$ giờ máy một và $4$ giờ máy hai, còn $25\\%$ nên đã làm $75\\%=\\dfrac34$: $7x+4y=\\dfrac34$.",
+        "Thay $y=\\dfrac18-x$: $7x+4\\left(\\dfrac18-x\\right)=\\dfrac34 \\Rightarrow 3x+\\dfrac12=\\dfrac34 \\Rightarrow x=\\dfrac1{12}$.",
+        "Suy ra $y=\\dfrac18-\\dfrac1{12}=\\dfrac1{24}$.",
+        "Vậy máy thứ hai làm một mình xong trong $24$ giờ."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Từ điểm $P$ nằm ngoài đường tròn $(O)$, kẻ cát tuyến $PMN$ không đi qua tâm $O$ ($PM<PN$) và hai tiếp tuyến $PA,PB$ ($A,B$ là tiếp điểm). Chứng minh tứ giác $PAOB$ nội tiếp.</p>",
+      "goiY": ["$\\angle OAP=90^\\circ$, $\\angle OBP=90^\\circ$."],
+      "loiGiai": [
+        "Vì $PA,PB$ là tiếp tuyến nên $OA\\perp PA$, $OB\\perp PB$, tức $\\angle OAP=\\angle OBP=90^\\circ$.",
+        "Tứ giác $PAOB$ có $\\angle OAP+\\angle OBP=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, gọi $I$ là trung điểm $MN$. Chứng minh $PI\\cdot PN=PA\\cdot PC$, biết qua $N$ kẻ đường thẳng $d$ song song với $AB$, $d$ cắt tia $PA$ tại $C$.</p>",
+      "goiY": [
+        "Chứng minh $AB\\perp OP$ (đường nối tâm và dây cung của hai tiếp điểm).",
+        "Dùng hệ thức lượng trong tam giác vuông và phương tích $PA^2=PM\\cdot PN$."
+      ],
+      "loiGiai": [
+        "Vì $PA=PB$ và $OA=OB$ nên $OP$ là trung trực của $AB$, suy ra $AB\\perp OP$.",
+        "Do $d\\parallel AB$ nên $d\\perp OP$. Gọi $K$ là giao của $d$ với $OP$; khi đó $K$ là hình chiếu của $N$ trên $OP$ và $C,K,N$ thẳng hàng.",
+        "Trong tam giác vuông $POI$ (vì $I$ là trung điểm dây $MN$ nên $OI\\perp PN$), ta có $PI=PO\\cos\\angle OPN$.",
+        "Trong tam giác vuông $PNK$, $PK=PN\\cos\\angle OPN$. Suy ra $PI\\cdot PN=PO\\cdot PK$.",
+        "Hai tam giác vuông $PKC$ và $PAO$ có chung góc $P$ nên đồng dạng, do đó $\\dfrac{PK}{PA}=\\dfrac{PC}{PO}$, tức $PO\\cdot PK=PA\\cdot PC$.",
+        "Vậy $PI\\cdot PN=PA\\cdot PC$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, gọi $D$ là trung điểm $AN$. Chứng minh ba điểm $C,D,I$ thẳng hàng.</p>",
+      "goiY": [
+        "$D$ là trung điểm $AN$, $I$ là trung điểm $MN$ nên $DI$ là đường trung bình của tam giác $AMN$, suy ra $DI\\parallel AM$.",
+        "Chứng minh $C$ thuộc đường thẳng qua $D$ song song $AM$ bằng định lý Menelaus hoặc toạ độ."
+      ],
+      "loiGiai": [
+        "Trong tam giác $AMN$, $D$ là trung điểm $AN$ và $I$ là trung điểm $MN$ nên $DI\\parallel AM$.",
+        "Do đó đường thẳng $DI$ là đường trung bình của tam giác $AMN$.",
+        "Dùng định lý Menelaus cho tam giác $PAN$ với ba điểm $C\\in PA$, $D\\in AN$, $I\\in PN$:",
+        "$\\dfrac{PC}{CA}\\cdot\\dfrac{AD}{DN}\\cdot\\dfrac{NI}{IP}=1$.",
+        "Vì $AD=DN$ nên cần $\\dfrac{PC}{CA}=\\dfrac{IP}{NI}$. Từ $d\\parallel AB$ và $AB\\perp OP$, dùng các tam giác đồng dạng $PNK,PAO$ và hệ thức $PI\\cdot PN=PA\\cdot PC$ (câu 2) suy ra đẳng thức này.",
+        "Vậy $C,D,I$ thẳng hàng."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "1",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2-x+11=2\\sqrt{x+2}+3\\sqrt{5x-1}$.</p>",
+      "dapAn": ["2"],
+      "goiY": [
+        "Dùng $\\sqrt u\\le\\dfrac{u+t}{2\\sqrt t}$ với $t$ chọn để đẳng thức tại $x=2$.",
+        "Với $\\sqrt{x+2}$ chọn $t=4$; với $\\sqrt{5x-1}$ chọn $t=9$."
+      ],
+      "loiGiai": [
+        "Điều kiện $x\\ge\\dfrac15$.",
+        "Áp dụng AM–GM: $\\sqrt{x+2}\\le\\dfrac{x+2+4}{4}=\\dfrac{x+6}{4}$; $\\sqrt{5x-1}\\le\\dfrac{5x-1+9}{6}=\\dfrac{5x+8}{6}$.",
+        "Suy ra $2\\sqrt{x+2}+3\\sqrt{5x-1}\\le\\dfrac{x+6}{2}+\\dfrac{5x+8}{2}=3x+7$.",
+        "Phương trình đã cho kéo theo $x^2-x+11\\le3x+7 \\Leftrightarrow x^2-4x+4\\le0 \\Leftrightarrow (x-2)^2\\le0$.",
+        "Vậy $x=2$. Thử lại thoả mãn."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "2",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $a,b$ là các số thực dương thoả mãn $(a+b)^3+4ab\\le12$. Chứng minh $\\dfrac1{1+a}+\\dfrac1{1+b}+2024ab\\le2025$.</p>",
+      "goiY": [
+        "Chứng minh $ab\\le1$ từ điều kiện và $a+b\\ge2\\sqrt{ab}$.",
+        "Biến đổi $\\dfrac1{1+a}+\\dfrac1{1+b}=1+\\dfrac{1-ab}{1+a+b+ab}$."
+      ],
+      "loiGiai": [
+        "Giả sử $ab>1$. Khi đó $a+b\\ge2\\sqrt{ab}>2$ nên $(a+b)^3>8$ và $4ab>4$, suy ra $(a+b)^3+4ab>12$, mâu thuẫn. Vậy $ab\\le1$.",
+        "$\\dfrac1{1+a}+\\dfrac1{1+b}=\\dfrac{2+a+b}{1+a+b+ab}=1+\\dfrac{1-ab}{1+a+b+ab}$.",
+        "Vì $ab\\le1$ nên $1-ab\\ge0$, và $1+a+b+ab\\ge1$, suy ra $\\dfrac{1-ab}{1+a+b+ab}\\le1-ab$.",
+        "Do đó vế trái $\\le1+(1-ab)+2024ab=2+2023ab\\le2025$ (vì $ab\\le1$).",
+        "Dấu bằng khi $a=b=1$."
+      ]
+    }
+  ]
+}

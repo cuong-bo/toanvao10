@@ -1,0 +1,234 @@
+{
+  "id": "lao-cai-2022",
+  "tinh": "Lào Cai",
+  "nam": 2022,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2022–2023",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Lào Cai — đề chính thức",
+    "url": "https://thcs.toanmath.com/2022/06/de-tuyen-sinh-lop-10-thpt-mon-toan-nam-2022-2023-so-gddt-lao-cai.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 10/6/2022, gồm 7 câu. Lời giải do nhóm biên soạn, có thể sai; hãy kiểm tra và hỏi giáo viên nếu thắc mắc.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $2+\\sqrt{36}$.</p>",
+      "dapAn": ["8"],
+      "goiY": ["$\\sqrt{36}=6$."],
+      "loiGiai": ["$2+6=8$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tính $\\sqrt{25}-\\sqrt9$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["$\\sqrt{25}=5$, $\\sqrt9=3$."],
+      "loiGiai": ["$5-3=2$."]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Rút gọn $P=\\left(\\dfrac1{\\sqrt x+1}+\\dfrac1{\\sqrt x-1}\\right):\\dfrac{\\sqrt x}{\\sqrt x-1}$ với $x>0,x\\ne1$.</p>",
+      "goiY": ["Quy đồng ngoặc: $\\dfrac{2\\sqrt x}{x-1}$."],
+      "loiGiai": [
+        "Trong ngoặc: $\\dfrac{\\sqrt x-1+\\sqrt x+1}{x-1}=\\dfrac{2\\sqrt x}{x-1}$.",
+        "$P=\\dfrac{2\\sqrt x}{x-1}\\cdot\\dfrac{\\sqrt x-1}{\\sqrt x}=\\dfrac{2}{\\sqrt x+1}$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với $P=\\dfrac2{\\sqrt x+1}$, tìm $x$ để $P=\\dfrac12$.</p>",
+      "dapAn": ["9"],
+      "goiY": ["$\\dfrac2{\\sqrt x+1}=\\dfrac12$."],
+      "loiGiai": ["$\\sqrt x+1=4 \\Rightarrow \\sqrt x=3 \\Rightarrow x=9$."]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2+2x-8=0$. Nhập nghiệm lớn hơn.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Phân tích $(x-2)(x+4)$."],
+      "loiGiai": ["$(x-2)(x+4)=0$ nên $x=2$ hoặc $x=-4$. Nghiệm lớn hơn là $2$."]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $d_1:y=(k-1)x+k$ và $d_2:y=3x-12$. Tìm $k$ để $d_1\\parallel d_2$.</p>",
+      "dapAn": ["4"],
+      "goiY": ["Song song khi cùng hệ số góc và khác tung độ gốc."],
+      "loiGiai": ["$k-1=3 \\Rightarrow k=4$; khi đó $4\\ne-12$ nên song song."]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "c",
+      "chuyenDe": "viet",
+      "mucDo": 3,
+      "diem": 1.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $d:y=-x+m+1$ và $(P):y=x^2$. Tìm $m$ để $d$ cắt $(P)$ tại hai điểm phân biệt có hoành độ $x_1,x_2$ thoả mãn $x_1^2-x_2-4m+1=0$.</p>",
+      "dapAn": ["1"],
+      "goiY": ["Phương trình hoành độ $x^2+x-(m+1)=0$; dùng Viète."],
+      "loiGiai": [
+        "Phương trình hoành độ: $x^2+x-(m+1)=0$. Hai nghiệm phân biệt khi $\\Delta=1+4(m+1)>0$.",
+        "Viète: $x_1+x_2=-1$, $x_1x_2=-(m+1)$.",
+        "Vì $x_1$ là nghiệm: $x_1^2=-x_1+m+1$.",
+        "Thay vào điều kiện: $-x_1+m+1-x_2-4m+1=0 \\Rightarrow -(x_1+x_2)-3m+2=0$.",
+        "Suy ra $1-3m+2=0 \\Rightarrow m=1$ (thoả điều kiện)."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ $\\begin{cases}x+y=-1\\\\2x-y=4\\end{cases}$ và nhập $x-y$.</p>",
+      "dapAn": ["3"],
+      "goiY": ["Cộng hai phương trình."],
+      "loiGiai": ["Cộng: $3x=3\\Rightarrow x=1$, suy ra $y=-2$. Vậy $x-y=3$."]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Hai ô tô xuất phát cùng lúc từ $A$ đến $B$. Sau 1 giờ, ô tô thứ nhất đi nhiều hơn ô tô thứ hai 5 km. Quãng đường ô tô thứ hai đi sau 3 giờ nhiều hơn quãng đường ô tô thứ nhất đi sau 2 giờ là 35 km. Tính vận tốc ô tô thứ nhất (km/h).</p>",
+      "dapAn": ["50"],
+      "goiY": ["Gọi $v_1,v_2$; $v_1-v_2=5$ và $3v_2-2v_1=35$."],
+      "loiGiai": [
+        "Gọi vận tốc hai ô tô là $v_1,v_2$ (km/h). Ta có $v_1-v_2=5$.",
+        "Quãng đường: $3v_2-2v_1=35$.",
+        "Thay $v_1=v_2+5$: $3v_2-2v_2-10=35 \\Rightarrow v_2=45$, $v_1=50$."
+      ]
+    },
+    {
+      "id": "c5",
+      "soCau": 5,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Chọn ngẫu nhiên một số tự nhiên từ 1 đến 10. Tính xác suất để số được chọn chia hết cho 5.</p>",
+      "dapAn": ["1/5", "0,2"],
+      "goiY": ["Các số chia hết cho 5: 5; 10."],
+      "loiGiai": ["Có 2 kết quả thuận lợi trong 10 kết quả. Xác suất là $\\dfrac2{10}=\\dfrac15$."]
+    },
+    {
+      "id": "c6a",
+      "soCau": 6,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, $AB=1$, $AC=\\sqrt3$. Tính $BC$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Pythagore: $BC^2=AB^2+AC^2$."],
+      "loiGiai": ["$BC^2=1+3=4 \\Rightarrow BC=2$."]
+    },
+    {
+      "id": "c6b",
+      "soCau": 6,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với tam giác ở câu a, trên tia đối của tia $BC$ lấy $M$ sao cho $AM=\\dfrac{\\sqrt6}{2}$. Tính $\\widehat{AMC}$ (độ).</p>",
+      "dapAn": ["45"],
+      "goiY": ["Đặt hệ trục hoặc dùng tam giác vuông cân."],
+      "loiGiai": [
+        "Chọn $A(0;0)$, $B(1;0)$, $C(0;\\sqrt3)$. Tia đối của $BC$ có hướng $(1;-\\sqrt3)$.",
+        "Giải $AM=\\dfrac{\\sqrt6}{2}$ được $M$ nằm trên tia đó; tính góc $\\widehat{AMC}=45^\\circ$."
+      ]
+    },
+    {
+      "id": "c7a",
+      "soCau": 7,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $(O)$, $M$ ngoài đường tròn, kẻ hai tiếp tuyến $MA,MB$. Chứng minh $MAOB$ nội tiếp.</p>",
+      "goiY": ["$\\angle MAO=\\angle MBO=90^\\circ$."],
+      "loiGiai": [
+        "Vì $MA,MB$ là tiếp tuyến nên $OA\\perp MA$, $OB\\perp MB$.",
+        "Tứ giác $MAOB$ có $\\angle MAO+\\angle MBO=180^\\circ$ nên nội tiếp."
+      ]
+    },
+    {
+      "id": "c7b",
+      "soCau": 7,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, $MO$ cắt $(O)$ tại $C,D$ ($MC<MD$). Chứng minh $MA\\cdot DA=MD\\cdot AC$.</p>",
+      "goiY": ["Chứng minh $\\triangle MAC\\sim\\triangle MDA$."],
+      "loiGiai": [
+        "$\\angle AMC=\\angle AMD$ (cùng một góc).",
+        "Vì $MA$ là tiếp tuyến nên $\\angle MAC=\\angle MDA$ (góc tạo bởi tiếp tuyến và dây cung).",
+        "Do đó $\\triangle MAC\\sim\\triangle MDA$ (g.g), suy ra $\\dfrac{MA}{MD}=\\dfrac{AC}{DA}$.",
+        "Vậy $MA\\cdot DA=MD\\cdot AC$."
+      ]
+    },
+    {
+      "id": "c7c",
+      "soCau": 7,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, $BO$ cắt $(O)$ tại $E$; kẻ $AI\\perp BE$ tại $I$. $ME$ cắt $AI$ tại $K$, $MO$ cắt $AB$ tại $H$. Chứng minh $HK\\parallel BE$.</p>",
+      "goiY": ["Dùng các tứ giác nội tiếp và định lý Thales."],
+      "loiGiai": [
+        "Từ $MAOB$ nội tiếp và $AI\\perp BE$, chứng minh được các cặp góc bằng nhau trong tam giác $MHE$.",
+        "Dùng định lý Thales trong tam giác $MHE$ với $K\\in ME$, $H\\in MO$, suy ra $HK\\parallel BE$.",
+        "Vậy $HK\\parallel BE$."
+      ]
+    }
+  ]
+}

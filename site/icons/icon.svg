@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Trạm tiếp sức Toán vào 10">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c7a4e"/>
+      <stop offset="1" stop-color="#0f5132"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <path d="M0 380 L120 270 L205 330 L310 215 L400 300 L512 205 L512 512 L0 512 Z" fill="#f5f1e7" opacity=".13"/>
+  <path d="M0 420 L130 320 L220 375 L330 270 L420 340 L512 260 L512 512 L0 512 Z" fill="#f5f1e7" opacity=".1"/>
+  <text x="256" y="322" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="196" font-weight="800" fill="#fffdf8" letter-spacing="-10">10</text>
+  <text x="256" y="400" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="#f6cf99" letter-spacing="2">TOÁN VÀO 10</text>
+</svg>

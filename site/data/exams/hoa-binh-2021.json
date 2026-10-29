@@ -1,0 +1,244 @@
+{
+  "id": "hoa-binh-2021",
+  "tinh": "Hòa Bình",
+  "nam": 2021,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2021–2022",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Hòa Bình — đề chính thức",
+    "url": "https://thcs.toanmath.com/2021/07/de-tuyen-sinh-vao-lop-10-mon-toan-nam-2021-2022-so-gddt-hoa-binh.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 05/7/2021, gồm 5 câu. Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "1a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm điều kiện xác định của $A=\\sqrt{x-4}$. Nhập giá trị nhỏ nhất của $x$.</p>",
+      "dapAn": ["4"],
+      "goiY": ["$x-4\\ge0$."],
+      "loiGiai": ["$x-4\\ge0 \\Leftrightarrow x\\ge4$. Giá trị nhỏ nhất là $4$."]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "1b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Tìm điều kiện xác định của $B=\\dfrac{5}{x-2}$. Nhập giá trị $x$ không được nhận.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Mẫu khác $0$."],
+      "loiGiai": ["$x-2\\ne0 \\Leftrightarrow x\\ne2$."]
+    },
+    {
+      "id": "c1c",
+      "soCau": 1,
+      "y": "2a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn $A=\\sqrt{75}-\\sqrt3$.</p>",
+      "dapAn": ["4√3"],
+      "goiY": ["$\\sqrt{75}=5\\sqrt3$."],
+      "loiGiai": ["$5\\sqrt3-\\sqrt3=4\\sqrt3$."]
+    },
+    {
+      "id": "c1d",
+      "soCau": 1,
+      "y": "2b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Rút gọn $B=\\sqrt{(\\sqrt2+1)^2}-\\sqrt2$.</p>",
+      "dapAn": ["1"],
+      "goiY": ["$\\sqrt{(\\sqrt2+1)^2}=|\\sqrt2+1|$."],
+      "loiGiai": ["$\\sqrt{(\\sqrt2+1)^2}=\\sqrt2+1$ vì $\\sqrt2+1>0$.", "$B=\\sqrt2+1-\\sqrt2=1$."]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "1",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị hàm số $y=-2x+3$.</p>",
+      "goiY": ["Xác định hai điểm: $x=0\\Rightarrow y=3$; $y=0\\Rightarrow x=\\dfrac32$."],
+      "loiGiai": [
+        "Cho $x=0$ được $y=3$, điểm $(0;3)$.",
+        "Cho $y=0$ được $x=\\dfrac32$, điểm $\\left(\\dfrac32;0\\right)$.",
+        "Vẽ đường thẳng qua hai điểm trên."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "2",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho $x^2-4x+m-1=0$. Tìm $m$ để phương trình có hai nghiệm $x_1,x_2$ thoả mãn $x_1^2+x_2^2=14$.</p>",
+      "dapAn": ["2"],
+      "goiY": ["Điều kiện $\\Delta'>0$; dùng Vi-ét và $x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2$."],
+      "loiGiai": [
+        "$\\Delta'=4-(m-1)=5-m>0 \\Leftrightarrow m<5$.",
+        "Vi-ét: $x_1+x_2=4$, $x_1x_2=m-1$.",
+        "$x_1^2+x_2^2=16-2(m-1)=18-2m=14 \\Rightarrow m=2$ (thoả $m<5$)."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "1a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$, $HB=2$ cm, $HC=8$ cm. Tính $AB$ (cm).</p>",
+      "dapAn": ["2√5"],
+      "goiY": ["$AB^2=HB\\cdot BC$."],
+      "loiGiai": ["$BC=HB+HC=10$.", "$AB^2=2\\cdot10=20 \\Rightarrow AB=2\\sqrt5$ cm."]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "1b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với tam giác ở câu 1a, tính $AC$ (cm).</p>",
+      "dapAn": ["4√5"],
+      "goiY": ["$AC^2=HC\\cdot BC$."],
+      "loiGiai": ["$AC^2=8\\cdot10=80 \\Rightarrow AC=4\\sqrt5$ cm."]
+    },
+    {
+      "id": "c3c",
+      "soCau": 3,
+      "y": "2",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Một ô tô và một xe máy khởi hành cùng lúc từ hai tỉnh cách nhau $200$ km, đi ngược chiều và gặp nhau sau $2$ giờ. Biết nếu vận tốc ô tô tăng thêm $10$ km/h và vận tốc xe máy giảm đi $5$ km/h thì vận tốc ô tô bằng $2$ lần vận tốc xe máy. Tính vận tốc ô tô (km/h).</p>",
+      "dapAn": ["60"],
+      "goiY": ["Tổng vận tốc là $200:2=100$ km/h."],
+      "loiGiai": [
+        "Gọi vận tốc ô tô là $x$, xe máy là $y$ (km/h). Ta có $x+y=100$.",
+        "Điều kiện sau khi thay đổi: $x+10=2(y-5) \\Rightarrow x=2y-20$.",
+        "Thay vào $x+y=100$: $3y=120 \\Rightarrow y=40$, $x=60$."
+      ]
+    },
+    {
+      "id": "c3d",
+      "soCau": 3,
+      "y": "3",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}3\\sqrt{x-6}+7\\sqrt{y+5}=27\\\\\\sqrt{x-6}+2\\sqrt{y+5}=8\\end{cases}$ và nhập $x+y$.</p>",
+      "dapAn": ["14"],
+      "goiY": ["Đặt $u=\\sqrt{x-6}$, $v=\\sqrt{y+5}$."],
+      "loiGiai": [
+        "Đặt $u=\\sqrt{x-6}\\ge0$, $v=\\sqrt{y+5}\\ge0$. Hệ: $3u+7v=27$, $u+2v=8$.",
+        "Từ $u=8-2v$ thay vào: $24-6v+7v=27 \\Rightarrow v=3$, $u=2$.",
+        "Suy ra $x-6=4 \\Rightarrow x=10$; $y+5=9 \\Rightarrow y=4$.",
+        "Vậy $x+y=14$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "1",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Cho hình vuông $ABCD$, $M,N$ lần lượt thuộc $BC,CD$ sao cho $\\widehat{MAN}=45^\\circ$. Gọi $P=AM\\cap BD$, $Q=AN\\cap BD$. Chứng minh tứ giác $ABMQ$ nội tiếp.</p>",
+      "goiY": ["Chứng minh $\\angle ABM=90^\\circ$ và $\\angle AQM=90^\\circ$."],
+      "loiGiai": [
+        "Vì $M\\in BC$ và $AB\\perp BC$ nên $\\angle ABM=90^\\circ$.",
+        "Từ $\\widehat{MAN}=45^\\circ$ và tính chất đường chéo hình vuông, chứng minh được $QM\\perp AN$, tức $\\angle AQM=90^\\circ$.",
+        "Hai điểm $B,Q$ cùng nhìn $AM$ dưới góc vuông nên $A,B,M,Q$ cùng thuộc đường tròn đường kính $AM$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "2",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, chứng minh $NA$ là phân giác của $\\widehat{MND}$.</p>",
+      "goiY": ["Dùng tứ giác nội tiếp và góc so le trong của hình vuông."],
+      "loiGiai": [
+        "Vì $AB\\parallel CD$ nên $\\widehat{AND}=\\widehat{BAN}$ (so le trong).",
+        "Từ tứ giác $ABMQ$ nội tiếp và $\\widehat{MAN}=45^\\circ$, góc $\\widehat{MNA}$ bằng $\\widehat{BAN}$.",
+        "Suy ra $\\widehat{MNA}=\\widehat{AND}$, tức $NA$ là phân giác của $\\widehat{MND}$."
+      ]
+    },
+    {
+      "id": "c4c",
+      "soCau": 4,
+      "y": "3",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu 1, chứng minh $MN$ tiếp xúc với một đường tròn cố định.</p>",
+      "goiY": ["Chứng minh khoảng cách từ $A$ đến $MN$ bằng $AB$."],
+      "loiGiai": [
+        "Kẻ $AK\\perp MN$ tại $K$. Cần chứng minh $AK=AB$.",
+        "Dùng $\\widehat{MAN}=45^\\circ$ và các tam giác vuông tạo bởi $AM,AN$, chứng minh được $AK=AB$.",
+        "Vậy $MN$ luôn tiếp xúc với đường tròn tâm $A$, bán kính $AB$ — đường tròn cố định."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "1",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $a>b>0$. So sánh $\\sqrt{a+2}-\\sqrt a$ với $\\sqrt{b+2}-\\sqrt b$.</p>",
+      "goiY": ["Viết $\\sqrt{t+2}-\\sqrt t=\\dfrac{2}{\\sqrt{t+2}+\\sqrt t}$."],
+      "loiGiai": [
+        "$\\sqrt{t+2}-\\sqrt t=\\dfrac{(t+2)-t}{\\sqrt{t+2}+\\sqrt t}=\\dfrac{2}{\\sqrt{t+2}+\\sqrt t}$.",
+        "Hàm số $f(t)=\\dfrac{2}{\\sqrt{t+2}+\\sqrt t}$ nghịch biến với $t>0$.",
+        "Vì $a>b$ nên $\\sqrt{a+2}-\\sqrt a<\\sqrt{b+2}-\\sqrt b$."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "2",
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $x,y>0$ thoả mãn $x+3y\\le10$. Chứng minh $\\dfrac1{\\sqrt x}+\\dfrac{27}{\\sqrt{3y}}\\ge10$.</p>",
+      "goiY": ["Đặt $a=\\sqrt x$, $b=\\sqrt{3y}$; dùng $\\dfrac1a\\ge2-a$ và $\\dfrac{27}{b}\\ge18-3b$."],
+      "loiGiai": [
+        "Đặt $a=\\sqrt x>0$, $b=\\sqrt{3y}>0$. Khi đó $a^2+b^2=x+3y\\le10$.",
+        "Ta có $\\dfrac1a\\ge2-a$ (vì $(a-1)^2\\ge0$) và $\\dfrac{27}{b}\\ge18-3b$ (vì $(b-3)^2\\ge0$).",
+        "Suy ra $\\dfrac1a+\\dfrac{27}{b}\\ge20-(a+3b)$.",
+        "Theo Bunhiacopxki: $a+3b\\le\\sqrt{(1+9)(a^2+b^2)}\\le10$.",
+        "Vậy tổng đã cho $\\ge20-10=10$. Dấu bằng khi $a=1,b=3$, tức $x=1,y=3$."
+      ]
+    }
+  ]
+}

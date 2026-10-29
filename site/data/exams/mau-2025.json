@@ -1,0 +1,305 @@
+{
+  "id": "mau-2025",
+  "tinh": "Đề mẫu",
+  "nam": 2025,
+  "tieuDe": "Đề minh hoạ kỹ năng — môn Toán",
+  "thoiGian": 90,
+  "deMau": true,
+  "ghiChu": "Đề mẫu để thử web, không phải đề thi thật. Toàn bộ câu hỏi và lời giải do nhóm biên soạn.",
+  "nguon": {
+    "ten": "Nhóm biên soạn Trạm tiếp sức Toán vào 10",
+    "url": ""
+  },
+  "cauHoi": [
+    {
+      "id": "c1a",
+      "soCau": 1,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 1,
+      "loai": "tuluan",
+      "deBai": "<p>Cho biểu thức</p><p>$$A=\\dfrac{\\sqrt{x}}{\\sqrt{x}-1}-\\dfrac{2}{\\sqrt{x}+1}+\\dfrac{x-2}{x-1}$$</p><p>với $x\\ge 0,\\ x\\ne 1$.</p><p class=\"sub\">Rút gọn biểu thức $A$.</p>",
+      "goiY": [
+        "Mẫu thức chung là $x-1=(\\sqrt{x}-1)(\\sqrt{x}+1)$.",
+        "Quy đồng rồi thu gọn tử thức; chú ý nhóm $\\sqrt{x}$ ở tử."
+      ],
+      "loiGiai": [
+        "Mẫu thức chung: $x-1=(\\sqrt{x}-1)(\\sqrt{x}+1)$.",
+        "$A=\\dfrac{\\sqrt{x}(\\sqrt{x}+1)-2(\\sqrt{x}-1)+x-2}{x-1}$.",
+        "Tử thức: $x+\\sqrt{x}-2\\sqrt{x}+2+x-2=2x-\\sqrt{x}=\\sqrt{x}(2\\sqrt{x}-1)$.",
+        "Vậy $A=\\dfrac{\\sqrt{x}(2\\sqrt{x}-1)}{x-1}$ với $x\\ge 0,\\ x\\ne 1$."
+      ]
+    },
+    {
+      "id": "c1b",
+      "soCau": 1,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với $A$ ở câu a, tìm $x$ để $A=2$.</p>",
+      "dapAn": ["4"],
+      "goiY": [
+        "Dùng kết quả $A=\\dfrac{2x-\\sqrt{x}}{x-1}$ rồi giải phương trình.",
+        "Đặt $t=\\sqrt{x}\\ge 0$ nếu thấy dễ hơn."
+      ],
+      "loiGiai": [
+        "$A=2 \\Leftrightarrow \\dfrac{2x-\\sqrt{x}}{x-1}=2$.",
+        "Với $x\\ne 1$: $2x-\\sqrt{x}=2x-2 \\Leftrightarrow \\sqrt{x}=2$.",
+        "Suy ra $x=4$ (thoả mãn $x\\ge 0,\\ x\\ne 1$). Vậy $x=4$."
+      ]
+    },
+    {
+      "id": "c2a",
+      "soCau": 2,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải hệ phương trình $\\begin{cases}2x+y=5\\\\x-3y=-1\\end{cases}$ và tính $x+y$.</p>",
+      "dapAn": ["3"],
+      "goiY": [
+        "Từ phương trình thứ nhất suy ra $y=5-2x$, thế vào phương trình thứ hai."
+      ],
+      "loiGiai": [
+        "Từ $2x+y=5$ suy ra $y=5-2x$.",
+        "Thế vào $x-3y=-1$: $x-3(5-2x)=-1 \\Leftrightarrow 7x=14 \\Leftrightarrow x=2$.",
+        "Suy ra $y=5-4=1$. Vậy $x+y=3$."
+      ]
+    },
+    {
+      "id": "c2b",
+      "soCau": 2,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Giải phương trình $x^2-7x+10=0$ và cho biết nghiệm nhỏ hơn.</p>",
+      "dapAn": ["2"],
+      "goiY": [
+        "Có thể phân tích thành nhân tử: tìm hai số có tổng $7$, tích $10$.",
+        "Hoặc dùng công thức nghiệm với $\\Delta=49-40=9$."
+      ],
+      "loiGiai": [
+        "Ta có $\\Delta=(-7)^2-4\\cdot1\\cdot10=49-40=9>0$.",
+        "$x_1=\\dfrac{7-3}{2}=2$, $x_2=\\dfrac{7+3}{2}=5$.",
+        "Nghiệm nhỏ hơn là $x=2$."
+      ]
+    },
+    {
+      "id": "c3a",
+      "soCau": 3,
+      "y": "a",
+      "chuyenDe": "ham-so",
+      "mucDo": 2,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho parabol $(P): y=x^2$ và đường thẳng $(d): y=3x-2$. Gọi $x_1,x_2$ là hoành độ các giao điểm của $(P)$ và $(d)$. Tính $x_1+x_2$.</p>",
+      "dapAn": ["3"],
+      "goiY": [
+        "Lập phương trình hoành độ giao điểm: $x^2=3x-2$.",
+        "Đưa về $x^2-3x+2=0$ rồi dùng định lí Vi-ét hoặc giải trực tiếp."
+      ],
+      "loiGiai": [
+        "Phương trình hoành độ giao điểm: $x^2=3x-2 \\Leftrightarrow x^2-3x+2=0$.",
+        "Phương trình có $a+b+c=1-3+2=0$ nên $x_1=1$, $x_2=2$.",
+        "Vậy $x_1+x_2=3$."
+      ]
+    },
+    {
+      "id": "c3b",
+      "soCau": 3,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với $(P)$ và $(d)$ ở câu a, tính tung độ của giao điểm có hoành độ lớn hơn.</p>",
+      "dapAn": ["4"],
+      "goiY": [
+        "Hoành độ lớn hơn là $x=2$. Thay vào $y=x^2$ hoặc $y=3x-2$."
+      ],
+      "loiGiai": [
+        "Giao điểm có hoành độ lớn hơn là $x=2$.",
+        "Thay vào $(P)$: $y=2^2=4$. Vậy tung độ cần tìm là $4$."
+      ]
+    },
+    {
+      "id": "c4a",
+      "soCau": 4,
+      "y": "a",
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho phương trình $x^2-6x+4=0$ có hai nghiệm $x_1,x_2$. Không giải phương trình, tính $x_1+x_2$.</p>",
+      "dapAn": ["6"],
+      "goiY": ["Áp dụng định lí Vi-ét: $x_1+x_2=-\\dfrac{b}{a}$."],
+      "loiGiai": [
+        "Theo định lí Vi-ét: $x_1+x_2=-\\dfrac{b}{a}=-\\dfrac{-6}{1}=6$.",
+        "Vậy $x_1+x_2=6$."
+      ]
+    },
+    {
+      "id": "c4b",
+      "soCau": 4,
+      "y": "b",
+      "chuyenDe": "viet",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với phương trình ở câu a, tính $x_1^2+x_2^2$.</p>",
+      "dapAn": ["28"],
+      "goiY": [
+        "Biến đổi $x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2$.",
+        "Tính thêm $x_1x_2=\\dfrac{c}{a}=4$."
+      ],
+      "loiGiai": [
+        "Theo Vi-ét: $x_1+x_2=6$, $x_1x_2=4$.",
+        "$x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2=6^2-2\\cdot4=28$.",
+        "Vậy $x_1^2+x_2^2=28$."
+      ]
+    },
+    {
+      "id": "c5a",
+      "soCau": 5,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Một mảnh vườn hình chữ nhật có chu vi $60$ m và diện tích $200$ m². Tính chiều dài của mảnh vườn (đơn vị mét), biết chiều dài lớn hơn chiều rộng.</p>",
+      "dapAn": ["20"],
+      "goiY": [
+        "Nửa chu vi là $30$ m. Gọi chiều rộng là $x$ thì chiều dài là $30-x$.",
+        "Lập phương trình $x(30-x)=200$."
+      ],
+      "loiGiai": [
+        "Nửa chu vi là $60:2=30$ (m). Gọi chiều rộng là $x$ (m), $0<x<15$; chiều dài là $30-x$ (m).",
+        "Theo đề: $x(30-x)=200 \\Leftrightarrow x^2-30x+200=0$.",
+        "Giải được $x=10$ hoặc $x=20$. Vì chiều rộng nhỏ hơn chiều dài nên $x=10$.",
+        "Chiều dài là $30-10=20$ (m). Vậy chiều dài $20$ m."
+      ]
+    },
+    {
+      "id": "c5b",
+      "soCau": 5,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 1,
+      "diem": 0.75,
+      "loai": "dapanso",
+      "deBai": "<p>Với bài toán ở câu a, tính chiều rộng của mảnh vườn (đơn vị mét).</p>",
+      "dapAn": ["10"],
+      "goiY": ["Dùng lại kết quả: chiều rộng là $x=10$ m."],
+      "loiGiai": [
+        "Theo câu a, chiều rộng là $x=10$ (m), chiều dài là $20$ (m).",
+        "Vậy chiều rộng là $10$ m."
+      ]
+    },
+    {
+      "id": "c6a",
+      "soCau": 6,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$ ($H\\in BC$). Biết $AB=6$ cm, $AC=8$ cm. Tính $BC$.</p>",
+      "dapAn": ["10"],
+      "goiY": ["Dùng định lý Pythagore trong tam giác vuông $ABC$."],
+      "loiGiai": [
+        "Tam giác $ABC$ vuông tại $A$ nên $BC^2=AB^2+AC^2=6^2+8^2=100$.",
+        "Suy ra $BC=10$ cm."
+      ],
+      "hinhAnh": {
+        "duongDan": "images/mau-2025/cau-6.svg",
+        "moTa": "Tam giác ABC vuông tại A, đường cao AH hạ xuống cạnh huyền BC."
+      }
+    },
+    {
+      "id": "c6b",
+      "soCau": 6,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với tam giác ở câu a, tính độ dài đường cao $AH$.</p>",
+      "dapAn": ["4,8", "24/5"],
+      "goiY": [
+        "Dùng hệ thức lượng $AB\\cdot AC=AH\\cdot BC$.",
+        "Hoặc tính diện tích tam giác theo hai cách."
+      ],
+      "loiGiai": [
+        "Diện tích tam giác $ABC$: $S=\\dfrac12 AB\\cdot AC=\\dfrac12\\cdot6\\cdot8=24$ (cm²).",
+        "Mặt khác $S=\\dfrac12 AH\\cdot BC$ nên $AH=\\dfrac{2S}{BC}=\\dfrac{48}{10}=4,8$ cm.",
+        "Vậy $AH=4,8$ cm."
+      ]
+    },
+    {
+      "id": "c6c",
+      "soCau": 6,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Chứng minh $\\triangle AHB$ đồng dạng với $\\triangle CHA$.</p>",
+      "goiY": [
+        "Hai tam giác vuông tại $H$. Tìm thêm một cặp góc bằng nhau.",
+        "Chú ý $\\widehat{BAH}=\\widehat{ACH}$ vì cùng phụ với $\\widehat{ABC}$ (hoặc $\\widehat{ABC}$)."
+      ],
+      "loiGiai": [
+        "Xét $\\triangle AHB$ và $\\triangle CHA$: cả hai đều vuông tại $H$.",
+        "Trong tam giác vuông $ABC$, $\\widehat{BAH}+\\widehat{ABH}=90^\\circ$ và $\\widehat{ACH}+\\widehat{ABH}=90^\\circ$ (vì $\\widehat{ACB}=\\widehat{ACH}$).",
+        "Suy ra $\\widehat{BAH}=\\widehat{ACH}$.",
+        "Vậy $\\triangle AHB \\sim \\triangle CHA$ (g.g)."
+      ]
+    },
+    {
+      "id": "c6d",
+      "soCau": 6,
+      "y": "d",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với tam giác ở câu a, tính diện tích tam giác $AHC$ (đơn vị cm²).</p>",
+      "dapAn": ["15,36", "384/25"],
+      "goiY": [
+        "Tính $HC$ bằng hệ thức $AC^2=HC\\cdot BC$.",
+        "Diện tích $AHC=\\dfrac12 AH\\cdot HC$."
+      ],
+      "loiGiai": [
+        "Theo hệ thức lượng: $AC^2=HC\\cdot BC$, suy ra $HC=\\dfrac{8^2}{10}=6,4$ cm.",
+        "Tam giác $AHC$ vuông tại $H$ nên $S_{AHC}=\\dfrac12 AH\\cdot HC=\\dfrac12\\cdot4,8\\cdot6,4=15,36$ (cm²).",
+        "Vậy diện tích tam giác $AHC$ là $15,36$ cm²."
+      ]
+    },
+    {
+      "id": "c7",
+      "soCau": 7,
+      "chuyenDe": "bdt",
+      "mucDo": 3,
+      "diem": 1,
+      "loai": "dapanso",
+      "deBai": "<p>Cho hai số thực dương $a,b$ thoả mãn $a+b=2$. Tìm giá trị nhỏ nhất của biểu thức $P=a^2+b^2$.</p>",
+      "dapAn": ["2"],
+      "goiY": [
+        "Dùng bất đẳng thức $(a-b)^2\\ge 0$.",
+        "Từ đó suy ra $2(a^2+b^2)\\ge (a+b)^2$."
+      ],
+      "loiGiai": [
+        "Với mọi $a,b$ ta có $(a-b)^2\\ge 0 \\Leftrightarrow a^2+b^2\\ge 2ab$.",
+        "Cộng $a^2+b^2$ vào hai vế: $2(a^2+b^2)\\ge a^2+2ab+b^2=(a+b)^2$.",
+        "Do $a+b=2$ nên $2P\\ge 4$, suy ra $P\\ge 2$.",
+        "Dấu bằng xảy ra khi $a=b=1$. Vậy $\\min P=2$."
+      ]
+    }
+  ]
+}

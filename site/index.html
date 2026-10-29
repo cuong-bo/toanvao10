@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f3d2e">
+  <meta name="description" content="Trạm tiếp sức Toán vào 10 — đề thi thật, luyện theo chuyên đề và lời giải từng bước cho học sinh các tỉnh Tây Bắc. Miễn phí, chạy offline.">
+  <meta name="application-name" content="Trạm tiếp sức Toán vào 10">
+  <meta name="apple-mobile-web-app-title" content="Trạm tiếp sức Toán vào 10">
+  <title>Trạm tiếp sức Toán vào 10 — Ôn thi vào lớp 10 môn Toán</title>
+  <script>
+    try {
+      const raw = localStorage.getItem('on10tb.progress.v2');
+      const st = raw ? JSON.parse(raw) : null;
+      const theme = st?.settings?.theme || 'auto';
+      const dark = theme === 'dark' || (theme === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
+      document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+      if (st?.settings?.fontScale) document.documentElement.style.setProperty('--font-scale', st.settings.fontScale);
+    } catch (e) { /* bỏ qua */ }
+  </script>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="vendor/katex/katex.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/print.css" media="print">
+  <script src="vendor/katex/katex.min.js"></script>
+  <script src="vendor/katex/contrib/auto-render.min.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Bỏ qua điều hướng</a>
+
+  <header class="topbar" id="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#/" aria-label="Trạm tiếp sức Toán vào 10 — trang chủ">
+        <span class="brand-mark" aria-hidden="true">10</span>
+        <span class="brand-text"><span>Trạm tiếp sức</span><em>Toán vào 10</em></span>
+      </a>
+      <nav class="mainnav" aria-label="Điều hướng chính">
+        <a href="#/" data-nav="home">Trang chủ</a>
+        <a href="#/de" data-nav="exams">Đề thi</a>
+        <a href="#/chuyen-de" data-nav="topics">Chuyên đề</a>
+        <a href="#/so-loi" data-nav="mistakes">Sổ lỗi</a>
+        <a href="#/cong-thuc" data-nav="formulas">Công thức</a>
+        <a href="#/lo-trinh" data-nav="roadmap">Lộ trình</a>
+      </nav>
+      <div class="topbar-actions">
+        <button class="icon-btn" id="btn-theme" type="button" aria-label="Đổi chế độ sáng/tối" title="Sáng / Tối">
+          <span class="theme-sun" aria-hidden="true">☀</span><span class="theme-moon" aria-hidden="true">☾</span>
+        </button>
+        <a class="icon-btn" href="#/cai-dat" aria-label="Cài đặt" title="Cài đặt">⚙</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="preview-banner" id="preview-banner" hidden>
+    <strong>BẢN NHÁP</strong> — nội dung chưa được kiểm tra, không đăng lên mạng.
+  </div>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <div class="loading">Đang mở…</div>
+  </main>
+
+  <nav class="tabbar" aria-label="Điều hướng nhanh">
+    <a href="#/" data-nav="home"><span aria-hidden="true">⌂</span>Trang chủ</a>
+    <a href="#/de" data-nav="exams"><span aria-hidden="true">▤</span>Đề thi</a>
+    <a href="#/chuyen-de" data-nav="topics"><span aria-hidden="true">◎</span>Chuyên đề</a>
+    <a href="#/so-loi" data-nav="mistakes"><span aria-hidden="true">✎</span>Sổ lỗi</a>
+    <a href="#/cong-thuc" data-nav="formulas"><span aria-hidden="true">∑</span>Công thức</a>
+  </nav>
+
+  <footer class="sitefooter">
+    <div class="wrap">
+      <p><strong>Trạm tiếp sức Toán vào 10</strong> — web ôn thi miễn phí, không tài khoản, dùng được offline.</p>
+      <p class="muted small">Đề thi ghi rõ nguồn. Lời giải do nhóm biên soạn, có thể còn sai sót — em hãy kiểm tra lại và hỏi giáo viên nếu thắc mắc.
+        <a href="#/gioi-thieu">Giới thiệu &amp; bản quyền</a></p>
+    </div>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <div id="modal-root"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

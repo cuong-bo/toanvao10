@@ -1,0 +1,8 @@
+# Bản nháp không đăng lên git/hosting
+drafts/
+
+# Hệ điều hành / công cụ
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,452 @@
+{
+  "id": "son-la-2025",
+  "tinh": "Sơn La",
+  "nam": 2025,
+  "tieuDe": "Đề thi tuyển sinh lớp 10 THPT môn Toán — năm học 2025–2026",
+  "thoiGian": 120,
+  "mucDo": "Trung bình",
+  "nguon": {
+    "ten": "Sở GD&ĐT Sơn La — đề chính thức",
+    "url": "https://thcs.toanmath.com/2025/06/de-tuyen-sinh-lop-10-mon-toan-nam-2025-2026-so-gddt-son-la.html"
+  },
+  "ghiChu": "Đề chính thức thi ngày 01/6/2025, gồm 12 câu trắc nghiệm (3 điểm) và 6 câu tự luận (7 điểm). Lời giải do nhóm biên soạn.",
+  "capNhat": "2026-10-29",
+  "cauHoi": [
+    {
+      "id": "tn1",
+      "soCau": 1,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Điều kiện xác định của biểu thức $\\sqrt{x-5}$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x>5$" },
+        { "ma": "B", "noiDung": "$x\\ge5$" },
+        { "ma": "C", "noiDung": "$x\\ge-5$" },
+        { "ma": "D", "noiDung": "$x\\le5$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["$\\sqrt{A}$ xác định khi $A\\ge0$."],
+      "loiGiai": ["$\\sqrt{x-5}$ xác định khi $x-5\\ge0 \\Leftrightarrow x\\ge5$. Chọn B."]
+    },
+    {
+      "id": "tn2",
+      "soCau": 2,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Căn bậc ba của $27$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$3$" },
+        { "ma": "B", "noiDung": "$\\pm3$" },
+        { "ma": "C", "noiDung": "$-3$" },
+        { "ma": "D", "noiDung": "$9$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Tìm số $x$ sao cho $x^3=27$."],
+      "loiGiai": ["Vì $3^3=27$ nên căn bậc ba của $27$ là $3$. Chọn A."]
+    },
+    {
+      "id": "tn3",
+      "soCau": 3,
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giá trị của biểu thức $3\\sqrt{36}$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$18$" },
+        { "ma": "B", "noiDung": "$-18$" },
+        { "ma": "C", "noiDung": "$\\pm18$" },
+        { "ma": "D", "noiDung": "$108$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["$\\sqrt{36}=6$."],
+      "loiGiai": ["$3\\sqrt{36}=3\\cdot6=18$. Chọn A."]
+    },
+    {
+      "id": "tn4",
+      "soCau": 4,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Hệ phương trình nào dưới đây là hệ hai phương trình bậc nhất hai ẩn?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\begin{cases}x+z^2=6\\\\y-z=2\\end{cases}$" },
+        { "ma": "B", "noiDung": "$\\begin{cases}x+3y=2\\\\x-y=15\\end{cases}$" },
+        { "ma": "C", "noiDung": "$\\begin{cases}2x+y^2=-3\\\\3x+z=15\\end{cases}$" },
+        { "ma": "D", "noiDung": "$\\begin{cases}2x-3y=5\\\\x^2+2y=11\\end{cases}$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Hệ bậc nhất hai ẩn chỉ có $x,y$ với số mũ $1$."],
+      "loiGiai": ["Chỉ có hệ B gồm hai phương trình bậc nhất đối với hai ẩn $x,y$. Chọn B."]
+    },
+    {
+      "id": "tn5",
+      "soCau": 5,
+      "chuyenDe": "viet",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Gọi $x_1,x_2$ là hai nghiệm của phương trình $2x^2-5x+3=0$. Khi đó $x_1+x_2$ bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac52$" },
+        { "ma": "B", "noiDung": "$\\dfrac32$" },
+        { "ma": "C", "noiDung": "$-\\dfrac52$" },
+        { "ma": "D", "noiDung": "$-\\dfrac32$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Vi-ét: $x_1+x_2=-\\dfrac{b}{a}$."],
+      "loiGiai": ["$x_1+x_2=-\\dfrac{-5}{2}=\\dfrac52$. Chọn A."]
+    },
+    {
+      "id": "tn6",
+      "soCau": 6,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Bất phương trình nào sau đây là bất phương trình bậc nhất một ẩn?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$\\dfrac1x-x>0$" },
+        { "ma": "B", "noiDung": "$3x-7\\ge0$" },
+        { "ma": "C", "noiDung": "$5x^2+3x-2<0$" },
+        { "ma": "D", "noiDung": "$2x-y\\le0$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Bậc nhất một ẩn có dạng $ax+b>0$ (hoặc $\\ge,<,\\le$), $a\\ne0$."],
+      "loiGiai": ["$3x-7\\ge0$ có dạng $ax+b\\ge0$ với $a=3\\ne0$. Chọn B."]
+    },
+    {
+      "id": "tn7",
+      "soCau": 7,
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Giá trị nào sau đây của $x$ là một nghiệm của bất phương trình $3x-7>0$?</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$x=0$" },
+        { "ma": "B", "noiDung": "$x=-1$" },
+        { "ma": "C", "noiDung": "$x=5$" },
+        { "ma": "D", "noiDung": "$x=-2$" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["$3x-7>0 \\Leftrightarrow x>\\dfrac73$."],
+      "loiGiai": ["$3x-7>0 \\Leftrightarrow x>\\dfrac73$. Trong các giá trị đã cho, chỉ $x=5$ thoả mãn. Chọn C."]
+    },
+    {
+      "id": "tn8",
+      "soCau": 8,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Cho tứ giác $ABCD$ nội tiếp đường tròn $(O)$ và $\\widehat B=60^\\circ$. Số đo của góc $\\widehat D$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$70^\\circ$" },
+        { "ma": "B", "noiDung": "$120^\\circ$" },
+        { "ma": "C", "noiDung": "$300^\\circ$" },
+        { "ma": "D", "noiDung": "$30^\\circ$" }
+      ],
+      "dapAn": ["B"],
+      "goiY": ["Tứ giác nội tiếp có tổng hai góc đối bằng $180^\\circ$."],
+      "loiGiai": ["$\\widehat B+\\widehat D=180^\\circ \\Rightarrow \\widehat D=180^\\circ-60^\\circ=120^\\circ$. Chọn B."]
+    },
+    {
+      "id": "tn9",
+      "soCau": 9,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Số đo của góc nội tiếp chắn nửa đường tròn bằng</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$180^\\circ$" },
+        { "ma": "B", "noiDung": "$45^\\circ$" },
+        { "ma": "C", "noiDung": "$360^\\circ$" },
+        { "ma": "D", "noiDung": "$90^\\circ$" }
+      ],
+      "dapAn": ["D"],
+      "goiY": ["Góc nội tiếp bằng nửa số đo cung bị chắn."],
+      "loiGiai": ["Nửa đường tròn có số đo $180^\\circ$ nên góc nội tiếp chắn nửa đường tròn bằng $90^\\circ$. Chọn D."]
+    },
+    {
+      "id": "tn10",
+      "soCau": 10,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Đường tròn nội tiếp tam giác là đường tròn</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "tiếp xúc với $1$ cạnh của tam giác" },
+        { "ma": "B", "noiDung": "đi qua $3$ đỉnh của tam giác" },
+        { "ma": "C", "noiDung": "tiếp xúc với $3$ cạnh của tam giác" },
+        { "ma": "D", "noiDung": "đi qua $2$ đỉnh của tam giác" }
+      ],
+      "dapAn": ["C"],
+      "goiY": ["Đường tròn nội tiếp có tâm là giao ba đường phân giác."],
+      "loiGiai": ["Đường tròn nội tiếp tam giác tiếp xúc với cả ba cạnh. Chọn C."]
+    },
+    {
+      "id": "tn11",
+      "soCau": 11,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Diện tích xung quanh của hình trụ có bán kính đáy $r$ và chiều cao $h$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$2\\pi rh$" },
+        { "ma": "B", "noiDung": "$\\pi rh$" },
+        { "ma": "C", "noiDung": "$\\dfrac12\\pi rh$" },
+        { "ma": "D", "noiDung": "$\\pi r^2h$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Diện tích xung quanh hình trụ bằng chu vi đáy nhân chiều cao."],
+      "loiGiai": ["$S_{xq}=2\\pi rh$. Chọn A."]
+    },
+    {
+      "id": "tn12",
+      "soCau": 12,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.25,
+      "loai": "tracnghiem",
+      "deBai": "<p>Diện tích mặt cầu có bán kính $R$ là</p>",
+      "phuongAn": [
+        { "ma": "A", "noiDung": "$4\\pi R^2$" },
+        { "ma": "B", "noiDung": "$4\\pi R^3$" },
+        { "ma": "C", "noiDung": "$\\pi R^2$" },
+        { "ma": "D", "noiDung": "$2\\pi R^2$" }
+      ],
+      "dapAn": ["A"],
+      "goiY": ["Diện tích mặt cầu bằng $4$ lần diện tích hình tròn lớn."],
+      "loiGiai": ["$S=4\\pi R^2$. Chọn A."]
+    },
+    {
+      "id": "tl1a",
+      "soCau": 13,
+      "y": "a",
+      "chuyenDe": "rut-gon",
+      "mucDo": 1,
+      "diem": 0.25,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 1.</b> Cho $A=\\dfrac{\\sqrt{x}-2}{\\sqrt{x}+2}$. Tính giá trị của $A$ tại $x=25$.</p>",
+      "dapAn": ["3/7"],
+      "goiY": ["$x=25$ thì $\\sqrt{x}=5$."],
+      "loiGiai": ["$\\sqrt{25}=5$ nên $A=\\dfrac{5-2}{5+2}=\\dfrac37$."]
+    },
+    {
+      "id": "tl1b",
+      "soCau": 13,
+      "y": "b",
+      "chuyenDe": "rut-gon",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Cho $B=\\dfrac{\\sqrt{x}+2}{\\sqrt{x}-2}-\\dfrac{3}{\\sqrt{x}+2}-\\dfrac{12}{x-4}$ với $x\\ge0,\\ x\\ne4$. Chứng minh $B=\\dfrac{\\sqrt{x}-1}{\\sqrt{x}-2}$.</p>",
+      "goiY": [
+        "Quy đồng mẫu $x-4=(\\sqrt{x}-2)(\\sqrt{x}+2)$.",
+        "Tử thức thu được là $x+\\sqrt{x}-2=(\\sqrt{x}+2)(\\sqrt{x}-1)$."
+      ],
+      "loiGiai": [
+        "$B=\\dfrac{(\\sqrt{x}+2)^2-3(\\sqrt{x}-2)-12}{x-4}$.",
+        "$=\\dfrac{x+4\\sqrt{x}+4-3\\sqrt{x}+6-12}{x-4}=\\dfrac{x+\\sqrt{x}-2}{x-4}$.",
+        "$=\\dfrac{(\\sqrt{x}+2)(\\sqrt{x}-1)}{(\\sqrt{x}-2)(\\sqrt{x}+2)}=\\dfrac{\\sqrt{x}-1}{\\sqrt{x}-2}$."
+      ]
+    },
+    {
+      "id": "tl1c",
+      "soCau": 13,
+      "y": "c",
+      "chuyenDe": "rut-gon",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Với $A$ và $B$ ở trên, đặt $P=A\\cdot B$. Tìm các giá trị của $x$ để $|P|>P$.</p>",
+      "goiY": [
+        "$P=\\dfrac{\\sqrt{x}-1}{\\sqrt{x}+2}$.",
+        "$|P|>P$ xảy ra khi $P<0$; xét dấu tử và mẫu."
+      ],
+      "loiGiai": [
+        "$P=\\dfrac{\\sqrt{x}-2}{\\sqrt{x}+2}\\cdot\\dfrac{\\sqrt{x}-1}{\\sqrt{x}-2}=\\dfrac{\\sqrt{x}-1}{\\sqrt{x}+2}$.",
+        "Với $x\\ge0$, mẫu $\\sqrt{x}+2>0$ nên $P<0 \\Leftrightarrow \\sqrt{x}-1<0 \\Leftrightarrow x<1$.",
+        "Nếu $P\\ge0$ thì $|P|=P$, không thoả $|P|>P$.",
+        "Kết hợp điều kiện: $0\\le x<1$."
+      ]
+    },
+    {
+      "id": "tl2a",
+      "soCau": 14,
+      "y": "a",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 2.</b> Một gia đình $2$ người lớn và $2$ trẻ em mua vé hết $3\\,900\\,000$ đồng; gia đình khác $4$ người lớn và $3$ trẻ em mua vé hết $7\\,100\\,000$ đồng. Tính giá vé máy bay của một người lớn (đồng).</p>",
+      "dapAn": ["1250000"],
+      "goiY": [
+        "Gọi giá vé người lớn là $x$, trẻ em là $y$ (đồng).",
+        "Lập hệ $\\begin{cases}2x+2y=3900000\\\\4x+3y=7100000\\end{cases}$."
+      ],
+      "loiGiai": [
+        "Gọi giá vé người lớn là $x$, trẻ em là $y$ (đồng, $x,y>0$).",
+        "Ta có $\\begin{cases}2x+2y=3900000\\\\4x+3y=7100000\\end{cases}$. Từ phương trình đầu: $x+y=1950000$.",
+        "Thay $y=1950000-x$ vào phương trình thứ hai: $4x+3(1950000-x)=7100000$.",
+        "$\\Rightarrow x+5850000=7100000 \\Rightarrow x=1250000$.",
+        "Vậy giá vé người lớn là $1\\,250\\,000$ đồng."
+      ]
+    },
+    {
+      "id": "tl2b",
+      "soCau": 14,
+      "y": "b",
+      "chuyenDe": "giai-toan",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với bài toán ở câu a, tính giá vé máy bay của một trẻ em (đồng).</p>",
+      "dapAn": ["700000"],
+      "goiY": ["Thay $x=1\\,250\\,000$ vào $x+y=1\\,950\\,000$."],
+      "loiGiai": ["$y=1\\,950\\,000-1\\,250\\,000=700\\,000$ đồng."]
+    },
+    {
+      "id": "tl3a",
+      "soCau": 15,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 3.</b> Giải bất phương trình $2x-3\\le0$. Nhập giá trị nguyên lớn nhất của $x$ thoả mãn.</p>",
+      "dapAn": ["1"],
+      "goiY": ["$2x\\le3 \\Leftrightarrow x\\le\\dfrac32$."],
+      "loiGiai": ["$2x-3\\le0 \\Leftrightarrow x\\le\\dfrac32$. Giá trị nguyên lớn nhất là $x=1$."]
+    },
+    {
+      "id": "tl3b",
+      "soCau": 15,
+      "y": "b",
+      "chuyenDe": "ham-so",
+      "mucDo": 1,
+      "diem": 0.5,
+      "loai": "tuluan",
+      "deBai": "<p>Vẽ đồ thị hàm số $y=\\dfrac12x^2$.</p>",
+      "goiY": ["Lập bảng giá trị với $x=-2;-1;0;1;2$."],
+      "loiGiai": [
+        "Bảng giá trị: $x=-2\\Rightarrow y=2$; $x=-1\\Rightarrow y=\\dfrac12$; $x=0\\Rightarrow y=0$; $x=1\\Rightarrow y=\\dfrac12$; $x=2\\Rightarrow y=2$.",
+        "Đồ thị là parabol bề lõm hướng lên, đỉnh $O(0;0)$, nhận $Oy$ làm trục đối xứng."
+      ]
+    },
+    {
+      "id": "tl4a",
+      "soCau": 16,
+      "y": "a",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 4.</b> Viết ngẫu nhiên một số tự nhiên có hai chữ số nhỏ hơn $100$. Có tất cả bao nhiêu kết quả có thể xảy ra?</p>",
+      "dapAn": ["90"],
+      "goiY": ["Các số từ $10$ đến $99$."],
+      "loiGiai": ["Số tự nhiên có hai chữ số nhỏ hơn $100$ là $10;11;\\ldots;99$, có $99-10+1=90$ số."]
+    },
+    {
+      "id": "tl4b",
+      "soCau": 16,
+      "y": "b",
+      "chuyenDe": "phuong-trinh",
+      "mucDo": 2,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p>Với phép thử ở câu a, tính xác suất của biến cố $A$: “Số tự nhiên được viết ra là số chẵn”.</p>",
+      "dapAn": ["1/2", "0,5"],
+      "goiY": ["Các số chẵn có hai chữ số: $10;12;\\ldots;98$."],
+      "loiGiai": ["Số chẵn có hai chữ số là $\\dfrac{98-10}{2}+1=45$ số.", "Xác suất $P(A)=\\dfrac{45}{90}=\\dfrac12$."]
+    },
+    {
+      "id": "tl5",
+      "soCau": 17,
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.5,
+      "loai": "dapanso",
+      "deBai": "<p><b>Phần tự luận — Câu 5.</b> Một cốc thủy tinh hình trụ có đường kính đáy $6$ cm, chiều cao $10$ cm. Một quả bóng bàn hình cầu đường kính $40$ mm được bỏ vào cốc, sau đó rót $200$ cm³ nước và đo được mực nước cao $7,2$ cm. Tính thể tích phần nổi của quả bóng (cm³, làm tròn đến hàng phần trăm).</p>",
+      "dapAn": ["29,94"],
+      "goiY": [
+        "Bán kính đáy cốc $3$ cm; thể tích phần cốc dưới mặt nước là $\\pi\\cdot3^2\\cdot7,2$.",
+        "Thể tích phần chìm của bóng = thể tích dưới mặt nước − $200$; thể tích bóng $=\\dfrac43\\pi\\cdot2^3$."
+      ],
+      "loiGiai": [
+        "Bán kính đáy cốc $r=3$ cm; thể tích phần cốc tính đến mặt nước: $V_1=\\pi r^2h=\\pi\\cdot9\\cdot7,2=64,8\\pi\\approx203,575$ cm³.",
+        "Thể tích phần chìm của quả bóng: $V_{ch}=64,8\\pi-200\\approx3,575$ cm³.",
+        "Bán kính bóng $2$ cm; thể tích quả bóng: $V=\\dfrac43\\pi\\cdot2^3=\\dfrac{32\\pi}{3}\\approx33,510$ cm³.",
+        "Thể tích phần nổi: $V_{n}=33,510-3,575\\approx29,935$ cm³, làm tròn $29,94$ cm³."
+      ]
+    },
+    {
+      "id": "tl6a",
+      "soCau": 18,
+      "y": "a",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 2,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p><b>Phần tự luận — Câu 6.</b> Cho tam giác nhọn $ABC$, các đường cao $AK,BE,CF$ cắt nhau tại $H$. Gọi $I$ là trung điểm $AH$, $N$ là trung điểm $BC$. Chứng minh bốn điểm $A,E,H,F$ cùng nằm trên một đường tròn.</p>",
+      "goiY": ["$\\angle AEH=90^\\circ$ và $\\angle AFH=90^\\circ$."],
+      "loiGiai": [
+        "Vì $BE\\perp AC$ nên $\\angle AEH=90^\\circ$.",
+        "Vì $CF\\perp AB$ nên $\\angle AFH=90^\\circ$.",
+        "Do đó $E,F$ cùng nhìn $AH$ dưới một góc vuông, nên $A,E,H,F$ cùng thuộc đường tròn đường kính $AH$, tâm $I$."
+      ]
+    },
+    {
+      "id": "tl6b",
+      "soCau": 18,
+      "y": "b",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $NE$ là tiếp tuyến của đường tròn đường kính $AH$.</p>",
+      "goiY": [
+        "Tam giác $AEH$ vuông tại $E$, $I$ là trung điểm $AH$ nên $IA=IE$.",
+        "Tam giác $BEC$ vuông tại $E$, $N$ là trung điểm $BC$ nên $NE=NC$."
+      ],
+      "loiGiai": [
+        "Trong tam giác vuông $AEH$, $I$ là trung điểm cạnh huyền $AH$ nên $IA=IE=IH$. Do đó $\\angle IEA=\\angle IAE=\\angle HAC=90^\\circ-\\widehat C$ (vì $AH\\perp BC$).",
+        "Trong tam giác vuông $BEC$, $N$ là trung điểm cạnh huyền $BC$ nên $NE=NC$, suy ra $\\angle NEC=\\widehat C$.",
+        "Do đó $\\angle AEN=180^\\circ-\\widehat C$.",
+        "Suy ra $\\angle IEN=\\angle AEN-\\angle IEA=(180^\\circ-\\widehat C)-(90^\\circ-\\widehat C)=90^\\circ$.",
+        "Vậy $NE\\perp IE$. Vì $IE$ là bán kính của đường tròn đường kính $AH$ nên $NE$ là tiếp tuyến tại $E$."
+      ]
+    },
+    {
+      "id": "tl6c",
+      "soCau": 18,
+      "y": "c",
+      "chuyenDe": "hinh-hoc",
+      "mucDo": 3,
+      "diem": 0.75,
+      "loai": "tuluan",
+      "deBai": "<p>Với hình ở câu a, chứng minh $CI^2-IE^2=CK\\cdot CB$.</p>",
+      "goiY": [
+        "$CI^2-IE^2$ là phương tích của $C$ đối với đường tròn tâm $I$, bán kính $IE$.",
+        "Đường thẳng $CA$ cắt đường tròn tại $A,E$ nên phương tích bằng $CA\\cdot CE$.",
+        "Chứng minh $\\triangle CAK\\sim\\triangle CBE$."
+      ],
+      "loiGiai": [
+        "Đường tròn tâm $I$ bán kính $IE$ đi qua $A,E$. Phương tích của $C$ đối với đường tròn là $CI^2-IE^2$.",
+        "Vì đường thẳng $CA$ cắt đường tròn tại $A$ và $E$ nên $CI^2-IE^2=CA\\cdot CE$.",
+        "Xét $\\triangle CAK$ và $\\triangle CBE$: cùng vuông tại $K$ và $E$, chung góc $C$, nên đồng dạng.",
+        "Suy ra $\\dfrac{CA}{CB}=\\dfrac{CK}{CE}$, do đó $CA\\cdot CE=CB\\cdot CK$.",
+        "Vậy $CI^2-IE^2=CK\\cdot CB$."
+      ]
+    }
+  ]
+}
